@@ -1,0 +1,4109 @@
+{
+	{
+		code: "80000  Closed skull vault fx              Closed fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80001  Cl skull vlt fx w/o coma           Closed fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80002  Cl skull vlt fx-brf coma           Closed fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80003  Cl skull vlt fx-mod coma           Closed fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80004  Cl skl vlt fx-proln coma           Closed fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80005  Cl skul vlt fx-deep coma           Closed fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80006  Cl skull vlt fx-coma NOS           Closed fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80009  Cl skl vlt fx-concus NOS           Closed fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80010  Cl skl vlt fx/cerebr lac           Closed fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80011  Cl skull vlt fx w/o coma           Closed fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80012  Cl skull vlt fx-brf coma           Closed fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80013  Cl skull vlt fx-mod coma           Closed fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80014  Cl skl vlt fx-proln coma           Closed fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80015  Cl skul vlt fx-deep coma           Closed fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80016  Cl skull vlt fx-coma NOS           Closed fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80019  Cl skl vlt fx-concus NOS           Closed fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80020  Cl skl vlt fx/mening hem           Closed fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80021  Cl skull vlt fx w/o coma           Closed fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80022  Cl skull vlt fx-brf coma           Closed fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80023  Cl skull vlt fx-mod coma           Closed fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80024  Cl skl vlt fx-proln coma           Closed fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80025  Cl skul vlt fx-deep coma           Closed fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80026  Cl skull vlt fx-coma NOS           Closed fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80029  Cl skl vlt fx-concus NOS           Closed fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80030  Cl skull vlt fx/hem NEC            Closed fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80031  Cl skull vlt fx w/o coma           Closed fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80032  Cl skull vlt fx-brf coma           Closed fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80033  Cl skull vlt fx-mod coma           Closed fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80034  Cl skl vlt fx-proln coma           Closed fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80035  Cl skul vlt fx-deep coma           Closed fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80036  Cl skull vlt fx-coma NOS           Closed fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80039  Cl skl vlt fx-concus NOS           Closed fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80040  Cl skl vlt fx/br inj NEC           Closed fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80041  Cl skull vlt fx w/o coma           Closed fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80042  Cl skull vlt fx-brf coma           Closed fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80043  Cl skull vlt fx-mod coma           Closed fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80044  Cl skl vlt fx-proln coma           Closed fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80045  Cl skul vlt fx-deep coma           Closed fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80046  Cl skull vlt fx-coma NOS           Closed fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80049  Cl skl vlt fx-concus NOS           Closed fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80050  Opn skull vault fracture           Open fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80051  Opn skul vlt fx w/o coma           Open fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80052  Opn skul vlt fx-brf coma           Open fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80053  Opn skul vlt fx-mod coma           Open fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80054  Opn skl vlt fx-proln com           Open fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80055  Opn skl vlt fx-deep coma           Open fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80056  Opn skul vlt fx-coma NOS           Open fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80059  Op skl vlt fx-concus NOS           Open fracture of vault of skull without mention of intracranial injury",
+	},
+	{
+		code: "80060  Opn skl vlt fx/cereb lac           Open fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80061  Opn skul vlt fx w/o coma           Open fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80062  Opn skul vlt fx-brf coma           Open fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80063  Opn skul vlt fx-mod coma           Open fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80064  Opn skl vlt fx-proln com           Open fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80065  Opn skl vlt fx-deep coma           Open fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80066  Opn skul vlt fx-coma NOS           Open fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80069  Op skl vlt fx-concus NOS           Open fracture of vault of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80070  Opn skl vlt fx/menin hem           Open fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80071  Opn skul vlt fx w/o coma           Open fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80072  Opn skul vlt fx-brf coma           Open fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80073  Opn skul vlt fx-mod coma           Open fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80074  Opn skl vlt fx-proln com           Open fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80075  Opn skl vlt fx-deep coma           Open fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80076  Opn skul vlt fx-coma NOS           Open fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80079  Op skl vlt fx-concus NOS           Open fracture of vault of skull with subarachnoid",
+	},
+	{
+		code: "80080  Opn skull vlt fx/hem NEC           Open fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80081  Opn skul vlt fx w/o coma           Open fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80082  Opn skul vlt fx-brf coma           Open fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80083  Opn skul vlt fx-mod coma           Open fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80084  Opn skl vlt fx-proln com           Open fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80085  Opn skl vlt fx-deep coma           Open fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80086  Opn skul vlt fx-coma NOS           Open fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80089  Op skl vlt fx-concus NOS           Open fracture of vault of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80090  Op skl vlt fx/br inj NEC           Open fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80091  Opn skul vlt fx w/o coma           Open fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80092  Opn skul vlt fx-brf coma           Open fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80093  Opn skul vlt fx-mod coma           Open fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80094  Opn skl vlt fx-proln com           Open fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80095  Op skul vlt fx-deep coma           Open fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80096  Opn skul vlt fx-coma NOS           Open fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80099  Op skl vlt fx-concus NOS           Open fracture of vault of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80100  Clos skull base fracture           Closed fracture of base of skull without mention of intra cranial injury",
+	},
+	{
+		code: "80101  Cl skul base fx w/o coma           Closed fracture of base of skull without mention of intra cranial injury",
+	},
+	{
+		code: "80102  Cl skul base fx-brf coma           Closed fracture of base of skull without mention of intra cranial injury",
+	},
+	{
+		code: "80103  Cl skul base fx-mod coma           Closed fracture of base of skull without mention of intra cranial injury",
+	},
+	{
+		code: "80104  Cl skl base fx-prol coma           Closed fracture of base of skull without mention of intra cranial injury",
+	},
+	{
+		code: "80105  Cl skl base fx-deep coma           Closed fracture of base of skull without mention of intra cranial injury",
+	},
+	{
+		code: "80106  Cl skul base fx-coma NOS           Closed fracture of base of skull without mention of intra cranial injury",
+	},
+	{
+		code: "80109  Cl skull base fx-concuss           Closed fracture of base of skull without mention of intra cranial injury",
+	},
+	{
+		code: "80110  Cl skl base fx/cereb lac           Closed fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80111  Cl skul base fx w/o coma           Closed fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80112  Cl skul base fx-brf coma           Closed fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80113  Cl skul base fx-mod coma           Closed fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80114  Cl skl base fx-prol coma           Closed fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80115  Cl skl base fx-deep coma           Closed fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80116  Cl skul base fx-coma NOS           Closed fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80119  Cl skull base fx-concuss           Closed fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80120  Cl skl base fx/menin hem           Closed fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80121  Cl skul base fx w/o coma           Closed fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80122  Cl skul base fx/brf coma           Closed fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80123  Cl skul base fx-mod coma           Closed fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80124  Cl skl base fx-prol coma           Closed fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80125  Cl skl base fx-deep coma           Closed fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80126  Cl skul base fx-coma NOS           Closed fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80129  Cl skull base fx-concuss           Closed fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80130  Cl skull base fx/hem NEC           Closed fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80131  Cl skul base fx w/o coma           Closed fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80132  Cl skul base fx-brf coma           Closed fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80133  Cl skul base fx-mod coma           Closed fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80134  Cl skl base fx-prol coma           Closed fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80135  Cl skl base fx-deep coma           Closed fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80136  Cl skul base fx-coma NOS           Closed fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80139  Cl skull base fx-concuss           Closed fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80140  Cl sk base fx/br inj NEC           Closed fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80141  Cl skul base fx w/o coma           Closed fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80142  Cl skul base fx-brf coma           Closed fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80143  Cl skul base fx-mod coma           Closed fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80144  Cl skl base fx-prol coma           Closed fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80145  Cl skl base fx-deep coma           Closed fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80146  Cl skul base fx-coma NOS           Closed fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80149  Cl skull base fx-concuss           Closed fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80150  Open skull base fracture           Open fracture of base of skull without mention of intracranial injury",
+	},
+	{
+		code: "80151  Opn skl base fx w/o coma           Open fracture of base of skull without mention of intracranial injury",
+	},
+	{
+		code: "80152  Opn skl base fx-brf coma           Open fracture of base of skull without mention of intracranial injury",
+	},
+	{
+		code: "80153  Opn skl base fx-mod coma           Open fracture of base of skull without mention of intracranial injury",
+	},
+	{
+		code: "80154  Op skl base fx-prol coma           Open fracture of base of skull without mention of intracranial injury",
+	},
+	{
+		code: "80155  Op skl base fx-deep coma           Open fracture of base of skull without mention of intracranial injury",
+	},
+	{
+		code: "80156  Opn skl base fx-coma NOS           Open fracture of base of skull without mention of intracranial injury",
+	},
+	{
+		code: "80159  Opn skul base fx-concuss           Open fracture of base of skull without mention of intracranial injury",
+	},
+	{
+		code: "80160  Op skl base fx/cereb lac           Open fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80161  Opn skl base fx w/o coma           Open fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80162  Opn skl base fx-brf coma           Open fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80163  Opn skl base fx-mod coma           Open fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80164  Op skl base fx-prol coma           Open fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80165  Op skl base fx-deep coma           Open fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80166  Opn skl base fx-coma NOS           Open fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80169  Opn skul base fx-concuss           Open fracture of base of skull with cerebral laceration and contusion",
+	},
+	{
+		code: "80170  Op skl base fx/menin hem           Open fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80171  Opn skl base fx w/o coma           Open fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80172  Opn skl base fx-brf coma           Open fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80173  Opn skl base fx-mod coma           Open fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80174  Op skl base fx-prol coma           Open fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80175  Op skl base fx-deep coma           Open fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80176  Opn skl base fx-coma NOS           Open fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80179  Opn skul base fx-concuss           Open fracture of base of skull with subarachnoid",
+	},
+	{
+		code: "80180  Opn skul base fx/hem NEC           Open fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80181  Opn skl base fx w/o coma           Open fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80182  Opn skl base fx-brf coma           Open fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80183  Opn skl base fx-mod coma           Open fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80184  Op skl base fx-prol coma           Open fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80185  Op skl base fx-deep coma           Open fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80186  Opn skl base fx-coma NOS           Open fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80189  Opn skul base fx-concuss           Open fracture of base of skull with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80190  Op sk base fx/br inj NEC           Open fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80191  Op skul base fx w/o coma           Open fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80192  Opn skl base fx-brf coma           Open fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80193  Opn skl base fx-mod coma           Open fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80194  Op skl base fx-prol coma           Open fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80195  Op skl base fx-deep coma           Open fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80196  Opn skl base fx-coma NOS           Open fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80199  Opn skul base fx-concuss           Open fracture of base of skull with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "8020   Nasal bone fx-closed               Closed fracture of nasal bones",
+	},
+	{
+		code: "8021   Nasal bone fx-open                 Open fracture of nasal bones",
+	},
+	{
+		code: "80220  Mandible fx NOS-closed             Closed fracture of mandible",
+	},
+	{
+		code: "80221  Fx condyl proc mandib-cl           Closed fracture of mandible",
+	},
+	{
+		code: "80222  Subcondylar fx mandib-cl           Closed fracture of mandible",
+	},
+	{
+		code: "80223  Fx coron proc mandib-cl            Closed fracture of mandible",
+	},
+	{
+		code: "80224  Fx ramus NOS-closed                Closed fracture of mandible",
+	},
+	{
+		code: "80225  Fx angle of jaw-closed             Closed fracture of mandible",
+	},
+	{
+		code: "80226  Fx symphy mandib body-cl           Closed fracture of mandible",
+	},
+	{
+		code: "80227  Fx alveolar bord mand-cl           Closed fracture of mandible",
+	},
+	{
+		code: "80228  Fx mandible body NEC-cl            Closed fracture of mandible",
+	},
+	{
+		code: "80229  Mult fx mandible-closed            Closed fracture of mandible",
+	},
+	{
+		code: "80230  Mandible fx NOS-open               Open fracture of mandible",
+	},
+	{
+		code: "80231  Fx condyl proc mand-open           Open fracture of mandible",
+	},
+	{
+		code: "80232  Subcondyl fx mandib-open           Open fracture of mandible",
+	},
+	{
+		code: "80233  Fx coron proc mandib-opn           Open fracture of mandible",
+	},
+	{
+		code: "80234  Fx ramus NOS-open                  Open fracture of mandible",
+	},
+	{
+		code: "80235  Fx angle of jaw-open               Open fracture of mandible",
+	},
+	{
+		code: "80236  Fx symphy mandib bdy-opn           Open fracture of mandible",
+	},
+	{
+		code: "80237  Fx alv bord mand bdy-opn           Open fracture of mandible",
+	},
+	{
+		code: "80238  Fx mandible body NEC-opn           Open fracture of mandible",
+	},
+	{
+		code: "80239  Mult fx mandible-open              Open fracture of mandible",
+	},
+	{
+		code: "8024   Fx malar/maxillary-close           Closed fracture of malar and maxillary bones",
+	},
+	{
+		code: "8025   Fx malar/maxillary-open            Open fracture of malar and maxillary bones",
+	},
+	{
+		code: "8026   Fx orbital floor-closed            Closed fracture of orbital floor (blow-out)",
+	},
+	{
+		code: "8027   Fx orbital floor-open              Open fracture of orbital floor (blow-out)",
+	},
+	{
+		code: "8028   Fx facial bone NEC-close           Closed fracture of other facial bones",
+	},
+	{
+		code: "8029   Fx facial bone NEC-open            Open fracture of other facial bones",
+	},
+	{
+		code: "80300  Close skull fracture NEC           Other closed skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80301  Cl skull fx NEC w/o coma           Other closed skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80302  Cl skull fx NEC-brf coma           Other closed skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80303  Cl skull fx NEC-mod coma           Other closed skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80304  Cl skl fx NEC-proln coma           Other closed skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80305  Cl skul fx NEC-deep coma           Other closed skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80306  Cl skull fx NEC-coma NOS           Other closed skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80309  Cl skull fx NEC-concuss            Other closed skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80310  Cl skl fx NEC/cerebr lac           Other closed skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80311  Cl skull fx NEC w/o coma           Other closed skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80312  Cl skull fx NEC-brf coma           Other closed skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80313  Cl skull fx NEC-mod coma           Other closed skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80314  Cl skl fx NEC-proln coma           Other closed skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80315  Cl skul fx NEC-deep coma           Other closed skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80316  Cl skull fx NEC-coma NOS           Other closed skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80319  Cl skull fx NEC-concuss            Other closed skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80320  Cl skl fx NEC/mening hem           Other closed skull fracture with subarachnoid",
+	},
+	{
+		code: "80321  Cl skull fx NEC w/o coma           Other closed skull fracture with subarachnoid",
+	},
+	{
+		code: "80322  Cl skull fx NEC-brf coma           Other closed skull fracture with subarachnoid",
+	},
+	{
+		code: "80323  Cl skull fx NEC-mod coma           Other closed skull fracture with subarachnoid",
+	},
+	{
+		code: "80324  Cl skl fx NEC-proln coma           Other closed skull fracture with subarachnoid",
+	},
+	{
+		code: "80325  Cl skul fx NEC-deep coma           Other closed skull fracture with subarachnoid",
+	},
+	{
+		code: "80326  Cl skull fx NEC-coma NOS           Other closed skull fracture with subarachnoid",
+	},
+	{
+		code: "80329  Cl skull fx NEC-concuss            Other closed skull fracture with subarachnoid",
+	},
+	{
+		code: "80330  Cl skull fx NEC/hem NEC            Other closed skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80331  Cl skull fx NEC w/o coma           Other closed skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80332  Cl skull fx NEC-brf coma           Other closed skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80333  Cl skull fx NEC-mod coma           Other closed skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80334  Cl skl fx NEC-proln coma           Other closed skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80335  Cl skul fx NEC-deep coma           Other closed skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80336  Cl skull fx NEC-coma NOS           Other closed skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80339  Cl skull fx NEC-concuss            Other closed skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80340  Cl skl fx NEC/br inj NEC           Other closed skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80341  Cl skull fx NEC w/o coma           Other closed skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80342  Cl skull fx NEC-brf coma           Other closed skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80343  Cl skull fx NEC-mod coma           Other closed skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80344  Cl skl fx NEC-proln coma           Other closed skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80345  Cl skul fx NEC-deep coma           Other closed skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80346  Cl skull fx NEC-coma NOS           Other closed skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80349  Cl skull fx NEC-concuss            Other closed skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80350  Open skull fracture NEC            Other open skull fracture without mention of injury",
+	},
+	{
+		code: "80351  Opn skul fx NEC w/o coma           Other open skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80352  Opn skul fx NEC-brf coma           Other open skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80353  Opn skul fx NEC-mod coma           Other open skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80354  Opn skl fx NEC-prol coma           Other open skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80355  Opn skl fx NEC-deep coma           Other open skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80356  Opn skul fx NEC-coma NOS           Other open skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80359  Opn skull fx NEC-concuss           Other open skull fracture without mention of intracranial injury",
+	},
+	{
+		code: "80360  Opn skl fx NEC/cereb lac           Other open skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80361  Opn skul fx NEC w/o coma           Other open skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80362  Opn skul fx NEC-brf coma           Other open skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80363  Opn skul fx NEC-mod coma           Other open skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80364  Opn skl fx NEC-proln com           Other open skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80365  Opn skl fx NEC-deep coma           Other open skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80366  Opn skul fx NEC-coma NOS           Other open skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80369  Opn skull fx NEC-concuss           Other open skull fracture with cerebral laceration and contusion",
+	},
+	{
+		code: "80370  Opn skl fx NEC/menin hem           Other open skull fracture with subarachnoid",
+	},
+	{
+		code: "80371  Opn skul fx NEC w/o coma           Other open skull fracture with subarachnoid",
+	},
+	{
+		code: "80372  Opn skul fx NEC-brf coma           Other open skull fracture with subarachnoid",
+	},
+	{
+		code: "80373  Opn skul fx NEC-mod coma           Other open skull fracture with subarachnoid",
+	},
+	{
+		code: "80374  Opn skl fx NEC-prol coma           Other open skull fracture with subarachnoid",
+	},
+	{
+		code: "80375  Opn skl fx NEC-deep coma           Other open skull fracture with subarachnoid",
+	},
+	{
+		code: "80376  Opn skul fx NEC-coma NOS           Other open skull fracture with subarachnoid",
+	},
+	{
+		code: "80379  Opn skull fx NEC-concuss           Other open skull fracture with subarachnoid",
+	},
+	{
+		code: "80380  Opn skull fx NEC/hem NEC           Other open skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80381  Opn skul fx NEC w/o coma           Other open skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80382  Opn skul fx NEC-brf coma           Other open skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80383  Opn skul fx NEC-mod coma           Other open skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80384  Opn skl fx NEC-prol coma           Other open skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80385  Opn skl fx NEC-deep coma           Other open skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80386  Opn skul fx NEC-coma NOS           Other open skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80389  Opn skull fx NEC-concuss           Other open skull fracture with other and unspecified intracranial hemorrhage",
+	},
+	{
+		code: "80390  Op skl fx NEC/br inj NEC           Other open skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80391  Opn skul fx NEC w/o coma           Other open skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80392  Opn skul fx NEC-brf coma           Other open skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80393  Opn skul fx NEC-mod coma           Other open skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80394  Opn skl fx NEC-prol coma           Other open skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80395  Opn skl fx NEC-deep coma           Other open skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80396  Opn skul fx NEC-coma NOS           Other open skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80399  Opn skull fx NEC-concuss           Other open skull fracture with intracranial injury of other and unspecified nature",
+	},
+	{
+		code: "80400  Cl skul fx w oth bone fx           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80401  Cl skl w oth fx w/o coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80402  Cl skl w oth fx-brf coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80403  Cl skl w oth fx-mod coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80404  Cl skl/oth fx-proln coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80405  Cl skul/oth fx-deep coma           Closed fractures involving skull of face with other bones",
+	},
+	{
+		code: "80406  Cl skl w oth fx-coma NOS           Closed fractures involving skull of face with other bones",
+	},
+	{
+		code: "80409  Cl skul w oth fx-concuss           Closed fractures involving skull of face with other bones",
+	},
+	{
+		code: "80410  Cl sk w oth fx/cereb lac           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80411  Cl skl w oth fx w/o coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80412  Cl skl w oth fx-brf coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80413  Cl skl w oth fx-mod coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80414  Cl skl/oth fx-proln coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80415  Cl skul/oth fx-deep coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80416  Cl skl w oth fx-coma NOS           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80419  Cl skul w oth fx-concuss           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80420  Cl skl/oth fx/mening hem           Closed fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80421  Cl skl w oth fx w/o coma           Closed fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80422  Cl skl w oth fx-brf coma           Closed fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80423  Cl skl w oth fx-mod coma           Closed fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80424  Cl skl/oth fx-proln coma           Closed fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80425  Cl skul/oth fx-deep coma           Closed fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80426  Cl skl w oth fx-coma NOS           Closed fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80429  Cl skul w oth fx-concuss           Closed fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80430  Cl skul w oth fx/hem NEC           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80431  Cl skl w oth fx w/o coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80432  Cl skl w oth fx-brf coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80433  Cl skl w oth fx-mod coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80434  Cl skl/oth fx-proln coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80435  Cl skul/oth fx-deep coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80436  Cl skl w oth fx-coma NOS           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80439  Cl skul w oth fx-concuss           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80440  Cl skl/oth fx/br inj NEC           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80441  Cl skl w oth fx w/o coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80442  Cl skl w oth fx-brf coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80443  Cl skl w oth fx-mod coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80444  Cl skl/oth fx-proln coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80445  Cl skul/oth fx-deep coma           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80446  Cl skl w oth fx-coma NOS           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80449  Cl skul w oth fx-concuss           Closed fractures involving skull or face with other bones",
+	},
+	{
+		code: "80450  Opn skull fx/oth bone fx           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80451  Opn skul/oth fx w/o coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80452  Opn skul/oth fx-brf coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80453  Opn skul/oth fx-mod coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80454  Opn skl/oth fx-prol coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80455  Opn skl/oth fx-deep coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80456  Opn skul/oth fx-coma NOS           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80459  Opn skull/oth fx-concuss           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80460  Opn skl/oth fx/cereb lac           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80461  Opn skul/oth fx w/o coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80462  Opn skul/oth fx-brf coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80463  Opn skul/oth fx-mod coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80464  Opn skl/oth fx-prol coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80465  Opn skl/oth fx-deep coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80466  Opn skul/oth fx-coma NOS           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80469  Opn skull/oth fx-concuss           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80470  Opn skl/oth fx/menin hem           Open fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80471  Opn skul/oth fx w/o coma           Open fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80472  Opn skul/oth fx-brf coma           Open fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80473  Opn skul/oth fx-mod coma           Open fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80474  Opn skl/oth fx-prol coma           Open fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80475  Opn skl/oth fx-deep coma           Open fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80476  Opn skul/oth fx-coma NOS           Open fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80479  Opn skull/oth fx-concuss           Open fractures involving skull or face with other bones with subarachnoid",
+	},
+	{
+		code: "80480  Opn skl w oth fx/hem NEC           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80481  Opn skul/oth fx w/o coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80482  Opn skul/oth fx-brf coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80483  Opn skul/oth fx-mod coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80484  Opn skl/oth fx-prol coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80485  Opn skl/oth fx-deep coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80486  Opn skul/oth fx-coma NOS           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80489  Opn skull/oth fx-concuss           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80490  Op skl/oth fx/br inj NEC           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80491  Opn skul/oth fx w/o coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80492  Opn skul/oth fx-brf coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80493  Opn skul/oth fx-mod coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80494  Opn skl/oth fx-prol coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80495  Opn skl/oth fx-deep coma           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80496  Opn skul/oth fx-coma NOS           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80499  Opn skull/oth fx-concuss           Open fractures involving skull or face with other bones",
+	},
+	{
+		code: "80500  Fx cervical vert NOS-cl            Closed fracture of cervical vertebra",
+	},
+	{
+		code: "80501  Fx c1 vertebra-closed              Closed fracture of first cervical vertebra",
+	},
+	{
+		code: "80502  Fx c2 vertebra-closed              Closed fracture of second cervical vertebra",
+	},
+	{
+		code: "80503  Fx c3 vertebra-closed              Closed fracture of third cervical vertebra",
+	},
+	{
+		code: "80504  Fx c4 vertebra-closed              Closed fracture of fourth cervical vertebra",
+	},
+	{
+		code: "80505  Fx c5 vertebra-closed              Closed fracture of fifth cervical vertebra",
+	},
+	{
+		code: "80506  Fx c6 vertebra-closed              Closed fracture of sixth cervical vertebra",
+	},
+	{
+		code: "80507  Fx c7 vertebra-closed              Closed fracture of seventh cervical vertebra",
+	},
+	{
+		code: "80508  Fx mult cervical vert-cl           Closed fracture of multiple cervical vertebrae",
+	},
+	{
+		code: "80510  Fx cervical vert NOS-opn           Open fracture of cervical vertebra",
+	},
+	{
+		code: "80511  Fx c1 vertebra-open                Open fracture of first cervical vertebra",
+	},
+	{
+		code: "80512  Fx c2 vertebra-open                Open fracture of second cervical vertebra",
+	},
+	{
+		code: "80513  Fx c3 vertebra-open                Open fracture of third cervical vertebra",
+	},
+	{
+		code: "80514  Fx c4 vertebra-open                Open fracture of fourth cervical vertebra",
+	},
+	{
+		code: "80515  Fx c5 vertebra-open                Open fracture of fifth cervical vertebra",
+	},
+	{
+		code: "80516  Fx c6 vertebra-open                Open fracture of sixth cervical vertebra",
+	},
+	{
+		code: "80517  Fx c7 vertebra-open                Open fracture of seventh cervical vertebra",
+	},
+	{
+		code: "80518  Fx mlt cervical vert-opn           Open fracture of multiple cervical vertebrae",
+	},
+	{
+		code: "8052   Fx dorsal vertebra-close           Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury",
+	},
+	{
+		code: "8053   Fx dorsal vertebra-open            Open fracture of dorsal [thoracic] vertebra without mention of spinal cord injury",
+	},
+	{
+		code: "8054   Fx lumbar vertebra-close           Closed fracture of lumbar vertebra without mention of spinal cord injury",
+	},
+	{
+		code: "8055   Fx lumbar vertebra-open            Open fracture of lumbar vertebra without mention of spinal cord injury",
+	},
+	{
+		code: "8056   Fx sacrum/coccyx-closed            Closed fracture of sacrum and coccyx without mention of spinal cord injury",
+	},
+	{
+		code: "8057   Fx sacrum/coccyx-open              Open fracture of sacrum and coccyx without mention of spinal cord injury",
+	},
+	{
+		code: "8058   Vertebral fx NOS-closed            Closed fracture of unspecified vertebral column without mention of spinal cord injury",
+	},
+	{
+		code: "8059   Vertebral fx NOS-open              Open fracture of unspecified vertebral column without mention of spinal cord injury",
+	},
+	{
+		code: "80600  C1-c4 fx-cl/cord inj NOS           Closed fracture of C1-C4 level with unspecified spinal cord injury",
+	},
+	{
+		code: "80601  C1-c4 fx-cl/com cord les           Closed fracture of C1-C4 level with complete lesion of cord",
+	},
+	{
+		code: "80602  C1-c4 fx-cl/ant cord syn           Closed fracture of C1-C4 level with anterior cord syndrome",
+	},
+	{
+		code: "80603  C1-c4 fx-cl/cen cord syn           Closed fracture of C1-C4 level with central cord syndrome",
+	},
+	{
+		code: "80604  C1-c4 fx-cl/cord inj NEC           Closed fracture of C1-C4 level with other specified spinal cord injury",
+	},
+	{
+		code: "80605  C5-c7 fx-cl/cord inj NOS           Closed fracture of C5-C7 level with unspecified spinal cord injury",
+	},
+	{
+		code: "80606  C5-c7 fx-cl/com cord les           Closed fracture of C5-C7 level with complete lesion of cord",
+	},
+	{
+		code: "80607  C5-c7 fx-cl/ant cord syn           Closed fracture of C5-C7 level with anterior cord syndrome",
+	},
+	{
+		code: "80608  C5-c7 fx-cl/cen cord syn           Closed fracture of C5-C7 level with central cord syndrome",
+	},
+	{
+		code: "80609  C5-c7 fx-cl/cord inj NEC           Closed fracture of C5-C7 level with other specified spinal cord injury",
+	},
+	{
+		code: "80610  C1-c4 fx-op/cord inj NOS           Open fracture of C1-C4 level with unspecified spinal cord injury",
+	},
+	{
+		code: "80611  C1-c4 fx-op/com cord les           Open fracture of C1-C4 level with complete lesion of cord",
+	},
+	{
+		code: "80612  C1-c4 fx-op/ant cord syn           Open fracture of C1-C4 level with anterior cord syndrome",
+	},
+	{
+		code: "80613  C1-c4 fx-op/cen cord syn           Open fracture of C1-C4 level with central cord syndrome",
+	},
+	{
+		code: "80614  C1-c4 fx-op/cord inj NEC           Open fracture of C1-C4 level with other specified spinal cord injury",
+	},
+	{
+		code: "80615  C5-c7 fx-op/cord inj NOS           Open fracture of C5-C7 level with unspecified spinal cord injury",
+	},
+	{
+		code: "80616  C5-c7 fx-op/com cord les           Open fracture of C5-C7 level with complete lesion of cord",
+	},
+	{
+		code: "80617  C5-c7 fx-op/ant cord syn           Open fracture of C5-C7 level with anterior cord syndrome",
+	},
+	{
+		code: "80618  C5-c7 fx-op/cen cord syn           Open fracture of C5-C7 level with central cord syndrome",
+	},
+	{
+		code: "80619  C5-c7 fx-op/cord inj NEC           Open fracture of C5-C7 level with other specified spinal cord injury",
+	},
+	{
+		code: "80620  T1-t6 fx-cl/cord inj NOS           Closed fracture of T1-T6 level with unspecified spinal cord injury",
+	},
+	{
+		code: "80621  T1-t6 fx-cl/com cord les           Closed fracture of T1-T6 level with complete lesion of cord",
+	},
+	{
+		code: "80622  T1-t6 fx-cl/ant cord syn           Closed fracture of T1-T6 level with anterior cord syndrome",
+	},
+	{
+		code: "80623  T1-t6 fx-cl/cen cord syn           Closed fracture of T1-T6 level with central cord syndrome",
+	},
+	{
+		code: "80624  T1-t6 fx-cl/cord inj NEC           Closed fracture of T1-T6 level with other specified spinal cord injury",
+	},
+	{
+		code: "80625  T7-t12 fx-cl/crd inj NOS           Closed fracture of T7-T12 level with unspecified spinal cord injury",
+	},
+	{
+		code: "80626  T7-t12 fx-cl/com crd les           Closed fracture of T7-T12 level with complete lesion of cord",
+	},
+	{
+		code: "80627  T7-t12 fx-cl/ant crd syn           Closed fracture of T7-T12 level with anterior cord syndrome",
+	},
+	{
+		code: "80628  T7-t12 fx-cl/cen crd syn           Closed fracture of T7-T12 level with central cord syndrome",
+	},
+	{
+		code: "80629  T7-t12 fx-cl/crd inj NEC           Closed fracture of T7-T12 level with other specified spinal cord injury",
+	},
+	{
+		code: "80630  T1-t6 fx-op/cord inj NOS           Open fracture of T1-T6 level with unspecified spinal cord injury",
+	},
+	{
+		code: "80631  T1-t6 fx-op/com cord les           Open fracture of T1-T6 level with complete lesion of cord",
+	},
+	{
+		code: "80632  T1-t6 fx-op/ant cord syn           Open fracture of T1-T6 level with anterior cord syndrome",
+	},
+	{
+		code: "80633  T1-t6 fx-op/cen cord syn           Open fracture of T1-T6 level with central cord syndrome",
+	},
+	{
+		code: "80634  T1-t6 fx-op/cord inj NEC           Open fracture of T1-T6 level with other specified spinal cord injury",
+	},
+	{
+		code: "80635  T7-t12 fx-op/crd inj NOS           Open fracture of T7-T12 level with unspecified spinal cord injury",
+	},
+	{
+		code: "80636  T7-t12 fx-op/com crd les           Open fracture of T7-T12 level with complete lesion of cord",
+	},
+	{
+		code: "80637  T7-t12 fx-op/ant crd syn           Open fracture of T7-T12 level with anterior cord syndrome",
+	},
+	{
+		code: "80638  T7-t12 fx-op/cen crd syn           Open fracture of T7-T12 level with central cord syndrome",
+	},
+	{
+		code: "80639  T7-t12 fx-op/crd inj NEC           Open fracture of T7-T12 level with other specified spinal cord injury",
+	},
+	{
+		code: "8064   Cl lumbar fx w cord inj            Closed fracture of lumbar spine with spinal cord injury",
+	},
+	{
+		code: "8065   Opn lumbar fx w cord inj           Open fracture of lumbar spine with spinal cord injury",
+	},
+	{
+		code: "80660  Fx sacrum-cl/crd inj NOS           Closed fracture of sacrum and coccyx with unspecified spinal cord injury",
+	},
+	{
+		code: "80661  Fx sacr-cl/cauda equ les           Closed fracture of sacrum and coccyx with complete cauda equina lesion",
+	},
+	{
+		code: "80662  Fx sacr-cl/cauda inj NEC           Closed fracture of sacrum and coccyx with other cauda equina injury",
+	},
+	{
+		code: "80669  Fx sacrum-cl/crd inj NEC           Closed fracture of sacrum and coccyx with other spinal cord injury",
+	},
+	{
+		code: "80670  Fx sacrum-op/crd inj NOS           Open fracture of sacrum and coccyx with unspecified spinal cord injury",
+	},
+	{
+		code: "80671  Fx sacr-op/cauda equ les           Open fracture of sacrum and coccyx with complete cauda equina lesion",
+	},
+	{
+		code: "80672  Fx sacr-op/cauda inj NEC           Open fracture of sacrum and coccyx with other cauda equina injury",
+	},
+	{
+		code: "80679  Fx sacrum-op/crd inj NEC           Open fracture of sacrum and coccyx with other spinal cord injury",
+	},
+	{
+		code: "8068   Vert fx NOS-cl w crd inj           Closed fracture of unspecified vertebral column with spinal cord injury",
+	},
+	{
+		code: "8069   Vert fx NOS-op w crd inj           Open fracture of unspecified vertebral column with spinal cord injury",
+	},
+	{
+		code: "80700  Fracture rib NOS-closed            Closed fracture of rib(s)",
+	},
+	{
+		code: "80701  Fracture one rib-closed            Closed fracture of one rib",
+	},
+	{
+		code: "80702  Fracture two ribs-closed           Closed fracture of two ribs",
+	},
+	{
+		code: "80703  Fracture three ribs-clos           Closed fracture of three ribs",
+	},
+	{
+		code: "80704  Fracture four ribs-close           Closed fracture of four ribs",
+	},
+	{
+		code: "80705  Fracture five ribs-close           Closed fracture of five ribs",
+	},
+	{
+		code: "80706  Fracture six ribs-closed           Closed fracture of six ribs",
+	},
+	{
+		code: "80707  Fracture seven ribs-clos           Closed fracture of seven ribs",
+	},
+	{
+		code: "80708  Fx eight/more rib-closed           Closed fracture of eight or more ribs",
+	},
+	{
+		code: "80709  Fx mult ribs NOS-closed            Closed fracture of multiple ribs",
+	},
+	{
+		code: "80710  Fracture rib NOS-open              Open fracture of rib(s)",
+	},
+	{
+		code: "80711  Fracture one rib-open              Open fracture of one rib",
+	},
+	{
+		code: "80712  Fracture two ribs-open             Open fracture of two ribs",
+	},
+	{
+		code: "80713  Fracture three ribs-open           Open fracture of three ribs",
+	},
+	{
+		code: "80714  Fracture four ribs-open            Open fracture of four ribs",
+	},
+	{
+		code: "80715  Fracture five ribs-open            Open fracture of five ribs",
+	},
+	{
+		code: "80716  Fracture six ribs-open             Open fracture of six ribs",
+	},
+	{
+		code: "80717  Fracture seven ribs-open           Open fracture of seven ribs",
+	},
+	{
+		code: "80718  Fx eight/more ribs-open            Open fracture of eight or more ribs",
+	},
+	{
+		code: "80719  Fx mult ribs NOS-open              Open fracture of multiple ribs",
+	},
+	{
+		code: "8072   Fracture of sternum-clos           Closed fracture of sternum",
+	},
+	{
+		code: "8073   Fracture of sternum-open           Open fracture of sternum",
+	},
+	{
+		code: "8074   Flail chest                        Flail chest",
+	},
+	{
+		code: "8075   Fx larynx/trachea-closed           Closed fracture of larynx and trachea",
+	},
+	{
+		code: "8076   Fx larynx/trachea-open             Open fracture of larynx and trachea",
+	},
+	{
+		code: "8080   Fracture acetabulum-clos           Closed fracture of acetabulum",
+	},
+	{
+		code: "8081   Fracture acetabulum-open           Open fracture of acetabulum",
+	},
+	{
+		code: "8082   Fracture of pubis-closed           Closed fracture of pubis",
+	},
+	{
+		code: "8083   Fracture of pubis-open             Open fracture of pubis",
+	},
+	{
+		code: "80841  Fracture of ilium-closed           Closed fracture of ilium",
+	},
+	{
+		code: "80842  Fracture ischium-closed            Closed fracture of ischium",
+	},
+	{
+		code: "80843  Pelv fx-clos/pelv disrup           Multiple closed pelvic fractures with disruption of pelvic circle",
+	},
+	{
+		code: "80844  Pelv fx-cl w/o plv disrp           Multiple closed pelvic fractures without disruption of pelvic circle",
+	},
+	{
+		code: "80849  Pelvic fracture NEC-clos           Closed fracture of other specified part of pelvis",
+	},
+	{
+		code: "80851  Fracture of ilium-open             Open fracture of ilium",
+	},
+	{
+		code: "80852  Fracture of ischium-open           Open fracture of ischium",
+	},
+	{
+		code: "80853  Pelv fx-open/pelv disrup           Multiple open pelvic fractures with disruption of pelvic circle",
+	},
+	{
+		code: "80854  Pelv fx-opn w/o pelv dis           Multiple open pelvic fractures without disruption of pelvic circle",
+	},
+	{
+		code: "80859  Pelvic fracture NEC-open           Open fracture of other specified part of pelvis",
+	},
+	{
+		code: "8088   Pelvic fracture NOS-clos           Closed unspecified fracture of pelvis",
+	},
+	{
+		code: "8089   Pelvic fracture NOS-open           Open unspecified fracture of pelvis",
+	},
+	{
+		code: "8090   Fracture trunk bone-clos           Fracture of bones of trunk",
+	},
+	{
+		code: "8091   Fracture trunk bone-open           Fracture of bones of trunk",
+	},
+	{
+		code: "81000  Fx clavicle NOS-closed             Closed fracture of clavicle",
+	},
+	{
+		code: "81001  Fx clavicl",
+	},
+	{
+		code: "81002  Fx clavicle shaft-closed           Closed fracture of shaft of clavicle",
+	},
+	{
+		code: "81003  Fx clavicl",
+	},
+	{
+		code: "81010  Fx clavicle NOS-open               Open fracture of clavicle",
+	},
+	{
+		code: "81011  Fx clavic",
+	},
+	{
+		code: "81012  Fx clavicle shaft-open             Open fracture of shaft of clavicle",
+	},
+	{
+		code: "81013  Fx clavic",
+	},
+	{
+		code: "81100  Fx scapula NOS-closed              Closed fracture of scapula",
+	},
+	{
+		code: "81101  Fx scapul",
+	},
+	{
+		code: "81102  Fx scapul",
+	},
+	{
+		code: "81103  Fx scap",
+	},
+	{
+		code: "81109  Fx scapula NEC-closed              Closed fracture of scapula",
+	},
+	{
+		code: "81110  Fx scapula NOS-open                Open fracture of scapula",
+	},
+	{
+		code: "81111  Fx scapul",
+	},
+	{
+		code: "81112  Fx scapul",
+	},
+	{
+		code: "81113  Fx scap",
+	},
+	{
+		code: "81119  Fx scapula NEC-open                Open fracture of scapula",
+	},
+	{
+		code: "81200  Fx up end humerus NOS-cl           Closed fracture of unspecified part of upper end of humerus",
+	},
+	{
+		code: "81201  Fx surg nck humerus-clos           Closed fracture of surgical neck of humerus",
+	},
+	{
+		code: "81202  Fx anatom nck humerus-cl           Closed fracture of anatomical neck of humerus",
+	},
+	{
+		code: "81203  Fx gr tuberos humerus-cl           Closed fracture of greater tuberosity of humerus",
+	},
+	{
+		code: "81209  Fx upper humerus NEC-cl            Other closed fracture of upper end of humerus",
+	},
+	{
+		code: "81210  Fx upper humerus NOS-opn           Open fracture of unspecified part of upper end of humerus",
+	},
+	{
+		code: "81211  Fx surg neck humerus-opn           Open fracture of surgical neck of humerus",
+	},
+	{
+		code: "81212  Fx anat neck humerus-opn           Open fracture of anatomical neck of humerus",
+	},
+	{
+		code: "81213  Fx gr tuberos humer-open           Open fracture of greater tuberosity of humerus",
+	},
+	{
+		code: "81219  Fx upper humerus NEC-opn           Other open fracture of upper end of humerus",
+	},
+	{
+		code: "81220  Fx humerus NOS-closed              Closed fracture of unspecified part of humerus",
+	},
+	{
+		code: "81221  Fx humerus shaft-closed            Closed fracture of shaft of humerus",
+	},
+	{
+		code: "81230  Fx humerus NOS-open                Open fracture of unspecified part of humerus",
+	},
+	{
+		code: "81231  Fx humerus shaft-open              Open fracture of shaft of humerus",
+	},
+	{
+		code: "81240  Fx lower humerus NOS-cl            Closed fracture of unspecified part of lower end of humerus",
+	},
+	{
+		code: "81241  Suprcondyl fx humerus-cl           Closed supracondylar fracture of humerus",
+	},
+	{
+		code: "81242  Fx humer",
+	},
+	{
+		code: "81243  Fx humer",
+	},
+	{
+		code: "81244  Fx humer",
+	},
+	{
+		code: "81249  Fx lower humerus NEC-cl            Other closed fracture of lower end of humerus",
+	},
+	{
+		code: "81250  Fx lower humer NOS-open            Open fracture of unspecified part of lower end of humerus",
+	},
+	{
+		code: "81251  Supracondyl fx humer-opn           Open supracondylar fracture of humerus",
+	},
+	{
+		code: "81252  Fx humer",
+	},
+	{
+		code: "81253  Fx humer",
+	},
+	{
+		code: "81254  Fx humer",
+	},
+	{
+		code: "81259  Fx lower humer NEC-open            Other open fracture of lower end of humerus",
+	},
+	{
+		code: "81300  Fx upper forearm NOS-cl            Closed fracture of upper end of forearm",
+	},
+	{
+		code: "81301  Fx olecran proc ulna-cl            Closed fracture of olecranon process of ulna",
+	},
+	{
+		code: "81302  Fx coronoid proc ulna-cl           Closed fracture of coronoid process of ulna",
+	},
+	{
+		code: "81303  Monteggia's fx-closed              Closed Monteggia's fracture",
+	},
+	{
+		code: "81304  Fx upper ulna NEC/NOS-cl           Other and unspecified closed fractures of proximal end of ulna (alone)",
+	},
+	{
+		code: "81305  Fx radius head-closed              Closed fracture of head of radius",
+	},
+	{
+		code: "81306  Fx radius neck-closed              Closed fracture of neck of radius",
+	},
+	{
+		code: "81307  Fx up radius NEC/NOS-cl            Other and unspecified closed fractures of proximal end of radius (alone)",
+	},
+	{
+		code: "81308  Fx up radius w ulna-clos           Closed fracture of radius with ulna",
+	},
+	{
+		code: "81310  Fx upper forearm NOS-opn           Open fracture of upper end of forearm",
+	},
+	{
+		code: "81311  Fx olecran proc ulna-opn           Open fracture of olecranon process of ulna",
+	},
+	{
+		code: "81312  Fx coronoid pro ulna-opn           Open fracture of coronoid process of ulna",
+	},
+	{
+		code: "81313  Monteggia's fx-open                Open Monteggia's fracture",
+	},
+	{
+		code: "81314  Fx up ulna NEC/NOS-open            Other and unspecified open fractures of proximal end of ulna (alone)",
+	},
+	{
+		code: "81315  Fx radius head-open                Open fracture of head of radius",
+	},
+	{
+		code: "81316  Fx radius neck-open                Open fracture of neck of radius",
+	},
+	{
+		code: "81317  Fx up radius NEC/NOS-opn           Other and unspecified open fractures of proximal end of radius (alone)",
+	},
+	{
+		code: "81318  Fx up radius w ulna-open           Open fracture of radius with ulna",
+	},
+	{
+		code: "81320  Fx shaft forearm NOS-cl            Closed fracture of shaft of radius or ulna",
+	},
+	{
+		code: "81321  Fx radius shaft-closed             Closed fracture of shaft of radius (alone)",
+	},
+	{
+		code: "81322  Fx ulna shaft-closed               Closed fracture of shaft of ulna (alone)",
+	},
+	{
+		code: "81323  Fx shaft rad w ulna-clos           Closed fracture of shaft of radius with ulna",
+	},
+	{
+		code: "81330  Fx shaft forearm NOS-opn           Open fracture of shaft of radius or ulna",
+	},
+	{
+		code: "81331  Fx radius shaft-open               Open fracture of shaft of radius (alone)",
+	},
+	{
+		code: "81332  Fx ulna shaft-open                 Open fracture of shaft of ulna (alone)",
+	},
+	{
+		code: "81333  Fx shaft rad w ulna-open           Open fracture of shaft of radius with ulna",
+	},
+	{
+		code: "81340  Fx lower forearm NOS-cl            Closed fracture of lower end of forearm",
+	},
+	{
+		code: "81341  Colles' fracture-closed            Closed Colles' fracture",
+	},
+	{
+		code: "81342  Fx distal radius NEC-cl            Other closed fractures of distal end of radius (alone)",
+	},
+	{
+		code: "81343  Fx distal ulna-closed              Closed fracture of distal end of ulna (alone)",
+	},
+	{
+		code: "81344  Fx low radius w ulna-cl            Closed fracture of lower end of radius with ulna",
+	},
+	{
+		code: "81345  Torus fx radius-cl/alone           Torus fracture of radius (alone)",
+	},
+	{
+		code: "81346  Torus fx ulna-closed               Torus fracture of ulna (alone)",
+	},
+	{
+		code: "81347  Torus fx radius/ulna-clo           Torus fracture of radius and ulna",
+	},
+	{
+		code: "81350  Fx lower forearm NOS-opn           Open fracture of lower end of forearm",
+	},
+	{
+		code: "81351  Colles' fracture-open              Open Colles' fracture",
+	},
+	{
+		code: "81352  Fx distal radius NEC-opn           Other open fractures of distal end of radius (alone)",
+	},
+	{
+		code: "81353  Fx distal ulna-open                Open fracture of distal end of ulna (alone)",
+	},
+	{
+		code: "81354  Fx low radius w ulna-opn           Open fracture of lower end of radius with ulna",
+	},
+	{
+		code: "81380  Fx forearm NOS-closed              Closed fracture of unspecified part of forearm",
+	},
+	{
+		code: "81381  Fx radius NOS-closed               Closed fracture of unspecified part of radius (alone)",
+	},
+	{
+		code: "81382  Fracture ulna NOS-closed           Closed fracture of unspecified part of ulna (alone)",
+	},
+	{
+		code: "81383  Fx radius w ulna NOS-cl            Closed fracture of unspecified part of radius with ulna",
+	},
+	{
+		code: "81390  Fx forearm NOS-open                Open fracture of unspecified part of forearm",
+	},
+	{
+		code: "81391  Fracture radius NOS-open           Open fracture of unspecified part of radius (alone)",
+	},
+	{
+		code: "81392  Fracture ulna NOS-open             Open fracture of unspecified part of ulna (alone)",
+	},
+	{
+		code: "81393  Fx radius w ulna NOS-opn           Open fracture of unspecified part of radius with ulna",
+	},
+	{
+		code: "81400  Fx carpal bone NOS-close           Closed fracture of carpal bone",
+	},
+	{
+		code: "81401  Fx navicular",
+	},
+	{
+		code: "81402  Fx lunate",
+	},
+	{
+		code: "81403  Fx triquetral",
+	},
+	{
+		code: "81404  Fx pisiform-closed                 Closed fracture of pisiform bone of wrist",
+	},
+	{
+		code: "81405  Fx trapezium bone-closed           Closed fracture of trapezium bone [larger multangular] of wrist",
+	},
+	{
+		code: "81406  Fx trapezoid bone-closed           Closed fracture of trapezoid bone [smaller multangular] of wrist",
+	},
+	{
+		code: "81407  Fx capitate bone-closed            Closed fracture of capitate bone [os magnum] of wrist",
+	},
+	{
+		code: "81408  Fx hamate bone-closed              Closed fracture of hamate [unciform] bone of wrist",
+	},
+	{
+		code: "81409  Fx carpal bone NEC-close           Closed fracture of other bone of wrist",
+	},
+	{
+		code: "81410  Fx carpal bone NOS-open            Open fracture of carpal bone",
+	},
+	{
+		code: "81411  Fx navicular",
+	},
+	{
+		code: "81412  Fx lunate",
+	},
+	{
+		code: "81413  Fx triquetral",
+	},
+	{
+		code: "81414  Fx pisiform-open                   Open fracture of pisiform bone of wrist",
+	},
+	{
+		code: "81415  Fx trapezium bone-open             Open fracture of trapezium bone [larger multangular] of wrist",
+	},
+	{
+		code: "81416  Fx trapezoid bone-open             Open fracture of trapezoid bone [smaller multangular] of wrist",
+	},
+	{
+		code: "81417  Fx capitate bone-open              Open fracture of capitate bone [os magnum] of wrist",
+	},
+	{
+		code: "81418  Fx hamate bone-open                Open fracture of hamate [unciform] bone of wrist",
+	},
+	{
+		code: "81419  Fx carpal bone NEC-open            Open fracture of other bone of wrist",
+	},
+	{
+		code: "81500  Fx metacarpal NOS-closed           Closed fracture of metacarpal bone(s)",
+	},
+	{
+		code: "81501  Fx 1st metacarp base-cl            Closed fracture of base of thumb [first] metacarpal",
+	},
+	{
+		code: "81502  Fx metacarp base NEC-cl            Closed fracture of base of other metacarpal bone(s)",
+	},
+	{
+		code: "81503  Fx metacarpal shaft-clos           Closed fracture of shaft of metacarpal bone(s)",
+	},
+	{
+		code: "81504  Fx metacarpal neck-close           Closed fracture of neck of metacarpal bone(s)",
+	},
+	{
+		code: "81509  Mult fx metacarpus-close           Closed fracture of multiple sites of metacarpus",
+	},
+	{
+		code: "81510  Fx metacarpal NOS-open             Open fracture of metacarpal bone(s)",
+	},
+	{
+		code: "81511  Fx 1st metacarp base-opn           Open fracture of base of thumb [first] metacarpal",
+	},
+	{
+		code: "81512  Fx metacarp base NEC-opn           Open fracture of base of other metacarpal bone(s)",
+	},
+	{
+		code: "81513  Fx metacarpal shaft-open           Open fracture of shaft of metacarpal bone(s)",
+	},
+	{
+		code: "81514  Fx metacarpal neck-open            Open fracture of neck of metacarpal bone(s)",
+	},
+	{
+		code: "81519  Mult fx metacarpus-open            Open fracture of multiple sites of metacarpus",
+	},
+	{
+		code: "81600  Fx phalanx",
+	},
+	{
+		code: "81601  Fx mid/prx phal",
+	},
+	{
+		code: "81602  Fx dist phalanx",
+	},
+	{
+		code: "81603  Fx mult phalan",
+	},
+	{
+		code: "81610  Fx phalanx",
+	},
+	{
+		code: "81611  Fx mid/prx phal",
+	},
+	{
+		code: "81612  Fx distal phal",
+	},
+	{
+		code: "81613  Fx mult phalan",
+	},
+	{
+		code: "8170   Multiple fx hand-closed            Multiple closed fractures of hand bones",
+	},
+	{
+		code: "8171   Multiple fx hand-open              Multiple open fractures of hand bones",
+	},
+	{
+		code: "8180   Fx arm mult/NOS-closed             Ill-defined closed fractures of upper limb",
+	},
+	{
+		code: "8181   Fx arm mult/NOS-open               Ill-defined open fractures of upper limb",
+	},
+	{
+		code: "8190   Fx arms w rib/sternum-cl           Multiple closed fractures involving both upper limbs",
+	},
+	{
+		code: "8191   Fx arms w rib/stern-open           Multiple open fractures involving both upper limbs",
+	},
+	{
+		code: "82000  Fx femur intrcaps NOS-cl           Closed fracture of intracapsular section of neck of femur",
+	},
+	{
+		code: "82001  Fx up femur epiphy-clos            Closed fracture of epiphysis (separation) (upper) of neck of femur",
+	},
+	{
+		code: "82002  Fx femur",
+	},
+	{
+		code: "82003  Fx base femoral nck-clos           Closed fracture of base of neck of femur",
+	},
+	{
+		code: "82009  Fx femur intrcaps NEC-cl           Other closed transcervical fracture of neck of femur",
+	},
+	{
+		code: "82010  Fx femur intrcap NOS-opn           Open fracture of intracapsular section of neck of femur",
+	},
+	{
+		code: "82011  Fx up femur epiphy-open            Open fracture of epiphysis (separation) (upper) of neck of femur",
+	},
+	{
+		code: "82012  Fx femur",
+	},
+	{
+		code: "82013  Fx base femoral nck-open           Open fracture of base of neck of femur",
+	},
+	{
+		code: "82019  Fx femur intrcap NEC-opn           Other open transcervical fracture of neck of femur",
+	},
+	{
+		code: "82020  Trochanteric fx NOS-clos           Closed fracture of trochanteric section of neck of femur",
+	},
+	{
+		code: "82021  Intertrochanteric fx-cl            Closed fracture of intertrochanteric section of neck of femur",
+	},
+	{
+		code: "82022  Subtrochanteric fx-close           Closed fracture of subtrochanteric section of neck of femur",
+	},
+	{
+		code: "82030  Trochanteric fx NOS-open           Open fracture of trochanteric section of neck of femur",
+	},
+	{
+		code: "82031  Intertrochanteric fx-opn           Open fracture of intertrochanteric section of neck of femur",
+	},
+	{
+		code: "82032  Subtrochanteric fx-open            Open fracture of subtrochanteric section of neck of femur",
+	},
+	{
+		code: "8208   Fx neck of femur NOS-cl            Closed fracture of unspecified part of neck of femur",
+	},
+	{
+		code: "8209   Fx neck of femur NOS-opn           Open fracture of unspecified part of neck of femur",
+	},
+	{
+		code: "82100  Fx femur NOS-closed                Closed fracture of unspecified part of femur",
+	},
+	{
+		code: "82101  Fx femur shaft-closed              Closed fracture of shaft of femur",
+	},
+	{
+		code: "82110  Fx femur NOS-open                  Open fracture of unspecified part of femur",
+	},
+	{
+		code: "82111  Fx femur shaft-open                Open fracture of shaft of femur",
+	},
+	{
+		code: "82120  Fx low end femur NOS-cl            Closed fracture of lower end of femur",
+	},
+	{
+		code: "82121  Fx femoral condyle-close           Closed fracture of condyle",
+	},
+	{
+		code: "82122  Fx low femur epiphy-clos           Closed fracture of epiphysis",
+	},
+	{
+		code: "82123  Supracondyl fx femur-cl            Closed supracondylar fracture of femur",
+	},
+	{
+		code: "82129  Fx low end femur NEC-cl            Other closed fracture of lower end of femur",
+	},
+	{
+		code: "82130  Fx low end femur NOS-opn           Open fracture of lower end of femur",
+	},
+	{
+		code: "82131  Fx femoral condyle-open            Open fracture of condyle",
+	},
+	{
+		code: "82132  Fx low femur epiphy-open           Open fracture of epiphysis. Lower (separation) of femur",
+	},
+	{
+		code: "82133  Supracondyl fx femur-opn           Open supracondylar fracture of femur",
+	},
+	{
+		code: "82139  Fx low end femur NEC-opn           Other open fracture of lower end of femur",
+	},
+	{
+		code: "8220   Fracture patella-closed            Closed fracture of patella",
+	},
+	{
+		code: "8221   Fracture patella-open              Open fracture of patella",
+	},
+	{
+		code: "82300  Fx upper end tibia-close           Closed fracture of upper end of tibia alone",
+	},
+	{
+		code: "82301  Fx upper end fibula-clos           Closed fracture of upper end of fibula alone",
+	},
+	{
+		code: "82302  Fx up tibia w fibula-cl            Closed fracture of upper end of fibula with tibia",
+	},
+	{
+		code: "82310  Fx upper end tibia-open            Open fracture of upper end of tibia alone",
+	},
+	{
+		code: "82311  Fx upper end fibula-open           Open fracture of upper end of fibula alone",
+	},
+	{
+		code: "82312  Fx up tibia w fibula-opn           Open fracture of upper end of fibula with tibia",
+	},
+	{
+		code: "82320  Fx shaft tibia-closed              Closed fracture of shaft of tibia alone",
+	},
+	{
+		code: "82321  Fx shaft fibula-closed             Closed fracture of shaft of fibula alone",
+	},
+	{
+		code: "82322  Fx shaft fib w tib-clos            Closed fracture of shaft of fibula with tibia",
+	},
+	{
+		code: "82330  Fx tibia shaft-open                Open fracture of shaft of tibia alone",
+	},
+	{
+		code: "82331  Fx fibula shaft-open               Open fracture of shaft of fibula alone",
+	},
+	{
+		code: "82332  Fx shaft tibia w fib-opn           Open fracture of shaft of fibula with tibia",
+	},
+	{
+		code: "82340  Torus fracture of tibia            Torus fracture",
+	},
+	{
+		code: "82341  Torus fracture of fibula           Torus fracture",
+	},
+	{
+		code: "82342  Torus fx tibia/fibula              Torus fracture",
+	},
+	{
+		code: "82380  Fx tibia NOS-closed                Closed fracture of unspecified part of tibia alone",
+	},
+	{
+		code: "82381  Fx fibula NOS-closed               Closed fracture of unspecified part of fibula alone",
+	},
+	{
+		code: "82382  Fx tibia w fibula NOS-cl           Closed fracture of unspecified part of fibula with tibia",
+	},
+	{
+		code: "82390  Fx tibia NOS-open                  Open fracture of unspecified part of tibia alone",
+	},
+	{
+		code: "82391  Fx fibula NOS-open                 Open fracture of unspecified part of fibula alone",
+	},
+	{
+		code: "82392  Fx tibia w fib NOS-open            Open fracture of unspecified part of fibula with tibia",
+	},
+	{
+		code: "8240   Fx medial malleolus-clos           Fracture of medial malleolus",
+	},
+	{
+		code: "8241   Fx medial malleolus-open           Fracture of medial malleolus",
+	},
+	{
+		code: "8242   Fx lateral malleolus-cl            Fracture of lateral malleolus",
+	},
+	{
+		code: "8243   Fx lateral malleolus-opn           Fracture of lateral malleolus",
+	},
+	{
+		code: "8244   Fx bimalleolar-closed              Bimalleolar fracture",
+	},
+	{
+		code: "8245   Fx bimalleolar-open                Bimalleolar fracture",
+	},
+	{
+		code: "8246   Fx trimalleolar-closed             Trimalleolar fracture",
+	},
+	{
+		code: "8247   Fx trimalleolar-open               Trimalleolar fracture",
+	},
+	{
+		code: "8248   Fx ankle NOS-closed                Unspecified fracture of ankle",
+	},
+	{
+		code: "8249   Fx ankle NOS-open                  Unspecified fracture of ankle",
+	},
+	{
+		code: "8250   Fracture calcaneus-close           Fracture of calcaneus",
+	},
+	{
+		code: "8251   Fracture calcaneus-open            Fracture of calcaneus",
+	},
+	{
+		code: "82520  Fx foot bone NOS-closed            Closed fracture of unspecified bone(s) of foot [except toes]",
+	},
+	{
+		code: "82521  Fx astragalus-closed               Closed fracture of astragalus",
+	},
+	{
+		code: "82522  Fx navicular",
+	},
+	{
+		code: "82523  Fx cuboid-closed                   Closed fracture of cuboid",
+	},
+	{
+		code: "82524  Fx cuneiform",
+	},
+	{
+		code: "82525  Fx metatarsal-closed               Closed fracture of metatarsal bone(s)",
+	},
+	{
+		code: "82529  Fx foot bone NEC-closed            Other closed fracture of tarsal and metatarsal bones",
+	},
+	{
+		code: "82530  Fx foot bone NOS-open              Open fracture of unspecified bone(s) of foot [except toes]",
+	},
+	{
+		code: "82531  Fx astragalus-open                 Open fracture of astragalus",
+	},
+	{
+		code: "82532  Fx navicular",
+	},
+	{
+		code: "82533  Fx cuboid-open                     Open fracture of cuboid",
+	},
+	{
+		code: "82534  Fx cuneiform",
+	},
+	{
+		code: "82535  Fx metatarsal-open                 Open fracture of metatarsal bone(s)",
+	},
+	{
+		code: "82539  Fx foot bone NEC-open              Other open fracture of tarsal and metatarsal bones",
+	},
+	{
+		code: "8260   Fx phalanx",
+	},
+	{
+		code: "8261   Fx phalanx",
+	},
+	{
+		code: "8270   Fx lower limb NEC-closed           Other",
+	},
+	{
+		code: "8271   Fx lower limb NEC-open             Other",
+	},
+	{
+		code: "8280   Fx legs w arm/rib-closed           Closed multiple fractures involving both lower limbs",
+	},
+	{
+		code: "8281   Fx legs w arm/rib-open             Open multiple fractures involving both lower limbs",
+	},
+	{
+		code: "8290   Fracture NOS-closed                Fracture of unspecified bone",
+	},
+	{
+		code: "8291   Fracture NOS-open                  Fracture of unspecified bone",
+	},
+	{
+		code: "8300   Dislocation jaw-closed             Closed dislocation of jaw",
+	},
+	{
+		code: "8301   Dislocation jaw-open               Open dislocation of jaw",
+	},
+	{
+		code: "83100  Disloc shoulder NOS-clos           Closed dislocation of shoulder",
+	},
+	{
+		code: "83101  Ant disloc humerus-close           Closed anterior dislocation of humerus",
+	},
+	{
+		code: "83102  Post disloc humerus-clos           Closed posterior dislocation of humerus",
+	},
+	{
+		code: "83103  Infer disloc humerus-cl            Closed inferior dislocation of humerus",
+	},
+	{
+		code: "83104  Disloc acromioclavic-cl            Closed dislocation of acromioclavicular (joint)",
+	},
+	{
+		code: "83109  Disloc shoulder NEC-clos           Closed dislocation of shoulder",
+	},
+	{
+		code: "83110  Disloc shoulder NOS-open           Open dislocation of shoulder",
+	},
+	{
+		code: "83111  Ant disloc humerus-open            Open anterior dislocation of humerus",
+	},
+	{
+		code: "83112  Post disloc humerus-open           Open posterior dislocation of humerus",
+	},
+	{
+		code: "83113  Infer disloc humerus-opn           Open inferior dislocation of humerus",
+	},
+	{
+		code: "83114  Disloc acromioclavic-opn           Open dislocation of acromioclavicular (joint)",
+	},
+	{
+		code: "83119  Disloc shoulder NEC-open           Open dislocation of shoulder",
+	},
+	{
+		code: "83200  Dislocat elbow NOS-close           Closed dislocation of elbow",
+	},
+	{
+		code: "83201  Ant disloc elbow-closed            Closed anterior dislocation of elbow",
+	},
+	{
+		code: "83202  Post disloc elbow-closed           Closed posterior dislocation of elbow",
+	},
+	{
+		code: "83203  Med disloc elbow-closed            Closed medial dislocation of elbow",
+	},
+	{
+		code: "83204  Lat disloc elbow-closed            Closed lateral dislocation of elbow",
+	},
+	{
+		code: "83209  Dislocat elbow NEC-close           Closed dislocation of elbow",
+	},
+	{
+		code: "83210  Dislocat elbow NOS-open            Open dislocation of elbow",
+	},
+	{
+		code: "83211  Ant disloc elbow-open              Open anterior dislocation of elbow",
+	},
+	{
+		code: "83212  Post disloc elbow-open             Open posterior dislocation of elbow",
+	},
+	{
+		code: "83213  Med disloc elbow-open              Open medial dislocation of elbow",
+	},
+	{
+		code: "83214  Lat dislocat elbow-open            Open lateral dislocation of elbow",
+	},
+	{
+		code: "83219  Dislocat elbow NEC-open            Open dislocation of elbow",
+	},
+	{
+		code: "8322   Nursemaid's elbow                  Nursemaid's elbow",
+	},
+	{
+		code: "83300  Disloc wrist NOS-closed            Closed dislocation of wrist",
+	},
+	{
+		code: "83301  Disloc dist radiouln-cl            Closed dislocation of radioulnar (joint)",
+	},
+	{
+		code: "83302  Disloc radiocarpal-clos            Closed dislocation of radiocarpal (joint)",
+	},
+	{
+		code: "83303  Disloca midcarpal-closed           Closed dislocation of midcarpal (joint)",
+	},
+	{
+		code: "83304  Disloc carpometacarp-cl            Closed dislocation of carpometacarpal (joint)",
+	},
+	{
+		code: "83305  Disloc metacarpal-closed           Closed dislocation of metacarpal (bone)",
+	},
+	{
+		code: "83309  Disloc wrist NEC-closed            Closed dislocation of wrist",
+	},
+	{
+		code: "83310  Dislocat wrist NOS-open            Open dislocation of wrist",
+	},
+	{
+		code: "83311  Disloc dist radiouln-opn           Open dislocation of radioulnar (joint)",
+	},
+	{
+		code: "83312  Disloc radiocarpal-open            Open dislocation of radiocarpal (joint)",
+	},
+	{
+		code: "83313  Dislocat midcarpal-open            Open dislocation of midcarpal (joint)",
+	},
+	{
+		code: "83314  Disloc carpometacarp-opn           Open dislocation of carpometacarpal (joint)",
+	},
+	{
+		code: "83315  Dislocat metacarpal-open           Open dislocation of metacarpal (bone)",
+	},
+	{
+		code: "83319  Dislocat wrist NEC-open            Open dislocation of wrist",
+	},
+	{
+		code: "83400  Disl finger NOS-closed             Closed dislocation of finger",
+	},
+	{
+		code: "83401  Disloc metacarpophaln-cl           Closed dislocation of metacarpophalangeal (joint)",
+	},
+	{
+		code: "83402  Disl interphaln hand-cl            Closed dislocation of interphalangeal (joint)",
+	},
+	{
+		code: "83410  Disloc finger NOS-open             Open dislocation of finger",
+	},
+	{
+		code: "83411  Disl metacarpophalan-opn           Open dislocation of metacarpophalangeal (joint)",
+	},
+	{
+		code: "83412  Disl interphaln hand-opn           Open dislocation interphalangeal (joint)",
+	},
+	{
+		code: "83500  Dislocat hip NOS-closed            Closed dislocation of hip",
+	},
+	{
+		code: "83501  Posterior disloc hip-cl            Closed posterior dislocation of hip",
+	},
+	{
+		code: "83502  Obturator disloc hip-cl            Closed obturator dislocation of hip",
+	},
+	{
+		code: "83503  Ant disloc hip NEC-clos            Other closed anterior dislocation of hip",
+	},
+	{
+		code: "83510  Dislocation hip NOS-open           Open dislocation of hip",
+	},
+	{
+		code: "83511  Posterior disloc hip-opn           Open posterior dislocation of hip",
+	},
+	{
+		code: "83512  Obturator disloc hip-opn           Open obturator dislocation of hip",
+	},
+	{
+		code: "83513  Ant disloc hip NEC-open            Other open anterior dislocation of hip",
+	},
+	{
+		code: "8360   Tear med menisc knee-cur           Tear of medial cartilage or meniscus of knee",
+	},
+	{
+		code: "8361   Tear lat menisc knee-cur           Tear of lateral cartilage or meniscus of knee",
+	},
+	{
+		code: "8362   Tear meniscus NEC-curren           Other tear of cartilage or meniscus of knee",
+	},
+	{
+		code: "8363   Dislocat patella-closed            Dislocation of patella",
+	},
+	{
+		code: "8364   Dislocation patella-open           Dislocation of patella",
+	},
+	{
+		code: "83650  Dislocat knee NOS-closed           Dislocation of knee",
+	},
+	{
+		code: "83651  Ant disloc prox tibia-cl           Anterior dislocation of tibia",
+	},
+	{
+		code: "83652  Post disl prox tibia-cl            Posterior dislocation of tibia",
+	},
+	{
+		code: "83653  Med disloc prox tibia-cl           Medial dislocation of tibia",
+	},
+	{
+		code: "83654  Lat disloc prox tibia-cl           Lateral dislocation of tibia",
+	},
+	{
+		code: "83659  Dislocat knee NEC-closed           Other dislocation of knee",
+	},
+	{
+		code: "83660  Dislocat knee NOS-open             Dislocation of knee",
+	},
+	{
+		code: "83661  Ant disl prox tibia-open           Anterior dislocation of tibia",
+	},
+	{
+		code: "83662  Post disl prox tibia-opn           Posterior dislocation of tibia",
+	},
+	{
+		code: "83663  Med disl prox tibia-open           Medial dislocation of tibia",
+	},
+	{
+		code: "83664  Lat disl prox tibia-open           Lateral dislocation of tibia",
+	},
+	{
+		code: "83669  Dislocat knee NEC-open             Other dislocation of knee",
+	},
+	{
+		code: "8370   Dislocation ankle-closed           Closed dislocation of ankle",
+	},
+	{
+		code: "8371   Dislocation ankle-open             Open dislocation of ankle",
+	},
+	{
+		code: "83800  Dislocat foot NOS-closed           Closed dislocation of foot",
+	},
+	{
+		code: "83801  Disloc tarsal NOS-closed           Closed dislocation of tarsal (bone)",
+	},
+	{
+		code: "83802  Disloc midtarsal-closed            Closed dislocation of midtarsal (joint)",
+	},
+	{
+		code: "83803  Disloc tarsometatars-cl            Closed dislocation of tarsometatarsal (joint)",
+	},
+	{
+		code: "83804  Disloc metatarsal NOS-cl           Closed dislocation of metatarsal (bone)",
+	},
+	{
+		code: "83805  Disl metatarsophalang-cl           Closed dislocation of metatarsophalangeal (joint)",
+	},
+	{
+		code: "83806  Disl interphalan foot-cl           Closed dislocation of interphalangeal (joint)",
+	},
+	{
+		code: "83809  Dislocat foot NEC-closed           Closed dislocation of foot",
+	},
+	{
+		code: "83810  Dislocat foot NOS-open             Open dislocation of foot",
+	},
+	{
+		code: "83811  Disloc tarsal NOS-open             Open dislocation of tarsal (bone)",
+	},
+	{
+		code: "83812  Disloc midtarsal-open              Open dislocation of midtarsal (joint)",
+	},
+	{
+		code: "83813  Disl tarsometatarsal-opn           Open dislocation of tarsometatarsal (joint)",
+	},
+	{
+		code: "83814  Disl metatarsal NOS-open           Open dislocation of metatarsal (bone)",
+	},
+	{
+		code: "83815  Disloc metatarsophal-opn           Open dislocation of metatarsophalangeal (joint)",
+	},
+	{
+		code: "83816  Dis interphalan foot-opn           Open dislocation of interphalangeal (joint)",
+	},
+	{
+		code: "83819  Dislocat foot NEC-open             Open dislocation of foot",
+	},
+	{
+		code: "83900  Disloc cerv vert NOS-cl            Closed dislocation",
+	},
+	{
+		code: "83901  Disloc 1st cerv vert-cl            Closed dislocation",
+	},
+	{
+		code: "83902  Disloc 2nd cerv vert-cl            Closed dislocation",
+	},
+	{
+		code: "83903  Disloc 3rd cerv vert-cl            Closed dislocation",
+	},
+	{
+		code: "83904  Disloc 4th cerv vert-cl            Closed dislocation",
+	},
+	{
+		code: "83905  Disloc 5th cerv vert-cl            Closed dislocation",
+	},
+	{
+		code: "83906  Disloc 6th cerv vert-cl            Closed dislocation",
+	},
+	{
+		code: "83907  Disloc 7th cerv vert-cl            Closed dislocation",
+	},
+	{
+		code: "83908  Disloc mult cerv vert-cl           Closed dislocation",
+	},
+	{
+		code: "83910  Disloc cerv vert NOS-opn           Open dislocation",
+	},
+	{
+		code: "83911  Disloc lst cerv vert-opn           Open dislocation",
+	},
+	{
+		code: "83912  Disloc 2nd cerv vert-opn           Open dislocation",
+	},
+	{
+		code: "83913  Disloc 3rd cerv vert-opn           Open dislocation",
+	},
+	{
+		code: "83914  Disloc 4th cerv vert-opn           Open dislocation",
+	},
+	{
+		code: "83915  Disloc 5th cerv vert-opn           Open dislocation",
+	},
+	{
+		code: "83916  Disloc 6th cerv vert-opn           Open dislocation",
+	},
+	{
+		code: "83917  Disloc 7th cerv vert-opn           Open dislocation",
+	},
+	{
+		code: "83918  Disloc mlt cerv vert-opn           Open dislocation",
+	},
+	{
+		code: "83920  Dislocat lumbar vert-cl            Closed dislocation",
+	},
+	{
+		code: "83921  Disloc thoracic vert-cl            Closed dislocation",
+	},
+	{
+		code: "83930  Dislocat lumbar vert-opn           Open dislocation",
+	},
+	{
+		code: "83931  Disloc thoracic vert-opn           Open dislocation",
+	},
+	{
+		code: "83940  Dislocat vertebra NOS-cl           Closed dislocation",
+	},
+	{
+		code: "83941  Dislocat coccyx-closed             Closed dislocation",
+	},
+	{
+		code: "83942  Dislocat sacrum-closed             Closed dislocation",
+	},
+	{
+		code: "83949  Dislocat vertebra NEC-cl           Closed dislocation",
+	},
+	{
+		code: "83950  Disloc vertebra NOS-open           Open dislocation",
+	},
+	{
+		code: "83951  Dislocat coccyx-open               Open dislocation",
+	},
+	{
+		code: "83952  Dislocat sacrum-open               Open dislocation",
+	},
+	{
+		code: "83959  Disloc vertebra NEC-open           Open dislocation",
+	},
+	{
+		code: "83961  Dislocat sternum-closed            Closed dislocation",
+	},
+	{
+		code: "83969  Dislocat site NEC-closed           Closed dislocation",
+	},
+	{
+		code: "83971  Dislocation sternum-open           Open dislocation",
+	},
+	{
+		code: "83979  Dislocat site NEC-open             Open dislocation",
+	},
+	{
+		code: "8398   Dislocation NEC-closed             Closed dislocation",
+	},
+	{
+		code: "8399   Dislocation NEC-open               Open dislocation",
+	},
+	{
+		code: "8400   Sprain acromioclavicular           Acromioclavicular (joint) (ligament) sprain",
+	},
+	{
+		code: "8401   Sprain coracoclavicular            Coracoclavicular (ligament) sprain",
+	},
+	{
+		code: "8402   Sprain coracohumeral               Coracohumeral (ligament) sprain",
+	},
+	{
+		code: "8403   Sprain infraspinatus               Infraspinatus (muscle) (tendon) sprain",
+	},
+	{
+		code: "8404   Sprain rotator cuff                Rotator cuff (capsule) sprain",
+	},
+	{
+		code: "8405   Sprain subscapularis               Subscapularis (muscle) sprain",
+	},
+	{
+		code: "8406   Sprain supraspinatus               Supraspinatus (muscle) (tendon) sprain",
+	},
+	{
+		code: "8407   Sup glenoid labrm lesion           Superior glenoid labrum lesion",
+	},
+	{
+		code: "8408   Sprain shoulder/arm NEC            Sprains and strains of other specified sites of shoulder and upper arm",
+	},
+	{
+		code: "8409   Sprain shoulder/arm NOS            Sprains and strains of unspecified site of shoulder and upper arm",
+	},
+	{
+		code: "8410   Sprain radial collat lig           Radial collateral ligament sprain",
+	},
+	{
+		code: "8411   Sprain ulnar collat lig            Ulnar collateral ligament sprain",
+	},
+	{
+		code: "8412   Sprain radiohumeral                Radiohumeral (joint) sprain",
+	},
+	{
+		code: "8413   Sprain ulnohumeral                 Ulnohumeral (joint) sprain",
+	},
+	{
+		code: "8418   Sprain elbow/forearm NEC           Sprains and strains of other specified sites of elbow and forearm",
+	},
+	{
+		code: "8419   Sprain elbow/forearm NOS           Sprains and strains of unspecified site of elbow and forearm",
+	},
+	{
+		code: "84200  Sprain of wrist NOS                Sprain of wrist",
+	},
+	{
+		code: "84201  Sprain carpal                      Sprain of carpal (joint) of wrist",
+	},
+	{
+		code: "84202  Sprain radiocarpal                 Sprain of radiocarpal (joint) (ligament) of wrist",
+	},
+	{
+		code: "84209  Sprain of wrist NEC                Other sprains and strains of wrist",
+	},
+	{
+		code: "84210  Sprain of hand NOS                 Sprain of hand",
+	},
+	{
+		code: "84211  Sprain carpometacarpal             Sprain of carpometacarpal (joint) of hand",
+	},
+	{
+		code: "84212  Sprain metacarpophalang            Sprain of metacarpophalangeal (joint) of hand",
+	},
+	{
+		code: "84213  Sprain interphalangeal             Sprain of interphalangeal (joint) of hand",
+	},
+	{
+		code: "84219  Sprain of hand NEC                 Other sprains and strains of hand",
+	},
+	{
+		code: "8430   Sprain iliofemoral                 Iliofemoral (ligament) sprain",
+	},
+	{
+		code: "8431   Sprain ischiocapsular              Ischiocapsular (ligament) sprain",
+	},
+	{
+		code: "8438   Sprain hip & thigh NEC             Sprains and strains of other specified sites of hip and thigh",
+	},
+	{
+		code: "8439   Sprain hip & thigh NOS             Sprains and strains of unspecified site of hip and thigh",
+	},
+	{
+		code: "8440   Sprain lateral coll lig            Sprain of lateral collateral ligament of knee",
+	},
+	{
+		code: "8441   Sprain medial collat lig           Sprain of medial collateral ligament of knee",
+	},
+	{
+		code: "8442   Sprain cruciate lig knee           Sprain of cruciate ligament of knee",
+	},
+	{
+		code: "8443   Sprain super tibiofibula           Sprain of tibiofibular (joint) (ligament) superior",
+	},
+	{
+		code: "8448   Sprain of knee & leg NEC           Sprains and strains of other specified sites of knee and leg",
+	},
+	{
+		code: "8449   Sprain of knee & leg NOS           Sprains and strains of unspecified site of knee and leg",
+	},
+	{
+		code: "84500  Sprain of ankle NOS                Sprain of ankle",
+	},
+	{
+		code: "84501  Sprain of ankle deltoid            Sprain of deltoid (ligament)",
+	},
+	{
+		code: "84502  Sprain calcaneofibular             Sprain of calcaneofibular (ligament) of ankle",
+	},
+	{
+		code: "84503  Sprain distal tibiofibul           Sprain of tibiofibular (ligament)",
+	},
+	{
+		code: "84509  Sprain of ankle NEC                Other sprains and strains of ankle",
+	},
+	{
+		code: "84510  Sprain of foot NOS                 Sprain of foot",
+	},
+	{
+		code: "84511  Sprain tarsometatarsal             Sprain of tarsometatarsal (joint) (ligament) of foot",
+	},
+	{
+		code: "84512  Sprain metatarsophalang            Sprain of metatarsophalangeal (joint) of foot",
+	},
+	{
+		code: "84513  Sprain interphalang toe            Sprain of interphalangeal (joint)",
+	},
+	{
+		code: "84519  Sprain of foot NEC                 Other sprain of foot",
+	},
+	{
+		code: "8460   Sprain lumbosacral                 Sprain of lumbosacral (joint) (ligament)",
+	},
+	{
+		code: "8461   Sprain sacroiliac                  Sprain of sacroiliac ligament",
+	},
+	{
+		code: "8462   Sprain sacrospinatus               Sprain of sacrospinatus (ligament)",
+	},
+	{
+		code: "8463   Sprain sacrotuberous               Sprain of sacrotuberous (ligament)",
+	},
+	{
+		code: "8468   Sprain sacroiliac NEC              Sprain of other specified sites of sacroiliac region",
+	},
+	{
+		code: "8469   Sprain sacroiliac NOS              Sprain of unspecified site of sacroiliac region",
+	},
+	{
+		code: "8470   Sprain of neck                     Sprain of neck",
+	},
+	{
+		code: "8471   Sprain thoracic region             Sprain of thoracic",
+	},
+	{
+		code: "8472   Sprain lumbar region               Sprain of lumbar",
+	},
+	{
+		code: "8473   Sprain of sacrum                   Sprain of sacrum",
+	},
+	{
+		code: "8474   Sprain of coccyx                   Sprain of coccyx",
+	},
+	{
+		code: "8479   Sprain of back NOS                 Sprain of unspecified site of back",
+	},
+	{
+		code: "8480   Sprain of nasal septum             Sprain of septal cartilage of nose",
+	},
+	{
+		code: "8481   Sprain of jaw                      Sprain of jaw",
+	},
+	{
+		code: "8482   Sprain of thyroid region           Sprain of thyroid region",
+	},
+	{
+		code: "8483   Sprain of ribs                     Sprain of ribs",
+	},
+	{
+		code: "84840  Sprain of sternum NOS              Sprain of sternum",
+	},
+	{
+		code: "84841  Sprain sternoclavicular            Sprain of sternoclavicular (joint) (ligament)",
+	},
+	{
+		code: "84842  Sprain chondrosternal              Sprain of chondrosternal (joint)",
+	},
+	{
+		code: "84849  Sprain of sternum NEC              Sprain of sternum",
+	},
+	{
+		code: "8485   Sprain of pelvis                   Sprain of pelvic",
+	},
+	{
+		code: "8488   Sprain NEC                         Other specified sites of sprains and strains",
+	},
+	{
+		code: "8489   Sprain NOS                         Unspecified site of sprain and strain",
+	},
+	{
+		code: "8500   Concussion w/o coma                Concussion with no loss of consciousness",
+	},
+	{
+		code: "85011  Concus-brief coma <31 mn           Concussion",
+	},
+	{
+		code: "85012  Concus-brf coma 31-59 mn           Concussion",
+	},
+	{
+		code: "8502   Concussion-moderate coma           Concussion with moderate loss of consciousness",
+	},
+	{
+		code: "8503   Concussion-prolong coma            Concussion with prolonged loss of consciousness and return to pre-existing conscious level",
+	},
+	{
+		code: "8504   Concussion-deep coma               Concussion with prolonged loss of consciousness",
+	},
+	{
+		code: "8505   Concussion w coma NOS              Concussion with loss of consciousness of unspecified duration",
+	},
+	{
+		code: "8509   Concussion NOS                     Concussion",
+	},
+	{
+		code: "85100  Cerebral cortx contusion           Cortex (cerebral) contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85101  Cortex contusion-no coma           Cortex (cerebral) contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85102  Cortex contus-brief coma           Cortex (cerebral) contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85103  Cortex contus-mod coma             Cortex (cerebral) contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85104  Cortx contus-prolng coma           Cortex (cerebral) contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85105  Cortex contus-deep coma            Cortex (cerebral) contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85106  Cortex contus-coma NOS             Cortex (cerebral) contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85109  Cortex contus-concus NOS           Cortex (cerebral) contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85110  Cortex contusion/opn wnd           Cortex (cerebral) contusion with open intracranial wound",
+	},
+	{
+		code: "85111  Opn cortx contus-no coma           Cortex (cerebral) contusion with open intracranial wound",
+	},
+	{
+		code: "85112  Opn cort contus-brf coma           Cortex (cerebral) contusion with open intracranial wound",
+	},
+	{
+		code: "85113  Opn cort contus-mod coma           Cortex (cerebral) contusion with open intracranial wound",
+	},
+	{
+		code: "85114  Opn cort contu-prol coma           Cortex (cerebral) contusion with open intracranial wound",
+	},
+	{
+		code: "85115  Opn cort contu-deep coma           Cortex (cerebral) contusion with open intracranial wound",
+	},
+	{
+		code: "85116  Opn cort contus-coma NOS           Cortex (cerebral) contusion with open intracranial wound",
+	},
+	{
+		code: "85119  Opn cortx contus-concuss           Cortex (cerebral) contusion with open intracranial wound",
+	},
+	{
+		code: "85120  Cerebral cortex lacerat            Cortex (cerebral) laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85121  Cortex lacerat w/o coma            Cortex (cerebral) laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85122  Cortex lacera-brief coma           Cortex (cerebral) laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85123  Cortex lacerat-mod coma            Cortex (cerebral) laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85124  Cortex lacerat-prol coma           Cortex (cerebral) laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85125  Cortex lacerat-deep coma           Cortex (cerebral) laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85126  Cortex lacerat-coma NOS            Cortex (cerebral) laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85129  Cortex lacerat-concuss             Cortex (cerebral) laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85130  Cortex lacer w opn wound           Cortex (cerebral) laceration with open intracranial wound",
+	},
+	{
+		code: "85131  Opn cortex lacer-no coma           Cortex (cerebral) laceration with open intracranial wound",
+	},
+	{
+		code: "85132  Opn cortx lac-brief coma           Cortex (cerebral) laceration with open intracranial wound",
+	},
+	{
+		code: "85133  Opn cortx lacer-mod coma           Cortex (cerebral) laceration with open intracranial wound",
+	},
+	{
+		code: "85134  Opn cortx lac-proln coma           Cortex (cerebral) laceration with open intracranial wound",
+	},
+	{
+		code: "85135  Opn cortex lac-deep coma           Cortex (cerebral) laceration with open intracranial wound",
+	},
+	{
+		code: "85136  Opn cortx lacer-coma NOS           Cortex (cerebral) laceration with open intracranial wound",
+	},
+	{
+		code: "85139  Opn cortx lacer-concuss            Cortex (cerebral) laceration with open intracranial wound",
+	},
+	{
+		code: "85140  Cerebel/brain stm contus           Cerebellar or brain stem contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85141  Cerebell contus w/o coma           Cerebellar or brain stem contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85142  Cerebell contus-brf coma           Cerebellar or brain stem contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85143  Cerebell contus-mod coma           Cerebellar or brain stem contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85144  Cerebel contus-prol coma           Cerebellar or brain stem contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85145  Cerebel contus-deep coma           Cerebellar or brain stem contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85146  Cerebell contus-coma NOS           Cerebellar or brain stem contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85149  Cerebell contus-concuss            Cerebellar or brain stem contusion without mention of open intracranial wound",
+	},
+	{
+		code: "85150  Cerebel contus w opn wnd           Cerebellar or brain stem contusion with open intracranial wound",
+	},
+	{
+		code: "85151  Opn cerebe cont w/o coma           Cerebellar or brain stem contusion with open intracranial wound",
+	},
+	{
+		code: "85152  Opn cerebe cont-brf coma           Cerebellar or brain stem contusion with open intracranial wound",
+	},
+	{
+		code: "85153  Opn cerebe cont-mod coma           Cerebellar or brain stem contusion with open intracranial wound",
+	},
+	{
+		code: "85154  Opn cerebe cont-prol com           Cerebellar or brain stem contusion with open intracranial wound",
+	},
+	{
+		code: "85155  Opn cerebe cont-deep com           Cerebellar or brain stem contusion with open intracranial wound",
+	},
+	{
+		code: "85156  Opn cerebe cont-coma NOS           Cerebellar or brain stem contusion with open intracranial wound",
+	},
+	{
+		code: "85159  Opn cerebel cont-concuss           Cerebellar or brain stem contusion with open intracranial wound",
+	},
+	{
+		code: "85160  Cerebel/brain stem lacer           Cerebellar or brain stem laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85161  Cerebel lacerat w/o coma           Cerebellar or brain stem laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85162  Cerebel lacer-brief coma           Cerebellar or brain stem laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85163  Cerebel lacerat-mod coma           Cerebellar or brain stem laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85164  Cerebel lacer-proln coma           Cerebellar or brain stem laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85165  Cerebell lacer-deep coma           Cerebellar or brain stem laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85166  Cerebel lacerat-coma NOS           Cerebellar or brain stem laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85169  Cerebel lacer-concussion           Cerebellar or brain stem laceration without mention of open intracranial wound",
+	},
+	{
+		code: "85170  Cerebel lacer w open wnd           Cerebellar or brain stem laceration with open intracranial wound",
+	},
+	{
+		code: "85171  Opn cerebel lac w/o coma           Cerebellar or brain stem laceration with open intracranial wound",
+	},
+	{
+		code: "85172  Opn cerebel lac-brf coma           Cerebellar or brain stem laceration with open intracranial wound",
+	},
+	{
+		code: "85173  Opn cerebel lac-mod coma           Cerebellar or brain stem laceration with open intracranial wound",
+	},
+	{
+		code: "85174  Opn cerebe lac-prol coma           Cerebellar or brain stem laceration with open intracranial wound",
+	},
+	{
+		code: "85175  Opn cerebe lac-deep coma           Cerebellar or brain stem laceration with open intracranial wound",
+	},
+	{
+		code: "85176  Opn cerebel lac-coma NOS           Cerebellar or brain stem laceration with open intracranial wound",
+	},
+	{
+		code: "85179  Opn cerebell lac-concuss           Cerebellar or brain stem laceration with open intracranial wound",
+	},
+	{
+		code: "85180  Brain laceration NEC               Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85181  Brain lacer NEC w/o coma           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85182  Brain lac NEC-brief coma           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85183  Brain lacer NEC-mod coma           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85184  Brain lac NEC-proln coma           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85185  Brain lac NEC-deep coma            Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85186  Brain lacer NEC-coma NOS           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85189  Brain lacer NEC-concuss            Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85190  Brain lac NEC w open wnd           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85191  Opn brain lacer w/o coma           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85192  Opn brain lac-brief coma           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85193  Opn brain lacer-mod coma           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85194  Opn brain lac-proln coma           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85195  Open brain lac-deep coma           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85196  Opn brain lacer-coma NOS           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85199  Open brain lacer-concuss           Other and unspecified cerebral laceration and contusion",
+	},
+	{
+		code: "85200  Traum subarachnoid hem             Subarachnoid hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85201  Subarachnoid hem-no coma           Subarachnoid hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85202  Subarach hem-brief coma            Subarachnoid hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85203  Subarach hem-mod coma              Subarachnoid hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85204  Subarach hem-prolng coma           Subarachnoid hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85205  Subarach hem-deep coma             Subarachnoid hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85206  Subarach hem-coma NOS              Subarachnoid hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85209  Subarach hem-concussion            Subarachnoid hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85210  Subarach hem w opn wound           Subarachnoid hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85211  Opn subarach hem-no coma           Subarachnoid hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85212  Op subarach hem-brf coma           Subarachnoid hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85213  Op subarach hem-mod coma           Subarachnoid hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85214  Op subarach hem-prol com           Subarachnoid hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85215  Op subarach hem-deep com           Subarachnoid hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85216  Op subarach hem-coma NOS           Subarachnoid hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85219  Opn subarach hem-concuss           Subarachnoid hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85220  Traumatic subdural hem             Subdural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85221  Subdural hem w/o coma              Subdural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85222  Subdural hem-brief coma            Subdural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85223  Subdural hemorr-mod coma           Subdural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85224  Subdural hem-prolng coma           Subdural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85225  Subdural hem-deep coma             Subdural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85226  Subdural hemorr-coma NOS           Subdural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85229  Subdural hem-concussion            Subdural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85230  Subdural hem w opn wound           Subdural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85231  Open subdur hem w/o coma           Subdural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85232  Opn subdur hem-brf coma            Subdural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85233  Opn subdur hem-mod coma            Subdural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85234  Opn subdur hem-prol coma           Subdural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85235  Opn subdur hem-deep coma           Subdural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85236  Opn subdur hem-coma NOS            Subdural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85239  Opn subdur hem-concuss             Subdural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85240  Traumatic extradural hem           Extradural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85241  Extradural hem w/o coma            Extradural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85242  Extradur hem-brief coma            Extradural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85243  Extradural hem-mod coma            Extradural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85244  Extradur hem-proln coma            Extradural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85245  Extradural hem-deep coma           Extradural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85246  Extradural hem-coma NOS            Extradural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85249  Extadural hem-concuss              Extradural hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85250  Extradural hem w opn wnd           Extradural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85251  Extradural hemor-no coma           Extradural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85252  Extradur hem-brief coma            Extradural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85253  Extradural hem-mod coma            Extradural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85254  Extradur hem-proln coma            Extradural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85255  Extradur hem-deep coma             Extradural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85256  Extradural hem-coma NOS            Extradural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85259  Extradural hem-concuss             Extradural hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85300  Traumatic brain hem NEC            Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85301  Brain hem NEC w/o coma             Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85302  Brain hem NEC-brief coma           Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85303  Brain hem NEC-mod coma             Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85304  Brain hem NEC-proln coma           Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85305  Brain hem NEC-deep coma            Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85306  Brain hem NEC-coma NOS             Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85309  Brain hem NEC-concussion           Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound",
+	},
+	{
+		code: "85310  Brain hem NEC w opn wnd            Other and unspecified intracranial hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85311  Brain hem opn w/o coma             Other and unspecified intracranial hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85312  Brain hem opn-brf coma             Other and unspecified intracranial hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85313  Brain hem open-mod coma            Other and unspecified intracranial hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85314  Brain hem opn-proln coma           Other and unspecified intracranial hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85315  Brain hem open-deep coma           Other and unspecified intracranial hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85316  Brain hem open-coma NOS            Other and unspecified intracranial hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85319  Brain hem opn-concussion           Other and unspecified intracranial hemorrhage following injury with open intracranial wound",
+	},
+	{
+		code: "85400  Brain injury NEC                   Intracranial injury of other and unspecified nature without mention of open intracranial wound",
+	},
+	{
+		code: "85401  Brain injury NEC-no coma           Intracranial injury of other and unspecified nature without mention of open intracranial wound",
+	},
+	{
+		code: "85402  Brain inj NEC-brief coma           Intracranial injury of other and unspecified nature without mention of open intracranial wound",
+	},
+	{
+		code: "85403  Brain inj NEC-mod coma             Intracranial injury of other and unspecified nature without mention of open intracranial wound",
+	},
+	{
+		code: "85404  Brain inj NEC-proln coma           Intracranial injury of other and unspecified nature without mention of open intracranial wound",
+	},
+	{
+		code: "85405  Brain inj NEC-deep coma            Intracranial injury of other and unspecified nature without mention of open intracranial wound",
+	},
+	{
+		code: "85406  Brain inj NEC-coma NOS             Intracranial injury of other and unspecified nature without mention of open intracranial wound",
+	},
+	{
+		code: "85409  Brain inj NEC-concussion           Intracranial injury of other and unspecified nature without mention of open intracranial wound",
+	},
+	{
+		code: "85410  Brain injury w opn wnd             Intracranial injury of other and unspecified nature with open intracranial wound",
+	},
+	{
+		code: "85411  Opn brain inj w/o coma             Intracranial injury of other and unspecified nature with open intracranial wound",
+	},
+	{
+		code: "85412  Opn brain inj-brief coma           Intracranial injury of other and unspecified nature with open intracranial wound",
+	},
+	{
+		code: "85413  Opn brain inj-mod coma             Intracranial injury of other and unspecified nature with open intracranial wound",
+	},
+	{
+		code: "85414  Opn brain inj-proln coma           Intracranial injury of other and unspecified nature with open intracranial wound",
+	},
+	{
+		code: "85415  Opn brain inj-deep coma            Intracranial injury of other and unspecified nature with open intracranial wound",
+	},
+	{
+		code: "85416  Open brain inj-coma NOS            Intracranial injury of other and unspecified nature with open intracranial wound",
+	},
+	{
+		code: "85419  Opn brain inj-concussion           Intracranial injury of other and unspecified nature with open intracranial wound",
+	},
+	{
+		code: "8600   Traum pneumothorax-close           Traumatic pneumothorax without mention of open wound into thorax",
+	},
+	{
+		code: "8601   Traum pneumothorax-open            Traumatic pneumothorax with open wound into thorax",
+	},
+	{
+		code: "8602   Traum hemothorax-closed            Traumatic hemothorax without mention of open wound into thorax",
+	},
+	{
+		code: "8603   Traum hemothorax-open              Traumatic hemothorax with open wound into thorax",
+	},
+	{
+		code: "8604   Traum pneumohemothor-cl            Traumatic pneumohemothorax without mention of open wound into thorax",
+	},
+	{
+		code: "8605   Traum pneumohemothor-opn           Traumatic pneumohemothorax with open wound into thorax",
+	},
+	{
+		code: "86100  Heart injury NOS-closed            Unspecified injury of heart without mention of open wound into thorax",
+	},
+	{
+		code: "86101  Heart contusion-closed             Contusion of heart without mention of open wound into thorax",
+	},
+	{
+		code: "86102  Heart laceration-closed            Laceration of heart without penetration of heart chambers or without mention of open wound into thorax",
+	},
+	{
+		code: "86103  Heart chamber lacerat-cl           Laceration of heart with penetration of heart chambers without mention of open wound into thorax",
+	},
+	{
+		code: "86110  Heart injury NOS-open              Unspecified injury of heart with open wound into thorax",
+	},
+	{
+		code: "86111  Heart contusion-open               Contusion of heart with open wound into thorax",
+	},
+	{
+		code: "86112  Heart laceration-open              Laceration of heart without penetration of heart chambers",
+	},
+	{
+		code: "86113  Heart chamber lacer-opn            Laceration of heart with penetration of heart chambers with open wound into thorax",
+	},
+	{
+		code: "86120  Lung injury NOS-closed             Unspecified injury of lung without mention of open wound into thorax",
+	},
+	{
+		code: "86121  Lung contusion-closed              Contusion of lung without mention of open wound into thorax",
+	},
+	{
+		code: "86122  Lung laceration-closed             Laceration of lung without mention of open wound into thorax",
+	},
+	{
+		code: "86130  Lung injury NOS-open               Unspecified injury of lung with open wound into thorax",
+	},
+	{
+		code: "86131  Lung contusion-open                Contusion of lung with open wound into thorax",
+	},
+	{
+		code: "86132  Lung laceration-open               Laceration of lung with open wound into thorax",
+	},
+	{
+		code: "8620   Diaphragm injury-closed            Injury to diaphragm",
+	},
+	{
+		code: "8621   Diaphragm injury-open              Injury to diaphragm",
+	},
+	{
+		code: "86221  Bronchus injury-closed             Injury to bronchus without mention of open wound into cavity",
+	},
+	{
+		code: "86222  Esophagus injury-closed            Injury to esophagus without mention of open wound into cavity",
+	},
+	{
+		code: "86229  Intrathoracic inj NEC-cl           Injury to other specified intrathoracic organs without mention of open wound into cavity",
+	},
+	{
+		code: "86231  Bronchus injury-open               Injury to bronchus with open wound into cavity",
+	},
+	{
+		code: "86232  Esophagus injury-open              Injury to esophagus with open wound into cavity",
+	},
+	{
+		code: "86239  Intrathorac inj NEC-open           Injury to other specified intrathoracic organs with open wound into cavity",
+	},
+	{
+		code: "8628   Intrathoracic inj NOS-cl           Injury to multiple and unspecified intrathoracic organs",
+	},
+	{
+		code: "8629   Intrathorac inj NOS-open           Injury to multiple and unspecified intrathoracic organs",
+	},
+	{
+		code: "8630   Stomach injury-closed              Injury to stomach",
+	},
+	{
+		code: "8631   Stomach injury-open                Injury to stomach",
+	},
+	{
+		code: "86320  Small intest inj NOS-cl            Injury to small intestine",
+	},
+	{
+		code: "86321  Duodenum injury-closed             Injury to duodenum",
+	},
+	{
+		code: "86329  Small intest inj NEC-cl            Other injury to small intestine",
+	},
+	{
+		code: "86330  Small intest inj NOS-opn           Injury to small intestine",
+	},
+	{
+		code: "86331  Duodenum injury-open               Injury to duodenum",
+	},
+	{
+		code: "86339  Small intest inj NEC-opn           Other injury to small intestine",
+	},
+	{
+		code: "86340  Colon injury NOS-closed            Injury to colon",
+	},
+	{
+		code: "86341  Ascending colon inj-clos           Injury to ascending [right] colon",
+	},
+	{
+		code: "86342  Transverse colon inj-cl            Injury to transverse colon",
+	},
+	{
+		code: "86343  Descending colon inj-cl            Injury to descending [left] colon",
+	},
+	{
+		code: "86344  Sigmoid colon inj-closed           Injury to sigmoid colon",
+	},
+	{
+		code: "86345  Rectum injury-closed               Injury to rectum",
+	},
+	{
+		code: "86346  Colon inj mult site-clos           Injury to multiple sites in colon and rectum",
+	},
+	{
+		code: "86349  Colon injury NEC-closed            Other injury to colon or rectum",
+	},
+	{
+		code: "86350  Colon injury NOS-open              Injury to colon",
+	},
+	{
+		code: "86351  Ascending colon inj-open           Injury to ascending [right] colon",
+	},
+	{
+		code: "86352  Transverse colon inj-opn           Injury to transverse colon",
+	},
+	{
+		code: "86353  Descending colon inj-opn           Injury to descending [left] colon",
+	},
+	{
+		code: "86354  Sigmoid colon inj-open             Injury to sigmoid colon",
+	},
+	{
+		code: "86355  Rectum injury-open                 Injury to rectum",
+	},
+	{
+		code: "86356  Colon inj mult site-open           Injury to multiple sites in colon and rectum",
+	},
+	{
+		code: "86359  Colon injury NEC-open              Other injury to colon or rectum",
+	},
+	{
+		code: "86380  GI injury NOS-closed               Injury to gastrointestinal tract",
+	},
+	{
+		code: "86381  Pancreas",
+	},
+	{
+		code: "86382  Pancreas",
+	},
+	{
+		code: "86383  Pancreas",
+	},
+	{
+		code: "86384  Pancreas injury NOS-clos           Injury to pancreas",
+	},
+	{
+		code: "86385  Appendix injury-closed             Injury to appendix",
+	},
+	{
+		code: "86389  GI injury NEC-closed               Injury to other gastrointestinal sites",
+	},
+	{
+		code: "86390  GI injury NOS-open                 Injury to gastrointestinal tract",
+	},
+	{
+		code: "86391  Pancreas",
+	},
+	{
+		code: "86392  Pancreas",
+	},
+	{
+		code: "86393  Pancreas",
+	},
+	{
+		code: "86394  Pancreas injury NOS-open           Injury to pancreas",
+	},
+	{
+		code: "86395  Appendix injury-open               Injury to appendix",
+	},
+	{
+		code: "86399  GI injury NEC-open                 Injury to other gastrointestinal sites",
+	},
+	{
+		code: "86400  Liver injury NOS-closed            Injury to liver without mention of open wound into cavity",
+	},
+	{
+		code: "86401  Liver hematoma/contusion           Injury to liver without mention of open wound into cavity",
+	},
+	{
+		code: "86402  Liver laceration",
+	},
+	{
+		code: "86403  Liver laceration",
+	},
+	{
+		code: "86404  Liver laceration",
+	},
+	{
+		code: "86405  Liver lacerat unspcf cls           Injury to liver without mention of open wound into cavity laceration",
+	},
+	{
+		code: "86409  Liver injury NEC-closed            Other injury to liver without mention of open wound into cavity",
+	},
+	{
+		code: "86410  Liver injury NOS-open              Injury to liver with open wound into cavity",
+	},
+	{
+		code: "86411  Liver hematom/contus-opn           Injury to liver with open wound into cavity",
+	},
+	{
+		code: "86412  Liver lacerat",
+	},
+	{
+		code: "86413  Liver lacerat",
+	},
+	{
+		code: "86414  Liver lacerat",
+	},
+	{
+		code: "86415  Liver lacerat unspcf opn           Injury to liver with open wound into cavity",
+	},
+	{
+		code: "86419  Liver injury NEC-open              Other injury to liver with open wound into cavity",
+	},
+	{
+		code: "86500  Spleen injury NOS-closed           Injury to spleen without mention of open wound into cavity",
+	},
+	{
+		code: "86501  Spleen hematoma-closed             Injury to spleen without mention of open wound into cavity",
+	},
+	{
+		code: "86502  Spleen capsular tear               Injury to spleen without mention of open wound into cavity",
+	},
+	{
+		code: "86503  Spleen parenchyma lacer            Injury to spleen without mention of open wound into cavity",
+	},
+	{
+		code: "86504  Spleen disruption-clos             Injury to spleen without mention of open wound into cavity",
+	},
+	{
+		code: "86509  Spleen injury NEC-closed           Other injury into spleen without mention of open wound into cavity",
+	},
+	{
+		code: "86510  Spleen injury NOS-open             Injury to spleen with open wound into cavity",
+	},
+	{
+		code: "86511  Spleen hematoma-open               Injury to spleen with open wound into cavity",
+	},
+	{
+		code: "86512  Spleen capsular tear-opn           Injury to spleen with open wound into cavity",
+	},
+	{
+		code: "86513  Spleen parnchym lac-opn            Injury to spleen with open wound into cavity",
+	},
+	{
+		code: "86514  Spleen disruption-open             Injury to spleen with open wound into cavity",
+	},
+	{
+		code: "86519  Spleen injury NEC-open             Other injury to spleen with open wound into cavity",
+	},
+	{
+		code: "86600  Kidney injury NOS-closed           Injury to kidney without mention of open wound into cavity",
+	},
+	{
+		code: "86601  Kidney hematoma-closed             Injury to kidney without mention of open wound into cavity",
+	},
+	{
+		code: "86602  Kidney laceration-closed           Injury to kidney without mention of open wound into cavity",
+	},
+	{
+		code: "86603  Kidney disruption-closed           Injury to kidney without mention of open wound into cavity",
+	},
+	{
+		code: "86610  Kidney injury NOS-open             Injury to kidney with open wound into cavity",
+	},
+	{
+		code: "86611  Kidney hematoma-open               Injury to kidney with open wound into cavity",
+	},
+	{
+		code: "86612  Kidney laceration-open             Injury to kidney with open wound into cavity",
+	},
+	{
+		code: "86613  Kidney disruption-open             Injury to kidney with open wound into cavity",
+	},
+	{
+		code: "8670   Bladder/urethra inj-clos           Injury to bladder and urethra",
+	},
+	{
+		code: "8671   Bladder/urethra inj-open           Injury to bladder and urethra",
+	},
+	{
+		code: "8672   Ureter injury-closed               Injury to ureter",
+	},
+	{
+		code: "8673   Ureter injury-open                 Injury to ureter",
+	},
+	{
+		code: "8674   Uterus injury-closed               Injury to uterus",
+	},
+	{
+		code: "8675   Uterus injury-open                 Injury to uterus",
+	},
+	{
+		code: "8676   Pelvic organ inj NEC-cl            Injury to other specified pelvic organs",
+	},
+	{
+		code: "8677   Pelvic organ inj NEC-opn           Injury to other specified pelvic organs",
+	},
+	{
+		code: "8678   Pelvic organ inj NOS-cl            Injury to unspecified pelvic organ",
+	},
+	{
+		code: "8679   Pelvic organ inj NOS-opn           Injury to unspecified pelvic organ",
+	},
+	{
+		code: "86800  Intra-abdom inj NOS-clos           Injury to other intra-abdominal organs without mention of open wound into cavity",
+	},
+	{
+		code: "86801  Adrenal gland injury-cl            Injury to other intra-abdominal organs without mention of open wound into cavity",
+	},
+	{
+		code: "86802  Biliary tract injury-cl            Injury to other intra-abdominal organs without mention of open wound into cavity",
+	},
+	{
+		code: "86803  Peritoneum injury-closed           Injury to other intra-abdominal organs without mention of open wound into cavity",
+	},
+	{
+		code: "86804  Retroperitoneum inj-cl             Injury to other intra-abdominal organs without mention of open wound into cavity",
+	},
+	{
+		code: "86809  Intra-abdom inj NEC-clos           Injury to other and multiple intra-abdominal organs without mention of open wound into cavity",
+	},
+	{
+		code: "86810  Intra-abdom inj NOS-open           Injury to other intra-abdominal organs with open wound into cavity",
+	},
+	{
+		code: "86811  Adrenal gland injury-opn           Injury to other intra-abdominal organs with open wound into cavity",
+	},
+	{
+		code: "86812  Biliary tract injury-opn           Injury to other intra-abdominal organs with open wound into cavity",
+	},
+	{
+		code: "86813  Peritoneum injury-open             Injury to other intra-abdominal organs with open wound into cavity",
+	},
+	{
+		code: "86814  Retroperitoneum inj-open           Injury to other intra-abdominal organs with open wound into cavity",
+	},
+	{
+		code: "86819  Intra-abdom inj NEC-open           Injury to other and multiple intra-abdominal organs",
+	},
+	{
+		code: "8690   Internal inj NOS-closed            Internal injury to unspecified or ill-defined organs without mention of open wound into cavity",
+	},
+	{
+		code: "8691   Internal injury NOS-open           Internal injury to unspecified or ill-defined organs with open wound into cavity",
+	},
+	{
+		code: "8700   Lac eyelid skn/perioculr           Laceration of skin of eyelid and periocular area",
+	},
+	{
+		code: "8701   Full-thicknes lac eyelid           Laceration of eyelid",
+	},
+	{
+		code: "8702   Lac eyelid inv lacrm pas           Laceration of eyelid involving lacrimal passages",
+	},
+	{
+		code: "8703   Penetr wnd orbit w/o FB            Penetrating wound of orbit",
+	},
+	{
+		code: "8704   Penetrat wnd orbit w FB            Penetrating wound of orbit with foreign body",
+	},
+	{
+		code: "8708   Opn wnd ocular adnex NEC           Other specified open wounds of ocular adnexa",
+	},
+	{
+		code: "8709   Opn wnd ocular adnex NOS           Unspecified open wound of ocular adnexa",
+	},
+	{
+		code: "8710   Ocular lac w/o prolapse            Ocular laceration without prolapse of intraocular tissue",
+	},
+	{
+		code: "8711   Ocular lacera w prolapse           Ocular laceration with prolapse or exposure of intraocular tissue",
+	},
+	{
+		code: "8712   Rupture eye w tissu loss           Rupture of eye with partial loss of intraocular tissue",
+	},
+	{
+		code: "8713   Avulsion of eye                    Avulsion of eye",
+	},
+	{
+		code: "8714   Laceration of eye NOS              Unspecified laceration of eye",
+	},
+	{
+		code: "8715   Penetrat magnet FB eye             Penetration of eyeball with magnetic foreign body",
+	},
+	{
+		code: "8716   Penetrat FB NEC eye                Penetration of eyeball with (nonmagnetic) foreign body",
+	},
+	{
+		code: "8717   Ocular penetration NOS             Unspecified ocular penetration",
+	},
+	{
+		code: "8719   Opn wound of eyeball NOS           Unspecified open wound of eyeball",
+	},
+	{
+		code: "87200  Opn wound extern ear NOS           Open wound of external ear",
+	},
+	{
+		code: "87201  Open wound of auricle              Open wound of auricle",
+	},
+	{
+		code: "87202  Opn wound auditory canal           Open wound of auditory canal",
+	},
+	{
+		code: "87210  Opn wnd ex ear NOS-compl           Open wound of external ear",
+	},
+	{
+		code: "87211  Open wound auricle-compl           Open wound of auricle",
+	},
+	{
+		code: "87212  Open wnd aud canal-compl           Open wound of auditory canal",
+	},
+	{
+		code: "87261  Open wound of ear drum             Open wound of ear drum",
+	},
+	{
+		code: "87262  Open wound of ossicles             Open wound of ossicles",
+	},
+	{
+		code: "87263  Open wnd eustachian tube           Open wound of eustachian tube",
+	},
+	{
+		code: "87264  Open wound of cochlea              Open wound of cochlea",
+	},
+	{
+		code: "87269  Open wound of ear NEC              Open wound of other and multiple sites of ear",
+	},
+	{
+		code: "87271  Open wnd ear drum-compl            Open wound of ear drum",
+	},
+	{
+		code: "87272  Open wnd ossicles-compl            Open wound of ossicles",
+	},
+	{
+		code: "87273  Opn wnd eustach tb-compl           Open wound of eustachian tube",
+	},
+	{
+		code: "87274  Open wound cochlea-compl           Open wound of cochlea",
+	},
+	{
+		code: "87279  Open wound ear NEC-compl           Open wound of other and multiple sites of ear",
+	},
+	{
+		code: "8728   Open wound of ear NOS              Open wound of ear",
+	},
+	{
+		code: "8729   Open wound ear NOS-compl           Open wound of ear",
+	},
+	{
+		code: "8730   Open wound of scalp                Open wound of scalp",
+	},
+	{
+		code: "8731   Open wound scalp-compl             Open wound of scalp",
+	},
+	{
+		code: "87320  Open wound of nose NOS             Open wound of nose",
+	},
+	{
+		code: "87321  Open wound nasal septum            Open wound of nasal septum",
+	},
+	{
+		code: "87322  Open wound nasal cavity            Open wound of nasal cavity",
+	},
+	{
+		code: "87323  Open wound nasal sinus             Open wound of nasal sinus",
+	},
+	{
+		code: "87329  Mult open wound nose               Open wound of multiple sites of nose",
+	},
+	{
+		code: "87330  Open wnd nose NOS-compl            Open wound of nose",
+	},
+	{
+		code: "87331  Opn wnd nas septum-compl           Open wound of nasal septum",
+	},
+	{
+		code: "87332  Open wnd nasal cav-compl           Open wound of nasal cavity",
+	},
+	{
+		code: "87333  Open wnd nas sinus-compl           Open wound of nasal sinus",
+	},
+	{
+		code: "87339  Mult open wnd nose-compl           Open wound of multiple sites of nose",
+	},
+	{
+		code: "87340  Open wound of face NOS             Open wound of face",
+	},
+	{
+		code: "87341  Open wound of cheek                Open wound of cheek",
+	},
+	{
+		code: "87342  Open wound of forehead             Open wound of forehead",
+	},
+	{
+		code: "87343  Open wound of lip                  Open wound of lip",
+	},
+	{
+		code: "87344  Open wound of jaw                  Open wound of jaw",
+	},
+	{
+		code: "87349  Open wound of face NEC             Open wound of other and multiple sites of face",
+	},
+	{
+		code: "87350  Open wnd face NOS-compl            Open wound of face",
+	},
+	{
+		code: "87351  Open wound cheek-compl             Open wound of cheek",
+	},
+	{
+		code: "87352  Open wnd forehead-compl            Open wound of forehead",
+	},
+	{
+		code: "87353  Open wound lip-complicat           Open wound of lip",
+	},
+	{
+		code: "87354  Open wound jaw-complicat           Open wound of jaw",
+	},
+	{
+		code: "87359  Open wnd face NEC-compl            Open wound of other and multiple sites of face",
+	},
+	{
+		code: "87360  Open wound of mouth NOS            Open wound of mouth",
+	},
+	{
+		code: "87361  Open wound buccal mucosa           Open wound of buccal mucosa",
+	},
+	{
+		code: "87362  Open wound of gum                  Open wound of gum (alveolar process)",
+	},
+	{
+		code: "87363  Broken tooth-uncomplic             Open wound of tooth (broken) (fractured) (due to trauma)",
+	},
+	{
+		code: "87364  Opn wnd tongue/mouth flr           Open wound of tongue and floor of mouth",
+	},
+	{
+		code: "87365  Open wound of palate               Open wound of palate",
+	},
+	{
+		code: "87369  Open wound mouth NEC               Open wound of other and multiple sites of mouth",
+	},
+	{
+		code: "87370  Open wnd mouth NOS-compl           Open wound of mouth",
+	},
+	{
+		code: "87371  Opn wnd buc mucosa-compl           Open wound of buccal mucosa",
+	},
+	{
+		code: "87372  Open wound gum-compl               Open wound of gum (alveolar process)",
+	},
+	{
+		code: "87373  Broken tooth-complicated           Open wound of tooth (broken) (fractured) (due to trauma)",
+	},
+	{
+		code: "87374  Open wound tongue-compl            Open wound of tongue and floor of mouth",
+	},
+	{
+		code: "87375  Open wound palate-compl            Open wound of palate",
+	},
+	{
+		code: "87379  Open wnd mouth NOS-compl           Open wound of other and multiple sites of mouth",
+	},
+	{
+		code: "8738   Open wound of head NEC             Other and unspecified open wound of head without mention of complication",
+	},
+	{
+		code: "8739   Open wnd head NEC-compl            Other and unspecified open wound of head",
+	},
+	{
+		code: "87400  Opn wnd larynx w trachea           Open wound of larynx with trachea",
+	},
+	{
+		code: "87401  Open wound of larynx               Open wound of larynx",
+	},
+	{
+		code: "87402  Open wound of trachea              Open wound of trachea",
+	},
+	{
+		code: "87410  Opn wnd lary w trac-comp           Open wound of larynx with trachea",
+	},
+	{
+		code: "87411  Open wound larynx-compl            Open wound of larynx",
+	},
+	{
+		code: "87412  Open wound trachea-compl           Open wound of trachea",
+	},
+	{
+		code: "8742   Open wound thyroid gland           Open wound of thyroid gland",
+	},
+	{
+		code: "8743   Open wound thyroid-compl           Open wound of thyroid gland",
+	},
+	{
+		code: "8744   Open wound of pharynx              Open wound of pharynx",
+	},
+	{
+		code: "8745   Open wound pharynx-compl           Open wound of pharynx",
+	},
+	{
+		code: "8748   Open wound of neck NEC             Open wound of other and unspecified parts of neck",
+	},
+	{
+		code: "8749   Opn wound neck NEC-compl           Open wound of other and unspecified parts of neck",
+	},
+	{
+		code: "8750   Open wound of chest                Open wound of chest (wall)",
+	},
+	{
+		code: "8751   Open wound chest-compl             Open wound of chest (wall)",
+	},
+	{
+		code: "8760   Open wound of back                 Open wound of back",
+	},
+	{
+		code: "8761   Open wound back-compl              Open wound of back",
+	},
+	{
+		code: "8770   Open wound of buttock              Open wound of buttock",
+	},
+	{
+		code: "8771   Open wound buttock-compl           Open wound of buttock",
+	},
+	{
+		code: "8780   Open wound of penis                Open wound of penis",
+	},
+	{
+		code: "8781   Open wound penis-compl             Open wound of penis",
+	},
+	{
+		code: "8782   Opn wound scrotum/testes           Open wound of scrotum and testes",
+	},
+	{
+		code: "8783   Opn wnd scrot/test-compl           Open wound of scrotum and testes",
+	},
+	{
+		code: "8784   Open wound of vulva                Open wound of vulva",
+	},
+	{
+		code: "8785   Open wound vulva-compl             Open wound of vulva",
+	},
+	{
+		code: "8786   Open wound of vagina               Open wound of vagina",
+	},
+	{
+		code: "8787   Open wound vagina-compl            Open wound of vagina",
+	},
+	{
+		code: "8788   Open wound genital NEC             Open wound of other and unspecified parts of genital organs (external)",
+	},
+	{
+		code: "8789   Opn wnd genital NEC-comp           Open wound of other and unspecified parts of genital organs (external)",
+	},
+	{
+		code: "8790   Open wound of breast               Open wound of breast",
+	},
+	{
+		code: "8791   Open wound breast-compl            Open wound of breast",
+	},
+	{
+		code: "8792   Opn wnd anterior abdomen           Open wound of abdominal wall",
+	},
+	{
+		code: "8793   Opn wnd ant abdomen-comp           Open wound of abdominal wall",
+	},
+	{
+		code: "8794   Opn wnd lateral abdomen            Open wound of abdominal wall",
+	},
+	{
+		code: "8795   Opn wnd lat abdomen-comp           Open wound of abdominal wall",
+	},
+	{
+		code: "8796   Open wound of trunk NEC            Open wound of other and unspecified parts of trunk",
+	},
+	{
+		code: "8797   Open wnd trunk NEC-compl           Open wound of other and unspecified parts of trunk",
+	},
+	{
+		code: "8798   Open wound site NOS                Open wound(s) (multiple) of unspecified site(s)",
+	},
+	{
+		code: "8799   Opn wound site NOS-compl           Open wound(s) (multiple) of unspecified site(s)",
+	},
+	{
+		code: "88000  Open wound of shoulder             Open wound of shoulder region",
+	},
+	{
+		code: "88001  Open wound of scapula              Open wound of scapular region",
+	},
+	{
+		code: "88002  Open wound of axilla               Open wound of axillary region",
+	},
+	{
+		code: "88003  Open wound of upper arm            Open wound of upper arm",
+	},
+	{
+		code: "88009  Mult open wound shoulder           Open wound of multiple sites of shoulder and upper arm",
+	},
+	{
+		code: "88010  Open wnd shoulder-compl            Open wound of shoulder region",
+	},
+	{
+		code: "88011  Open wound scapula-compl           Open wound of scapular region",
+	},
+	{
+		code: "88012  Open wound axilla-compl            Open wound of axillary region",
+	},
+	{
+		code: "88013  Open wnd upper arm-compl           Open wound of upper arm",
+	},
+	{
+		code: "88019  Mult opn wnd should-comp           Open wound of multiple sites of shoulder and upper arm",
+	},
+	{
+		code: "88020  Opn wnd shouldr w tendon           Open wound of shoulder region",
+	},
+	{
+		code: "88021  Opn wnd scapula w tendon           Open wound of scapular region",
+	},
+	{
+		code: "88022  Open wnd axilla w tendon           Open wound of axillary region",
+	},
+	{
+		code: "88023  Open wnd up arm w tendon           Open wound of upper arm",
+	},
+	{
+		code: "88029  Mlt opn wnd shldr w tend           Open wound of multiple sites of shoulder and upper arm",
+	},
+	{
+		code: "88100  Open wound of forearm              Open wound of forearm",
+	},
+	{
+		code: "88101  Open wound of elbow                Open wound of elbow",
+	},
+	{
+		code: "88102  Open wound of wrist                Open wound of wrist",
+	},
+	{
+		code: "88110  Open wound forearm-compl           Open wound of forearm",
+	},
+	{
+		code: "88111  Open wound elbow-complic           Open wound of elbow",
+	},
+	{
+		code: "88112  Open wound wrist-complic           Open wound of wrist",
+	},
+	{
+		code: "88120  Open wnd forearm w tendn           Open wound of forearm",
+	},
+	{
+		code: "88121  Opn wound elbow w tendon           Open wound of elbow",
+	},
+	{
+		code: "88122  Opn wound wrist w tendon           Open wound of wrist",
+	},
+	{
+		code: "8820   Open wound of hand                 Open wound of hand except finger(s) alone",
+	},
+	{
+		code: "8821   Opn wound hand-complicat           Open wound of hand except finger(s) alone",
+	},
+	{
+		code: "8822   Open wound hand w tendon           Open wound of hand except finger(s) alone",
+	},
+	{
+		code: "8830   Open wound of finger               Open wound of finger(s)",
+	},
+	{
+		code: "8831   Open wound finger-compl            Open wound of finger(s)",
+	},
+	{
+		code: "8832   Open wnd finger w tendon           Open wound of finger(s)",
+	},
+	{
+		code: "8840   Open wound arm mult/NOS            Multiple and unspecified open wound of upper limb",
+	},
+	{
+		code: "8841   Open wound arm NOS-compl           Multiple and unspecified open wound of upper limb",
+	},
+	{
+		code: "8842   Opn wnd arm NOS w tendon           Multiple and unspecified open wound of upper limb",
+	},
+	{
+		code: "8850   Amputation thumb                   Traumatic amputation of thumb (complete)(partial)",
+	},
+	{
+		code: "8851   Amputation thumb-compl             Traumatic amputation of thumb (complete)(partial)",
+	},
+	{
+		code: "8860   Amputation finger                  Traumatic amputation of other finger(s) (complete) (partial)",
+	},
+	{
+		code: "8861   Amputation finger-compl            Traumatic amputation of other finger(s) (complete) (partial)",
+	},
+	{
+		code: "8870   Amput below elb",
+	},
+	{
+		code: "8871   Amp below elb",
+	},
+	{
+		code: "8872   Amput abv elbow",
+	},
+	{
+		code: "8873   Amput abv elb",
+	},
+	{
+		code: "8874   Amputat arm",
+	},
+	{
+		code: "8875   Amput arm",
+	},
+	{
+		code: "8876   Amputation arm",
+	},
+	{
+		code: "8877   Amputat arm",
+	},
+	{
+		code: "8900   Open wound of hip/thigh            Open wound of hip and thigh",
+	},
+	{
+		code: "8901   Open wnd hip/thigh-compl           Open wound of hip and thigh",
+	},
+	{
+		code: "8902   Opn wnd hip/thigh w tend           Open wound of hip and thigh",
+	},
+	{
+		code: "8910   Open wnd knee/leg/ankle            Open wound of knee",
+	},
+	{
+		code: "8911   Open wnd knee/leg-compl            Open wound of knee",
+	},
+	{
+		code: "8912   Opn wnd knee/leg w tendn           Open wound of knee",
+	},
+	{
+		code: "8920   Open wound of foot                 Open wound of foot except toe(s) alone",
+	},
+	{
+		code: "8921   Open wound foot-compl              Open wound of foot except toe(s) alone",
+	},
+	{
+		code: "8922   Open wound foot w tendon           Open wound of foot except toe(s) alone",
+	},
+	{
+		code: "8930   Open wound of toe                  Open wound of toe(s)",
+	},
+	{
+		code: "8931   Open wound toe-compl               Open wound of toe(s)",
+	},
+	{
+		code: "8932   Open wound toe w tendon            Open wound of toe(s)",
+	},
+	{
+		code: "8940   Open wound of leg NEC              Multiple and unspecified open wound of lower limb",
+	},
+	{
+		code: "8941   Open wound leg NEC-compl           Multiple and unspecified open wound of lower limb",
+	},
+	{
+		code: "8942   Opn wnd leg NEC w tendon           Multiple and unspecified open wound of lower limb",
+	},
+	{
+		code: "8950   Amputation toe                     Traumatic amputation of toe(s) (complete) (partial)",
+	},
+	{
+		code: "8951   Amputation toe-complicat           Traumatic amputation of toe(s) (complete) (partial)",
+	},
+	{
+		code: "8960   Amputation foot",
+	},
+	{
+		code: "8961   Amput foot",
+	},
+	{
+		code: "8962   Amputation foot",
+	},
+	{
+		code: "8963   Amputat foot",
+	},
+	{
+		code: "8970   Amput below knee",
+	},
+	{
+		code: "8971   Amputat bk",
+	},
+	{
+		code: "8972   Amput above knee",
+	},
+	{
+		code: "8973   Amput abv kn",
+	},
+	{
+		code: "8974   Amputat leg",
+	},
+	{
+		code: "8975   Amput leg",
+	},
+	{
+		code: "8976   Amputation leg",
+	},
+	{
+		code: "8977   Amputat leg",
+	},
+}

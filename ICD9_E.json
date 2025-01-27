@@ -1,0 +1,3839 @@
+{
+	{
+		code: "E0022  Water polo                         Activities involving water polo",
+	},
+	{
+		code: "E0023  Water aerobics/exercise            Activities involving water aerobics and water exercise",
+	},
+	{
+		code: "E0024  Underwater dive/snorkel            Activities involving underwater diving and snorkeling",
+	},
+	{
+		code: "E0025  Row",
+	},
+	{
+		code: "E0026  Water ski/wake boarding            Activities involving water skiing and wake boarding",
+	},
+	{
+		code: "E0027  Surf",
+	},
+	{
+		code: "E0028  Water sliding                      Activities involving water sliding",
+	},
+	{
+		code: "E0029  Water/watercraft                   Other activity involving water and watercraft",
+	},
+	{
+		code: "E0030  Ice Skating                        Activities involving ice skating",
+	},
+	{
+		code: "E0031  Ice hockey                         Activities involving ice hockey",
+	},
+	{
+		code: "E0032  Ski",
+	},
+	{
+		code: "E0033  Cross country skiing               Activities involving cross country skiing",
+	},
+	{
+		code: "E0039  Ice and snow                       Other activity involving ice and snow",
+	},
+	{
+		code: "E0040  Mountain",
+	},
+	{
+		code: "E0041  Rappelling                         Activities involving rappelling",
+	},
+	{
+		code: "E0042  BASE jumping                       Activities involving BASE jumping",
+	},
+	{
+		code: "E0043  Bungee jumping                     Activities involving bungee jumping",
+	},
+	{
+		code: "E0044  Hang gliding                       Activities involving hang gliding",
+	},
+	{
+		code: "E0049  Climb",
+	},
+	{
+		code: "E0050  Dancing                            Activities involving dancing",
+	},
+	{
+		code: "E0051  Yoga                               Activities involving yoga",
+	},
+	{
+		code: "E0052  Gymnastics                         Activities involving gymnastics",
+	},
+	{
+		code: "E0053  Trampoline                         Activities involving trampoline",
+	},
+	{
+		code: "E0054  Cheerleading                       Activities involving cheerleading",
+	},
+	{
+		code: "E0059  Dancing",
+	},
+	{
+		code: "E0060  Roller skate",
+	},
+	{
+		code: "E0061  Horseback riding                   Activities involving horseback riding",
+	},
+	{
+		code: "E0062  Golf                               Activities involving golf",
+	},
+	{
+		code: "E0063  Bowling                            Activities involving bowling",
+	},
+	{
+		code: "E0064  Bike riding                        Activities involving bike riding",
+	},
+	{
+		code: "E0065  Jumping rope                       Activities involving jumping rope",
+	},
+	{
+		code: "E0066  Non-running track/field            Activities involving non-running track and field events",
+	},
+	{
+		code: "E0069  Individ sports",
+	},
+	{
+		code: "E0070  Tackle football                    Activities involving american tackle football",
+	},
+	{
+		code: "E0071  Amer flag/touch football           Activities involving american flag or touch football",
+	},
+	{
+		code: "E0072  Rugby                              Activities involving rugby",
+	},
+	{
+		code: "E0073  Baseball                           Activities involving baseball",
+	},
+	{
+		code: "E0074  Lacrosse",
+	},
+	{
+		code: "E0075  Soccer                             Activities involving soccer",
+	},
+	{
+		code: "E0076  Basketball                         Activities involving basketball",
+	},
+	{
+		code: "E0077  Volleyball (beach",
+	},
+	{
+		code: "E0078  School recess",
+	},
+	{
+		code: "E0079  Team sports",
+	},
+	{
+		code: "E0080  Boxing                             Activities involving boxing",
+	},
+	{
+		code: "E0081  Wrestling                          Activities involving wrestling",
+	},
+	{
+		code: "E0082  Racquet/hand sports                Activities involving racquet and hand sports",
+	},
+	{
+		code: "E0083  Frisbee                            Activities involving frisbee",
+	},
+	{
+		code: "E0084  Martial arts                       Activities involving martial arts",
+	},
+	{
+		code: "E0089  Sports",
+	},
+	{
+		code: "E0090  Exercise mach(cardiorsp)           Activity involving exercise machines primarily for cardiorespiratory conditioning",
+	},
+	{
+		code: "E0091  Calisthenics                       Activity involving calisthenics",
+	},
+	{
+		code: "E0092  Aerobic",
+	},
+	{
+		code: "E0093  Circuit training                   Activity involving circuit training",
+	},
+	{
+		code: "E0094  Obstacle course                    Activity involving obstacle course",
+	},
+	{
+		code: "E0095  Grass drills                       Activity involving grass drills",
+	},
+	{
+		code: "E0099  Cardioresp exercise NEC            Other activity involving cardiorespiratory exercise",
+	},
+	{
+		code: "E0100  Muscle strength mach               Activity involving exercise machines primarily for muscle strengthening",
+	},
+	{
+		code: "E0101  Push-ups",
+	},
+	{
+		code: "E0102  Free weights                       Activity involving free weights",
+	},
+	{
+		code: "E0103  Pilates                            Activity involving pilates",
+	},
+	{
+		code: "E0109  Muscle strength exer NEC           Other activity involving other muscle strengthening exercises",
+	},
+	{
+		code: "E0110  Computer keyboarding               Activities involving computer keyboarding",
+	},
+	{
+		code: "E0111  Handheld interac elec dv           Activities involving hand held interactive electronic device",
+	},
+	{
+		code: "E0119  Computer tech NEC                  Other activity involving computer technology and electronic devices",
+	},
+	{
+		code: "E0120  Knitting & crocheting              Activities involving knitting and crocheting",
+	},
+	{
+		code: "E0121  Sewing                             Activities involving sewing",
+	},
+	{
+		code: "E0122  Furniture build/finish             Activities involving furniture building and finishing",
+	},
+	{
+		code: "E0129  Arts & handcrafts NEC              Activity involving other arts and handcrafts",
+	},
+	{
+		code: "E0130  Personal bathing/shower            Activities involving personal bathing and showering",
+	},
+	{
+		code: "E0131  Laundry                            Activities involving laundry",
+	},
+	{
+		code: "E0132  Vacuuming                          Activities involving vacuuming",
+	},
+	{
+		code: "E0133  Ironing                            Activities involving ironing",
+	},
+	{
+		code: "E0134  Floor mopping/cleaning             Activities involving floor mopping and cleaning",
+	},
+	{
+		code: "E0135  Residential relocation             Activities involving residential relocation",
+	},
+	{
+		code: "E0138  Personal hygiene NEC               Other personal hygiene activity",
+	},
+	{
+		code: "E0139  Househld maintenance NEC           Other household maintenance",
+	},
+	{
+		code: "E0140  Caregiving-bathing                 Caregiving involving bathing",
+	},
+	{
+		code: "E0141  Caregiving-lifting                 Caregiving involving lifting",
+	},
+	{
+		code: "E0149  Caregiving NEC                     Other activity involving person providing caregiving",
+	},
+	{
+		code: "E0150  Food prep & cleanup                Activities involving food preparation and clean up",
+	},
+	{
+		code: "E0151  Grilling & smoking food            Activities involving grilling and smoking food",
+	},
+	{
+		code: "E0152  Cooking & baking                   Activities involving cooking and baking",
+	},
+	{
+		code: "E0159  Cooking & grilling NEC             Other activity involving cooking and grilling",
+	},
+	{
+		code: "E0160  Digging",
+	},
+	{
+		code: "E0161  Gardening/landscaping              Activities involving gardening and landscaping",
+	},
+	{
+		code: "E0162  Building & construction            Activities involving building and construction",
+	},
+	{
+		code: "E0169  Land maintain/cnstrt NEC           Other activity involving property and land maintenance",
+	},
+	{
+		code: "E0170  Roller coaster riding              Roller coaster riding",
+	},
+	{
+		code: "E0179  External motion NEC                Other activity involving external motion",
+	},
+	{
+		code: "E0180  Piano playing                      Activities involving piano playing",
+	},
+	{
+		code: "E0181  Drum/percussion playing            Activities involving drum and other percussion instrument playing",
+	},
+	{
+		code: "E0182  String instrument play             Activities involving string instrument playing",
+	},
+	{
+		code: "E0183  Winds/brass instru play            Activities involving winds and brass instrument playing",
+	},
+	{
+		code: "E0190  Walking an animal                  Activities involving walking an animal",
+	},
+	{
+		code: "E0191  Milking an animal                  Activities involving milking an animal",
+	},
+	{
+		code: "E0192  Groom/shearing animal              Activities involving grooming and shearing an animal",
+	},
+	{
+		code: "E0199  Animal care NEC                    Other activity involving animal care",
+	},
+	{
+		code: "E0290  Refereeing sports                  Refereeing a sports activity",
+	},
+	{
+		code: "E0291  Spectator at event                 Spectator at an event",
+	},
+	{
+		code: "E0292  Rough housing/horseplay            Rough housing and horseplay",
+	},
+	{
+		code: "E0299  Activity NEC                       Other activity",
+	},
+	{
+		code: "E030   Activity NOS                       Unspecified activity",
+	},
+	{
+		code: "E8000  RR collision NOS-employ            Railway accident involving collision with rolling stock and injuring railway employee",
+	},
+	{
+		code: "E8001  RR coll NOS-passenger              Railway accident involving collision with rolling stock and injuring passenger on railway",
+	},
+	{
+		code: "E8002  RR coll NOS-pedestrian             Railway accident involving collision with rolling stock and injuring pedestrian",
+	},
+	{
+		code: "E8003  RR coll NOS-ped cyclist            Railway accident involving collision with rolling stock and injuring pedal cyclist",
+	},
+	{
+		code: "E8008  RR coll NOS-person NEC             Railway accident involving collision with rolling stock and injuring other specified person",
+	},
+	{
+		code: "E8009  RR coll NOS-person NOS             Railway accident involving collision with rolling stock and injuring unspecified person",
+	},
+	{
+		code: "E8010  RR coll w oth obj-employ           Railway accident involving collision with other object and injuring railway employee",
+	},
+	{
+		code: "E8011  RR coll w oth obj-pasngr           Railway accident involving collision with other object and injuring passenger on railway",
+	},
+	{
+		code: "E8012  RR coll w oth obj-pedest           Railway accident involving collision with other object and injuring pedestrian",
+	},
+	{
+		code: "E8013  RR coll w oth obj-cycl             Railway accident involving collision with other object and injuring pedal cyclist",
+	},
+	{
+		code: "E8018  RR col w oth obj-per NEC           Railway accident involving collision with other object and injuring other specified person",
+	},
+	{
+		code: "E8019  RR col w oth obj-per NOS           Railway accident involving collision with other object and injuring unspecified person",
+	},
+	{
+		code: "E8020  RR acc w derail-employee           Railway accident involving derailment without antecedent collision injuring railway employee",
+	},
+	{
+		code: "E8021  RR acc w derail-passeng            Railway accident involving derailment without antecedent collision injuring passenger on railway",
+	},
+	{
+		code: "E8022  RR acc w derail-pedest             Railway accident involving derailment without antecedent collision injuring pedestrian",
+	},
+	{
+		code: "E8023  RR acc w derail-ped cycl           Railway accident involving derailment without antecedent collision injuring pedal cyclist",
+	},
+	{
+		code: "E8028  RR acc w derail-pers NEC           Railway accident involving derailment without antecedent collision injuring other specified person",
+	},
+	{
+		code: "E8029  RR acc w derail-pers NOS           Railway accident involving derailment without antecedent collision injuring unspecified person",
+	},
+	{
+		code: "E8030  RR acc w explosion-empl            Railway accident involving explosion",
+	},
+	{
+		code: "E8031  RR acc w explos-pasngr             Railway accident involving explosion",
+	},
+	{
+		code: "E8032  RR acc w explos-pedest             Railway accident involving explosion",
+	},
+	{
+		code: "E8033  RR acc w explos-ped cycl           Railway accident involving explosion",
+	},
+	{
+		code: "E8038  RR acc w explos-pers NEC           Railway accident involving explosion",
+	},
+	{
+		code: "E8039  RR acc w explos-pers NOS           Railway accident involving explosion",
+	},
+	{
+		code: "E8040  Fall on/from train-empl            Fall in",
+	},
+	{
+		code: "E8041  Fall from train-passengr           Fall in",
+	},
+	{
+		code: "E8042  Fall from train-pedest             Fall in",
+	},
+	{
+		code: "E8043  Fall from train-ped cycl           Fall in",
+	},
+	{
+		code: "E8048  Fall from train-pers NEC           Fall in",
+	},
+	{
+		code: "E8049  Fall from train-pers NOS           Fall in",
+	},
+	{
+		code: "E8050  Hit by train-employee              Railway employee hit by rolling stock",
+	},
+	{
+		code: "E8051  Hit by train-passenger             Passenger on railway hit by rolling stock",
+	},
+	{
+		code: "E8052  Hit by train-pedestrian            Pedestrian hit by rolling stock",
+	},
+	{
+		code: "E8053  Hit by train-ped cyclist           Pedal cyclist hit by rolling stock",
+	},
+	{
+		code: "E8058  Hit by train-person NEC            Other specified person hit by rolling stock",
+	},
+	{
+		code: "E8059  Hit by train-person NOS            Unspecified person hit by rolling stock",
+	},
+	{
+		code: "E8060  RR acc NEC-employee                Other specified railway accident injuring railway employee",
+	},
+	{
+		code: "E8061  RR acc NEC-passenger               Other specified railway accident injuring passenger on railway",
+	},
+	{
+		code: "E8062  RR acc NEC-pedestrian              Other specified railway accident injuring pedestrian",
+	},
+	{
+		code: "E8063  RR acc NEC-ped cyclist             Other specified railway accident injuring pedal cyclist",
+	},
+	{
+		code: "E8068  RR acc NEC-person NEC              Other specified railway accident injuring other specified person",
+	},
+	{
+		code: "E8069  RR acc NEC-person NOS              Other specified railway accident injuring unspecified person",
+	},
+	{
+		code: "E8070  RR accident NOS-employee           Railway accident of unspecified nature injuring railway employee",
+	},
+	{
+		code: "E8071  RR acc NOS-passenger               Railway accident of unspecified nature injuring passenger on railway",
+	},
+	{
+		code: "E8072  RR acc NOS-pedestrian              Railway accident of unspecified nature injuring pedestrian",
+	},
+	{
+		code: "E8073  RR acc NOS-ped cyclist             Railway accident of unspecified nature injuring pedal cyclist",
+	},
+	{
+		code: "E8078  RR acc NOS-person NEC              Railway accident of unspecified nature injuring other specified person",
+	},
+	{
+		code: "E8079  RR acc NOS-person NOS              Railway accident of unspecified nature injuring unspecified person",
+	},
+	{
+		code: "E8100  Mv-train coll-driver               Motor vehicle traffic accident involving collision with train injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8101  Mv-train coll-pasngr               Motor vehicle traffic accident involving collision with train injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8102  Mv-train coll-motorcycl            Motor vehicle traffic accident involving collision with train injuring motorcyclist",
+	},
+	{
+		code: "E8103  Mv-train coll-mcycl psgr           Motor vehicle traffic accident involving collision with train injuring passenger on motorcycle",
+	},
+	{
+		code: "E8104  Mv-train coll-st car               Motor vehicle traffic accident involving collision with train injuring occupant of streetcar",
+	},
+	{
+		code: "E8105  Mv-train coll-anim rid             Motor vehicle traffic accident involving collision with train injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8106  Mv-train coll-ped cycl             Motor vehicle traffic accident involving collision with train injuring pedal cyclist",
+	},
+	{
+		code: "E8107  Mv-train coll-pedest               Motor vehicle traffic accident involving collision with train injuring pedestrian",
+	},
+	{
+		code: "E8108  Mv-train coll-pers NEC             Motor vehicle traffic accident involving collision with train injuring other specified person",
+	},
+	{
+		code: "E8109  Mv-train coll-pers NOS             Motor vehicle traffic accident involving collision with train injuring unspecified person",
+	},
+	{
+		code: "E8110  Reentrant mv coll-driver           Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8111  Reentrant mv coll-pasngr           Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8112  Reentrant coll-motcycl             Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring motorcyclist",
+	},
+	{
+		code: "E8113  Reentrant coll-mcyc psgr           Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring passenger on motorcycle",
+	},
+	{
+		code: "E8114  Reentrant coll-st car              Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring occupant of streetcar",
+	},
+	{
+		code: "E8115  Reentrant coll-anim rid            Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8116  Reentrant coll-ped cycl            Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring pedal cyclist",
+	},
+	{
+		code: "E8117  Reentrant coll-pedest              Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring pedestrian",
+	},
+	{
+		code: "E8118  Reentrant coll-pers NEC            Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring other specified person",
+	},
+	{
+		code: "E8119  Reentrant coll-pers NOS            Motor vehicle traffic accident involving re-entrant collision with another motor vehicle injuring unspecified person",
+	},
+	{
+		code: "E8120  Mv collision NOS-driver            Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8121  Mv collision NOS-pasngr            Other motor vehicle traffic accident involving collision with motor vehicle injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8122  Mv collis NOS-motorcycl            Other motor vehicle traffic accident involving collision with motor vehicle injuring motorcyclist",
+	},
+	{
+		code: "E8123  Mv coll NOS-mcycl psngr            Other motor vehicle traffic accident involving collision with motor vehicle injuring passenger on motorcycle",
+	},
+	{
+		code: "E8124  Mv collision NOS-st car            Other motor vehicle traffic accident involving collision with motor vehicle injuring occupant of streetcar",
+	},
+	{
+		code: "E8125  Mv coll NOS-anim rid               Other motor vehicle traffic accident involving collision with motor vehicle injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8126  Mv coll NOS-ped cycl               Other motor vehicle traffic accident involving collision with motor vehicle injuring pedal cyclist",
+	},
+	{
+		code: "E8127  Mv collision NOS-pedest            Other motor vehicle traffic accident involving collision with motor vehicle injuring pedestrian",
+	},
+	{
+		code: "E8128  Mv collis NOS-pers NEC             Other motor vehicle traffic accident involving collision with motor vehicle injuring other specified person",
+	},
+	{
+		code: "E8129  Mv collis NOS-pers NOS             Other motor vehicle traffic accident involving collision with motor vehicle injuring unspecified person",
+	},
+	{
+		code: "E8130  Mv-oth veh coll-driver             Motor vehicle traffic accident involving collision with other vehicle injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8131  Mv-oth veh coll-pasngr             Motor vehicle traffic accident involving collision with other vehicle injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8132  Mv-oth veh coll-motcycl            Motor vehicle traffic accident involving collision with other vehicle injuring motorcyclist",
+	},
+	{
+		code: "E8133  Mv-oth veh coll-mcyc psg           Motor vehicle traffic accident involving collision with other vehicle injuring passenger on motorcycle",
+	},
+	{
+		code: "E8134  Mv-oth veh coll-st car             Motor vehicle traffic accident involving collision with other vehicle injuring occupant of streetcar",
+	},
+	{
+		code: "E8135  Mv-oth veh coll-anim rid           Motor vehicle traffic accident involving collision with other vehicle injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8136  Mv-oth veh coll-ped cycl           Motor vehicle traffic accident involving collision with other vehicle injuring pedal cyclist",
+	},
+	{
+		code: "E8137  Mv-oth veh coll-pedest             Motor vehicle traffic accident involving collision with other vehicle injuring pedestrian",
+	},
+	{
+		code: "E8138  Mv-oth veh coll-pers NEC           Motor vehicle traffic accident involving collision with other vehicle injuring other specified person",
+	},
+	{
+		code: "E8139  Mv-oth veh coll-pers NOS           Motor vehicle traffic accident involving collision with other vehicle injuring unspecified person",
+	},
+	{
+		code: "E8140  Mv coll w pedest-driver            Motor vehicle traffic accident involving collision with pedestrian injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8141  Mv coll w pedest-pasngr            Motor vehicle traffic accident involving collision with pedestrian injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8142  Mv coll w pedest-motcycl           Motor vehicle traffic accident involving collision with pedestrian injuring motorcyclist",
+	},
+	{
+		code: "E8143  Mv coll w ped-mcycl psgr           Motor vehicle traffic accident involving collision with pedestrian injuring passenger on motorcycle",
+	},
+	{
+		code: "E8144  Mv coll w pedest-st car            Motor vehicle traffic accident involving collision with pedestrian injuring occupant of streetcar",
+	},
+	{
+		code: "E8145  Mv coll w ped-anim rid             Motor vehicle traffic accident involving collision with pedestrian injuring rider of animal; occupant of animal drawn vehicle",
+	},
+	{
+		code: "E8146  Mv coll w ped-ped cycl             Motor vehicle traffic accident involving collision with pedestrian injuring pedal cyclist",
+	},
+	{
+		code: "E8147  Mv coll w pedest-pedest            Motor vehicle traffic accident involving collision with pedestrian injuring pedestrian",
+	},
+	{
+		code: "E8148  Mv coll w pedes-pers NEC           Motor vehicle traffic accident involving collision with pedestrian injuring other specified person",
+	},
+	{
+		code: "E8149  Mv coll w pedes-pers NOS           Motor vehicle traffic accident involving collision with pedestrian injuring unspecified person",
+	},
+	{
+		code: "E8150  Mv coll w oth obj-driver           Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8151  Mv coll w oth obj-pasngr           Other motor vehicle traffic accident involving collision on the highway injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8152  Mv coll w oth obj-mocycl           Other motor vehicle traffic accident involving collision on the highway injuring motorcyclist",
+	},
+	{
+		code: "E8153  Mv coll w obj-mcycl psgr           Other motor vehicle traffic accident involving collision on the highway injuring passenger on motorcycle",
+	},
+	{
+		code: "E8154  Mv coll w obj-st car               Other motor vehicle traffic accident involving collision on the highway injuring occupant of streetcar",
+	},
+	{
+		code: "E8155  Mv coll w obj-anim rider           Other motor vehicle traffic accident involving collision on the highway injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8156  Mv coll w obj-ped cycl             Other motor vehicle traffic accident involving collision on the highway injuring pedal cyclist",
+	},
+	{
+		code: "E8157  Mv coll w obj-pedest               Other motor vehicle traffic accident involving collision on the highway injuring pedestrian",
+	},
+	{
+		code: "E8158  Mv coll w obj-pers NEC             Other motor vehicle traffic accident involving collision on the highway injuring other specified person",
+	},
+	{
+		code: "E8159  Mv coll w obj-pers NOS             Other motor vehicle traffic accident involving collision on the highway injuring unspecified person",
+	},
+	{
+		code: "E8160  Loss control mv acc-driv           Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8161  Loss control mv acc-psgr           Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8162  Loss control mv-mocycl             Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8163  Loss control mv-mcyc psg           Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8164  Loss cont mv acc-st car            Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8165  Loss cont mv-anim rider            Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8166  Loss control mv-ped cycl           Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8167  Loss control mv-pedest             Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8168  Loss control mv-pers NEC           Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8169  Loss control mv-pers NOS           Motor vehicle traffic accident due to loss of control",
+	},
+	{
+		code: "E8170  Mv acc board/alight-driv           Noncollision motor vehicle traffic accident while boarding or alighting injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8171  Mv acc board/alight-psgr           Noncollision motor vehicle traffic accident while boarding or alighting injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8172  Mv board/alight-motcycl            Noncollision motor vehicle traffic accident while boarding or alighting injuring motorcyclist",
+	},
+	{
+		code: "E8173  Mv brd/alight-mcycl psgr           Noncollision motor vehicle traffic accident while boarding or alighting injuring passenger on motorcycle",
+	},
+	{
+		code: "E8174  Mv acc brd/alight-st car           Noncollision motor vehicle traffic accident while boarding or alighting injuring occupant of streetcar",
+	},
+	{
+		code: "E8175  Mv brd/alight-anim rider           Noncollision motor vehicle traffic accident while boarding or alighting injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8176  Mv brd/alight-ped cycl             Noncollision motor vehicle traffic accident while boarding or alighting injuring pedal cyclist",
+	},
+	{
+		code: "E8177  Mv brd/alight-pedestrian           Noncollision motor vehicle traffic accident while boarding or alighting injuring pedestrian",
+	},
+	{
+		code: "E8178  Mv board/alight-pers NEC           Noncollision motor vehicle traffic accident while boarding or alighting injuring other specified person",
+	},
+	{
+		code: "E8179  Mv board/alight-pers NOS           Noncollision motor vehicle traffic accident while boarding or alighting injuring unspecified person",
+	},
+	{
+		code: "E8180  Mv traff acc NEC-driver            Other noncollision motor vehicle traffic accident injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8181  Mv traff acc NEC-pasngr            Other noncollision motor vehicle traffic accident injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8182  Mv traff acc NEC-mocycl            Other noncollision motor vehicle traffic accident injuring motorcyclist",
+	},
+	{
+		code: "E8183  Mv traff acc-mcycl psgr            Other noncollision motor vehicle traffic accident injuring passenger on motorcycle",
+	},
+	{
+		code: "E8184  Mv traff acc NEC-st car            Other noncollision motor vehicle traffic accident injuring occupant of streetcar",
+	},
+	{
+		code: "E8185  Mv traff acc-anim rider            Other noncollision motor vehicle traffic accident injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8186  Mv traff acc-ped cyc               Other noncollision motor vehicle traffic accident injuring pedal cyclist",
+	},
+	{
+		code: "E8187  Mv traff acc NEC-pedest            Other noncollision motor vehicle traffic accident injuring pedestrian",
+	},
+	{
+		code: "E8188  Mv traff acc-pers NEC              Other noncollision motor vehicle traffic accident injuring other specified person",
+	},
+	{
+		code: "E8189  Mv traff acc-pers NOS              Other noncollision motor vehicle traffic accident injuring unspecified person",
+	},
+	{
+		code: "E8190  Traffic acc NOS-driver             Motor vehicle traffic accident of unspecified nature injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8191  Traffic acc NOS-pasngr             Motor vehicle traffic accident of unspecified nature injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8192  Traffic acc NOS-motcycl            Motor vehicle traffic accident of unspecified nature injuring motorcyclist",
+	},
+	{
+		code: "E8193  Traff acc NOS-mcycl psgr           Motor vehicle traffic accident of unspecified nature injuring passenger on motorcycle",
+	},
+	{
+		code: "E8194  Traffic acc NOS-st car             Motor vehicle traffic accident of unspecified nature injuring occupant of streetcar",
+	},
+	{
+		code: "E8195  Traff acc NOS-anim rider           Motor vehicle traffic accident of unspecified nature injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8196  Traffic acc NOS-ped cycl           Motor vehicle traffic accident of unspecified nature injuring pedal cyclist",
+	},
+	{
+		code: "E8197  Traffic acc NOS-pedest             Motor vehicle traffic accident of unspecified nature injuring pedestrian",
+	},
+	{
+		code: "E8198  Traffic acc NOS-pers NEC           Motor vehicle traffic accident of unspecified nature injuring other specified person",
+	},
+	{
+		code: "E8199  Traffic acc NOS-pers NOS           Motor vehicle traffic accident of unspecified nature injuring unspecified person",
+	},
+	{
+		code: "E8200  Snow veh acc-driver                Nontraffic accident involving motor-driven snow vehicle injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8201  Snow veh acc-pasngr                Nontraffic accident involving motor-driven snow vehicle injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8202  Snow veh acc-motorcycl             Nontraffic accident involving motor-driven snow vehicle injuring motorcyclist",
+	},
+	{
+		code: "E8203  Snow veh acc-mcycl psgr            Nontraffic accident involving motor-driven snow vehicle injuring passenger on motorcycle",
+	},
+	{
+		code: "E8204  Snow veh acc-st car                Nontraffic accident involving motor-driven snow vehicle injuring occupant of streetcar",
+	},
+	{
+		code: "E8205  Snow veh acc-anim rider            Nontraffic accident involving motor-driven snow vehicle injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8206  Snow veh acc-ped cycl              Nontraffic accident involving motor-driven snow vehicle injuring pedal cyclist",
+	},
+	{
+		code: "E8207  Snow veh acc-pedest                Nontraffic accident involving motor-driven snow vehicle injuring pedestrian",
+	},
+	{
+		code: "E8208  Snow veh acc-pers NEC              Nontraffic accident involving motor-driven snow vehicle injuring other specified person",
+	},
+	{
+		code: "E8209  Snow veh acc-pers NOS              Nontraffic accident involving motor-driven snow vehicle injuring unspecified person",
+	},
+	{
+		code: "E8210  Oth off-road mv acc-driv           Nontraffic accident involving other off-road motor vehicle injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8211  Oth off-road mv acc-psgr           Nontraffic accident involving other off-road motor vehicle injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8212  Oth off-road mv-mocycl             Nontraffic accident involving other off-road motor vehicle injuring motorcyclist",
+	},
+	{
+		code: "E8213  Oth off-road mv-mcyc psg           Nontraffic accident involving other off-road motor vehicle injuring passenger on motorcycle",
+	},
+	{
+		code: "E8214  Oth off-road mv-st car             Nontraffic accident involving other off-road motor vehicle injuring occupant of streetcar",
+	},
+	{
+		code: "E8215  Oth off-road mv-anim rid           Nontraffic accident involving other off-road motor vehicle injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8216  Oth off-road mv-ped cycl           Nontraffic accident involving other off-road motor vehicle injuring pedal cyclist",
+	},
+	{
+		code: "E8217  Oth off-road mv-pedest             Nontraffic accident involving other off-road motor vehicle injuring pedestrian",
+	},
+	{
+		code: "E8218  Oth off-road mv-pers NEC           Nontraffic accident involving other off-road motor vehicle injuring other specified person",
+	},
+	{
+		code: "E8219  Oth off-road mv-pers NOS           Nontraffic accident involving other off-road motor vehicle injuring unspecified person",
+	},
+	{
+		code: "E8220  Oth coll w mov obj-driv            Other motor vehicle nontraffic accident involving collision with moving object injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8221  Oth coll w mov obj-psgr            Other motor vehicle nontraffic accident involving collision with moving object injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8222  Oth coll mov obj-mocycl            Other motor vehicle nontraffic accident involving collision with moving object injuring motorcyclist",
+	},
+	{
+		code: "E8223  Oth coll mov obj-cyc psg           Other motor vehicle nontraffic accident involving collision with moving object injuring passenger on motorcycle",
+	},
+	{
+		code: "E8224  Oth coll mov obj-st car            Other motor vehicle nontraffic accident involving collision with moving object injuring occupant of streetcar",
+	},
+	{
+		code: "E8225  Oth coll mov obj-rider             Other motor vehicle nontraffic accident involving collision with moving object injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8226  Oth coll mov obj-ped cyc           Other motor vehicle nontraffic accident involving collision with moving object injuring pedal cyclist",
+	},
+	{
+		code: "E8227  Oth coll mov obj-pedest            Other motor vehicle nontraffic accident involving collision with moving object injuring pedestrian",
+	},
+	{
+		code: "E8228  Oth coll mov obj-per NEC           Other motor vehicle nontraffic accident involving collision with moving object injuring other specified person",
+	},
+	{
+		code: "E8229  Oth coll mov obj-per NOS           Other motor vehicle nontraffic accident involving collision with moving object injuring unspecified person",
+	},
+	{
+		code: "E8230  Oth coll stndng obj-driv           Other motor vehicle nontraffic accident involving collision with stationary object injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8231  Oth coll stndng obj-psgr           Other motor vehicle nontraffic accident involving collision with stationary object injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8232  Oth coll stnd obj-mocycl           Other motor vehicle nontraffic accident involving collision with stationary object injuring motorcyclist",
+	},
+	{
+		code: "E8233  Oth coll stn obj-cyc psg           Other motor vehicle nontraffic accident involving collision with stationary object injuring passenger on motorcycle",
+	},
+	{
+		code: "E8234  Oth coll stnd obj-st car           Other motor vehicle nontraffic accident involving collision with stationary object injuring occupant of streetcar",
+	},
+	{
+		code: "E8235  Oth coll stnd obj-rider            Other motor vehicle nontraffic accident involving collision with stationary object injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8236  Oth coll stn obj-ped cyc           Other motor vehicle nontraffic accident involving collision with stationary object injuring pedal cyclist",
+	},
+	{
+		code: "E8237  Oth coll stnd obj-pedest           Other motor vehicle nontraffic accident involving collision with stationary object injuring pedestrian",
+	},
+	{
+		code: "E8238  Oth coll stn obj-per NEC           Other motor vehicle nontraffic accident involving collision with stationary object injuring other specified person",
+	},
+	{
+		code: "E8239  Oth col-stnd-obj-per NOS           Other motor vehicle nontraffic accident involving collision with stationary object injuring unspecified person",
+	},
+	{
+		code: "E8240  N-traf board/alight-driv           Other motor vehicle nontraffic accident while boarding and alighting injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8241  N-traf board/alight-psgr           Other motor vehicle nontraffic accident while boarding and alighting injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8242  N-traf brd/alight-mocycl           Other motor vehicle nontraffic accident while boarding and alighting injuring motorcyclist",
+	},
+	{
+		code: "E8243  N-traf brd/alit-mcyc psg           Other motor vehicle nontraffic accident while boarding and alighting injuring passenger on motorcycle",
+	},
+	{
+		code: "E8244  N-traf brd/alit-st car             Other motor vehicle nontraffic accident while boarding and alighting injuring occupant of streetcar",
+	},
+	{
+		code: "E8245  N-traf brd/alit-anim rid           Other motor vehicle nontraffic accident while boarding and alighting injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8246  N-traf brd/alit-ped cycl           Other motor vehicle nontraffic accident while boarding and alighting injuring pedal cyclist",
+	},
+	{
+		code: "E8247  N-traf brd/alit-pedest             Other motor vehicle nontraffic accident while boarding and alighting injuring pedestrian",
+	},
+	{
+		code: "E8248  N-traf brd/alit-pers NEC           Other motor vehicle nontraffic accident while boarding and alighting injuring other specified person",
+	},
+	{
+		code: "E8249  N-traf brd/alit-pers NOS           Other motor vehicle nontraffic accident while boarding and alighting injuring unspecified person",
+	},
+	{
+		code: "E8250  Mv n-traff acc NEC-driv            Other motor vehicle nontraffic accident of other and unspecified nature injuring driver of motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8251  Mv n-traff NEC/NOS-psgr            Other motor vehicle nontraffic accident of other and unspecified nature injuring passenger in motor vehicle other than motorcycle",
+	},
+	{
+		code: "E8252  Mv n-traf acc NEC-mocycl           Other motor vehicle nontraffic accident of other and unspecified nature injuring motorcyclist",
+	},
+	{
+		code: "E8253  Mv n-traff NEC-mcyc psgr           Other motor vehicle nontraffic accident of other and unspecified nature injuring passenger on motorcycle",
+	},
+	{
+		code: "E8254  Mv n-traff NEC-st car              Other motor vehicle nontraffic accident of other and unspecified nature injuring occupant of streetcar",
+	},
+	{
+		code: "E8255  Mv n-traf NEC-anim rider           Other motor vehicle nontraffic accident of other and unspecified nature injuring rider of animal; occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8256  Mv n-traff NEC-ped cycl            Other motor vehicle nontraffic accident of other and unspecified nature injuring pedal cyclist",
+	},
+	{
+		code: "E8257  Mv n-traff NEC-pedest              Other motor vehicle nontraffic accident of other and unspecified nature injuring pedestrian",
+	},
+	{
+		code: "E8258  Mv n-traff NEC-pers NEC            Other motor vehicle nontraffic accident of other and unspecified nature injuring other specified person",
+	},
+	{
+		code: "E8259  Mv n-traff NEC-pers NOS            Other motor vehicle nontraffic accident of other and unspecified nature injuring unspecified person",
+	},
+	{
+		code: "E8260  Pedal cycle acc-pedest             Pedal cycle accident injuring pedestrian",
+	},
+	{
+		code: "E8261  Ped cycl acc-ped cyclist           Pedal cycle accident injuring pedal cyclist",
+	},
+	{
+		code: "E8262  Ped cycle acc-anim rider           Pedal cycle accident injuring rider of animal",
+	},
+	{
+		code: "E8263  Ped cyc acc-occ anim veh           Pedal cycle accident injuring occupant of animal-drawn vehicle",
+	},
+	{
+		code: "E8264  Ped cycle acc-occ st car           Pedal cycle accident injuring occupant of streetcar",
+	},
+	{
+		code: "E8268  Ped cycle acc-pers NEC             Pedal cycle accident injuring other specified person",
+	},
+	{
+		code: "E8269  Ped cycle acc-pers NOS             Pedal cycle accident injuring unspecified person",
+	},
+	{
+		code: "E8270  Animal drawn veh-pedest            Animal-drawn vehicle accident injuring pedestrian",
+	},
+	{
+		code: "E8272  Anim drawn veh-anim rid            Animal-drawn vehicle accident injuring rider of animal",
+	},
+	{
+		code: "E8273  Animal drawn veh-occupan           Animal-drawn vehicle accident injuring occupant of animal drawn vehicle",
+	},
+	{
+		code: "E8274  Anim drawn-occ st car              Animal-drawn vehicle accident injuring occupant of streetcar",
+	},
+	{
+		code: "E8278  Anim drawn veh-pers NEC            Animal-drawn vehicle accident injuring other specified person",
+	},
+	{
+		code: "E8279  Anim drawn veh-pers NOS            Animal-drawn vehicle accident injuring unspecified person",
+	},
+	{
+		code: "E8280  Ridden animal acc-pedest           Accident involving animal being ridden injuring pedestrian",
+	},
+	{
+		code: "E8282  Ridden animal acc-rider            Accident involving animal being ridden injuring rider of animal",
+	},
+	{
+		code: "E8284  Ridden animal acc-st car           Accident involving animal being ridden injuring occupant of streetcar",
+	},
+	{
+		code: "E8288  Ridden anim acc-pers NEC           Accident involving animal being ridden injuring other specified person",
+	},
+	{
+		code: "E8289  Ridden anim acc-pers NOS           Accident involving animal being ridden injuring unspecified person",
+	},
+	{
+		code: "E8290  Oth road veh acc-pedest            Other road vehicle accidents injuring pedestrian",
+	},
+	{
+		code: "E8294  Oth rd veh acc-st car              Other road vehicle accidents injuring occupant of streetcar",
+	},
+	{
+		code: "E8298  Oth rd veh acc-pers NEC            Other road vehicle accidents injuring other specified person",
+	},
+	{
+		code: "E8299  Oth rd veh acc-pers NOS            Other road vehicle accidents injuring unspecified person",
+	},
+	{
+		code: "E8300  Boat acc w submers-unpow           Accident to watercraft causing submersion injuring occupant of small boat",
+	},
+	{
+		code: "E8301  Boat acc w submers-power           Accident to watercraft causing submersion injuring occupant of small boat",
+	},
+	{
+		code: "E8302  Boat acc w submers-crew            Accident to watercraft causing submersion injuring occupant of other watercraft -- crew",
+	},
+	{
+		code: "E8303  Boat acc w submers-psgr            Accident to watercraft causing submersion injuring occupant of other watercraft -- other than crew",
+	},
+	{
+		code: "E8304  Boat submers-water skier           Accident to watercraft causing submersion injuring water skier",
+	},
+	{
+		code: "E8305  Boat submers-swimmer               Accident to watercraft causing submersion injuring swimmer",
+	},
+	{
+		code: "E8306  Boat submers-dockers               Accident to watercraft causing submersion injuring dockers",
+	},
+	{
+		code: "E8307  Boat submers-military              Accident to watercraft causing submersion",
+	},
+	{
+		code: "E8308  Boat submers-pers NEC              Accident to watercraft causing submersion injuring other specified person",
+	},
+	{
+		code: "E8309  Boat submers-pers NOS              Accident to watercraft causing submersion injuring unspecified person",
+	},
+	{
+		code: "E8310  Boat acc inj NEC-unpower           Accident to watercraft causing other injury to occupant of small boat",
+	},
+	{
+		code: "E8311  Boat acc inj NEC-power             Accident to watercraft causing other injury to occupant of small boat",
+	},
+	{
+		code: "E8312  Boat acc inj NEC-crew              Accident to watercraft causing other injury to occupant of other watercraft -- crew",
+	},
+	{
+		code: "E8313  Boat acc inj NEC-passeng           Accident to watercraft causing other injury to occupant of other watercraft -- other than crew",
+	},
+	{
+		code: "E8314  Boat acc inj NEC-skier             Accident to watercraft causing other injury to water skier",
+	},
+	{
+		code: "E8315  Boat acc inj NEC-swim              Accident to watercraft causing other injury to swimmer",
+	},
+	{
+		code: "E8316  Boat acc inj NEC-docker            Accident to watercraft causing other injury to dockers",
+	},
+	{
+		code: "E8317  Boat acc inj NEC-militry           Accident to watercraft causing other injury",
+	},
+	{
+		code: "E8318  Boat inj NEC-person NEC            Accident to watercraft causing other injury to other specified person",
+	},
+	{
+		code: "E8319  Boat inj NEC-person NOS            Accident to watercraft causing other injury to unspecified person",
+	},
+	{
+		code: "E8320  Submers NEC-unpow boat             Other accidental submersion or drowning in water transport accident injuring occupant of small boat",
+	},
+	{
+		code: "E8321  Submers NEC-power boat             Other accidental submersion or drowning in water transport accident injuring occupant of small boat",
+	},
+	{
+		code: "E8322  Submers NEC-crew                   Other accidental submersion or drowning in water transport accident injuring occupant of other watercraft -- crew",
+	},
+	{
+		code: "E8323  Submers NEC-passenger              Other accidental submersion or drowning in water transport accident injuring occupant of other watercraft -- other than crew",
+	},
+	{
+		code: "E8324  Submers NEC-water skier            Other accidental submersion or drowning in water transport accident injuring water skier",
+	},
+	{
+		code: "E8325  Submers NEC-swimmer                Other accidental submersion or drowning in water transport accident injuring swimmer",
+	},
+	{
+		code: "E8326  Submers NEC-docker                 Other accidental submersion or drowning in water transport accident injuring dockers",
+	},
+	{
+		code: "E8327  Submersion NEC-military            Other accidental submersion or drowning in water transport accident",
+	},
+	{
+		code: "E8328  Submers NEC-person NEC             Other accidental submersion or drowning in water transport accident injuring other specified person",
+	},
+	{
+		code: "E8329  Submers NEC-person NOS             Other accidental submersion or drowning in water transport accident injuring unspecified person",
+	},
+	{
+		code: "E8330  W/craft stair fall-unpow           Fall on stairs or ladders in water transport injuring occupant of small boat",
+	},
+	{
+		code: "E8331  W/craft stair fall-power           Fall on stairs or ladders in water transport injuring occupant of small boat",
+	},
+	{
+		code: "E8332  Wtrcraft stair fall-crew           Fall on stairs or ladders in water transport injuring occupant of other watercraft -- crew",
+	},
+	{
+		code: "E8333  Wtrcraft stair fall-psgr           Fall on stairs or ladders in water transport injuring occupant of other watercraft -- other than crew",
+	},
+	{
+		code: "E8334  W/craft stair fall-skier           Fall on stairs or ladders in water transport injuring water skier",
+	},
+	{
+		code: "E8335  W/craft stair fall-swim            Fall on stairs or ladders in water transport injuring swimmer",
+	},
+	{
+		code: "E8336  W/crf stair fall-docker            Fall on stairs or ladders in water transport injuring dockers",
+	},
+	{
+		code: "E8337  W/crf stair fall-militry           Fall on stairs or ladders in water transport",
+	},
+	{
+		code: "E8338  W/crf stair fall-per NEC           Fall on stairs or ladders in water transport injuring other specified person",
+	},
+	{
+		code: "E8339  W/crf stair fall-per NOS           Fall on stairs or ladders in water transport injuring unspecified person",
+	},
+	{
+		code: "E8340  W/craft fall NEC-unpow             Other fall from one level to another in water transport injuring occupant of small boat",
+	},
+	{
+		code: "E8341  W/craft fall NEC-power             Other fall from one level to another in water transport injuring occupant of small boat",
+	},
+	{
+		code: "E8342  Watercraft fall NEC-crew           Other fall from one level to another in water transport injuring occupant of other watercraft -- crew",
+	},
+	{
+		code: "E8343  Wtrcraft fall NEC-pasngr           Other fall from one level to another in water transport injuring occupant of other watercraft -- other than crew",
+	},
+	{
+		code: "E8344  W/craft fall NEC-skier             Other fall from one level to another in water transport injuring water skier",
+	},
+	{
+		code: "E8345  W/craft fall NEC-swim              Other fall from one level to another in water transport injuring swimmer",
+	},
+	{
+		code: "E8346  Wtrcraft fall NEC-docker           Other fall from one level to another in water transport injuring dockers",
+	},
+	{
+		code: "E8347  W/crft fall NEC-military           Other fall from one level to another in water transport",
+	},
+	{
+		code: "E8348  W/crft fall NEC-pers NEC           Other fall from one level to another in water transport injuring other specified person",
+	},
+	{
+		code: "E8349  W/crft fall NEC-pers NOS           Other fall from one level to another in water transport injuring unspecified person",
+	},
+	{
+		code: "E8350  W/craft fall NOS-unpow             Other and unspecified fall in water transport injuring occupant of small boat",
+	},
+	{
+		code: "E8351  W/craft fall NOS-power             Other and unspecified fall in water transport injuring occupant of small boat",
+	},
+	{
+		code: "E8352  Wtrcraft fall NOS-crew             Other and unspecified fall in water transport injuring occupant of other watercraft -- crew",
+	},
+	{
+		code: "E8353  Wtrcraft fall NOS-pasngr           Other and unspecified fall in water transport injuring occupant of other watercraft -- other than crew",
+	},
+	{
+		code: "E8354  W/craft fall NOS-skier             Other and unspecified fall in water transport injuring water skier",
+	},
+	{
+		code: "E8355  W/craft fall NOS-swim              Other and unspecified fall in water transport injuring swimmer",
+	},
+	{
+		code: "E8356  Wtrcraft fall NOS-docker           Other and unspecified fall in water transport injuring dockers",
+	},
+	{
+		code: "E8357  W/crft fall NEC/NOS-mil            Other and unspecified fall in water transport",
+	},
+	{
+		code: "E8358  W/crft fall NOS-pers NEC           Other and unspecified fall in water transport injuring other specified person",
+	},
+	{
+		code: "E8359  W/crft fall NOS-pers NOS           Other and unspecified fall in water transport injuring unspecified person",
+	},
+	{
+		code: "E8360  Machine acc-unpow boat             Machinery accident in water transport injuring occupant of small boat",
+	},
+	{
+		code: "E8361  Mach acc-occ power boat            Machinery accident in water transport injuring occupant of small boat",
+	},
+	{
+		code: "E8362  Machinery accident-crew            Machinery accident in water transport injuring occupant of other watercraft -- crew",
+	},
+	{
+		code: "E8363  Machinery acc-pasngr               Machinery accident in water transport injuring occupant of other watercraft -- other than crew",
+	},
+	{
+		code: "E8364  Machine accident-skier             Machinery accident in water transport injuring water skier",
+	},
+	{
+		code: "E8365  Machine accident-swim              Machinery accident in water transport injuring swimmer",
+	},
+	{
+		code: "E8366  Machinery acc-docker               Machinery accident in water transport injuring dockers",
+	},
+	{
+		code: "E8367  W/crft machine-military            Machinery accident in water transport",
+	},
+	{
+		code: "E8368  Machinery acc-pers NEC             Machinery accident in water transport injuring other specified person",
+	},
+	{
+		code: "E8369  Machinery acc-pers NOS             Machinery accident in water transport injuring unspecified person",
+	},
+	{
+		code: "E8370  Explosion-occ unpow boat           Explosion",
+	},
+	{
+		code: "E8371  Explosion-occ power boat           Explosion",
+	},
+	{
+		code: "E8372  Watercraft explos-crew             Explosion",
+	},
+	{
+		code: "E8373  Watercraft explos-pasngr           Explosion",
+	},
+	{
+		code: "E8374  Watercraft explos-skier            Explosion",
+	},
+	{
+		code: "E8375  Watercraft explos-swim             Explosion",
+	},
+	{
+		code: "E8376  Watercraft explos-docker           Explosion",
+	},
+	{
+		code: "E8377  W/crft explosn-military            Explosion",
+	},
+	{
+		code: "E8378  Watercraft expl-pers NEC           Explosion",
+	},
+	{
+		code: "E8379  Watercraft expl-pers NOS           Explosion",
+	},
+	{
+		code: "E8380  Watercraft acc NEC-unpow           Other and unspecified water transport accident injuring occupant of small boat",
+	},
+	{
+		code: "E8381  Watercraft acc NEC-power           Other and unspecified water transport accident injuring occupant of small boat",
+	},
+	{
+		code: "E8382  Watercraft acc NEC-crew            Other and unspecified water transport accident injuring occupant of other watercraft -- crew",
+	},
+	{
+		code: "E8383  Watercrft acc NEC-pasngr           Other and unspecified water transport accident injuring occupant of other watercraft -- other than crew",
+	},
+	{
+		code: "E8384  Watercraft acc NEC-skier           Other and unspecified water transport accident injuring water skier",
+	},
+	{
+		code: "E8385  Watrcrft acc NEC-swimmer           Other and unspecified water transport accident injuring swimmer",
+	},
+	{
+		code: "E8386  Watercrft acc NEC-docker           Other and unspecified water transport accident injuring dockers",
+	},
+	{
+		code: "E8387  W/crft-military NEC/NOS            Other and unspecified water transport accident",
+	},
+	{
+		code: "E8388  Wtrcrft acc NEC-pers NEC           Other and unspecified water transport accident injuring other specified person",
+	},
+	{
+		code: "E8389  Wtrcrft acc NEC-pers NOS           Other and unspecified water transport accident injuring unspecified person",
+	},
+	{
+		code: "E8400  Tk off/land-spcrft                 Accident to powered aircraft at takeoff or landing injuring occupant of spacecraft",
+	},
+	{
+		code: "E8401  Tk off/land-milit craft            Accident to powered aircraft at takeoff or landing injuring occupant of military aircraft",
+	},
+	{
+		code: "E8402  Tk off/land-crew aircrft           Accident to powered aircraft at takeoff or landing injuring crew of commercial aircraft (powered) in surface to surface transport",
+	},
+	{
+		code: "E8403  Tk off/land-psng aircrft           Accident to powered aircraft at takeoff or landing injuring other occupant of commercial aircraft (powered) in surface to surface transport",
+	},
+	{
+		code: "E8404  Tk off/land-comm crf NEC           Accident to powered aircraft at takeoff or landing injuring occupant of commercial aircraft (powered) in surface to air transport",
+	},
+	{
+		code: "E8405  Tk off/land-aircraft NEC           Accident to powered aircraft at takeoff or landing injuring occupant of other powered aircraft",
+	},
+	{
+		code: "E8406  Tk off/land-unp aircrft            Accident to powered aircraft at takeoff or landing injuring occupant of unpowered aircraft",
+	},
+	{
+		code: "E8407  Tk off/land-parachutist            Accident to powered aircraft at takeoff or landing injuring parachutist (military) (other)",
+	},
+	{
+		code: "E8408  Tk off/land-ground crew            Accident to powered aircraft at takeoff or landing injuring ground crew",
+	},
+	{
+		code: "E8409  Tk off/land-pers NEC               Accident to powered aircraft at takeoff or landing injuring other person",
+	},
+	{
+		code: "E8410  Pow aircraft acc-spcrft            Accident to powered aircraft",
+	},
+	{
+		code: "E8411  Power aircraft acc-milit           Accident to powered aircraft",
+	},
+	{
+		code: "E8412  Power aircraft acc-crew            Accident to powered aircraft",
+	},
+	{
+		code: "E8413  Power aircraft acc-psngr           Accident to powered aircraft",
+	},
+	{
+		code: "E8414  Aircraf acc-occ comm NEC           Accident to powered aircraft",
+	},
+	{
+		code: "E8415  Oth powered aircraft acc           Accident to powered aircraft",
+	},
+	{
+		code: "E8416  Pow airc acc-unp aircr             Accident to powered aircraft",
+	},
+	{
+		code: "E8417  Aircraft acc-parachutist           Accident to powered aircraft",
+	},
+	{
+		code: "E8418  Aircraft acc-ground crew           Accident to powered aircraft",
+	},
+	{
+		code: "E8419  Aircrft acc NOS-pers NEC           Accident to powered aircraft",
+	},
+	{
+		code: "E8426  Unpower aircraft acc-occ           Accident to unpowered aircraft injuring occupant of unpowered aircraft",
+	},
+	{
+		code: "E8427  Unpow aircrf acc-chutist           Accident to unpowered aircraft injuring parachutist (military) (other)",
+	},
+	{
+		code: "E8428  Unpow aircrf acc-gr crew           Accident to unpowered aircraft injuring ground crew",
+	},
+	{
+		code: "E8429  Unpow aircrf acc-per NEC           Accident to unpowered aircraft injuring other person",
+	},
+	{
+		code: "E8430  Fall-occ spacecraft                Fall in",
+	},
+	{
+		code: "E8431  Fall-milit aircraft occp           Fall in",
+	},
+	{
+		code: "E8432  Fall-crew comm aircraft            Fall in",
+	},
+	{
+		code: "E8433  Fall-psng comm aircraft            Fall in",
+	},
+	{
+		code: "E8434  Fall-occ comm aircrf NEC           Fall in",
+	},
+	{
+		code: "E8435  Fall-occup oth aircraft            Fall in",
+	},
+	{
+		code: "E8436  Fall-occ unpower aircraf           Fall in",
+	},
+	{
+		code: "E8437  Fall-parachutist                   Fall in",
+	},
+	{
+		code: "E8438  Aircrft fall-ground crew           Fall in",
+	},
+	{
+		code: "E8439  Aircraft fall-person NEC           Fall in",
+	},
+	{
+		code: "E8440  Aircrft acc NEC-spcrft             Other specified air transport accidents injuring occupant of spacecraft",
+	},
+	{
+		code: "E8441  Aircrft acc NEC-military           Other specified air transport accidents injuring occupant of military aircraft",
+	},
+	{
+		code: "E8442  Aircrft acc NEC-crew               Other specified air transport accidents injuring crew of commercial aircraft (powered) in surface to surface transport",
+	},
+	{
+		code: "E8443  Aircrft acc NEC-pasngr             Other specified air transport accidents injuring other occupant of commercial aircraft (powered) in surface to surface transport",
+	},
+	{
+		code: "E8444  Aircrft acc NEC-comm NEC           Other specified air transport accidents injuring occupant of commercial aircraft (powered) in surface to air transport",
+	},
+	{
+		code: "E8445  Aircrft acc NEC-occp NEC           Other specified air transport accidents injuring occupant of other powered aircraft",
+	},
+	{
+		code: "E8446  Aircr acc NEC-unp aircr            Other specified air transport accidents injuring occupant of unpowered aircraft",
+	},
+	{
+		code: "E8447  Aircrft acc-parachutist            Other specified air transport accidents injuring parachutist (military) (other)",
+	},
+	{
+		code: "E8448  Aircrft acc NEC-grd crew           Other specified air transport accidents injuring ground crew",
+	},
+	{
+		code: "E8449  Aircrft acc NEC-pers NEC           Other specified air transport accidents injuring other person",
+	},
+	{
+		code: "E8450  Spacecraft acc-occupant            Accident involving spacecraft injuring occupant of spacecraft",
+	},
+	{
+		code: "E8458  Spacecraft acc-grnd crew           Accident involving spacecraft injuring ground crew",
+	},
+	{
+		code: "E8459  Spacecraft acc-pers NEC            Accident involving spacecraft injuring other person",
+	},
+	{
+		code: "E846   Indus veh acc on premise           Accidents involving powered vehicles used solely within the buildings and premises of industrial or commercial establishment",
+	},
+	{
+		code: "E847   Cabl car acc not on rail           Accidents involving cable cars not running on rails",
+	},
+	{
+		code: "E848   Oth vehicle acc NEC                Accidents involving other vehicles",
+	},
+	{
+		code: "E8500  Acc poison-heroin                  Accidental poisoning by heroin",
+	},
+	{
+		code: "E8501  Acc poison-methadone               Accidental poisoning by methadone",
+	},
+	{
+		code: "E8502  Acc poison-opiates NEC             Accidental poisoning by other opiates and related narcotics",
+	},
+	{
+		code: "E8503  Acc poison-salicylates             Accidental poisoning by salicylates",
+	},
+	{
+		code: "E8504  Acc poison-arom analgesc           Accidental poisoning by aromatic analgesics",
+	},
+	{
+		code: "E8505  Acc poison-pyrazole derv           Accidental poisoning by pyrazole derivatives",
+	},
+	{
+		code: "E8506  Acc poison-antirheumatic           Accidental poisoning by antirheumatics (antiphlogistics)",
+	},
+	{
+		code: "E8507  Acc poison-nonnarc analg           Accidental poisoning by other non-narcotic analgesics",
+	},
+	{
+		code: "E8508  Acc poison-analgesic NEC           Accidental poisoning by other specified analgesics and antipyretics",
+	},
+	{
+		code: "E8509  Acc poison-analgesic NOS           Accidental poisoning by unspecified analgesic or antipyretic",
+	},
+	{
+		code: "E851   Acc poison-barbiturates            Accidental poisoning by barbiturates",
+	},
+	{
+		code: "E8520  Acc poisn-chlorl hydrate           Accidental poisoning by chloral hydrate group",
+	},
+	{
+		code: "E8521  Acc poison-paraldehyde             Accidental poisoning by paraldehyde",
+	},
+	{
+		code: "E8522  Acc poison-bromine cmpnd           Accidental poisoning by bromine compounds",
+	},
+	{
+		code: "E8523  Acc poison-methaqualone            Accidental poisoning by methaqualone compounds",
+	},
+	{
+		code: "E8524  Acc poison-glutethimide            Accidental poisoning by glutethimide group",
+	},
+	{
+		code: "E8525  Acc poison-mix sedtv NEC           Accidental poisoning by mixed sedatives",
+	},
+	{
+		code: "E8528  Acc poison-sedatives NEC           Accidental poisoning by other specified sedatives and hypnotics",
+	},
+	{
+		code: "E8529  Acc poison-sedatives NOS           Accidental poisoning by unspecified sedative or hypnotic",
+	},
+	{
+		code: "E8530  Acc pois-phenthiaz tranq           Accidental poisoning by phenothiazine-based tranquilizers",
+	},
+	{
+		code: "E8531  Acc pois-butyrphen tranq           Accidental poisoning by butyrophenone-based tranquilizers",
+	},
+	{
+		code: "E8532  Acc poisn-benzdiaz tranq           Accidental poisoning by benzodiazepine-based tranquilizers",
+	},
+	{
+		code: "E8538  Acc poisn-tranquilzr NEC           Accidental poisoning by other specified tranquilizers",
+	},
+	{
+		code: "E8539  Acc poisn-tranquilzr NOS           Accidental poisoning by unspecified tranquilizer",
+	},
+	{
+		code: "E8540  Acc poison-antidepressnt           Accidental poisoning by antidepressants",
+	},
+	{
+		code: "E8541  Acc poison-hallucinogens           Accidental poisoning by psychodysleptics [hallucinogens]",
+	},
+	{
+		code: "E8542  Acc poisn-psychstimulant           Accidental poisoning by psychostimulants",
+	},
+	{
+		code: "E8543  Acc poison-cns stimulant           Accidental poisoning by central nervous system stimulants",
+	},
+	{
+		code: "E8548  Acc poisn psychotrop NEC           Accidental poisoning by other psychotropic agents",
+	},
+	{
+		code: "E8550  Acc poisn-anticonvulsant           Accidental poisoning by anticonvulsant and anti-parkinsonism drugs",
+	},
+	{
+		code: "E8551  Acc poisn-cns depres NEC           Accidental poisoning by other central nervous system depressants",
+	},
+	{
+		code: "E8552  Acc poisn-local anesthet           Accidental poisoning by local anesthetics",
+	},
+	{
+		code: "E8553  Acc poison-cholinergics            Accidental poisoning by parasympathomimetics [cholinergics]",
+	},
+	{
+		code: "E8554  Acc poisn-anticholinerg            Accidental poisoning by parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics",
+	},
+	{
+		code: "E8555  Acc poison-adrenergics             Accidental poisoning by sympathomimetics [adrenergics]",
+	},
+	{
+		code: "E8556  Acc poisn-sympatholytics           Accidental poisoning by sympatholytics [antiadrenergics]",
+	},
+	{
+		code: "E8558  Acc poison-cns drug NEC            Accidental poisoning by other specified drugs acting on central and autonomic nervous systems",
+	},
+	{
+		code: "E8559  Acc poison-cns drug NOS            Accidental poisoning by unspecified drug acting on central and autonomic nervous systems",
+	},
+	{
+		code: "E856   Acc poison-antibiotics             Accidental poisoning by antibiotics",
+	},
+	{
+		code: "E857   Acc pois-oth anti-infect           Accidental poisoning by other anti-infectives",
+	},
+	{
+		code: "E8580  Acc poison-hormones                Accidental poisoning by hormones and synthetic substitutes",
+	},
+	{
+		code: "E8581  Acc poisn-systemic agent           Accidental poisoning by primarily systemic agents",
+	},
+	{
+		code: "E8582  Acc poison-blood agent             Accidental poisoning by agents primarily affecting blood constituents",
+	},
+	{
+		code: "E8583  Acc poisn-cardiovasc agt           Accidental poisoning by agents primarily affecting cardiovascular system",
+	},
+	{
+		code: "E8584  Acc poison-gi agent                Accidental poisoning by agents primarily affecting gastrointestinal system",
+	},
+	{
+		code: "E8585  Acc poisn-metabol agnt             Accidental poisoning by water",
+	},
+	{
+		code: "E8586  Acc poisn-muscl/resp agt           Accidental poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system",
+	},
+	{
+		code: "E8587  Acc poisn-skin/eent agnt           Accidental poisoning by agents primarily affecting skin and mucous membrane",
+	},
+	{
+		code: "E8588  Acc poisoning-drug NEC             Accidental poisoning by other specified drugs",
+	},
+	{
+		code: "E8589  Acc poisoning-drug NOS             Accidental poisoning by unspecified drug",
+	},
+	{
+		code: "E8600  Acc poisn-alcohol bevrag           Accidental poisoning by alcoholic beverages",
+	},
+	{
+		code: "E8601  Acc poison-ethyl alcohol           Accidental poisoning by other and unspecified ethyl alcohol and its products",
+	},
+	{
+		code: "E8602  Acc poisn-methyl alcohol           Accidental poisoning by methyl alcohol",
+	},
+	{
+		code: "E8603  Acc poisn-isopropyl alc            Accidental poisoning by isopropyl alcohol",
+	},
+	{
+		code: "E8604  Acc poison-fusel oil               Accidental poisoning by fusel oil",
+	},
+	{
+		code: "E8608  Acc poison-alcohol NEC             Accidental poisoning by other specified alcohols",
+	},
+	{
+		code: "E8609  Acc poison-alcohol NOS             Accidental poisoning by unspecified alcohol",
+	},
+	{
+		code: "E8610  Acc pois-synth detergent           Accidental poisoning by synthetic detergents and shampoos",
+	},
+	{
+		code: "E8611  Acc poison-soap products           Accidental poisoning by soap products",
+	},
+	{
+		code: "E8612  Acc poison-polishes                Accidental poisoning by polishes",
+	},
+	{
+		code: "E8613  Acc poison-cleanser NEC            Accidental poisoning by other cleansing and polishing agents",
+	},
+	{
+		code: "E8614  Acc poison-disinfectants           Accidental poisoning by disinfectants",
+	},
+	{
+		code: "E8615  Acc poison-lead paints             Accidental poisoning by lead paints",
+	},
+	{
+		code: "E8616  Acc poison-paints NEC              Accidental poisoning by other paints and varnishes",
+	},
+	{
+		code: "E8619  Acc poison-cleanser NOS            Accidental poisoning by unspecified cleansing and polishing agents",
+	},
+	{
+		code: "E8620  Acc poisn-petrol solvent           Accidental poisoning by petroleum solvents",
+	},
+	{
+		code: "E8621  Acc poisn-petroleum fuel           Accidental poisoning by petroleum fuels and cleaners",
+	},
+	{
+		code: "E8622  Acc pois-lubricating oil           Accidental poisoning by lubricating oils",
+	},
+	{
+		code: "E8623  Acc pois-petroleum solid           Accidental poisoning by petroleum solids",
+	},
+	{
+		code: "E8624  Acc poisn-solvents NEC             Accidental poisoning by other specified solvents",
+	},
+	{
+		code: "E8629  Acc poisn-solvent NOS              Accidental poisoning by unspecified solvent",
+	},
+	{
+		code: "E8630  Acc pois-chlorine pestic           Accidental poisoning by insecticides of organochlorine compounds",
+	},
+	{
+		code: "E8631  Acc pois-phosph pesticid           Accidental poisoning by insecticides of organophosphorus compounds",
+	},
+	{
+		code: "E8632  Acc poison-carbamates              Accidental poisoning by carbamates",
+	},
+	{
+		code: "E8633  Acc poisn-mixed pesticid           Accidental poisoning by mixtures of insecticides",
+	},
+	{
+		code: "E8634  Acc poison-pesticide NEC           Accidental poisoning by other and unspecified insecticides",
+	},
+	{
+		code: "E8635  Acc poison-herbicides              Accidental poisoning by herbicides",
+	},
+	{
+		code: "E8636  Acc poison-fungicides              Accidental poisoning by fungicides",
+	},
+	{
+		code: "E8637  Acc poison-rodenticides            Accidental poisoning by rodenticides",
+	},
+	{
+		code: "E8638  Acc poison-fumigants               Accidental poisoning by fumigants",
+	},
+	{
+		code: "E8639  Acc pois-agrcult NEC/NOS           Accidental poisoning by other and unspecified agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers",
+	},
+	{
+		code: "E8640  Acc pois-corrosiv aromat           Accidental poisoning by corrosive aromatics not elsewhere classified",
+	},
+	{
+		code: "E8641  Acc poison-acids                   Accidental poisoning by acids not elsewhere classified",
+	},
+	{
+		code: "E8642  Acc poisn-caustic alkali           Accidental poisoning by caustic alkalis not elsewhere classified",
+	},
+	{
+		code: "E8643  Acc poison-caustic NEC             Accidental poisoning by other specified corrosives and caustics not elsewhere classified",
+	},
+	{
+		code: "E8644  Acc poison-caustic NOS             Accidental poisoning by unspecified corrosives and caustics not elsewhere classified",
+	},
+	{
+		code: "E8650  Acc poison-meat                    Accidental poisoning by meat",
+	},
+	{
+		code: "E8651  Acc poison-shellfish               Accidental poisoning by shellfish",
+	},
+	{
+		code: "E8652  Acc poison-fish NEC                Accidental poisoning from other fish",
+	},
+	{
+		code: "E8653  Acc poison-berries/seeds           Accidental poisoning from berries and seeds",
+	},
+	{
+		code: "E8654  Acc poison-plants NEC              Accidental poisoning from other specified plants",
+	},
+	{
+		code: "E8655  Acc poison-mushrooms               Accidental poisoning from mushrooms and other fungi",
+	},
+	{
+		code: "E8658  Acc poison-food NEC                Accidental poisoning from other specified foods",
+	},
+	{
+		code: "E8659  Acc poisn-food/plant NOS           Accidental poisoning from unspecified foodstuff or poisonous plant",
+	},
+	{
+		code: "E8660  Acc poisoning-lead                 Accidental poisoning by lead and its compounds and fumes",
+	},
+	{
+		code: "E8661  Acc poisoning-mercury              Accidental poisoning by mercury and its compounds and fumes",
+	},
+	{
+		code: "E8662  Acc poisoning-antimony             Accidental poisoning by antimony and its compounds and fumes",
+	},
+	{
+		code: "E8663  Acc poisoning-arsenic              Accidental poisoning by arsenic and its compounds and fumes",
+	},
+	{
+		code: "E8664  Acc poison-metals NEC              Accidental poisoning by other metals and their compounds and fumes",
+	},
+	{
+		code: "E8665  Acc poison-plant food              Accidental poisoning by plant foods and fertilizers",
+	},
+	{
+		code: "E8666  Acc poison-glues                   Accidental poisoning by glues and adhesives",
+	},
+	{
+		code: "E8667  Acc poison-cosmetics               Accidental poisoning by cosmetics",
+	},
+	{
+		code: "E8668  Acc pois-solid/liq NEC             Accidental poisoning by other specified solid or liquid substances",
+	},
+	{
+		code: "E8669  Acc pois-solid/liq NOS             Accidental poisoning by unspecified solid or liquid substance",
+	},
+	{
+		code: "E867   Acc poison-piped gas               Accidental poisoning by gas distributed by pipeline",
+	},
+	{
+		code: "E8680  Acc pois-liq petrol gas            Accidental poisoning by liquefied petroleum gas distributed in mobile containers",
+	},
+	{
+		code: "E8681  Acc pois-utl gas NEC/NOS           Accidental poisoning by other and unspecified utility gas",
+	},
+	{
+		code: "E8682  Acc poison-exhaust gas             Accidental poisoning by motor vehicle exhaust gas",
+	},
+	{
+		code: "E8683  Acc pois-co/domestc fuel           Accidental poisoning by carbon monoxide from incomplete combustion of other domestic fuels",
+	},
+	{
+		code: "E8688  Acc pois-carbn monox NEC           Accidental poisoning by carbon monoxide from other sources",
+	},
+	{
+		code: "E8689  Acc pois-carbn monox NOS           Accidental poisoning by unspecified carbon monoxide",
+	},
+	{
+		code: "E8690  Acc poisn-nitrogen oxide           Accidental poisoning by nitrogen oxides",
+	},
+	{
+		code: "E8691  Acc poisn-sulfur dioxide           Accidental poisoning by sulfur dioxide",
+	},
+	{
+		code: "E8692  Acc poison-freon                   Accidental poisoning by freon",
+	},
+	{
+		code: "E8693  Acc poison-tear gas                Accidental poisoning by lacrimogenic gas [tear gas]",
+	},
+	{
+		code: "E8694  Scndhnd tbcco smoke                Second hand tobacco smoke",
+	},
+	{
+		code: "E8698  Acc poison-gas/vapor NEC           Accidental poisoning by other specified gases and vapors",
+	},
+	{
+		code: "E8699  Acc poison-gas/vapor NOS           Accidental poisoning by unspecified gases and vapors",
+	},
+	{
+		code: "E8700  Acc cut/hem in surgery             Accidental cut",
+	},
+	{
+		code: "E8701  Acc cut/hem in infusion            Accidental cut",
+	},
+	{
+		code: "E8702  Acc cut/hem-perfusn NEC            Accidental cut",
+	},
+	{
+		code: "E8703  Acc cut/hem in injection           Accidental cut",
+	},
+	{
+		code: "E8704  Acc cut/hem w scope exam           Accidental cut",
+	},
+	{
+		code: "E8705  Acc cut/hem w catheteriz           Accidental cut",
+	},
+	{
+		code: "E8706  Acc cut/hem w heart cath           Accidental cut",
+	},
+	{
+		code: "E8707  Acc cut/hem w enema                Accidental cut",
+	},
+	{
+		code: "E8708  Acc cut in med care NEC            Accidental cut",
+	},
+	{
+		code: "E8709  Acc cut in med care NOS            Accidental cut",
+	},
+	{
+		code: "E8710  Post-surgical forgn body           Foreign object left in body during surgical operation",
+	},
+	{
+		code: "E8711  Postinfusion foreign bdy           Foreign object left in body during infusion or transfusion",
+	},
+	{
+		code: "E8712  Postperfusion forgn body           Foreign object left in body during kidney dialysis or other perfusion",
+	},
+	{
+		code: "E8713  Postinjection forgn body           Foreign object left in body during injection or vaccination",
+	},
+	{
+		code: "E8714  Postendoscopy forgn body           Foreign object left in body during endoscopic examination",
+	},
+	{
+		code: "E8715  Postcatheter forgn body            Foreign object left in body during aspiration of fluid or tissue",
+	},
+	{
+		code: "E8716  FB post heart catheter             Foreign object left in body during heart catheterization",
+	},
+	{
+		code: "E8717  FB post-catheter removal           Foreign object left in body during removal of catheter or packing",
+	},
+	{
+		code: "E8718  Post-op foreign body NEC           Foreign object left in body during other specified procedures",
+	},
+	{
+		code: "E8719  Post-op foreign body NOS           Foreign object left in body during unspecified procedure",
+	},
+	{
+		code: "E8720  Failure sterile surgery            Failure of sterile precautions during surgical operation",
+	},
+	{
+		code: "E8721  Failure sterile infusion           Failure of sterile precautions during infusion or transfusion",
+	},
+	{
+		code: "E8722  Fail sterile perfusn NEC           Failure of sterile precautions during kidney dialysis and other perfusion",
+	},
+	{
+		code: "E8723  Fail sterile injection             Failure of sterile precautions during injection or vaccination",
+	},
+	{
+		code: "E8724  Fail sterile endoscopy             Failure of sterile precautions during endoscopic examination",
+	},
+	{
+		code: "E8725  Fail sterile catheter              Failure of sterile precautions during aspiration of fluid or tissue",
+	},
+	{
+		code: "E8726  Fail sterile heart cath            Failure of sterile precautions during heart catheterization",
+	},
+	{
+		code: "E8728  Fail sterile proced NEC            Failure of sterile precautions during other specified procedures",
+	},
+	{
+		code: "E8729  Fail sterile proced NOS            Failure of sterile precautions during unspecified procedure",
+	},
+	{
+		code: "E8730  Excess fluid in infusion           Excessive amount of blood or other fluid during transfusion or infusion",
+	},
+	{
+		code: "E8731  Incor dilut infusn fluid           Incorrect dilution of fluid during infusion",
+	},
+	{
+		code: "E8732  Therap radiation overdos           Overdose of radiation in therapy",
+	},
+	{
+		code: "E8733  Inadv radiat exp-medical           Inadvertent exposure of patient to radiation during medical care",
+	},
+	{
+		code: "E8734  Dosag fail-shock therapy           Failure in dosage in electroshock or insulin-shock therapy",
+	},
+	{
+		code: "E8735  Wrng temp in applic/pack           Inappropriate [too hot or too cold] temperature in local application and packing",
+	},
+	{
+		code: "E8736  Nonadmin necess medicine           Nonadministration of necessary drug or medicinal substance",
+	},
+	{
+		code: "E8738  Failure in dosage NEC              Other specified failure in dosage",
+	},
+	{
+		code: "E8739  Failure in dosage NOS              Unspecified failure in dosage",
+	},
+	{
+		code: "E8740  Instrmnt fail in surgery           Mechanical failure of instrument or apparatus during surgical operation",
+	},
+	{
+		code: "E8741  Instrumnt fail-infusion            Mechanical failure of instrument or apparatus during infusion and transfusion",
+	},
+	{
+		code: "E8742  Instrmnt fail-perfus NEC           Mechanical failure of instrument or apparatus during kidney dialysis and other perfusion",
+	},
+	{
+		code: "E8743  Instrumnt fail-endoscopy           Mechanical failure of instrument or apparatus during endoscopic examination",
+	},
+	{
+		code: "E8744  Instrmnt fail-catheteriz           Mechanical failure of instrument or apparatus during aspiration of fluid or tissue",
+	},
+	{
+		code: "E8745  Instrmnt fail-heart cath           Mechanical failure of instrument or apparatus during heart catheterization",
+	},
+	{
+		code: "E8748  Instrmnt fail-proced NEC           Mechanical failure of instrument or apparatus during other specified procedures",
+	},
+	{
+		code: "E8749  Instrmnt fail-proced NOS           Mechanical failure of instrument or apparatus during unspecified procedure",
+	},
+	{
+		code: "E8750  Contaminated transfusion           Contaminated substance transfused or infused",
+	},
+	{
+		code: "E8751  Contaminated injection             Contaminated substance injected or used for vaccination",
+	},
+	{
+		code: "E8752  Contaminated drug NEC              Contaminated drug or biological substance administered by other means",
+	},
+	{
+		code: "E8758  Contamination NEC                  Misadventure to patient from other contamination",
+	},
+	{
+		code: "E8759  Contamination NOS                  Misadventure to patient from unspecified contamination",
+	},
+	{
+		code: "E8760  Mismatch blood-transfusn           Mismatched blood in transfusion",
+	},
+	{
+		code: "E8761  Wrong fluid in infusion            Wrong fluid in infusion",
+	},
+	{
+		code: "E8762  Failure in suture                  Failure in suture and ligature during surgical operation",
+	},
+	{
+		code: "E8763  Misplaced endotrach tube           Endotracheal tube wrongly placed during anesthetic procedure",
+	},
+	{
+		code: "E8764  Fail introd/remove tube            Failure to introduce or to remove other tube or instrument",
+	},
+	{
+		code: "E8765  Perfrm wrong op/right pt           Performance of wrong operation (procedure) on correct patient",
+	},
+	{
+		code: "E8766  Proc-pt not sched surg             Performance of operation (procedure) on patient not scheduled for surgery",
+	},
+	{
+		code: "E8767  Rt proc-wrong side/part            Performance of correct operation (procedure) on wrong side/body part",
+	},
+	{
+		code: "E8768  Medical misadventure NEC           Other specified misadventures during medical care",
+	},
+	{
+		code: "E8769  Medical misadventure NOS           Unspecified misadventure during medical care",
+	},
+	{
+		code: "E8780  Abn react-org transplant           Surgical operation with transplant of whole organ causing abnormal patient reaction",
+	},
+	{
+		code: "E8781  Abn react-artif implant            Surgical operation with implant of artificial internal device causing abnormal patient reaction",
+	},
+	{
+		code: "E8782  Abn react-anastom/graft            Surgical operation with anastomosis",
+	},
+	{
+		code: "E8783  Abn react-external stoma           Surgical operation with formation of external stoma causing abnormal patient reaction",
+	},
+	{
+		code: "E8784  Abn react-plast surg NEC           Other restorative surgery causing abnormal patient reaction",
+	},
+	{
+		code: "E8785  Abn react-limb amputat             Amputation of limb(s) causing abnormal patient reaction",
+	},
+	{
+		code: "E8786  Abn reac-organ rem NEC             Removal of other organ (partial) (total) causing abnormal patient reaction",
+	},
+	{
+		code: "E8788  Abn react-surg proc NEC            Other specified surgical operations and procedures causing abnormal patient reaction",
+	},
+	{
+		code: "E8789  Abn react-surg proc NOS            Unspecified surgical operations and procedures causing abnormal patient reaction",
+	},
+	{
+		code: "E8790  Abn react-cardiac cath             Cardiac catheterization as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8791  Abn react-renal dialysis           Kidney dialysis as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8792  Abn react-radiotherapy             Radiological procedure and radiotherapy as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8793  Abn react-shock therapy            Shock therapy as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8794  Abn react-fluid aspirat            Aspiration of fluid as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8795  Abn react-gastric sound            Insertion of gastric or duodenal sound as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8796  Abn react-urinary cath             Urinary catheterization as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8797  Abn react-blood sampling           Blood sampling as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8798  Abn react-procedure NEC            Other specified procedures as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8799  Abn react-procedure NOS            Unspecified procedure as the cause of abnormal reaction of patient",
+	},
+	{
+		code: "E8800  Fall on escalator                  Accidental fall on or from escalator",
+	},
+	{
+		code: "E8801  Fall on sidewalk curb              Accidental fall on or from sidewalk curb",
+	},
+	{
+		code: "E8809  Fall on stair/step NEC             Accidental fall on or from other stairs or steps",
+	},
+	{
+		code: "E8810  Fall from ladder                   Accidental fall from ladder",
+	},
+	{
+		code: "E8811  Fall from scaffolding              Accidental fall from scaffolding",
+	},
+	{
+		code: "E882   Fall from building                 Accidental fall from or out of building or other structure",
+	},
+	{
+		code: "E8830  Diving accident                    Accident from diving or jumping into water [swimming pool]",
+	},
+	{
+		code: "E8831  Fall into well                     Accidental fall into well",
+	},
+	{
+		code: "E8832  Fall into storm drain              Accidental fall into storm drain or manhole",
+	},
+	{
+		code: "E8839  Fall into other hole               Accidental fall into other hole or other opening in surface",
+	},
+	{
+		code: "E8840  Fall from playgrnd equip           Accidental fall from playground equipment",
+	},
+	{
+		code: "E8841  Fall from cliff                    Accidental fall from cliff",
+	},
+	{
+		code: "E8842  Fall from chair                    Accidental fall from chair",
+	},
+	{
+		code: "E8843  Fall from wheelchair               Accidental fall from wheelchair",
+	},
+	{
+		code: "E8844  Fall from bed                      Accidental fall from bed",
+	},
+	{
+		code: "E8845  Fall from furniture NEC            Accidental fall from other furniture",
+	},
+	{
+		code: "E8846  Fall from commode                  Accidental fall from commode",
+	},
+	{
+		code: "E8849  Fall-1 level to oth NEC            Other accidental fall from one level to another",
+	},
+	{
+		code: "E8850  Fall-nonmotor scooter              Fall from (nonmotorized) scooter",
+	},
+	{
+		code: "E8851  Fall from roller skates            Fall from roller skates",
+	},
+	{
+		code: "E8852  Fall from skateboard               Fall from skateboard",
+	},
+	{
+		code: "E8853  Fall from skis                     Fall from skis",
+	},
+	{
+		code: "E8854  Fall from snowboard                Fall from snowboard",
+	},
+	{
+		code: "E8859  Fall from slipping NEC             Fall from other slipping",
+	},
+	{
+		code: "E8860  Fall in sports                     Fall on same level from collision",
+	},
+	{
+		code: "E8869  Fall on level NEC/NOS              Other and unspecified falls on same level from collision",
+	},
+	{
+		code: "E887   Fracture",
+	},
+	{
+		code: "E8880  Fall striking sharp obj            Fall resulting in striking against sharp object",
+	},
+	{
+		code: "E8881  Fall striking object NEC           Fall resulting in striking against other object",
+	},
+	{
+		code: "E8888  Fall NEC                           Other fall",
+	},
+	{
+		code: "E8889  Fall NOS                           Unspecified fall",
+	},
+	{
+		code: "E8900  Privat dwell fire-explos           Explosion caused by conflagration in private dwelling",
+	},
+	{
+		code: "E8901  Priv dwel fire-pvc fumes           Fumes from combustion of polyvinylchloride [pvc] and similar material in conflagration in private dwelling",
+	},
+	{
+		code: "E8902  Priv dwel fire-fumes NOS           Other smoke and fumes from conflagration in private dwelling",
+	},
+	{
+		code: "E8903  Priv dwel fire-burning             Burning caused by conflagration in private dwelling",
+	},
+	{
+		code: "E8908  Priv dwel fire-accid NEC           Other accident resulting from conflagration in private dwelling",
+	},
+	{
+		code: "E8909  Priv dwel fire-accid NOS           Unspecified accident resulting from conflagration in private dwelling",
+	},
+	{
+		code: "E8910  Fire in bldg-explosion             Explosion caused by conflagration in other and unspecified building or structure",
+	},
+	{
+		code: "E8911  Fire in bldg-pvc fumes             Fumes from combustion of polyvinylchloride [pvc] and similar material in conflagration in other and unspecified building or structure",
+	},
+	{
+		code: "E8912  Fire in bldg-fumes NOS             Other smoke and fumes from conflagration in other and unspecified building or structure",
+	},
+	{
+		code: "E8913  Fire in bldg-burning               Burning caused by conflagration in other and unspecified building or structure",
+	},
+	{
+		code: "E8918  Fire in bldg-accid NEC             Other accident resulting from conflagration in other and unspecified building or structure",
+	},
+	{
+		code: "E8919  Fire in bldg-accid NOS             Unspecified accident resulting from conflagration of other and unspecified building or structure",
+	},
+	{
+		code: "E892   Fire not in building               Conflagration not in building or structure",
+	},
+	{
+		code: "E8930  Clothing fire-priv dwell           Accident caused by ignition of clothing from controlled fire in private dwelling",
+	},
+	{
+		code: "E8931  Clothing fire-bldg NEC             Accident caused by ignition of clothing from controlled fire in other building or structure",
+	},
+	{
+		code: "E8932  Clothing fire not in bld           Accident caused by ignition of clothing from controlled fire not in building or structure",
+	},
+	{
+		code: "E8938  Clothing fire NEC                  Accident caused by ignition of clothing from other specified sources",
+	},
+	{
+		code: "E8939  Clothing fire NOS                  Accident caused by ignition of clothing by unspecified source",
+	},
+	{
+		code: "E894   Fire-highly inflam mater           Ignition of highly inflammable material",
+	},
+	{
+		code: "E895   Burn acc in privat dwell           Accident caused by controlled fire in private dwelling",
+	},
+	{
+		code: "E896   Burn acc in bldg NEC               Accident caused by controlled fire in other and unspecified building or structure",
+	},
+	{
+		code: "E897   Burn acc not in bldg               Accident caused by controlled fire not in building or structure",
+	},
+	{
+		code: "E8980  Burning bedclothes                 Accident caused by burning bedclothes",
+	},
+	{
+		code: "E8981  Fire accident NEC                  Accident caused by other burning materials",
+	},
+	{
+		code: "E899   Fire accident NOS                  Accident caused by unspecified fire",
+	},
+	{
+		code: "E9000  Excessive heat: weather            Accident caused by excessive heat due to weather conditions",
+	},
+	{
+		code: "E9001  Excessive heat",
+	},
+	{
+		code: "E9009  Excessive heat NOS                 Accidents due to excessive heat of unspecified origin",
+	},
+	{
+		code: "E9010  Excessive cold: weather            Accident due to excessive cold due to weather conditions",
+	},
+	{
+		code: "E9011  Excessive cold",
+	},
+	{
+		code: "E9018  Excessive cold NEC                 Accident due to excessive cold of other specified origin",
+	},
+	{
+		code: "E9019  Excessive cold NOS                 Accident due to excessive cold of unspecified origin",
+	},
+	{
+		code: "E9020  High altitude residence            Accident due to residence or prolonged visit at high altitude",
+	},
+	{
+		code: "E9021  Air press chnge: aircrft           Accident due to changes in air pressure in aircraft",
+	},
+	{
+		code: "E9022  Air press change: diving           Accident due to changes in air pressure due to diving",
+	},
+	{
+		code: "E9028  Air pressure change NEC            Accident due to changes in air pressure due to other specified causes",
+	},
+	{
+		code: "E9029  Air pressure change NOS            Accident due to changes in air pressure from unspecified cause",
+	},
+	{
+		code: "E903   Travel and motion                  Accident caused by travel and motion",
+	},
+	{
+		code: "E9040  Abandonment/lack of care           Accident due to abandonment or neglect of infants and helpless persons",
+	},
+	{
+		code: "E9041  Lack of food                       Accident due to lack of food",
+	},
+	{
+		code: "E9042  Lack of water                      Accident due to lack of water",
+	},
+	{
+		code: "E9043  Exposure NEC                       Accident due to exposure (to weather conditions)",
+	},
+	{
+		code: "E9049  Privation NOS                      Accident due to privation",
+	},
+	{
+		code: "E9050  Venomous snake bite                Venomous snakes and lizards causing poisoning and toxic reactions",
+	},
+	{
+		code: "E9051  Venomous spider bite               Venomous spiders causing poisoning and toxic reactions",
+	},
+	{
+		code: "E9052  Scorpion sting                     Scorpion sting causing poisoning and toxic reactions",
+	},
+	{
+		code: "E9053  Hornet/wasp/bee sting              Sting of hornets",
+	},
+	{
+		code: "E9054  Centipede bite                     Centipede and venomous millipede (tropical) bite causing poisoning and toxic reactions",
+	},
+	{
+		code: "E9055  Venomous arthropods NEC            Other venomous arthropods causing poisoning and toxic reactions",
+	},
+	{
+		code: "E9056  Venom sea animals/plants           Venomous marine animals and plants causing poisoning and toxic reactions",
+	},
+	{
+		code: "E9057  Poisoning by other plant           Poisoning and toxic reactions caused by other plants",
+	},
+	{
+		code: "E9058  Venomous bite/sting NEC            Poisoning and toxic reactions caused by other specified animals and plants",
+	},
+	{
+		code: "E9059  Venomous bite/sting NOS            Poisoning and toxic reactions caused by unspecified animals and plants",
+	},
+	{
+		code: "E9060  Dog bite                           Dog bite",
+	},
+	{
+		code: "E9061  Rat bite                           Rat bite",
+	},
+	{
+		code: "E9062  Nonvenomous snake bite             Bite of nonvenomous snakes and lizards",
+	},
+	{
+		code: "E9063  Animal bite NEC                    Bite of other animal except arthropod",
+	},
+	{
+		code: "E9064  Nonvenom arthropod bite            Bite of nonvenomous arthropod",
+	},
+	{
+		code: "E9065  Animal bite NOS                    Bite by unspecified animal",
+	},
+	{
+		code: "E9068  Inj NEC caused by animal           Other specified injury caused by animal",
+	},
+	{
+		code: "E9069  Inj NOS caused by animal           Unspecified injury caused by animal",
+	},
+	{
+		code: "E907   Acc due to lightning               Accident due to lightning",
+	},
+	{
+		code: "E9080  Accident d/t hurricane             Hurricane",
+	},
+	{
+		code: "E9081  Accident d/t tornado               Tornado",
+	},
+	{
+		code: "E9082  Accident d/t floods                Floods",
+	},
+	{
+		code: "E9083  Acc d/t snow blizzard              Blizzard (snow) (ice)",
+	},
+	{
+		code: "E9084  Accident d/t dust storm            Dust storm",
+	},
+	{
+		code: "E9088  Accident d/t storm NEC             Other cataclysmic storms",
+	},
+	{
+		code: "E9089  Acc d/t storm/flood NOS            Unspecified cataclysmic storms",
+	},
+	{
+		code: "E9090  Acc d/t earthquakes                Earthquakes",
+	},
+	{
+		code: "E9091  Acc d/t volcanic erupt             Volcanic eruptions",
+	},
+	{
+		code: "E9092  Acc d/t avalanche                  Avalanche",
+	},
+	{
+		code: "E9093  Acc d/t dam collapse               Collapse of dam or man-made structure",
+	},
+	{
+		code: "E9094  Acc d/t tidalwave NOS              Tidalwave caused by earthquake",
+	},
+	{
+		code: "E9098  Acc d/t eruptions NEC              Other cataclysmic earth surface movements and eruptions",
+	},
+	{
+		code: "E9099  Acc d/t eruptions NOS              Unspecified cataclysmic earth surface movements and eruptions",
+	},
+	{
+		code: "E9100  Water-skiing accident              Accidental drowning and submersion while water-skiing",
+	},
+	{
+		code: "E9101  Skin/scuba diving acc              Accidental drowning and submersion while engaged in other sport or recreational activity with diving equipment",
+	},
+	{
+		code: "E9102  Swimming accident NOS              Accidental drowning and submersion while engaged in other sport or recreational activity without diving equipment",
+	},
+	{
+		code: "E9103  Swimming/diving acc NEC            Accidental drowning and submersion while swimming or diving for purposes other than recreation or sport",
+	},
+	{
+		code: "E9104  Drowning in bathtub                Accidental drowning and submersion in bathtub",
+	},
+	{
+		code: "E9108  Accidental drowning NEC            Other accidental drowning or submersion",
+	},
+	{
+		code: "E9109  Accidental drowning NOS            Unspecified accidental drowning or submersion",
+	},
+	{
+		code: "E911   Resp obstr-food inhal              Inhalation and ingestion of food causing obstruction of respiratory tract or suffocation",
+	},
+	{
+		code: "E912   Resp obstr-inhal obj NEC           Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation",
+	},
+	{
+		code: "E9130  Suffocat in bed/cradle             Accidental mechanical suffocation in bed or cradle",
+	},
+	{
+		code: "E9131  Suffocation-plastic bag            Accidental mechanical suffocation by plastic bag",
+	},
+	{
+		code: "E9132  Suffocation-lack of air            Accidental mechanical suffocation due to lack of air (in closed place)",
+	},
+	{
+		code: "E9133  Cave-in NOS                        Accidental mechanical suffocation by falling earth or other substance",
+	},
+	{
+		code: "E9138  Suffocation NEC                    Accidental mechanical suffocation by other specified means",
+	},
+	{
+		code: "E9139  Suffocation NOS                    Accidental mechanical suffocation by unspecified means",
+	},
+	{
+		code: "E914   FB entering eye                    Foreign body accidentally entering eye and adnexa",
+	},
+	{
+		code: "E915   FB entering oth orifice            Foreign body accidentally entering other orifice",
+	},
+	{
+		code: "E916   Struck by falling object           Struck accidentally by falling object",
+	},
+	{
+		code: "E9170  Sports acc w/o sub fall            Striking against or struck accidentally by objects or persons in sports",
+	},
+	{
+		code: "E9171  Crowd w/o sub fall                 Striking against or struck accidentally by a crowd",
+	},
+	{
+		code: "E9172  Run water w/o sub fall             Striking against or struck accidentally in running water",
+	},
+	{
+		code: "E9173  Furnit w/o sub fall                Striking against or struck accidentally by furniture without subsequent fall",
+	},
+	{
+		code: "E9174  Stat ob w/o sub fall NEC           Striking against or struck accidentally by other stationary object without subsequent fall",
+	},
+	{
+		code: "E9175  Sports acc w sub fall              Striking against or struck accidentally by object in sports with subsequent fall",
+	},
+	{
+		code: "E9176  Crowd accidnt w sub fall           Striking against or struck accidentally caused by a crowd",
+	},
+	{
+		code: "E9177  Furniture acc w sub fall           Striking against or struck accidentally by furniture with subsequent fall",
+	},
+	{
+		code: "E9178  Stat obj w sub fall NEC            Striking against or struck accidentally by other stationary object with subsequent fall",
+	},
+	{
+		code: "E9179  Obj w-w/o sub fall NEC             Other accident caused by striking against or being struck accidentally by objects or persons",
+	},
+	{
+		code: "E918   Caught between objects             Caught accidentally in or between objects",
+	},
+	{
+		code: "E9190  Machine accid-agricult             Accidents caused by agricultural machines",
+	},
+	{
+		code: "E9191  Machine accid-mining               Accidents caused by mining and earth-drilling machinery",
+	},
+	{
+		code: "E9192  Lifting machine accident           Accidents caused by lifting machines and appliances",
+	},
+	{
+		code: "E9193  Metalworking machine acc           Accidents caused by metalworking machines",
+	},
+	{
+		code: "E9194  Woodworking machine acc            Accidents caused by woodworking and forming machines",
+	},
+	{
+		code: "E9195  Prime mover machine acc            Accidents caused by prime movers",
+	},
+	{
+		code: "E9196  Transmission machine acc           Accidents caused by transmission machinery",
+	},
+	{
+		code: "E9197  Earth moving machine acc           Accidents caused by earth moving",
+	},
+	{
+		code: "E9198  Machinery accident NEC             Accidents caused by other specified machinery",
+	},
+	{
+		code: "E9199  Machinery accident NOS             Accidents caused by unspecified machinery",
+	},
+	{
+		code: "E9200  Acc-powered lawn mower             Accidents caused by powered lawn mower",
+	},
+	{
+		code: "E9201  Acc-power hand tool NEC            Accidents caused by other powered hand tools",
+	},
+	{
+		code: "E9202  Acc-power house applianc           Accidents caused by powered household appliances and implements",
+	},
+	{
+		code: "E9203  Knife/sword/dagger acc             Accidents caused by knives",
+	},
+	{
+		code: "E9204  Accid-other hand tools             Accidents caused by other hand tools and implements",
+	},
+	{
+		code: "E9205  Acc-hypodermic needle              Accidents caused by hypodermic needle",
+	},
+	{
+		code: "E9208  Acc-cutting instrum NEC            Accidents caused by other specified cutting and piercing instruments or objects",
+	},
+	{
+		code: "E9209  Acc-cutting instrum NOS            Accidents caused by unspecified cutting and piercing instrument or object",
+	},
+	{
+		code: "E9210  Boiler explosion                   Accident caused by explosion of boilers",
+	},
+	{
+		code: "E9211  Gas cylinder explosion             Accident caused by explosion of gas cylinders",
+	},
+	{
+		code: "E9218  Press vessel explos NEC            Accident caused by explosion of other specified pressure vessels",
+	},
+	{
+		code: "E9219  Press vessel explos NOS            Accident caused by explosion of unspecified pressure vessel",
+	},
+	{
+		code: "E9220  Handgun accident                   Accident caused by handgun",
+	},
+	{
+		code: "E9221  Shotgun accident                   Accident caused by shotgun (automatic)",
+	},
+	{
+		code: "E9222  Hunting rifle accident             Accident caused by hunting rifle",
+	},
+	{
+		code: "E9223  Military firearm accid             Accident caused by military firearms",
+	},
+	{
+		code: "E9224  Accident - air gun                 Accident caused by air gun",
+	},
+	{
+		code: "E9225  Accident-paintball gun             Accident caused by paintball gun",
+	},
+	{
+		code: "E9228  Firearm accident NEC               Accident caused by other specified firearm missile",
+	},
+	{
+		code: "E9229  Firearm accident NOS               Accident caused by unspecified firearm missile",
+	},
+	{
+		code: "E9230  Fireworks accident                 Accident caused by fireworks",
+	},
+	{
+		code: "E9231  Blasting materials accid           Accident caused by blasting materials",
+	},
+	{
+		code: "E9232  Explosive gases accident           Accident caused by explosive gases",
+	},
+	{
+		code: "E9238  Explosives accident NEC            Accident caused by other explosive materials",
+	},
+	{
+		code: "E9239  Explosives accident NOS            Accident caused by unspecified explosive material",
+	},
+	{
+		code: "E9240  Acc-hot liquid & steam             Accident caused by hot liquids and vapors",
+	},
+	{
+		code: "E9241  Accid-caustic substance            Accident caused by caustic and corrosive substances",
+	},
+	{
+		code: "E9242  Acc-hot tap water                  Accident caused by hot (boiling) tap water",
+	},
+	{
+		code: "E9248  Hot substance accid NEC            Accident caused by other hot substance or object",
+	},
+	{
+		code: "E9249  Hot substance accid NOS            Accident caused by unspecified hot substance or object",
+	},
+	{
+		code: "E9250  Domestic wiring accident           Accident caused by domestic wiring and appliances",
+	},
+	{
+		code: "E9251  Electr power generat acc           Accident caused by electric current in electric power generating plants",
+	},
+	{
+		code: "E9252  Indust wiring/machin acc           Accident caused by industrial wiring",
+	},
+	{
+		code: "E9258  Electric current acc NEC           Accident caused by other electric current",
+	},
+	{
+		code: "E9259  Electric current acc NOS           Accident caused by unspecified electric current",
+	},
+	{
+		code: "E9260  Radiofreq radiat exposur           Exposure to radiofrequency radiation",
+	},
+	{
+		code: "E9261  Infra-red appl rad exos            Exposure to infra-red radiation from heaters and lamps",
+	},
+	{
+		code: "E9262  Vis/ultraviol lght expos           Exposure to visible and ultraviolet light sources",
+	},
+	{
+		code: "E9263  X-ray/gamma ray exposure           Exposure to x-rays and other electromagnetic ionizing radiation",
+	},
+	{
+		code: "E9264  Laser exposure                     Exposure to lasers",
+	},
+	{
+		code: "E9265  Radioact isotope exposur           Exposure to radioactive isotopes",
+	},
+	{
+		code: "E9268  Radiation exposure NEC             Exposure to other specified radiation",
+	},
+	{
+		code: "E9269  Radiation exposure NOS             Exposure to unspecified radiation",
+	},
+	{
+		code: "E927   Accid from overexertion            Accid from overexertion",
+	},
+	{
+		code: "E9270  Overxrt-sudn stren mvmt            Overexertion from sudden strenuous movement",
+	},
+	{
+		code: "E9271  Overxrt-prolng stc postn           Overexertion from prolonged static position",
+	},
+	{
+		code: "E9272  Excess physical exert              Excessive physical exertion",
+	},
+	{
+		code: "E9273  Cumltv trma-repetv motn            Cumulative trauma from repetitive motion",
+	},
+	{
+		code: "E9274  Cumltv trma-repetv impct           Cumulative trauma from repetitive impact",
+	},
+	{
+		code: "E9278  Overexert reptv mvmt NEC           Other overexertion and strenuous and repetitive movements or loads",
+	},
+	{
+		code: "E9279  Overexert reptv mvmt NOS           Unspecified overexertion and strenuous and repetitive movements or loads",
+	},
+	{
+		code: "E9280  Acc d/t weightless envir           Prolonged stay in weightless environment",
+	},
+	{
+		code: "E9281  Exposure to noise                  Exposure to noise",
+	},
+	{
+		code: "E9282  Exposure to vibration              Vibration",
+	},
+	{
+		code: "E9283  Human bite - accidental            Human bite",
+	},
+	{
+		code: "E9284  Ext constriction-hair              External constriction caused by hair",
+	},
+	{
+		code: "E9285  Ext constriction-obj NEC           External constriction caused by other object",
+	},
+	{
+		code: "E9286  Envir expose algae/toxin           Environmental exposure to harmful algae and toxins",
+	},
+	{
+		code: "E9287  Accidnt-mech firearm/gun           Environmental and accidental causes",
+	},
+	{
+		code: "E9288  Accident NEC                       Other accidents",
+	},
+	{
+		code: "E9289  Accident NOS                       Unspecified accident",
+	},
+	{
+		code: "E9290  Late eff motor vehic acc           Late effects of motor vehicle accident",
+	},
+	{
+		code: "E9291  Late eff transport acc             Late effects of other transport accident",
+	},
+	{
+		code: "E9292  Late eff acc poisoning             Late effects of accidental poisoning",
+	},
+	{
+		code: "E9293  Late eff accidental fall           Late effects of accidental fall",
+	},
+	{
+		code: "E9294  Late eff fire acc                  Late effects of accident caused by fire",
+	},
+	{
+		code: "E9295  Late eff environment acc           Late effects of accident due to natural and environmental factors",
+	},
+	{
+		code: "E9298  Late eff accident NEC              Late effects of other accidents",
+	},
+	{
+		code: "E9299  Late eff accident NOS              Late effects of unspecified accident",
+	},
+	{
+		code: "E9300  Adv eff penicillins                Penicillins causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9301  Adv eff antifung antbiot           Antifungal antibiotics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9302  Adv eff chloramphenicol            Chloramphenicol group causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9303  Adv eff erythromycin               Erythromycin and other macrolides causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9304  Adv eff tetracycline               Tetracycline group causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9305  Adv eff cephalosporin              Cephalosporin group causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9306  Adv eff antmycob antbiot           Antimycobacterial antibiotics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9307  Adv eff antineop antbiot           Antineoplastic antibiotics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9308  Adv eff antibiotics NEC            Other specified antibiotics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9309  Adv eff antibiotic NOS             Unspecified antibiotic causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9310  Adv eff sulfonamides               Sulfonamides causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9311  Adv eff arsenic anti-inf           Arsenical anti-infectives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9312  Adv eff metal anti-inf             Heavy metal anti-infectives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9313  Adv eff quinoline                  Quinoline and hydroxyquinoline derivatives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9314  Adv eff antimalarials              Antimalarials and drugs acting on other blood protozoa causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9315  Adv eff antprotazoal NEC           Other antiprotozoal drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9316  Adv eff anthelmintics              Anthelmintics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9317  Adv eff antiviral drugs            Antiviral drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9318  Adv eff antimycobac NEC            Other antimycobacterial drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9319  Adv eff antinfct NEC/NOS           Other and unspecified anti-infectives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9320  Adv eff corticosteroids            Adrenal cortical steroids causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9321  Adv eff androgens                  Androgens and anabolic congeners causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9322  Adv eff ovarian hormones           Ovarian hormones and synthetic substitutes causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9323  Adv eff insulin/antidiab           Insulins and antidiabetic agents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9324  Adv eff ant pituitary              Anterior pituitary hormones causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9325  Adv eff post pituitary             Posterior pituitary hormones causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9326  Adv eff parathyroid                Parathyroid and parathyroid derivatives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9327  Adv eff thyroid & deriv            Thyroid and thyroid derivatives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9328  Adv eff antithyroid agnt           Antithyroid agents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9329  Adv eff hormones NEC/NOS           Other and unspecified hormones and synthetic substitutes causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9330  Adv eff anallrg/antemet            Antiallergic and antiemetic drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9331  Adv eff antineoplastic             Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9332  Adv eff acidifying agent           Acidifying agents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9333  Adv eff alkalizing agent           Alkalizing agents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9334  Adv eff enzymes NEC                Enzymes",
+	},
+	{
+		code: "E9335  Adv eff vitamins NEC               Vitamins",
+	},
+	{
+		code: "E9336  Oral bisphosphonates               Oral bisphosphonates",
+	},
+	{
+		code: "E9337  IV bisphosphonates                 Intravenous bisphosphonates",
+	},
+	{
+		code: "E9338  Adv eff systemic agt NEC           Other systemic agents",
+	},
+	{
+		code: "E9339  Adv eff systemic agt NOS           Unspecified systemic agent causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9340  Adv eff iron & compounds           Iron and its compounds causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9341  Adv eff liver/antianemic           Liver preparations and other antianemic agents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9342  Adv eff anticoagulants             Anticoagulants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9343  Adv eff vitamin k                  Vitamin k [phytonadione] causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9344  Adv eff fibrinolysis agt           Fibrinolysis-affecting drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9345  Adv eff coagulants                 Anticoagulant antagonists and other coagulants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9346  Adv eff gamma globulin             Gamma globulin causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9347  Adv eff blood products             Natural blood and blood products causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9348  Adv eff blood agent NEC            Other agents affecting blood constituents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9349  Adv eff blood agent NOS            Unspecified agent affecting blood constituents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9350  Adv eff heroin                     Heroin causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9351  Adv eff methadone                  Methadone causing averse effects in therapeutic use",
+	},
+	{
+		code: "E9352  Adv eff opiates                    Other opiates and related narcotics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9353  Adv eff salicylates                Salicylates causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9354  Adv eff arom analgsc NEC           Aromatic analgesics",
+	},
+	{
+		code: "E9355  Adv eff pyrazole deriv             Pyrazole derivatives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9356  Adv eff antirheumatics             Antirheumatics [antiphlogistics] causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9357  Adv eff non-narc analgsc           Other non-narcotic analgesics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9358  Adv eff analgesics NEC             Other specified analgesics and antipyretics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9359  Adv eff analgesic NOS              Unspecified analgesic and antipyretic causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9360  Adv eff oxazolidin deriv           Oxazolidine derivatives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9361  Adv eff hydantoin deriv            Hydantoin derivatives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9362  Adv eff succinimides               Succinimides causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9363  Adv eff antconvl NEC/NOS           Other and unspecified anticonvulsants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9364  Adv eff anti-parkinson             Anti-parkinsonism drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9370  Adv eff barbiturates               Barbiturates causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9371  Adv eff chloral hydrate            Chloral hydrate group causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9372  Adv eff paraldehyde                Paraldehyde causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9373  Adv eff bromine compnds            Bromine compounds causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9374  Adv eff methaqualone               Methaqualone compounds causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9375  Adv eff glutethimide               Glutethimide group causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9376  Adv eff mix sedative               Mixed sedatives",
+	},
+	{
+		code: "E9378  Adv eff sedat/hypnot NEC           Other sedatives and hypnotics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9379  Adv eff sedat/hypnot NOS           Unspecified sedatives and hypnotics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9380  Adv eff cns muscl depres           Central nervous system muscle-tone depressants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9381  Adv eff halothane                  Halothane causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9382  Adv eff gas anesthet NEC           Other gaseous anesthetics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9383  Adv eff intraven anesth            Intravenous anesthetics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9384  Adv eff gen anes NEC/NOS           Other and unspecified general anesthetics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9385  Adv eff topic/infil anes           Surface and infiltration anesthetics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9386  Adv eff nerve-block anes           Peripheral nerve- and plexus-blocking anesthetics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9387  Adv eff spinal anesthet            Spinal anesthetics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9389  Adv eff loc anes NEC/NOS           Other and unspecified local anesthetics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9390  Adv eff antidepressants            Antidepressants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9391  Adv eff phenothiaz tranq           Phenothiazine-based tranquilizers causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9392  Adv eff butyrophen tranq           Butyrophenone-based tranquilizers causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9393  Adv eff antipsychotc NEC           Other antipsychotics",
+	},
+	{
+		code: "E9394  Adv eff benzodiaz tranq            Benzodiazepine-based tranquilizers causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9395  Adv eff tranquilizer NEC           Other tranquilizers causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9396  Adv eff hallucinogens              Psychodysleptics [hallucinogens] causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9397  Adv eff psychostimulants           Psychostimulants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9398  Adv eff psychotropic NEC           Other psychotropic agents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9399  Adv eff psychotropic NOS           Unspecified psychotropic agent causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9400  Adv eff analeptics                 Analeptics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9401  Adv eff opiat antagonist           Opiate antagonists causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9408  Adv eff cns stimulnt NEC           Other specified central nervous system stimulants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9409  Adv eff cns stimulnt NOS           Unspecified central nervous system stimulant causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9410  Adv eff cholinergics               Parasympathomimetics [cholinergics] causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9411  Adv eff parasympatholytc           Parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9412  Adv eff sympathomimetics           Sympathomimetics [adrenergics] causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9413  Adv eff sympatholytics             Sympatholytics [antiadrenergics] causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9419  Adv eff autonom agnt NOS           Unspecified drug primarily affecting the autonomic nervous system causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9420  Adv eff card rhyth regul           Cardiac rhythm regulators causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9421  Adv eff cardiotonics               Cardiotonic glycosides and drugs of similar action causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9422  Adv eff antilipemics               Antilipemic and antiarteriosclerotic drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9423  Adv eff ganglion-block             Ganglion-blocking agents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9424  Adv eff coronary vasodil           Coronary vasodilators causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9425  Adv eff vasodilators NEC           Other vasodilators causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9426  Adv eff antihyperten agt           Other antihypertensive agents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9427  Adv eff antivaricose               Antivaricose drugs",
+	},
+	{
+		code: "E9428  Adv eff capillary-act              Capillary-active drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9429  Adv eff cardiovasc NEC             Other and unspecified agents primarily affecting the cardiovascular system causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9430  Adv eff antacids                   Antacids and antigastric secretion drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9431  Adv eff irrit cathartic            Irritant cathartics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9432  Adv eff emoll cathartics           Emollient cathartics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9433  Adv eff cathartics NEC             Other cathartics",
+	},
+	{
+		code: "E9434  Adv eff digestants                 Digestants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9435  Adv eff antidiarrhea agt           Antidiarrheal drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9436  Adv eff emetics                    Emetics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9438  Adv eff GI agent NEC               Other specified agents primarily affecting the gastro-intestinal system causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9439  Adv eff GI agent NOS               Unspecified agent primarily affecting the gastrointestinal system causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9440  Adv eff mercury diuretic           Mercurial diuretics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9441  Adv eff purine diuretics           Purine derivative diuretics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9442  Adv eff acetazolamide              Carbonic acid anhydrase inhibitors causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9443  Adv eff saluretics                 Saluretics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9444  Adv eff diuretics NEC              Other diuretics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9445  Adv eff electrolyte agnt           Electrolytic",
+	},
+	{
+		code: "E9446  Adv eff mineral salt NEC           Other mineral salts",
+	},
+	{
+		code: "E9447  Adv eff uric acid metab            Uric acid metabolism drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9450  Adv eff oxytocic agents            Oxytocic agents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9451  Adv eff smooth musc relx           Smooth muscle relaxants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9452  Adv eff skelet musc relx           Skeletal muscle relaxants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9453  Adv eff musc agt NEC/NOS           Other and unspecified drugs acting on muscles causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9454  Adv eff antitussives               Antitussives causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9455  Adv eff expectorants               Expectorants causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9456  Adv eff anti-common cold           Anti-common cold drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9457  Adv eff antiasthmatics             Antiasthmatics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9458  Adv eff resp drg NEC/NOS           Other and unspecified respiratory drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9460  Adv eff loc anti-infectv           Local anti-infectives and anti-inflammatory drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9461  Adv eff antipruritics              Antipruritics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9462  Adv eff local astringent           Local astringents and local detergents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9463  Adv eff emollient/demulc           Emollients",
+	},
+	{
+		code: "E9464  Adv eff hair/scalp prep            Keratolytics",
+	},
+	{
+		code: "E9465  Adv eff eye anti-inf/drg           Eye anti-infectives and other eye drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9466  Adv eff ent anti-inf/drg           Anti-infectives and other drugs and preparations for ear",
+	},
+	{
+		code: "E9467  Adv eff topic dental drg           Dental drugs topically applied causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9468  Adv eff skin agent NEC             Other agents primarily affecting skin and mucous membrane causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9469  Adv eff skin agent NOS             Unspecified agent primarily affecting skin and mucous membrane causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9470  Adv eff dietetics                  Dietetics causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9471  Adv eff lipotropic drugs           Lipotropic drugs causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9472  Adv eff antidotes NEC              Antidotes and chelating agents",
+	},
+	{
+		code: "E9473  Adv eff alcohol deter              Alcohol deterrents causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9474  Adv eff pharmaceut excip           Pharmaceutical excipients causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9478  Adv eff medicinal NEC              Other drugs and medicinal substances causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9479  Adv eff medicinal NOS              Unspecified drug or medicinal substance causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9480  Adv eff bcg vaccine                Bcg vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9481  Adv eff typhoid vaccine            Typhoid and paratyphoid vaccines causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9482  Adv eff cholera vaccine            Cholera vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9483  Adv eff plague vaccine             Plague vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9484  Adv eff tetanus vaccine            Tetanus vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9485  Adv eff diphther vaccine           Diphtheria vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9486  Adv eff pertussis vaccin           Pertussis vaccine",
+	},
+	{
+		code: "E9488  Adv eff bact vac NEC/NOS           Other and unspecified bacterial vaccines causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9489  Adv eff mix bact vaccine           Mixed bacterial vaccines",
+	},
+	{
+		code: "E9490  Adv eff smallpox vaccine           Smallpox vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9491  Adv eff rabies vaccine             Rabies vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9492  Adv eff typhus vaccine             Typhus vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9493  Adv eff yellow fever vac           Yellow fever vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9494  Adv eff measles vaccine            Measles vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9495  Adv eff polio vaccine              Poliomyelitis vaccine causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9496  Adv eff viral vacc NEC             Other and unspecified viral and rickettsial vaccines causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9497  Adv eff mixed viral-bact           Mixed viral-rickettsial and bacterial vaccines",
+	},
+	{
+		code: "E9499  Adv eff biologic NEC/NOS           Other and unspecified vaccines and biological substances causing adverse effects in therapeutic use",
+	},
+	{
+		code: "E9500  Poison-analgesics                  Suicide and self-inflicted poisoning by analgesics",
+	},
+	{
+		code: "E9501  Poison-barbiturates                Suicide and self-inflicted poisoning by barbiturates",
+	},
+	{
+		code: "E9502  Poison-sedat/hypnotic              Suicide and self-inflicted poisoning by other sedatives and hypnotics",
+	},
+	{
+		code: "E9503  Poison-psychotropic agt            Suicide and self-inflicted poisoning by tranquilizers and other psychotropic agents",
+	},
+	{
+		code: "E9504  Poison-drug/medicin NEC            Suicide and self-inflicted poisoning by other specified drugs and medicinal substances",
+	},
+	{
+		code: "E9505  Poison-drug/medicin NOS            Suicide and self-inflicted poisoning by unspecified drug or medicinal substance",
+	},
+	{
+		code: "E9506  Poison-agricult agent              Suicide and self-inflicted poisoning by agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers",
+	},
+	{
+		code: "E9507  Poison-corrosiv/caustic            Suicide and self-inflicted poisoning by corrosive and caustic substances",
+	},
+	{
+		code: "E9508  Poison-arsenic                     Suicide and self-inflicted poisoning by arsenic and its compounds",
+	},
+	{
+		code: "E9509  Poison-solid/liquid NEC            Suicide and self-inflicted poisoning by other and unspecified solid and liquid substances",
+	},
+	{
+		code: "E9510  Poison-piped gas                   Suicide and self-inflicted poisoning by gas distributed by pipeline",
+	},
+	{
+		code: "E9511  Poison-gas in container            Suicide and self-inflicted poisoning by liquefied petroleum gas distributed in mobile containers",
+	},
+	{
+		code: "E9518  Poison-utility gas NEC             Suicide and self-inflicted poisoning by other utility gas",
+	},
+	{
+		code: "E9520  Poison-exhaust gas                 Suicide and self-inflicted poisoning by motor vehicle exhaust gas",
+	},
+	{
+		code: "E9521  Poison-co NEC                      Suicide and self-inflicted poisoning by other carbon monoxide",
+	},
+	{
+		code: "E9528  Poison-gas/vapor NEC               Suicide and self-inflicted poisoning by other specified gases and vapors",
+	},
+	{
+		code: "E9529  Poison-gas/vapor NOS               Suicide and self-inflicted poisoning by unspecified gases and vapors",
+	},
+	{
+		code: "E9530  Injury-hanging                     Suicide and self-inflicted injury by hanging",
+	},
+	{
+		code: "E9531  Injury-suff w plas bag             Suicide and self-inflicted injury by suffocation by plastic bag",
+	},
+	{
+		code: "E9538  Injury-strang/suff NEC             Suicide and self-inflicted injury by other specified means",
+	},
+	{
+		code: "E9539  Injury-strang/suff NOS             Suicide and self-inflicted injury by unspecified means",
+	},
+	{
+		code: "E954   Injury-submersion                  Suicide and self-inflicted injury by submersion [drowning]",
+	},
+	{
+		code: "E9550  Injury-handgun                     Suicide and self-inflicted injury by handgun",
+	},
+	{
+		code: "E9551  Injury-shotgun                     Suicide and self-inflicted injury by shotgun",
+	},
+	{
+		code: "E9552  Injury-hunting rifle               Suicide and self-inflicted injury by hunting rifle",
+	},
+	{
+		code: "E9553  Injury-military firearm            Suicide and self-inflicted injury by military firearms",
+	},
+	{
+		code: "E9554  Injury-firearm NEC                 Suicide and self-inflicted injury by other and unspecified firearm",
+	},
+	{
+		code: "E9555  Injury-explosives                  Suicide and self-inflicted injury by explosives",
+	},
+	{
+		code: "E9556  Self inflict acc-air gun           Suicide and self-inflicted injury by air gun",
+	},
+	{
+		code: "E9557  Self inj-paintball gun             Suicide and self-inflicted injury by paintball gun",
+	},
+	{
+		code: "E9559  Injury-firearm/expl NOS            Suicide and self-inflicted injury by firearms and explosives",
+	},
+	{
+		code: "E956   Injury-cut instrument              Suicide and self-inflicted injury by cutting and piercing instrument",
+	},
+	{
+		code: "E9570  Injury-jump fm residence           Suicide and self-inflicted injuries by jumping from residential premises",
+	},
+	{
+		code: "E9571  Injury-jump fm struc NEC           Suicide and self-inflicted injuries by jumping from other man-made structures",
+	},
+	{
+		code: "E9572  Injury-jump fm natur sit           Suicide and self-inflicted injuries by jumping from natural sites",
+	},
+	{
+		code: "E9579  Injury-jump NEC                    Suicide and self-inflicted injuries by jumping from unspecified site",
+	},
+	{
+		code: "E9580  Injury-moving object               Suicide and self-inflicted injury by jumping or lying before moving object",
+	},
+	{
+		code: "E9581  Injury-burn",
+	},
+	{
+		code: "E9582  Injury-scald                       Suicide and self-inflicted injury by scald",
+	},
+	{
+		code: "E9583  Injury-extreme cold                Suicide and self-inflicted injury by extremes of cold",
+	},
+	{
+		code: "E9584  Injury-electrocution               Suicide and self-inflicted injury by electrocution",
+	},
+	{
+		code: "E9585  Injury-motor veh crash             Suicide and self-inflicted injury by crashing of motor vehicle",
+	},
+	{
+		code: "E9586  Injury-aircraft crash              Suicide and self-inflicted injury by crashing of aircraft",
+	},
+	{
+		code: "E9587  Injury-caustic substance           Suicide and self-inflicted injury by caustic substances",
+	},
+	{
+		code: "E9588  Injury-NEC                         Suicide and self-inflicted injury by other specified means",
+	},
+	{
+		code: "E9589  Injury-NOS                         Suicide and self-inflicted injury by unspecified means",
+	},
+	{
+		code: "E959   Late eff of self-injury            Late effects of self-inflicted injury",
+	},
+	{
+		code: "E9600  Unarmed fight or brawl             Unarmed fight or brawl",
+	},
+	{
+		code: "E9601  Rape                               Rape",
+	},
+	{
+		code: "E961   Assault-corrosiv/caust             Assault by corrosive or caustic substance",
+	},
+	{
+		code: "E9620  Assault-pois w medic agt           Assault by drugs and medicinal substances",
+	},
+	{
+		code: "E9621  Assault-pois w solid/liq           Assault by other solid and liquid substances",
+	},
+	{
+		code: "E9622  Assault-pois w gas/vapor           Assault by other gases and vapors",
+	},
+	{
+		code: "E9629  Assault-poisoning NOS              Assault by unspecified poisoning",
+	},
+	{
+		code: "E963   Assault-hanging/strangul           Assault by hanging and strangulation",
+	},
+	{
+		code: "E964   Assault-submersion                 Assault by submersion [drowning]",
+	},
+	{
+		code: "E9650  Assault-handgun                    Assault by handgun",
+	},
+	{
+		code: "E9651  Assault-shotgun                    Assault by shotgun",
+	},
+	{
+		code: "E9652  Assault-hunting rifle              Assault by hunting rifle",
+	},
+	{
+		code: "E9653  Assault-military weapon            Assault by military firearms",
+	},
+	{
+		code: "E9654  Assault-firearm NEC                Assault by other and unspecified firearm",
+	},
+	{
+		code: "E9655  Assault-antiperson bomb            Assault by antipersonnel bomb",
+	},
+	{
+		code: "E9656  Assault-gasoline bomb              Assault by gasoline bomb",
+	},
+	{
+		code: "E9657  Assault-letter bomb                Assault by letter bomb",
+	},
+	{
+		code: "E9658  Assault-explosive NEC              Assault by other specified explosive",
+	},
+	{
+		code: "E9659  Assault-explosive NOS              Assault by unspecified explosive",
+	},
+	{
+		code: "E966   Assault-cutting instr              Assault by cutting and piercing instrument",
+	},
+	{
+		code: "E9670  Abuse by fther/stpfth/bf           Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9671  Child abuse by pers NEC            Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9672  Abuse by mther/stpmth/gf           Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9673  Batter by spouse/partner           Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9674  Battering by child                 Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9675  Battering by sibling               Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9676  Battering by grandparent           Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9677  Batter by other relative           Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9678  Batter by non-relative             Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9679  Child abuse NOS                    Perpetrator of child and adult abuse",
+	},
+	{
+		code: "E9680  Assault-fire                       Assault by fire",
+	},
+	{
+		code: "E9681  Asslt-push from hi place           Assault by pushing from a high place",
+	},
+	{
+		code: "E9682  Assault-striking w obj             Assault by striking by blunt or thrown object",
+	},
+	{
+		code: "E9683  Assault-hot liquid                 Assault by hot liquid",
+	},
+	{
+		code: "E9684  Assault-criminal neglect           Assault by criminal neglect",
+	},
+	{
+		code: "E9685  Asslt-transport vehicle            Assault by transport vehicle",
+	},
+	{
+		code: "E9686  Assault - air gun                  Assault by air gun",
+	},
+	{
+		code: "E9687  Human bite - assault               Assault by human bite",
+	},
+	{
+		code: "E9688  Assault NEC                        Assault by other specified means",
+	},
+	{
+		code: "E9689  Assault NOS                        Assault by unspecified means",
+	},
+	{
+		code: "E969   Late effect assault                Late effects of injury purposely inflicted by other person",
+	},
+	{
+		code: "E970   Legal intervent-firearm            Injury due to legal intervention by firearms",
+	},
+	{
+		code: "E971   Legal intervent-explosiv           Injury due to legal intervention by explosives",
+	},
+	{
+		code: "E972   Legal intervent-gas                Injury due to legal intervention by gas",
+	},
+	{
+		code: "E973   Legal interven-blunt obj           Injury due to legal intervention by blunt object",
+	},
+	{
+		code: "E974   Legal interven-cut instr           Injury due to legal intervention by cutting and piercing instrument",
+	},
+	{
+		code: "E975   Legal intervention NEC             Injury due to legal intervention by other specified means",
+	},
+	{
+		code: "E976   Legal intervention NOS             Injury due to legal intervention by unspecified means",
+	},
+	{
+		code: "E977   Late eff-legal intervent           Late effects of injuries due to legal intervention",
+	},
+	{
+		code: "E978   Legal execution                    Legal execution",
+	},
+	{
+		code: "E9790  Terrorism",
+	},
+	{
+		code: "E9791  Terrorism",
+	},
+	{
+		code: "E9792  Terrorism",
+	},
+	{
+		code: "E9793  Terrorism",
+	},
+	{
+		code: "E9794  Terrorism",
+	},
+	{
+		code: "E9795  Terrorism",
+	},
+	{
+		code: "E9796  Terrorism",
+	},
+	{
+		code: "E9797  Terrorism",
+	},
+	{
+		code: "E9798  Terrorism",
+	},
+	{
+		code: "E9799  Terrorism",
+	},
+	{
+		code: "E9800  Undeterm pois-analgesics           Poisoning by analgesics",
+	},
+	{
+		code: "E9801  Undeterm pois-barbiturat           Poisoning by barbiturates",
+	},
+	{
+		code: "E9802  Undet pois-sed/hypn NEC            Poisoning by other sedatives and hypnotics",
+	},
+	{
+		code: "E9803  Undeterm pois-psychotrop           Poisoning by tranquilizers and other psychotropic agents",
+	},
+	{
+		code: "E9804  Undet pois-med agnt NEC            Poisoning by other specified drugs and medicinal substances",
+	},
+	{
+		code: "E9805  Undet pois-med agnt NOS            Poisoning by unspecified drug or medicinal substance",
+	},
+	{
+		code: "E9806  Undet pois-corros/caust            Poisoning by corrosive and caustic substances",
+	},
+	{
+		code: "E9807  Undet pois-agricult agnt           Poisoning by agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers",
+	},
+	{
+		code: "E9808  Undeter pois-arsenic               Poisoning by arsenic and its compounds",
+	},
+	{
+		code: "E9809  Undeter pois-sol/liq NEC           Poisoning by other and unspecified solid and liquid substances",
+	},
+	{
+		code: "E9810  Undeter pois-piped gas             Poisoning by gas distributed by pipeline",
+	},
+	{
+		code: "E9811  Undet pois-container gas           Poisoning by liquefied petroleum gas distributed in mobile containers",
+	},
+	{
+		code: "E9818  Undet pois-util gas NEC            Poisoning by other utility gas",
+	},
+	{
+		code: "E9820  Undeter pois-exhaust gas           Poisoning by motor vehicle exhaust gas",
+	},
+	{
+		code: "E9821  Undetermin poison-co NEC           Poisoning by other carbon monoxide",
+	},
+	{
+		code: "E9828  Undet pois-gas/vapor NEC           Poisoning by other specified gases and vapors",
+	},
+	{
+		code: "E9829  Undet pois-gas/vapor NOS           Poisoning by unspecified gases and vapors",
+	},
+	{
+		code: "E9830  Undetermin circ-hanging            Hanging",
+	},
+	{
+		code: "E9831  Undet circ-suf plast bag           Suffocation by plastic bag",
+	},
+	{
+		code: "E9838  Undet circ-suffocate NEC           Strangulation or suffocation by other specified means",
+	},
+	{
+		code: "E9839  Undet circ-suffocate NOS           Strangulation or suffocation by unspecified means",
+	},
+	{
+		code: "E984   Undeterm circ-submersion           Submersion (drowning)",
+	},
+	{
+		code: "E9850  Undetermin circ-handgun            Injury by handgun",
+	},
+	{
+		code: "E9851  Undetermin circ-shotgun            Injury by shotgun",
+	},
+	{
+		code: "E9852  Undet circ-hunting rifle           Injury by hunting rifle",
+	},
+	{
+		code: "E9853  Undet circ-military arms           Injury by military firearms",
+	},
+	{
+		code: "E9854  Undeter circ-firearm NEC           Injury by other and unspecified firearm",
+	},
+	{
+		code: "E9855  Undeterm circ-explosive            Injury by explosives",
+	},
+	{
+		code: "E9856  Undetrmine accid-air gun           Injury by air gun",
+	},
+	{
+		code: "E9857  Injury paintball gun NOS           Injury by paintball gun",
+	},
+	{
+		code: "E986   Undet circ-cut instrumnt           Injury by cutting and piercing instruments",
+	},
+	{
+		code: "E9870  Undet circ-fall residenc           Falling from residential premises",
+	},
+	{
+		code: "E9871  Undet fall structure NEC           Falling from other man-made structures",
+	},
+	{
+		code: "E9872  Undet fall natural site            Falling from natural sites",
+	},
+	{
+		code: "E9879  Undet circ-fall site NOS           Falling from unspecified site",
+	},
+	{
+		code: "E9880  Undeterm circ-moving obj           Injury by jumping or lying before moving object",
+	},
+	{
+		code: "E9881  Undeterm circ-burn",
+	},
+	{
+		code: "E9882  Undeterm circ-scald                Injury by scald",
+	},
+	{
+		code: "E9883  Undeterm circ-extrm cold           Injury by extremes of cold",
+	},
+	{
+		code: "E9884  Undeterm circ-electrocut           Injury by electrocution",
+	},
+	{
+		code: "E9885  Undet circ-mot veh crash           Injury by crashing of motor vehicle",
+	},
+	{
+		code: "E9886  Undet circ-aircrft crash           Injury by crashing of aircraft",
+	},
+	{
+		code: "E9887  Undet circ-caustic subst           Injury by caustic substances",
+	},
+	{
+		code: "E9888  Undetermin circumst NEC            Injury by other specified means",
+	},
+	{
+		code: "E9889  Undetermin circumst NOS            Injury by unspecified means",
+	},
+	{
+		code: "E989   Late eff inj-undet circ            Late effects of injury",
+	},
+	{
+		code: "E9900  War inj:gasoline bomb              Injury due to war operations from gasoline bomb",
+	},
+	{
+		code: "E9901  War inj:flamethrower               Injury due to war operations from flamethrower",
+	},
+	{
+		code: "E9902  War inj:incndiary bullet           Injury due to war operations from incendiary bullet",
+	},
+	{
+		code: "E9903  War inj:ind convn weapn            Injury due to war operations from fire caused indirectly from conventional weapon",
+	},
+	{
+		code: "E9909  War injury:fire NEC                Injury due to war operations from other and unspecified source",
+	},
+	{
+		code: "E9910  War inj:rubber bullet              Injury due to war operations from rubber bullets (rifle)",
+	},
+	{
+		code: "E9911  War injury:pellets                 Injury due to war operations from pellets (rifle)",
+	},
+	{
+		code: "E9912  War injury:bullet NEC              Injury due to war operations from other bullets",
+	},
+	{
+		code: "E9913  War inj:antiperson bomb            Injury due to war operations from antipersonnel bomb (fragments)",
+	},
+	{
+		code: "E9914  War inj:munition fragmnt           Injury due to war operations by fragments from munitions",
+	},
+	{
+		code: "E9915  War inj:prsn-brn fragmnt           Injury due to war operations by fragments from person-borne improvised explosive device [IED]",
+	},
+	{
+		code: "E9916  War inj:vehic-borne IED            Injury due to war operations by fragments from vehicle-borne improvised explosive device [IED]",
+	},
+	{
+		code: "E9917  War inj:fragment IED NEC           Injury due to war operations by fragments from other improvised explosive device [IED]",
+	},
+	{
+		code: "E9918  War inj:weapon fragments           Injury due to war operations by fragments from weapons",
+	},
+	{
+		code: "E9919  War inj:fragments NEC              Injury due to war operations from other and unspecified fragments",
+	},
+	{
+		code: "E992   WAR INJ:MARINE EXPLOS              WAR INJ:MARINE EXPLOS",
+	},
+	{
+		code: "E9920  War inj:torpedo                    Injury due to torpedo",
+	},
+	{
+		code: "E9921  War inj:depth charge               Injury due to depth charge",
+	},
+	{
+		code: "E9922  War inj:marine mines               Injury due to marine mines",
+	},
+	{
+		code: "E9923  War inj:seabase art shel           Injury due to sea-based artillery shell",
+	},
+	{
+		code: "E9928  War inj:marine weapn NEC           Injury due to war operations by other marine weapons",
+	},
+	{
+		code: "E9929  War inj:marine weapn NOS           Injury due to war operations by unspecified marine weapon",
+	},
+	{
+		code: "E993   WAR INJURY:EXPLOS NEC              WAR INJURY:EXPLOS NEC",
+	},
+	{
+		code: "E9930  War inj:aerial bomb                Injury due to war operations by aerial bomb",
+	},
+	{
+		code: "E9931  War inj:guided missile             Injury due to war operations by guided missile",
+	},
+	{
+		code: "E9932  War inj:mortar                     Injury due to war operations by mortar",
+	},
+	{
+		code: "E9933  War inj:person IED                 Injury due to war operations by person-borne improvised explosive device [IED]",
+	},
+	{
+		code: "E9934  War inj:vehicle IED                Injury due to war operations by vehicle-borne improvised explosive device [IED]",
+	},
+	{
+		code: "E9935  War inj:IED NEC                    Injury due to war operations by other improvised explosive device [IED]",
+	},
+	{
+		code: "E9936  War inj:acc own munition           Injury due to war operations by unintentional detonation of own munitions",
+	},
+	{
+		code: "E9937  War inj:acc disch launch           Injury due to war operations by unintentional discharge of own munitions launch device",
+	},
+	{
+		code: "E9938  War inj:explosion NEC              Injury due to war operations by other specified explosion",
+	},
+	{
+		code: "E9939  War inj:explosion NOS              Injury due to war operations by unspecified explosion",
+	},
+	{
+		code: "E994   WAR INJ:AIRCRFT DESTRUC            WAR INJ:AIRCRFT DESTRUC",
+	},
+	{
+		code: "E9940  War inj:aircrft des-enmy           Injury due to war operations by destruction of aircraft due to enemy fire or explosives",
+	},
+	{
+		code: "E9941  War inj:aircrft-own expl           Injury due to war operations by unintentional destruction of aircraft due to own onboard explosives",
+	},
+	{
+		code: "E9942  War inj:aircrft collisn            Injury due to war operations by destruction of aircraft due to collision with other aircraft",
+	},
+	{
+		code: "E9943  War inj:aircraft fire              Injury due to war operations by destruction of aircraft due to onboard fire",
+	},
+	{
+		code: "E9948  War inj:aircrft dest NEC           Injury due to war operations by other destruction of aircraft",
+	},
+	{
+		code: "E9949  War inj:aircrft dest NOS           Injury due to war operations by unspecified destruction of aircraft",
+	},
+	{
+		code: "E995   WAR INJUR-CONVEN WAR NEC           WAR INJUR-CONVEN WAR NEC",
+	},
+	{
+		code: "E9950  War inj:hnd-hnd combat             Injury due to war operations by unarmed hand-to-hand combat",
+	},
+	{
+		code: "E9951  War inj:blunt object               Injury due to war operations",
+	},
+	{
+		code: "E9952  War inj:piercing object            Injury due to war operations by piercing object",
+	},
+	{
+		code: "E9953  War inj:intn restrct air           Injury due to war operations by intentional restriction of air and airway",
+	},
+	{
+		code: "E9954  War inj:unintentl drown            Injury due to war operations by unintentional drowning due to inability to surface or obtain air",
+	},
+	{
+		code: "E9958  War inj:con warfare NEC            Injury due to war operations by other forms of conventional warfare",
+	},
+	{
+		code: "E9959  War inj:con warfare NOS            Injury due to war operations by unspecified form of conventional warfare",
+	},
+	{
+		code: "E996   WAR INJ:NUCLEAR WEAPONS            WAR INJ:NUCLEAR WEAPONS",
+	},
+	{
+		code: "E9960  War inj:dir nucl weapon            Injury due to war operations by direct blast effect of nuclear weapon",
+	},
+	{
+		code: "E9961  War inj:indir nucl weapn           Injury due to war operations by indirect blast effect of nuclear weapon",
+	},
+	{
+		code: "E9962  War inj:therml radiation           Injury due to war operations by thermal radiation effect of nuclear weapon",
+	},
+	{
+		code: "E9963  War inj:nuclear rad eff            Injury due to war operations by nuclear radiation effects",
+	},
+	{
+		code: "E9968  War inj:nucl weapon NEC            Injury due to war operations by other effects of nuclear weapons",
+	},
+	{
+		code: "E9969  War inj:nucl weapon NOS            Injury due to war operations by unspecified effect of nuclear weapon",
+	},
+	{
+		code: "E9970  War injury:lasers                  Injury due to war operations by lasers",
+	},
+	{
+		code: "E9971  War injury:biol warfare            Injury due to war operations by biological warfare",
+	},
+	{
+		code: "E9972  War injury:gas/fum/chem            Injury due to war operations by gases",
+	},
+	{
+		code: "E9973  War inj:WMD NOS                    Injury due to war operations by weapon of mass destruction [WMD]",
+	},
+	{
+		code: "E9978  War inj-unconven war NEC           Injury due to other specified forms of unconventional warfare",
+	},
+	{
+		code: "E9979  War inj-unconven war NOS           Injury due to unspecified form of unconventional warfare",
+	},
+	{
+		code: "E998   WAR INJ:POST WAR OPERAT            WAR INJ:POST WAR OPERAT",
+	},
+	{
+		code: "E9980  War inj:expl mine-cease            Injury due to war operations but occurring after cessation of hostilities by explosion of mines",
+	},
+	{
+		code: "E9981  War inj:expl bomb-cease            Injury due to war operations but occurring after cessation of hostilities by explosion of bombs",
+	},
+	{
+		code: "E9988  War inj:after cease NEC            Injury due to other war operations but occurring after cessation of hostilities",
+	},
+	{
+		code: "E9989  War inj:after cease NOS            Injury due to unspecified war operations but occurring after cessation of hostilities",
+	},
+	{
+		code: "E9990  Late effect",
+	},
+	{
+		code: "E9991  Late effect",
+	},
+}

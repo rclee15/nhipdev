@@ -1,0 +1,4982 @@
+{
+	{
+		code: "0010   Cholera d/t vib cholerae           Cholera due to vibrio cholerae",
+	},
+	{
+		code: "0011   Cholera d/t vib el tor             Cholera due to vibrio cholerae el tor",
+	},
+	{
+		code: "0019   Cholera NOS                        Cholera",
+	},
+	{
+		code: "0020   Typhoid fever                      Typhoid fever",
+	},
+	{
+		code: "0021   Paratyphoid fever a                Paratyphoid fever A",
+	},
+	{
+		code: "0022   Paratyphoid fever b                Paratyphoid fever B",
+	},
+	{
+		code: "0023   Paratyphoid fever c                Paratyphoid fever C",
+	},
+	{
+		code: "0029   Paratyphoid fever NOS              Paratyphoid fever",
+	},
+	{
+		code: "0030   Salmonella enteritis               Salmonella gastroenteritis",
+	},
+	{
+		code: "0031   Salmonella septicemia              Salmonella septicemia",
+	},
+	{
+		code: "00320  Local salmonella inf NOS           Localized salmonella infection",
+	},
+	{
+		code: "00321  Salmonella meningitis              Salmonella meningitis",
+	},
+	{
+		code: "00322  Salmonella pneumonia               Salmonella pneumonia",
+	},
+	{
+		code: "00323  Salmonella arthritis               Salmonella arthritis",
+	},
+	{
+		code: "00324  Salmonella osteomyelitis           Salmonella osteomyelitis",
+	},
+	{
+		code: "00329  Local salmonella inf NEC           Other localized salmonella infections",
+	},
+	{
+		code: "0038   Salmonella infection NEC           Other specified salmonella infections",
+	},
+	{
+		code: "0039   Salmonella infection NOS           Salmonella infection",
+	},
+	{
+		code: "0040   Shigella dysenteriae               Shigella dysenteriae",
+	},
+	{
+		code: "0041   Shigella flexneri                  Shigella flexneri",
+	},
+	{
+		code: "0042   Shigella boydii                    Shigella boydii",
+	},
+	{
+		code: "0043   Shigella sonnei                    Shigella sonnei",
+	},
+	{
+		code: "0048   Shigella infection NEC             Other specified shigella infections",
+	},
+	{
+		code: "0049   Shigellosis NOS                    Shigellosis",
+	},
+	{
+		code: "0050   Staph food poisoning               Staphylococcal food poisoning",
+	},
+	{
+		code: "0051   Botulism food poisoning            Botulism food poisoning",
+	},
+	{
+		code: "0052   Food pois d/t c. perfrin           Food poisoning due to Clostridium perfringens (C. welchii)",
+	},
+	{
+		code: "0053   Food pois: clostrid NEC            Food poisoning due to other Clostridia",
+	},
+	{
+		code: "0054   Food pois: v. parahaem             Food poisoning due to Vibrio parahaemolyticus",
+	},
+	{
+		code: "00581  Food poisn d/t v. vulnif           Food poisoning due to Vibrio vulnificus",
+	},
+	{
+		code: "00589  Bact food poisoning NEC            Other bacterial food poisoning",
+	},
+	{
+		code: "0059   Food poisoning NOS                 Food poisoning",
+	},
+	{
+		code: "0060   Ac amebiasis w/o abscess           Acute amebic dysentery without mention of abscess",
+	},
+	{
+		code: "0061   Chr amebiasis w/o absces           Chronic intestinal amebiasis without mention of abscess",
+	},
+	{
+		code: "0062   Amebic nondysent colitis           Amebic nondysenteric colitis",
+	},
+	{
+		code: "0063   Amebic liver abscess               Amebic liver abscess",
+	},
+	{
+		code: "0064   Amebic lung abscess                Amebic lung abscess",
+	},
+	{
+		code: "0065   Amebic brain abscess               Amebic brain abscess",
+	},
+	{
+		code: "0066   Amebic skin ulceration             Amebic skin ulceration",
+	},
+	{
+		code: "0068   Amebic infection NEC               Amebic infection of other sites",
+	},
+	{
+		code: "0069   Amebiasis NOS                      Amebiasis",
+	},
+	{
+		code: "0070   Balantidiasis                      Balantidiasis",
+	},
+	{
+		code: "0071   Giardiasis                         Giardiasis",
+	},
+	{
+		code: "0072   Coccidiosis                        Coccidiosis",
+	},
+	{
+		code: "0073   Intest trichomoniasis              Intestinal trichomoniasis",
+	},
+	{
+		code: "0074   Cryptosporidiosis                  Cryptosporidiosis",
+	},
+	{
+		code: "0075   Cyclosporiasis                     Cyclosporiasis",
+	},
+	{
+		code: "0078   Protozoal intest dis NEC           Other specified protozoal intestinal diseases",
+	},
+	{
+		code: "0079   Protozoal intest dis NOS           Unspecified protozoal intestinal disease",
+	},
+	{
+		code: "00800  Intest infec e coli NOS            Intestinal infection due to E. coli",
+	},
+	{
+		code: "00801  Int inf e coli entrpath            Intestinal infection due to enteropathogenic E. coli",
+	},
+	{
+		code: "00802  Int inf e coli entrtoxgn           Intestinal infection due to enterotoxigenic E. coli",
+	},
+	{
+		code: "00803  Int inf e coli entrnvsv            Intestinal infection due to enteroinvasive E. coli",
+	},
+	{
+		code: "00804  Int inf e coli entrhmrg            Intestinal infection due to enterohemorrhagic E. coli",
+	},
+	{
+		code: "00809  Int inf e coli spcf NEC            Intestinal infection due to other intestinal E. coli infections",
+	},
+	{
+		code: "0081   Arizona enteritis                  Intestinal infection due to arizona group of paracolon bacilli",
+	},
+	{
+		code: "0082   Aerobacter enteritis               Intestinal infection due to aerobacter aerogenes",
+	},
+	{
+		code: "0083   Proteus enteritis                  Intestinal infection due to proteus (mirabilis) (morganii)",
+	},
+	{
+		code: "00841  Staphylococc enteritis             Intestinal infection due to staphylococcus",
+	},
+	{
+		code: "00842  Pseudomonas enteritis              Intestinal infection due to pseudomonas",
+	},
+	{
+		code: "00843  Int infec campylobacter            Intestinal infection due to campylobacter",
+	},
+	{
+		code: "00844  Int inf yrsnia entrcltca           Intestinal infection due to yersinia enterocolitica",
+	},
+	{
+		code: "00845  Int inf clstrdium dfcile           Intestinal infection due to Clostridium difficile",
+	},
+	{
+		code: "00846  Intes infec oth anerobes           Intestinal infection due to other anaerobes",
+	},
+	{
+		code: "00847  Int inf oth grm neg bctr           Intestinal infection due to other gram-negative bacteria",
+	},
+	{
+		code: "00849  Bacterial enteritis NEC            Intestinal infection due to other organisms",
+	},
+	{
+		code: "0085   Bacterial enteritis NOS            Bacterial enteritis",
+	},
+	{
+		code: "00861  Intes infec rotavirus              Enteritis due to rotavirus",
+	},
+	{
+		code: "00862  Intes infec adenovirus             Enteritis due to adenovirus",
+	},
+	{
+		code: "00863  Int inf norwalk virus              Enteritis due to norwalk virus",
+	},
+	{
+		code: "00864  Int inf oth sml rnd vrus           Enteritis due to other small round viruses [SRV's]",
+	},
+	{
+		code: "00865  Enteritis d/t calicivirs           Enteritis due to calicivirus",
+	},
+	{
+		code: "00866  Intes infec astrovirus             Enteritis due to astrovirus",
+	},
+	{
+		code: "00867  Int inf enterovirus NEC            Enteritis due to enterovirus nec",
+	},
+	{
+		code: "00869  Other viral intes infec            Enteritis due to other viral enteritis",
+	},
+	{
+		code: "0088   Viral enteritis NOS                Intestinal infection due to other organism",
+	},
+	{
+		code: "0090   Infectious enteritis NOS           Infectious colitis",
+	},
+	{
+		code: "0091   Enteritis of infect orig           Colitis",
+	},
+	{
+		code: "0092   Infectious diarrhea NOS            Infectious diarrhea",
+	},
+	{
+		code: "0093   Diarrhea of infect orig            Diarrhea of presumed infectious origin",
+	},
+	{
+		code: "01000  Prim TB complex-unspec             Primary tuberculous infection",
+	},
+	{
+		code: "01001  Prim TB complex-no exam            Primary tuberculous infection",
+	},
+	{
+		code: "01002  Prim TB complex-exm unkn           Primary tuberculous infection",
+	},
+	{
+		code: "01003  Prim TB complex-micro dx           Primary tuberculous infection",
+	},
+	{
+		code: "01004  Prim TB complex-cult dx            Primary tuberculous infection",
+	},
+	{
+		code: "01005  Prim TB complex-histo dx           Primary tuberculous infection",
+	},
+	{
+		code: "01006  Prim TB complex-oth test           Primary tuberculous infection",
+	},
+	{
+		code: "01010  Prim TB pleurisy-unspec            Tuberculous pleurisy in primary progressive tuberculosis",
+	},
+	{
+		code: "01011  Prim TB pleurisy-no exam           Tuberculous pleurisy in primary progressive tuberculosis",
+	},
+	{
+		code: "01012  Prim TB pleur-exam unkn            Tuberculous pleurisy in primary progressive tuberculosis",
+	},
+	{
+		code: "01013  Prim TB pleuris-micro dx           Tuberculous pleurisy in primary progressive tuberculosis",
+	},
+	{
+		code: "01014  Prim TB pleurisy-cult dx           Tuberculous pleurisy in primary progressive tuberculosis",
+	},
+	{
+		code: "01015  Prim TB pleuris-histo dx           Tuberculous pleurisy in primary progressive tuberculosis",
+	},
+	{
+		code: "01016  Prim TB pleuris-oth test           Tuberculous pleurisy in primary progressive tuberculosis",
+	},
+	{
+		code: "01080  Prim prog TB NEC-unspec            Other primary progressive tuberculosis",
+	},
+	{
+		code: "01081  Prim prog TB NEC-no exam           Other primary progressive tuberculosis",
+	},
+	{
+		code: "01082  Prim pr TB NEC-exam unkn           Other primary progressive tuberculosis",
+	},
+	{
+		code: "01083  Prim prg TB NEC-micro dx           Other primary progressive tuberculosis",
+	},
+	{
+		code: "01084  Prim prog TB NEC-cult dx           Other primary progressive tuberculosis",
+	},
+	{
+		code: "01085  Prim prg TB NEC-histo dx           Other primary progressive tuberculosis",
+	},
+	{
+		code: "01086  Prim prg TB NEC-oth test           Other primary progressive tuberculosis",
+	},
+	{
+		code: "01090  Primary TB NOS-unspec              Primary tuberculous infection",
+	},
+	{
+		code: "01091  Primary TB NOS-no exam             Primary tuberculous infection",
+	},
+	{
+		code: "01092  Primary TB NOS-exam unkn           Primary tuberculous infection",
+	},
+	{
+		code: "01093  Primary TB NOS-micro dx            Primary tuberculous infection",
+	},
+	{
+		code: "01094  Primary TB NOS-cult dx             Primary tuberculous infection",
+	},
+	{
+		code: "01095  Primary TB NOS-histo dx            Primary tuberculous infection",
+	},
+	{
+		code: "01096  Primary TB NOS-oth test            Primary tuberculous infection",
+	},
+	{
+		code: "01100  TB lung infiltr-unspec             Tuberculosis of lung",
+	},
+	{
+		code: "01101  TB lung infiltr-no exam            Tuberculosis of lung",
+	},
+	{
+		code: "01102  TB lung infiltr-exm unkn           Tuberculosis of lung",
+	},
+	{
+		code: "01103  TB lung infiltr-micro dx           Tuberculosis of lung",
+	},
+	{
+		code: "01104  TB lung infiltr-cult dx            Tuberculosis of lung",
+	},
+	{
+		code: "01105  TB lung infiltr-histo dx           Tuberculosis of lung",
+	},
+	{
+		code: "01106  TB lung infiltr-oth test           Tuberculosis of lung",
+	},
+	{
+		code: "01110  TB lung nodular-unspec             Tuberculosis of lung",
+	},
+	{
+		code: "01111  TB lung nodular-no exam            Tuberculosis of lung",
+	},
+	{
+		code: "01112  TB lung nodul-exam unkn            Tuberculosis of lung",
+	},
+	{
+		code: "01113  TB lung nodular-micro dx           Tuberculosis of lung",
+	},
+	{
+		code: "01114  TB lung nodular-cult dx            Tuberculosis of lung",
+	},
+	{
+		code: "01115  TB lung nodular-histo dx           Tuberculosis of lung",
+	},
+	{
+		code: "01116  TB lung nodular-oth test           Tuberculosis of lung",
+	},
+	{
+		code: "01120  TB lung w cavity-unspec            Tuberculosis of lung with cavitation",
+	},
+	{
+		code: "01121  TB lung w cavity-no exam           Tuberculosis of lung with cavitation",
+	},
+	{
+		code: "01122  TB lung cavity-exam unkn           Tuberculosis of lung with cavitation",
+	},
+	{
+		code: "01123  TB lung w cavit-micro dx           Tuberculosis of lung with cavitation",
+	},
+	{
+		code: "01124  TB lung w cavity-cult dx           Tuberculosis of lung with cavitation",
+	},
+	{
+		code: "01125  TB lung w cavit-histo dx           Tuberculosis of lung with cavitation",
+	},
+	{
+		code: "01126  TB lung w cavit-oth test           Tuberculosis of lung with cavitation",
+	},
+	{
+		code: "01130  TB of bronchus-unspec              Tuberculosis of bronchus",
+	},
+	{
+		code: "01131  TB of bronchus-no exam             Tuberculosis of bronchus",
+	},
+	{
+		code: "01132  TB of bronchus-exam unkn           Tuberculosis of bronchus",
+	},
+	{
+		code: "01133  TB of bronchus-micro dx            Tuberculosis of bronchus",
+	},
+	{
+		code: "01134  TB of bronchus-cult dx             Tuberculosis of bronchus",
+	},
+	{
+		code: "01135  TB of bronchus-histo dx            Tuberculosis of bronchus",
+	},
+	{
+		code: "01136  TB of bronchus-oth test            Tuberculosis of bronchus",
+	},
+	{
+		code: "01140  TB lung fibrosis-unspec            Tuberculous fibrosis of lung",
+	},
+	{
+		code: "01141  TB lung fibrosis-no exam           Tuberculous fibrosis of lung",
+	},
+	{
+		code: "01142  TB lung fibros-exam unkn           Tuberculous fibrosis of lung",
+	},
+	{
+		code: "01143  TB lung fibros-micro dx            Tuberculous fibrosis of lung",
+	},
+	{
+		code: "01144  TB lung fibrosis-cult dx           Tuberculous fibrosis of lung",
+	},
+	{
+		code: "01145  TB lung fibros-histo dx            Tuberculous fibrosis of lung",
+	},
+	{
+		code: "01146  TB lung fibros-oth test            Tuberculous fibrosis of lung",
+	},
+	{
+		code: "01150  TB bronchiectasis-unspec           Tuberculous bronchiectasis",
+	},
+	{
+		code: "01151  TB bronchiect-no exam              Tuberculous bronchiectasis",
+	},
+	{
+		code: "01152  TB bronchiect-exam unkn            Tuberculous bronchiectasis",
+	},
+	{
+		code: "01153  TB bronchiect-micro dx             Tuberculous bronchiectasis",
+	},
+	{
+		code: "01154  TB bronchiect-cult dx              Tuberculous bronchiectasis",
+	},
+	{
+		code: "01155  TB bronchiect-histo dx             Tuberculous bronchiectasis",
+	},
+	{
+		code: "01156  TB bronchiect-oth test             Tuberculous bronchiectasis",
+	},
+	{
+		code: "01160  TB pneumonia-unspec                Tuberculous pneumonia [any form]",
+	},
+	{
+		code: "01161  TB pneumonia-no exam               Tuberculous pneumonia [any form]",
+	},
+	{
+		code: "01162  TB pneumonia-exam unkn             Tuberculous pneumonia [any form]",
+	},
+	{
+		code: "01163  TB pneumonia-micro dx              Tuberculous pneumonia [any form]",
+	},
+	{
+		code: "01164  TB pneumonia-cult dx               Tuberculous pneumonia [any form]",
+	},
+	{
+		code: "01165  TB pneumonia-histo dx              Tuberculous pneumonia [any form]",
+	},
+	{
+		code: "01166  TB pneumonia-oth test              Tuberculous pneumonia [any form]",
+	},
+	{
+		code: "01170  TB pneumothorax-unspec             Tuberculous pneumothorax",
+	},
+	{
+		code: "01171  TB pneumothorax-no exam            Tuberculous pneumothorax",
+	},
+	{
+		code: "01172  TB pneumothorx-exam unkn           Tuberculous pneumothorax",
+	},
+	{
+		code: "01173  TB pneumothorax-micro dx           Tuberculous pneumothorax",
+	},
+	{
+		code: "01174  TB pneumothorax-cult dx            Tuberculous pneumothorax",
+	},
+	{
+		code: "01175  TB pneumothorax-histo dx           Tuberculous pneumothorax",
+	},
+	{
+		code: "01176  TB pneumothorax-oth test           Tuberculous pneumothorax",
+	},
+	{
+		code: "01180  Pulmonary TB NEC-unspec            Other specified pulmonary tuberculosis",
+	},
+	{
+		code: "01181  Pulmonary TB NEC-no exam           Other specified pulmonary tuberculosis",
+	},
+	{
+		code: "01182  Pulmon TB NEC-exam unkn            Other specified pulmonary tuberculosis",
+	},
+	{
+		code: "01183  Pulmon TB NEC-micro dx             Other specified pulmonary tuberculosis",
+	},
+	{
+		code: "01184  Pulmon TB NEC-cult dx              Other specified pulmonary tuberculosis",
+	},
+	{
+		code: "01185  Pulmon TB NEC-histo dx             Other specified pulmonary tuberculosis",
+	},
+	{
+		code: "01186  Pulmon TB NEC-oth test             Other specified pulmonary tuberculosis",
+	},
+	{
+		code: "01190  Pulmonary TB NOS-unspec            Pulmonary tuberculosis",
+	},
+	{
+		code: "01191  Pulmonary TB NOS-no exam           Pulmonary tuberculosis",
+	},
+	{
+		code: "01192  Pulmon TB NOS-exam unkn            Pulmonary tuberculosis",
+	},
+	{
+		code: "01193  Pulmon TB NOS-micro dx             Pulmonary tuberculosis",
+	},
+	{
+		code: "01194  Pulmon TB NOS-cult dx              Pulmonary tuberculosis",
+	},
+	{
+		code: "01195  Pulmon TB NOS-histo dx             Pulmonary tuberculosis",
+	},
+	{
+		code: "01196  Pulmon TB NOS-oth test             Pulmonary tuberculosis",
+	},
+	{
+		code: "01200  TB pleurisy-unspec                 Tuberculous pleurisy",
+	},
+	{
+		code: "01201  TB pleurisy-no exam                Tuberculous pleurisy",
+	},
+	{
+		code: "01202  TB pleurisy-exam unkn              Tuberculous pleurisy",
+	},
+	{
+		code: "01203  TB pleurisy-micro dx               Tuberculous pleurisy",
+	},
+	{
+		code: "01204  TB pleurisy-cult dx                Tuberculous pleurisy",
+	},
+	{
+		code: "01205  TB pleurisy-histolog dx            Tuberculous pleurisy",
+	},
+	{
+		code: "01206  TB pleurisy-oth test               Tuberculous pleurisy",
+	},
+	{
+		code: "01210  TB thoracic nodes-unspec           Tuberculosis of intrathoracic lymph nodes",
+	},
+	{
+		code: "01211  TB thorax node-no exam             Tuberculosis of intrathoracic lymph nodes",
+	},
+	{
+		code: "01212  TB thorax node-exam unkn           Tuberculosis of intrathoracic lymph nodes",
+	},
+	{
+		code: "01213  TB thorax node-micro dx            Tuberculosis of intrathoracic lymph nodes",
+	},
+	{
+		code: "01214  TB thorax node-cult dx             Tuberculosis of intrathoracic lymph nodes",
+	},
+	{
+		code: "01215  TB thorax node-histo dx            Tuberculosis of intrathoracic lymph nodes",
+	},
+	{
+		code: "01216  TB thorax node-oth test            Tuberculosis of intrathoracic lymph nodes",
+	},
+	{
+		code: "01220  Isol tracheal tb-unspec            Isolated tracheal or bronchial tuberculosis",
+	},
+	{
+		code: "01221  Isol tracheal tb-no exam           Isolated tracheal or bronchial tuberculosis",
+	},
+	{
+		code: "01222  Isol trach tb-exam unkn            Isolated tracheal or bronchial tuberculosis",
+	},
+	{
+		code: "01223  Isolat trach tb-micro dx           Isolated tracheal or bronchial tuberculosis",
+	},
+	{
+		code: "01224  Isol tracheal tb-cult dx           Isolated tracheal or bronchial tuberculosis",
+	},
+	{
+		code: "01225  Isolat trach tb-histo dx           Isolated tracheal or bronchial tuberculosis",
+	},
+	{
+		code: "01226  Isolat trach tb-oth test           Isolated tracheal or bronchial tuberculosis",
+	},
+	{
+		code: "01230  TB laryngitis-unspec               Tuberculous laryngitis",
+	},
+	{
+		code: "01231  TB laryngitis-no exam              Tuberculous laryngitis",
+	},
+	{
+		code: "01232  TB laryngitis-exam unkn            Tuberculous laryngitis",
+	},
+	{
+		code: "01233  TB laryngitis-micro dx             Tuberculous laryngitis",
+	},
+	{
+		code: "01234  TB laryngitis-cult dx              Tuberculous laryngitis",
+	},
+	{
+		code: "01235  TB laryngitis-histo dx             Tuberculous laryngitis",
+	},
+	{
+		code: "01236  TB laryngitis-oth test             Tuberculous laryngitis",
+	},
+	{
+		code: "01280  Resp TB NEC-unspec                 Other specified respiratory tuberculosis",
+	},
+	{
+		code: "01281  Resp TB NEC-no exam                Other specified respiratory tuberculosis",
+	},
+	{
+		code: "01282  Resp TB NEC-exam unkn              Other specified respiratory tuberculosis",
+	},
+	{
+		code: "01283  Resp TB NEC-micro dx               Other specified respiratory tuberculosis",
+	},
+	{
+		code: "01284  Resp TB NEC-cult dx                Other specified respiratory tuberculosis",
+	},
+	{
+		code: "01285  Resp TB NEC-histo dx               Other specified respiratory tuberculosis",
+	},
+	{
+		code: "01286  Resp TB NEC-oth test               Other specified respiratory tuberculosis",
+	},
+	{
+		code: "01300  TB meningitis-unspec               Tuberculous meningitis",
+	},
+	{
+		code: "01301  TB meningitis-no exam              Tuberculous meningitis",
+	},
+	{
+		code: "01302  TB meningitis-exam unkn            Tuberculous meningitis",
+	},
+	{
+		code: "01303  TB meningitis-micro dx             Tuberculous meningitis",
+	},
+	{
+		code: "01304  TB meningitis-cult dx              Tuberculous meningitis",
+	},
+	{
+		code: "01305  TB meningitis-histo dx             Tuberculous meningitis",
+	},
+	{
+		code: "01306  TB meningitis-oth test             Tuberculous meningitis",
+	},
+	{
+		code: "01310  Tubrclma meninges-unspec           Tuberculoma of meninges",
+	},
+	{
+		code: "01311  Tubrclma mening-no exam            Tuberculoma of meninges",
+	},
+	{
+		code: "01312  Tubrclma menin-exam unkn           Tuberculoma of meninges",
+	},
+	{
+		code: "01313  Tubrclma mening-micro dx           Tuberculoma of meninges",
+	},
+	{
+		code: "01314  Tubrclma mening-cult dx            Tuberculoma of meninges",
+	},
+	{
+		code: "01315  Tubrclma mening-histo dx           Tuberculoma of meninges",
+	},
+	{
+		code: "01316  Tubrclma mening-oth test           Tuberculoma of meninges",
+	},
+	{
+		code: "01320  Tuberculoma brain-unspec           Tuberculoma of brain",
+	},
+	{
+		code: "01321  Tubrcloma brain-no exam            Tuberculoma of brain",
+	},
+	{
+		code: "01322  Tubrclma brain-exam unkn           Tuberculoma of brain",
+	},
+	{
+		code: "01323  Tubrcloma brain-micro dx           Tuberculoma of brain",
+	},
+	{
+		code: "01324  Tubrcloma brain-cult dx            Tuberculoma of brain",
+	},
+	{
+		code: "01325  Tubrcloma brain-histo dx           Tuberculoma of brain",
+	},
+	{
+		code: "01326  Tubrcloma brain-oth test           Tuberculoma of brain",
+	},
+	{
+		code: "01330  TB brain abscess-unspec            Tuberculous abscess of brain",
+	},
+	{
+		code: "01331  TB brain abscess-no exam           Tuberculous abscess of brain",
+	},
+	{
+		code: "01332  TB brain absc-exam unkn            Tuberculous abscess of brain",
+	},
+	{
+		code: "01333  TB brain absc-micro dx             Tuberculous abscess of brain",
+	},
+	{
+		code: "01334  TB brain abscess-cult dx           Tuberculous abscess of brain",
+	},
+	{
+		code: "01335  TB brain absc-histo dx             Tuberculous abscess of brain",
+	},
+	{
+		code: "01336  TB brain absc-oth test             Tuberculous abscess of brain",
+	},
+	{
+		code: "01340  Tubrclma sp cord-unspec            Tuberculoma of spinal cord",
+	},
+	{
+		code: "01341  Tubrclma sp cord-no exam           Tuberculoma of spinal cord",
+	},
+	{
+		code: "01342  Tubrclma sp cd-exam unkn           Tuberculoma of spinal cord",
+	},
+	{
+		code: "01343  Tubrclma sp crd-micro dx           Tuberculoma of spinal cord",
+	},
+	{
+		code: "01344  Tubrclma sp cord-cult dx           Tuberculoma of spinal cord",
+	},
+	{
+		code: "01345  Tubrclma sp crd-histo dx           Tuberculoma of spinal cord",
+	},
+	{
+		code: "01346  Tubrclma sp crd-oth test           Tuberculoma of spinal cord",
+	},
+	{
+		code: "01350  TB sp crd abscess-unspec           Tuberculous abscess of spinal cord",
+	},
+	{
+		code: "01351  TB sp crd absc-no exam             Tuberculous abscess of spinal cord",
+	},
+	{
+		code: "01352  TB sp crd absc-exam unkn           Tuberculous abscess of spinal cord",
+	},
+	{
+		code: "01353  TB sp crd absc-micro dx            Tuberculous abscess of spinal cord",
+	},
+	{
+		code: "01354  TB sp crd absc-cult dx             Tuberculous abscess of spinal cord",
+	},
+	{
+		code: "01355  TB sp crd absc-histo dx            Tuberculous abscess of spinal cord",
+	},
+	{
+		code: "01356  TB sp crd absc-oth test            Tuberculous abscess of spinal cord",
+	},
+	{
+		code: "01360  TB encephalitis-unspec             Tuberculous encephalitis or myelitis",
+	},
+	{
+		code: "01361  TB encephalitis-no exam            Tuberculous encephalitis or myelitis",
+	},
+	{
+		code: "01362  TB encephalit-exam unkn            Tuberculous encephalitis or myelitis",
+	},
+	{
+		code: "01363  TB encephalitis-micro dx           Tuberculous encephalitis or myelitis",
+	},
+	{
+		code: "01364  TB encephalitis-cult dx            Tuberculous encephalitis or myelitis",
+	},
+	{
+		code: "01365  TB encephalitis-histo dx           Tuberculous encephalitis or myelitis",
+	},
+	{
+		code: "01366  TB encephalitis-oth test           Tuberculous encephalitis or myelitis",
+	},
+	{
+		code: "01380  Cns TB NEC-unspec                  Other specified tuberculosis of central nervous system",
+	},
+	{
+		code: "01381  Cns TB NEC-no exam                 Other specified tuberculosis of central nervous system",
+	},
+	{
+		code: "01382  Cns TB NEC-exam unkn               Other specified tuberculosis of central nervous system",
+	},
+	{
+		code: "01383  Cns TB NEC-micro dx                Other specified tuberculosis of central nervous system",
+	},
+	{
+		code: "01384  Cns TB NEC-cult dx                 Other specified tuberculosis of central nervous system",
+	},
+	{
+		code: "01385  Cns TB NEC-histo dx                Other specified tuberculosis of central nervous system",
+	},
+	{
+		code: "01386  Cns TB NEC-oth test                Other specified tuberculosis of central nervous system",
+	},
+	{
+		code: "01390  Cns TB NOS-unspec                  Unspecified tuberculosis of central nervous system",
+	},
+	{
+		code: "01391  Cns TB NOS-no exam                 Unspecified tuberculosis of central nervous system",
+	},
+	{
+		code: "01392  Cns TB NOS-exam unkn               Unspecified tuberculosis of central nervous system",
+	},
+	{
+		code: "01393  Cns TB NOS-micro dx                Unspecified tuberculosis of central nervous system",
+	},
+	{
+		code: "01394  Cns TB NOS-cult dx                 Unspecified tuberculosis of central nervous system",
+	},
+	{
+		code: "01395  Cns TB NOS-histo dx                Unspecified tuberculosis of central nervous system",
+	},
+	{
+		code: "01396  Cns TB NOS-oth test                Unspecified tuberculosis of central nervous system",
+	},
+	{
+		code: "01400  TB peritonitis-unspec              Tuberculous peritonitis",
+	},
+	{
+		code: "01401  TB peritonitis-no exam             Tuberculous peritonitis",
+	},
+	{
+		code: "01402  TB peritonitis-exam unkn           Tuberculous peritonitis",
+	},
+	{
+		code: "01403  TB peritonitis-micro dx            Tuberculous peritonitis",
+	},
+	{
+		code: "01404  TB peritonitis-cult dx             Tuberculous peritonitis",
+	},
+	{
+		code: "01405  TB peritonitis-histo dx            Tuberculous peritonitis",
+	},
+	{
+		code: "01406  TB peritonitis-oth test            Tuberculous peritonitis",
+	},
+	{
+		code: "01480  Intestinal TB NEC-unspec           Other tuberculosis of intestines",
+	},
+	{
+		code: "01481  Intestin TB NEC-no exam            Other tuberculosis of intestines",
+	},
+	{
+		code: "01482  Intest TB NEC-exam unkn            Other tuberculosis of intestines",
+	},
+	{
+		code: "01483  Intestin TB NEC-micro dx           Other tuberculosis of intestines",
+	},
+	{
+		code: "01484  Intestin TB NEC-cult dx            Other tuberculosis of intestines",
+	},
+	{
+		code: "01485  Intestin TB NEC-histo dx           Other tuberculosis of intestines",
+	},
+	{
+		code: "01486  Intestin TB NEC-oth test           Other tuberculosis of intestines",
+	},
+	{
+		code: "01500  TB of vertebra-unspec              Tuberculosis of vertebral column",
+	},
+	{
+		code: "01501  TB of vertebra-no exam             Tuberculosis of vertebral column",
+	},
+	{
+		code: "01502  TB of vertebra-exam unkn           Tuberculosis of vertebral column",
+	},
+	{
+		code: "01503  TB of vertebra-micro dx            Tuberculosis of vertebral column",
+	},
+	{
+		code: "01504  TB of vertebra-cult dx             Tuberculosis of vertebral column",
+	},
+	{
+		code: "01505  TB of vertebra-histo dx            Tuberculosis of vertebral column",
+	},
+	{
+		code: "01506  TB of vertebra-oth test            Tuberculosis of vertebral column",
+	},
+	{
+		code: "01510  TB of hip-unspec                   Tuberculosis of hip",
+	},
+	{
+		code: "01511  TB of hip-no exam                  Tuberculosis of hip",
+	},
+	{
+		code: "01512  TB of hip-exam unkn                Tuberculosis of hip",
+	},
+	{
+		code: "01513  TB of hip-micro dx                 Tuberculosis of hip",
+	},
+	{
+		code: "01514  TB of hip-cult dx                  Tuberculosis of hip",
+	},
+	{
+		code: "01515  TB of hip-histo dx                 Tuberculosis of hip",
+	},
+	{
+		code: "01516  TB of hip-oth test                 Tuberculosis of hip",
+	},
+	{
+		code: "01520  TB of knee-unspec                  Tuberculosis of knee",
+	},
+	{
+		code: "01521  TB of knee-no exam                 Tuberculosis of knee",
+	},
+	{
+		code: "01522  TB of knee-exam unkn               Tuberculosis of knee",
+	},
+	{
+		code: "01523  TB of knee-micro dx                Tuberculosis of knee",
+	},
+	{
+		code: "01524  TB of knee-cult dx                 Tuberculosis of knee",
+	},
+	{
+		code: "01525  TB of knee-histo dx                Tuberculosis of knee",
+	},
+	{
+		code: "01526  TB of knee-oth test                Tuberculosis of knee",
+	},
+	{
+		code: "01550  TB of limb bones-unspec            Tuberculosis of limb bones",
+	},
+	{
+		code: "01551  TB limb bones-no exam              Tuberculosis of limb bones",
+	},
+	{
+		code: "01552  TB limb bones-exam unkn            Tuberculosis of limb bones",
+	},
+	{
+		code: "01553  TB limb bones-micro dx             Tuberculosis of limb bones",
+	},
+	{
+		code: "01554  TB limb bones-cult dx              Tuberculosis of limb bones",
+	},
+	{
+		code: "01555  TB limb bones-histo dx             Tuberculosis of limb bones",
+	},
+	{
+		code: "01556  TB limb bones-oth test             Tuberculosis of limb bones",
+	},
+	{
+		code: "01560  TB of mastoid-unspec               Tuberculosis of mastoid",
+	},
+	{
+		code: "01561  TB of mastoid-no exam              Tuberculosis of mastoid",
+	},
+	{
+		code: "01562  TB of mastoid-exam unkn            Tuberculosis of mastoid",
+	},
+	{
+		code: "01563  TB of mastoid-micro dx             Tuberculosis of mastoid",
+	},
+	{
+		code: "01564  TB of mastoid-cult dx              Tuberculosis of mastoid",
+	},
+	{
+		code: "01565  TB of mastoid-histo dx             Tuberculosis of mastoid",
+	},
+	{
+		code: "01566  TB of mastoid-oth test             Tuberculosis of mastoid",
+	},
+	{
+		code: "01570  TB of bone NEC-unspec              Tuberculosis of other specified bone",
+	},
+	{
+		code: "01571  TB of bone NEC-no exam             Tuberculosis of other specified bone",
+	},
+	{
+		code: "01572  TB of bone NEC-exam unkn           Tuberculosis of other specified bone",
+	},
+	{
+		code: "01573  TB of bone NEC-micro dx            Tuberculosis of other specified bone",
+	},
+	{
+		code: "01574  TB of bone NEC-cult dx             Tuberculosis of other specified bone",
+	},
+	{
+		code: "01575  TB of bone NEC-histo dx            Tuberculosis of other specified bone",
+	},
+	{
+		code: "01576  TB of bone NEC-oth test            Tuberculosis of other specified bone",
+	},
+	{
+		code: "01580  TB of joint NEC-unspec             Tuberculosis of other specified joint",
+	},
+	{
+		code: "01581  TB of joint NEC-no exam            Tuberculosis of other specified joint",
+	},
+	{
+		code: "01582  TB joint NEC-exam unkn             Tuberculosis of other specified joint",
+	},
+	{
+		code: "01583  TB of joint NEC-micro dx           Tuberculosis of other specified joint",
+	},
+	{
+		code: "01584  TB of joint NEC-cult dx            Tuberculosis of other specified joint",
+	},
+	{
+		code: "01585  TB of joint NEC-histo dx           Tuberculosis of other specified joint",
+	},
+	{
+		code: "01586  TB of joint NEC-oth test           Tuberculosis of other specified joint",
+	},
+	{
+		code: "01590  TB bone/joint NOS-unspec           Tuberculosis of unspecified bones and joints",
+	},
+	{
+		code: "01591  TB bone/jt NOS-no exam             Tuberculosis of unspecified bones and joints",
+	},
+	{
+		code: "01592  TB bone/jt NOS-exam unkn           Tuberculosis of unspecified bones and joints",
+	},
+	{
+		code: "01593  TB bone/jt NOS-micro dx            Tuberculosis of unspecified bones and joints",
+	},
+	{
+		code: "01594  TB bone/jt NOS-cult dx             Tuberculosis of unspecified bones and joints",
+	},
+	{
+		code: "01595  TB bone/jt NOS-histo dx            Tuberculosis of unspecified bones and joints",
+	},
+	{
+		code: "01596  TB bone/jt NOS-oth test            Tuberculosis of unspecified bones and joints",
+	},
+	{
+		code: "01600  TB of kidney-unspec                Tuberculosis of kidney",
+	},
+	{
+		code: "01601  TB of kidney-no exam               Tuberculosis of kidney",
+	},
+	{
+		code: "01602  TB of kidney-exam unkn             Tuberculosis of kidney",
+	},
+	{
+		code: "01603  TB of kidney-micro dx              Tuberculosis of kidney",
+	},
+	{
+		code: "01604  TB of kidney-cult dx               Tuberculosis of kidney",
+	},
+	{
+		code: "01605  TB of kidney-histo dx              Tuberculosis of kidney",
+	},
+	{
+		code: "01606  TB of kidney-oth test              Tuberculosis of kidney",
+	},
+	{
+		code: "01610  TB of bladder-unspec               Tuberculosis of bladder",
+	},
+	{
+		code: "01611  TB of bladder-no exam              Tuberculosis of bladder",
+	},
+	{
+		code: "01612  TB of bladder-exam unkn            Tuberculosis of bladder",
+	},
+	{
+		code: "01613  TB of bladder-micro dx             Tuberculosis of bladder",
+	},
+	{
+		code: "01614  TB of bladder-cult dx              Tuberculosis of bladder",
+	},
+	{
+		code: "01615  TB of bladder-histo dx             Tuberculosis of bladder",
+	},
+	{
+		code: "01616  TB of bladder-oth test             Tuberculosis of bladder",
+	},
+	{
+		code: "01620  TB of ureter-unspec                Tuberculosis of ureter",
+	},
+	{
+		code: "01621  TB of ureter-no exam               Tuberculosis of ureter",
+	},
+	{
+		code: "01622  TB of ureter-exam unkn             Tuberculosis of ureter",
+	},
+	{
+		code: "01623  TB of ureter-micro dx              Tuberculosis of ureter",
+	},
+	{
+		code: "01624  TB of ureter-cult dx               Tuberculosis of ureter",
+	},
+	{
+		code: "01625  TB of ureter-histo dx              Tuberculosis of ureter",
+	},
+	{
+		code: "01626  TB of ureter-oth test              Tuberculosis of ureter",
+	},
+	{
+		code: "01630  TB urinary NEC-unspec              Tuberculosis of other urinary organs",
+	},
+	{
+		code: "01631  TB urinary NEC-no exam             Tuberculosis of other urinary organs",
+	},
+	{
+		code: "01632  TB urinary NEC-exam unkn           Tuberculosis of other urinary organs",
+	},
+	{
+		code: "01633  TB urinary NEC-micro dx            Tuberculosis of other urinary organs",
+	},
+	{
+		code: "01634  TB urinary NEC-cult dx             Tuberculosis of other urinary organs",
+	},
+	{
+		code: "01635  TB urinary NEC-histo dx            Tuberculosis of other urinary organs",
+	},
+	{
+		code: "01636  TB urinary NEC-oth test            Tuberculosis of other urinary organs",
+	},
+	{
+		code: "01640  TB epididymis-unspec               Tuberculosis of epididymis",
+	},
+	{
+		code: "01641  TB epididymis-no exam              Tuberculosis of epididymis",
+	},
+	{
+		code: "01642  TB epididymis-exam unkn            Tuberculosis of epididymis",
+	},
+	{
+		code: "01643  TB epididymis-micro dx             Tuberculosis of epididymis",
+	},
+	{
+		code: "01644  TB epididymis-cult dx              Tuberculosis of epididymis",
+	},
+	{
+		code: "01645  TB epididymis-histo dx             Tuberculosis of epididymis",
+	},
+	{
+		code: "01646  TB epididymis-oth test             Tuberculosis of epididymis",
+	},
+	{
+		code: "01650  TB male genit NEC-unspec           Tuberculosis of other male genital organs",
+	},
+	{
+		code: "01651  TB male gen NEC-no exam            Tuberculosis of other male genital organs",
+	},
+	{
+		code: "01652  TB male gen NEC-ex unkn            Tuberculosis of other male genital organs",
+	},
+	{
+		code: "01653  TB male gen NEC-micro dx           Tuberculosis of other male genital organs",
+	},
+	{
+		code: "01654  TB male gen NEC-cult dx            Tuberculosis of other male genital organs",
+	},
+	{
+		code: "01655  TB male gen NEC-histo dx           Tuberculosis of other male genital organs",
+	},
+	{
+		code: "01656  TB male gen NEC-oth test           Tuberculosis of other male genital organs",
+	},
+	{
+		code: "01660  TB ovary & tube-unspec             Tuberculous oophoritis and salpingitis",
+	},
+	{
+		code: "01661  TB ovary & tube-no exam            Tuberculous oophoritis and salpingitis",
+	},
+	{
+		code: "01662  TB ovary/tube-exam unkn            Tuberculous oophoritis and salpingitis",
+	},
+	{
+		code: "01663  TB ovary & tube-micro dx           Tuberculous oophoritis and salpingitis",
+	},
+	{
+		code: "01664  TB ovary & tube-cult dx            Tuberculous oophoritis and salpingitis",
+	},
+	{
+		code: "01665  TB ovary & tube-histo dx           Tuberculous oophoritis and salpingitis",
+	},
+	{
+		code: "01666  TB ovary & tube-oth test           Tuberculous oophoritis and salpingitis",
+	},
+	{
+		code: "01670  TB female gen NEC-unspec           Tuberculosis of other female genital organs",
+	},
+	{
+		code: "01671  TB fem gen NEC-no exam             Tuberculosis of other female genital organs",
+	},
+	{
+		code: "01672  TB fem gen NEC-exam unkn           Tuberculosis of other female genital organs",
+	},
+	{
+		code: "01673  TB fem gen NEC-micro dx            Tuberculosis of other female genital organs",
+	},
+	{
+		code: "01674  TB fem gen NEC-cult dx             Tuberculosis of other female genital organs",
+	},
+	{
+		code: "01675  TB fem gen NEC-histo dx            Tuberculosis of other female genital organs",
+	},
+	{
+		code: "01676  TB fem gen NEC-oth test            Tuberculosis of other female genital organs",
+	},
+	{
+		code: "01690  Gu TB NOS-unspec                   Genitourinary tuberculosis",
+	},
+	{
+		code: "01691  Gu TB NOS-no exam                  Genitourinary tuberculosis",
+	},
+	{
+		code: "01692  Gu TB NOS-exam unkn                Genitourinary tuberculosis",
+	},
+	{
+		code: "01693  Gu TB NOS-micro dx                 Genitourinary tuberculosis",
+	},
+	{
+		code: "01694  Gu TB NOS-cult dx                  Genitourinary tuberculosis",
+	},
+	{
+		code: "01695  Gu TB NOS-histo dx                 Genitourinary tuberculosis",
+	},
+	{
+		code: "01696  Gu TB NOS-oth test                 Genitourinary tuberculosis",
+	},
+	{
+		code: "01700  TB skin/subcutan-unspec            Tuberculosis of skin and subcutaneous cellular tissue",
+	},
+	{
+		code: "01701  TB skin/subcut-no exam             Tuberculosis of skin and subcutaneous cellular tissue",
+	},
+	{
+		code: "01702  TB skin/subcut-exam unkn           Tuberculosis of skin and subcutaneous cellular tissue",
+	},
+	{
+		code: "01703  TB skin/subcut-micro dx            Tuberculosis of skin and subcutaneous cellular tissue",
+	},
+	{
+		code: "01704  TB skin/subcut-cult dx             Tuberculosis of skin and subcutaneous cellular tissue",
+	},
+	{
+		code: "01705  TB skin/subcut-histo dx            Tuberculosis of skin and subcutaneous cellular tissue",
+	},
+	{
+		code: "01706  TB skin/subcut-oth test            Tuberculosis of skin and subcutaneous cellular tissue",
+	},
+	{
+		code: "01710  Erythema nodos tb-unspec           Erythema nodosum with hypersensitivity reaction in tuberculosis",
+	},
+	{
+		code: "01711  Erythem nodos tb-no exam           Erythema nodosum with hypersensitivity reaction in tuberculosis",
+	},
+	{
+		code: "01712  Erythem nod tb-exam unkn           Erythema nodosum with hypersensitivity reaction in tuberculosis",
+	},
+	{
+		code: "01713  Erythem nod tb-micro dx            Erythema nodosum with hypersensitivity reaction in tuberculosis",
+	},
+	{
+		code: "01714  Erythem nodos tb-cult dx           Erythema nodosum with hypersensitivity reaction in tuberculosis",
+	},
+	{
+		code: "01715  Erythem nod tb-histo dx            Erythema nodosum with hypersensitivity reaction in tuberculosis",
+	},
+	{
+		code: "01716  Erythem nod tb-oth test            Erythema nodosum with hypersensitivity reaction in tuberculosis",
+	},
+	{
+		code: "01720  TB periph lymph-unspec             Tuberculosis of peripheral lymph nodes",
+	},
+	{
+		code: "01721  TB periph lymph-no exam            Tuberculosis of peripheral lymph nodes",
+	},
+	{
+		code: "01722  TB periph lymph-exam unk           Tuberculosis of peripheral lymph nodes",
+	},
+	{
+		code: "01723  TB periph lymph-micro dx           Tuberculosis of peripheral lymph nodes",
+	},
+	{
+		code: "01724  TB periph lymph-cult dx            Tuberculosis of peripheral lymph nodes",
+	},
+	{
+		code: "01725  TB periph lymph-histo dx           Tuberculosis of peripheral lymph nodes",
+	},
+	{
+		code: "01726  TB periph lymph-oth test           Tuberculosis of peripheral lymph nodes",
+	},
+	{
+		code: "01730  TB of eye-unspec                   Tuberculosis of eye",
+	},
+	{
+		code: "01731  TB of eye-no exam                  Tuberculosis of eye",
+	},
+	{
+		code: "01732  TB of eye-exam unkn                Tuberculosis of eye",
+	},
+	{
+		code: "01733  TB of eye-micro dx                 Tuberculosis of eye",
+	},
+	{
+		code: "01734  TB of eye-cult dx                  Tuberculosis of eye",
+	},
+	{
+		code: "01735  TB of eye-histo dx                 Tuberculosis of eye",
+	},
+	{
+		code: "01736  TB of eye-oth test                 Tuberculosis of eye",
+	},
+	{
+		code: "01740  TB of ear-unspec                   Tuberculosis of ear",
+	},
+	{
+		code: "01741  TB of ear-no exam                  Tuberculosis of ear",
+	},
+	{
+		code: "01742  TB of ear-exam unkn                Tuberculosis of ear",
+	},
+	{
+		code: "01743  TB of ear-micro dx                 Tuberculosis of ear",
+	},
+	{
+		code: "01744  TB of ear-cult dx                  Tuberculosis of ear",
+	},
+	{
+		code: "01745  TB of ear-histo dx                 Tuberculosis of ear",
+	},
+	{
+		code: "01746  TB of ear-oth test                 Tuberculosis of ear",
+	},
+	{
+		code: "01750  TB of thyroid-unspec               Tuberculosis of thyroid gland",
+	},
+	{
+		code: "01751  TB of thyroid-no exam              Tuberculosis of thyroid gland",
+	},
+	{
+		code: "01752  TB of thyroid-exam unkn            Tuberculosis of thyroid gland",
+	},
+	{
+		code: "01753  TB of thyroid-micro dx             Tuberculosis of thyroid gland",
+	},
+	{
+		code: "01754  TB of thyroid-cult dx              Tuberculosis of thyroid gland",
+	},
+	{
+		code: "01755  TB of thyroid-histo dx             Tuberculosis of thyroid gland",
+	},
+	{
+		code: "01756  TB of thyroid-oth test             Tuberculosis of thyroid gland",
+	},
+	{
+		code: "01760  TB of adrenal-unspec               Tuberculosis of adrenal glands",
+	},
+	{
+		code: "01761  TB of adrenal-no exam              Tuberculosis of adrenal glands",
+	},
+	{
+		code: "01762  TB of adrenal-exam unkn            Tuberculosis of adrenal glands",
+	},
+	{
+		code: "01763  TB of adrenal-micro dx             Tuberculosis of adrenal glands",
+	},
+	{
+		code: "01764  TB of adrenal-cult dx              Tuberculosis of adrenal glands",
+	},
+	{
+		code: "01765  TB of adrenal-histo dx             Tuberculosis of adrenal glands",
+	},
+	{
+		code: "01766  TB of adrenal-oth test             Tuberculosis of adrenal glands",
+	},
+	{
+		code: "01770  TB of spleen-unspec                Tuberculosis of spleen",
+	},
+	{
+		code: "01771  TB of spleen-no exam               Tuberculosis of spleen",
+	},
+	{
+		code: "01772  TB of spleen-exam unkn             Tuberculosis of spleen",
+	},
+	{
+		code: "01773  TB of spleen-micro dx              Tuberculosis of spleen",
+	},
+	{
+		code: "01774  TB of spleen-cult dx               Tuberculosis of spleen",
+	},
+	{
+		code: "01775  TB of spleen-histo dx              Tuberculosis of spleen",
+	},
+	{
+		code: "01776  TB of spleen-oth test              Tuberculosis of spleen",
+	},
+	{
+		code: "01780  TB esophagus-unspec                Tuberculosis of esophagus",
+	},
+	{
+		code: "01781  TB esophagus-no exam               Tuberculosis of esophagus",
+	},
+	{
+		code: "01782  TB esophagus-exam unkn             Tuberculosis of esophagus",
+	},
+	{
+		code: "01783  TB esophagus-micro dx              Tuberculosis of esophagus",
+	},
+	{
+		code: "01784  TB esophagus-cult dx               Tuberculosis of esophagus",
+	},
+	{
+		code: "01785  TB esophagus-histo dx              Tuberculosis of esophagus",
+	},
+	{
+		code: "01786  TB esophagus-oth test              Tuberculosis of esophagus",
+	},
+	{
+		code: "01790  TB of organ NEC-unspec             Tuberculosis of other specified organs",
+	},
+	{
+		code: "01791  TB of organ NEC-no exam            Tuberculosis of other specified organs",
+	},
+	{
+		code: "01792  TB organ NEC-exam unkn             Tuberculosis of other specified organs",
+	},
+	{
+		code: "01793  TB of organ NEC-micro dx           Tuberculosis of other specified organs",
+	},
+	{
+		code: "01794  TB of organ NEC-cult dx            Tuberculosis of other specified organs",
+	},
+	{
+		code: "01795  TB of organ NEC-histo dx           Tuberculosis of other specified organs",
+	},
+	{
+		code: "01796  TB of organ NEC-oth test           Tuberculosis of other specified organs",
+	},
+	{
+		code: "01800  Acute miliary tb-unspec            Acute miliary tuberculosis",
+	},
+	{
+		code: "01801  Acute miliary tb-no exam           Acute miliary tuberculosis",
+	},
+	{
+		code: "01802  Ac miliary tb-exam unkn            Acute miliary tuberculosis",
+	},
+	{
+		code: "01803  Ac miliary tb-micro dx             Acute miliary tuberculosis",
+	},
+	{
+		code: "01804  Acute miliary tb-cult dx           Acute miliary tuberculosis",
+	},
+	{
+		code: "01805  Ac miliary tb-histo dx             Acute miliary tuberculosis",
+	},
+	{
+		code: "01806  Ac miliary tb-oth test             Acute miliary tuberculosis",
+	},
+	{
+		code: "01880  Miliary TB NEC-unspec              Other specified miliary tuberculosis",
+	},
+	{
+		code: "01881  Miliary TB NEC-no exam             Other specified miliary tuberculosis",
+	},
+	{
+		code: "01882  Miliary TB NEC-exam unkn           Other specified miliary tuberculosis",
+	},
+	{
+		code: "01883  Miliary TB NEC-micro dx            Other specified miliary tuberculosis",
+	},
+	{
+		code: "01884  Miliary TB NEC-cult dx             Other specified miliary tuberculosis",
+	},
+	{
+		code: "01885  Miliary TB NEC-histo dx            Other specified miliary tuberculosis",
+	},
+	{
+		code: "01886  Miliary TB NEC-oth test            Other specified miliary tuberculosis",
+	},
+	{
+		code: "01890  Miliary TB NOS-unspec              Miliary tuberculosis",
+	},
+	{
+		code: "01891  Miliary TB NOS-no exam             Miliary tuberculosis",
+	},
+	{
+		code: "01892  Miliary TB NOS-exam unkn           Miliary tuberculosis",
+	},
+	{
+		code: "01893  Miliary TB NOS-micro dx            Miliary tuberculosis",
+	},
+	{
+		code: "01894  Miliary TB NOS-cult dx             Miliary tuberculosis",
+	},
+	{
+		code: "01895  Miliary TB NOS-histo dx            Miliary tuberculosis",
+	},
+	{
+		code: "01896  Miliary TB NOS-oth test            Miliary tuberculosis",
+	},
+	{
+		code: "0200   Bubonic plague                     Bubonic plague",
+	},
+	{
+		code: "0201   Cellulocutaneous plague            Cellulocutaneous plague",
+	},
+	{
+		code: "0202   Septicemic plague                  Septicemic plague",
+	},
+	{
+		code: "0203   Primary pneumonic plague           Primary pneumonic plague",
+	},
+	{
+		code: "0204   Secondary pneumon plague           Secondary pneumonic plague",
+	},
+	{
+		code: "0205   Pneumonic plague NOS               Pneumonic plague",
+	},
+	{
+		code: "0208   Other types of plague              Other specified types of plague",
+	},
+	{
+		code: "0209   Plague NOS                         Plague",
+	},
+	{
+		code: "0210   Ulceroglandul tularemia            Ulceroglandular tularemia",
+	},
+	{
+		code: "0211   Enteric tularemia                  Enteric tularemia",
+	},
+	{
+		code: "0212   Pulmonary tularemia                Pulmonary tularemia",
+	},
+	{
+		code: "0213   Oculoglandular tularemia           Oculoglandular tularemia",
+	},
+	{
+		code: "0218   Tularemia NEC                      Other specified tularemia",
+	},
+	{
+		code: "0219   Tularemia NOS                      Unspecified tularemia",
+	},
+	{
+		code: "0220   Cutaneous anthrax                  Cutaneous anthrax",
+	},
+	{
+		code: "0221   Pulmonary anthrax                  Pulmonary anthrax",
+	},
+	{
+		code: "0222   Gastrointestinal anthrax           Gastrointestinal anthrax",
+	},
+	{
+		code: "0223   Anthrax septicemia                 Anthrax septicemia",
+	},
+	{
+		code: "0228   Other anthrax manifest             Other specified manifestations of anthrax",
+	},
+	{
+		code: "0229   Anthrax NOS                        Anthrax",
+	},
+	{
+		code: "0230   Brucella melitensis                Brucella melitensis",
+	},
+	{
+		code: "0231   Brucella abortus                   Brucella abortus",
+	},
+	{
+		code: "0232   Brucella suis                      Brucella suis",
+	},
+	{
+		code: "0233   Brucella canis                     Brucella canis",
+	},
+	{
+		code: "0238   Brucellosis NEC                    Other brucellosis",
+	},
+	{
+		code: "0239   Brucellosis NOS                    Brucellosis",
+	},
+	{
+		code: "024    Glanders                           Glanders",
+	},
+	{
+		code: "025    Melioidosis                        Melioidosis",
+	},
+	{
+		code: "0260   Spirillary fever                   Spirillary fever",
+	},
+	{
+		code: "0261   Streptobacillary fever             Streptobacillary fever",
+	},
+	{
+		code: "0269   Rat-bite fever NOS                 Unspecified rat-bite fever",
+	},
+	{
+		code: "0270   Listeriosis                        Listeriosis",
+	},
+	{
+		code: "0271   Erysipelothrix infection           Erysipelothrix infection",
+	},
+	{
+		code: "0272   Pasteurellosis                     Pasteurellosis",
+	},
+	{
+		code: "0278   Zoonotic bact dis NEC              Other specified zoonotic bacterial diseases",
+	},
+	{
+		code: "0279   Zoonotic bact dis NOS              Unspecified zoonotic bacterial disease",
+	},
+	{
+		code: "0300   Lepromatous leprosy                Lepromatous leprosy [type L]",
+	},
+	{
+		code: "0301   Tuberculoid leprosy                Tuberculoid leprosy [type T]",
+	},
+	{
+		code: "0302   Indeterminate leprosy              Indeterminate leprosy [group I]",
+	},
+	{
+		code: "0303   Borderline leprosy                 Borderline leprosy [group B]",
+	},
+	{
+		code: "0308   Leprosy NEC                        Other specified leprosy",
+	},
+	{
+		code: "0309   Leprosy NOS                        Leprosy",
+	},
+	{
+		code: "0310   Pulmonary mycobacteria             Pulmonary diseases due to other mycobacteria",
+	},
+	{
+		code: "0311   Cutaneous mycobacteria             Cutaneous diseases due to other mycobacteria",
+	},
+	{
+		code: "0312   DMAC bacteremia                    Disseminated due to other mycobacteria",
+	},
+	{
+		code: "0318   Mycobacterial dis NEC              Other specified mycobacterial diseases",
+	},
+	{
+		code: "0319   Mycobacterial dis NOS              Unspecified diseases due to mycobacteria",
+	},
+	{
+		code: "0320   Faucial diphtheria                 Faucial diphtheria",
+	},
+	{
+		code: "0321   Nasopharynx diphtheria             Nasopharyngeal diphtheria",
+	},
+	{
+		code: "0322   Ant nasal diphtheria               Anterior nasal diphtheria",
+	},
+	{
+		code: "0323   Laryngeal diphtheria               Laryngeal diphtheria",
+	},
+	{
+		code: "03281  Conjunctival diphtheria            Conjunctival diphtheria",
+	},
+	{
+		code: "03282  Diphtheritic myocarditis           Diphtheritic myocarditis",
+	},
+	{
+		code: "03283  Diphtheritic peritonitis           Diphtheritic peritonitis",
+	},
+	{
+		code: "03284  Diphtheritic cystitis              Diphtheritic cystitis",
+	},
+	{
+		code: "03285  Cutaneous diphtheria               Cutaneous diphtheria",
+	},
+	{
+		code: "03289  Diphtheria NEC                     Other specified diphtheria",
+	},
+	{
+		code: "0329   Diphtheria NOS                     Diphtheria",
+	},
+	{
+		code: "0330   Bordetella pertussis               Whooping cough due to bordetella pertussis [B. pertussis]",
+	},
+	{
+		code: "0331   Bordetella parapertussis           Whooping cough due to bordetella parapertussis [B. parapertussis]",
+	},
+	{
+		code: "0338   Whooping cough NEC                 Whooping cough due to other specified organism",
+	},
+	{
+		code: "0339   Whooping cough NOS                 Whooping cough",
+	},
+	{
+		code: "0340   Strep sore throat                  Streptococcal sore throat",
+	},
+	{
+		code: "0341   Scarlet fever                      Scarlet fever",
+	},
+	{
+		code: "035    Erysipelas                         Erysipelas",
+	},
+	{
+		code: "0360   Meningococcal meningitis           Meningococcal meningitis",
+	},
+	{
+		code: "0361   Meningococc encephalitis           Meningococcal encephalitis",
+	},
+	{
+		code: "0362   Meningococcemia                    Meningococcemia",
+	},
+	{
+		code: "0363   Meningococc adrenal synd           Waterhouse-Friderichsen syndrome",
+	},
+	{
+		code: "03640  Meningococc carditis NOS           Meningococcal carditis",
+	},
+	{
+		code: "03641  Meningococc pericarditis           Meningococcal pericarditis",
+	},
+	{
+		code: "03642  Meningococc endocarditis           Meningococcal endocarditis",
+	},
+	{
+		code: "03643  Meningococc myocarditis            Meningococcal myocarditis",
+	},
+	{
+		code: "03681  Meningococc optic neurit           Meningococcal optic neuritis",
+	},
+	{
+		code: "03682  Meningococc arthropathy            Meningococcal arthropathy",
+	},
+	{
+		code: "03689  Meningococcal infect NEC           Other specified meningococcal infections",
+	},
+	{
+		code: "0369   Meningococcal infect NOS           Meningococcal infection",
+	},
+	{
+		code: "037    Tetanus                            Tetanus",
+	},
+	{
+		code: "0380   Streptococcal septicemia           Streptococcal septicemia",
+	},
+	{
+		code: "03810  Staphylcocc septicem NOS           Staphylococcal septicemia",
+	},
+	{
+		code: "03811  Meth susc Staph aur sept           Methicillin susceptible Staphylococcus aureus septicemia",
+	},
+	{
+		code: "03812  MRSA septicemia                    Methicillin resistant Staphylococcus aureus septicemia",
+	},
+	{
+		code: "03819  Staphylcocc septicem NEC           Other staphylococcal septicemia",
+	},
+	{
+		code: "0382   Pneumococcal septicemia            Pneumococcal septicemia [Streptococcus pneumoniae septicemia]",
+	},
+	{
+		code: "0383   Anaerobic septicemia               Septicemia due to anaerobes",
+	},
+	{
+		code: "03840  Gram-neg septicemia NOS            Septicemia due to gram-negative organism",
+	},
+	{
+		code: "03841  H. influenae septicemia            Septicemia due to hemophilus influenzae [H. influenzae]",
+	},
+	{
+		code: "03842  E coli septicemia                  Septicemia due to escherichia coli [E. coli]",
+	},
+	{
+		code: "03843  Pseudomonas septicemia             Septicemia due to pseudomonas",
+	},
+	{
+		code: "03844  Serratia septicemia                Septicemia due to serratia",
+	},
+	{
+		code: "03849  Gram-neg septicemia NEC            Other septicemia due to gram-negative organisms",
+	},
+	{
+		code: "0388   Septicemia NEC                     Other specified septicemias",
+	},
+	{
+		code: "0389   Septicemia NOS                     Unspecified septicemia",
+	},
+	{
+		code: "0390   Cutaneous actinomycosis            Cutaneous actinomycotic infection",
+	},
+	{
+		code: "0391   Pulmonary actinomycosis            Pulmonary actinomycotic infection",
+	},
+	{
+		code: "0392   Abdominal actinomycosis            Abdominal actinomycotic infection",
+	},
+	{
+		code: "0393   Cervicofac actinomycosis           Cervicofacial actinomycotic infection",
+	},
+	{
+		code: "0394   Madura foot                        Madura foot",
+	},
+	{
+		code: "0398   Actinomycosis NEC                  Actinomycotic infection of other specified sites",
+	},
+	{
+		code: "0399   Actinomycosis NOS                  Actinomycotic infection of unspecified site",
+	},
+	{
+		code: "0400   Gas gangrene                       Gas gangrene",
+	},
+	{
+		code: "0401   Rhinoscleroma                      Rhinoscleroma",
+	},
+	{
+		code: "0402   Whipple's disease                  Whipple's disease",
+	},
+	{
+		code: "0403   Necrobacillosis                    Necrobacillosis",
+	},
+	{
+		code: "04041  Infant botulism                    Infant botulism",
+	},
+	{
+		code: "04042  Wound botulism                     Wound botulism",
+	},
+	{
+		code: "04081  Tropical pyomyositis               Tropical pyomyositis",
+	},
+	{
+		code: "04082  Toxic shock syndrome               Toxic shock syndrome",
+	},
+	{
+		code: "04089  Bacterial diseases NEC             Other specified bacterial diseases",
+	},
+	{
+		code: "04100  Streptococcus unspecf              Streptococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04101  Streptococcus group a              Streptococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04102  Streptococcus group b              Streptococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04103  Streptococcus group c              Streptococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04104  Enterococcus group d               Streptococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04105  Streptococcus group g              Streptococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04109  Other streptococcus                Streptococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04110  Staphylococcus unspcfied           Staphylococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04111  Mth sus Stph aur els/NOS           Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04112  MRSA elsewhere/NOS                 Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04119  Other staphylococcus               Staphylococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0412   Pneumococcus infect NOS            Pneumococcus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0413   Klebsiella pneumoniae              Friedlander's bacillus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0414   E. coli infect NOS                 E. coli infect NOS",
+	},
+	{
+		code: "04141  Shiga txn-produce E.coli           Shiga toxin-producing Escherichia coli [E. coli] (STEC) O157",
+	},
+	{
+		code: "04142  Shga txn prod E.coli NEC           Other specified Shiga toxin-producing Escherichia coli [E. coli] (STEC)",
+	},
+	{
+		code: "04143  Shga txn prod E.coli NOS           Shiga toxin-producing Escherichia coli [E. coli] (STEC)",
+	},
+	{
+		code: "04149  E.coli infection NEC/NOS           Other and unspecified Escherichia coli [E. coli]",
+	},
+	{
+		code: "0415   H. influenzae infect NOS           Hemophilus influenzae [H. influenzae] infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0416   Proteus infection NOS              Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0417   Pseudomonas infect NOS             Pseudomonas infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04181  Mycoplasma                         Other specified bacterial infections in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04182  Bacteroides fragilis               Bacteroides fragilis",
+	},
+	{
+		code: "04183  Clostridium perfringens            Other specified bacterial infections in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04184  Other anaerobes                    Other specified bacterial infections in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04185  Oth gram negatv bacteria           Other specified bacterial infections in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "04186  Helicobacter pylori                Helicobacter pylori [H. pylori]",
+	},
+	{
+		code: "04189  Oth specf bacteria                 Other specified bacterial infections in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0419   Bacterial infection NOS            Bacterial infection",
+	},
+	{
+		code: "042    Human immuno virus dis             Human immunodeficiency virus [HIV] disease",
+	},
+	{
+		code: "04500  Ac bulbar polio-type NOS           Acute paralytic poliomyelitis specified as bulbar",
+	},
+	{
+		code: "04501  Ac bulbar polio-type 1             Acute paralytic poliomyelitis specified as bulbar",
+	},
+	{
+		code: "04502  Ac bulbar polio-type 2             Acute paralytic poliomyelitis specified as bulbar",
+	},
+	{
+		code: "04503  Ac bulbar polio-type 3             Acute paralytic poliomyelitis specified as bulbar",
+	},
+	{
+		code: "04510  Paral polio NEC-type NOS           Acute poliomyelitis with other paralysis",
+	},
+	{
+		code: "04511  Paral polio NEC-type 1             Acute poliomyelitis with other paralysis",
+	},
+	{
+		code: "04512  Paral polio NEC-type 2             Acute poliomyelitis with other paralysis",
+	},
+	{
+		code: "04513  Paral polio NEC-type 3             Acute poliomyelitis with other paralysis",
+	},
+	{
+		code: "04520  Nonparaly polio-type NOS           Acute nonparalytic poliomyelitis",
+	},
+	{
+		code: "04521  Nonparalyt polio-type 1            Acute nonparalytic poliomyelitis",
+	},
+	{
+		code: "04522  Nonparalyt polio-type 2            Acute nonparalytic poliomyelitis",
+	},
+	{
+		code: "04523  Nonparalyt polio-type 3            Acute nonparalytic poliomyelitis",
+	},
+	{
+		code: "04590  Ac polio NOS-type NOS              Acute poliomyelitis",
+	},
+	{
+		code: "04591  Ac polio NOS-type 1                Acute poliomyelitis",
+	},
+	{
+		code: "04592  Ac polio NOS-type 2                Acute poliomyelitis",
+	},
+	{
+		code: "04593  Ac polio NOS-type 3                Acute poliomyelitis",
+	},
+	{
+		code: "0460   Kuru                               Kuru",
+	},
+	{
+		code: "0461   JAKOB-CREUTZFELDT DIS              JAKOB-CREUTZFELDT DIS",
+	},
+	{
+		code: "04611  Varnt Creutzfeldt-Jakob            Variant Creutzfeldt-Jakob disease",
+	},
+	{
+		code: "04619  Creutzfldt-Jakob NEC/NOS           Other and unspecified Creutzfeldt-Jakob disease",
+	},
+	{
+		code: "0462   Subac scleros panenceph            Subacute sclerosing panencephalitis",
+	},
+	{
+		code: "0463   Prog multifoc leukoencep           Progressive multifocal leukoencephalopathy",
+	},
+	{
+		code: "04671  Gerstmn-Straus-Schnk syn           Gerstmann-Straussler-Scheinker syndrome",
+	},
+	{
+		code: "04672  Fatal familial insomnia            Fatal familial insomnia",
+	},
+	{
+		code: "04679  Prion dis of CNS NEC/NOS           Other and unspecified prion disease of central nervous system",
+	},
+	{
+		code: "0468   Cns slow virus infec NEC           Other specified slow virus infection of central nervous system",
+	},
+	{
+		code: "0469   Cns slow virus infec NOS           Unspecified slow virus infection of central nervous system",
+	},
+	{
+		code: "0470   Coxsackie virus mening             Meningitis due to coxsackie virus",
+	},
+	{
+		code: "0471   Echo virus meningitis              Meningitis due to echo virus",
+	},
+	{
+		code: "0478   Viral meningitis NEC               Other specified viral meningitis",
+	},
+	{
+		code: "0479   Viral meningitis NOS               Unspecified viral meningitis",
+	},
+	{
+		code: "048    Oth enteroviral cns dis            Other enterovirus diseases of central nervous system",
+	},
+	{
+		code: "0490   Lymphocytic choriomening           Lymphocytic choriomeningitis",
+	},
+	{
+		code: "0491   Adenoviral meningitis              Meningitis due to adenovirus",
+	},
+	{
+		code: "0498   Viral encephalitis NEC             Other specified non-arthropod-borne viral diseases of central nervous system",
+	},
+	{
+		code: "0499   Viral encephalitis NOS             Unspecified non-arthropod-borne viral diseases of central nervous system",
+	},
+	{
+		code: "0500   Variola major                      Variola major",
+	},
+	{
+		code: "0501   Alastrim                           Alastrim",
+	},
+	{
+		code: "0502   Modified smallpox                  Modified smallpox",
+	},
+	{
+		code: "0509   Smallpox NOS                       Smallpox",
+	},
+	{
+		code: "0510   COWPOX                             COWPOX",
+	},
+	{
+		code: "05101  Cowpox                             Cowpox",
+	},
+	{
+		code: "05102  Vaccinia n/f vaccination           Vaccinia not from vaccination",
+	},
+	{
+		code: "0511   Pseudocowpox                       Pseudocowpox",
+	},
+	{
+		code: "0512   Contagious pustular derm           Contagious pustular dermatitis",
+	},
+	{
+		code: "0519   Paravaccinia NOS                   Paravaccinia",
+	},
+	{
+		code: "0520   Postvaricella encephalit           Postvaricella encephalitis",
+	},
+	{
+		code: "0521   Varicella pneumonitis              Varicella (hemorrhagic) pneumonitis",
+	},
+	{
+		code: "0522   Postvaricella myelitis             Postvaricella myelitis",
+	},
+	{
+		code: "0527   Varicella complicat NEC            Chickenpox with other specified complications",
+	},
+	{
+		code: "0528   Varicella complicat NOS            Chickenpox with unspecified complication",
+	},
+	{
+		code: "0529   Varicella uncomplicated            Varicella without mention of complication",
+	},
+	{
+		code: "0530   Herpes zoster meningitis           Herpes zoster with meningitis",
+	},
+	{
+		code: "05310  H zoster nerv syst NOS             Herpes zoster with unspecified nervous system complication",
+	},
+	{
+		code: "05311  Geniculate herpes zoster           Geniculate herpes zoster",
+	},
+	{
+		code: "05312  Postherpes trigem neural           Postherpetic trigeminal neuralgia",
+	},
+	{
+		code: "05313  Postherpes polyneuropath           Postherpetic polyneuropathy",
+	},
+	{
+		code: "05314  Herpes zoster myelitis             Herpes zoster myelitis",
+	},
+	{
+		code: "05319  H zoster nerv syst NEC             Herpes zoster with other nervous system complications",
+	},
+	{
+		code: "05320  Herpes zoster of eyelid            Herpes zoster dermatitis of eyelid",
+	},
+	{
+		code: "05321  H zoster keratoconjunct            Herpes zoster keratoconjunctivitis",
+	},
+	{
+		code: "05322  H zoster iridocyclitis             Herpes zoster iridocyclitis",
+	},
+	{
+		code: "05329  Herpes zoster of eye NEC           Herpes zoster with other ophthalmic complications",
+	},
+	{
+		code: "05371  H zoster otitis externa            Otitis externa due to herpes zoster",
+	},
+	{
+		code: "05379  H zoster complicated NEC           Herpes zoster with other specified complications",
+	},
+	{
+		code: "0538   H zoster complicated NOS           Herpes zoster with unspecified complication",
+	},
+	{
+		code: "0539   Herpes zoster NOS                  Herpes zoster without mention of complication",
+	},
+	{
+		code: "0540   Eczema herpeticum                  Eczema herpeticum",
+	},
+	{
+		code: "05410  Genital herpes NOS                 Genital herpes",
+	},
+	{
+		code: "05411  Herpetic vulvovaginitis            Herpetic vulvovaginitis",
+	},
+	{
+		code: "05412  Herpetic ulcer of vulva            Herpetic ulceration of vulva",
+	},
+	{
+		code: "05413  Herpetic infect of penis           Herpetic infection of penis",
+	},
+	{
+		code: "05419  Genital herpes NEC                 Other genital herpes",
+	},
+	{
+		code: "0542   Herpetic gingivostomat             Herpetic gingivostomatitis",
+	},
+	{
+		code: "0543   Herpetic encephalitis              Herpetic meningoencephalitis",
+	},
+	{
+		code: "05440  Herpes simplex eye NOS             Herpes simplex with unspecified ophthalmic complication",
+	},
+	{
+		code: "05441  Herpes simplex of eyelid           Herpes simplex dermatitis of eyelid",
+	},
+	{
+		code: "05442  Dendritic keratitis                Dendritic keratitis",
+	},
+	{
+		code: "05443  H simplex keratitis                Herpes simplex disciform keratitis",
+	},
+	{
+		code: "05444  H simplex iridocyclitis            Herpes simplex iridocyclitis",
+	},
+	{
+		code: "05449  Herpes simplex eye NEC             Herpes simplex with other ophthalmic complications",
+	},
+	{
+		code: "0545   Herpetic septicemia                Herpetic septicemia",
+	},
+	{
+		code: "0546   Herpetic whitlow                   Herpetic whitlow",
+	},
+	{
+		code: "05471  Visceral herpes simplex            Visceral herpes simplex",
+	},
+	{
+		code: "05472  H simplex meningitis               Herpes simplex meningitis",
+	},
+	{
+		code: "05473  H simplex otitis externa           Herpes simplex otitis externa",
+	},
+	{
+		code: "05474  Herpes simplex myelitis            Herpes simplex myelitis",
+	},
+	{
+		code: "05479  H simplex complicat NEC            Herpes simplex with other specified complications",
+	},
+	{
+		code: "0548   H simplex complicat NOS            Herpes simplex with unspecified complication",
+	},
+	{
+		code: "0549   Herpes simplex NOS                 Herpes simplex without mention of complication",
+	},
+	{
+		code: "0550   Postmeasles encephalitis           Postmeasles encephalitis",
+	},
+	{
+		code: "0551   Postmeasles pneumonia              Postmeasles pneumonia",
+	},
+	{
+		code: "0552   Postmeasles otitis media           Postmeasles otitis media",
+	},
+	{
+		code: "05571  Measles keratitis                  Measles keratoconjunctivitis",
+	},
+	{
+		code: "05579  Measles complication NEC           Measles with other specified complications",
+	},
+	{
+		code: "0558   Measles complication NOS           Measles with unspecified complication",
+	},
+	{
+		code: "0559   Measles uncomplicated              Measles without mention of complication",
+	},
+	{
+		code: "05600  Rubella nerve compl NOS            Rubella with unspecified neurological complication",
+	},
+	{
+		code: "05601  Rubella encephalitis               Encephalomyelitis due to rubella",
+	},
+	{
+		code: "05609  Rubella nerve compl NEC            Rubella with other neurological complications",
+	},
+	{
+		code: "05671  Arthritis due to rubella           Arthritis due to rubella",
+	},
+	{
+		code: "05679  Rubella complication NEC           Rubella with other specified complications",
+	},
+	{
+		code: "0568   Rubella complication NOS           Rubella with unspecified complications",
+	},
+	{
+		code: "0569   Rubella uncomplicated              Rubella without mention of complication",
+	},
+	{
+		code: "0570   Erythema infectiosum               Erythema infectiosum (fifth disease)",
+	},
+	{
+		code: "0578   Viral exanthemata NEC              Other specified viral exanthemata",
+	},
+	{
+		code: "0579   Viral exanthemata NOS              Viral exanthem",
+	},
+	{
+		code: "05810  Roseola infantum NOS               Roseola infantum",
+	},
+	{
+		code: "05811  Roseola infant d/t HHV-6           Roseola infantum due to human herpesvirus 6",
+	},
+	{
+		code: "05812  Roseola infant d/t HHV-7           Roseola infantum due to human herpesvirus 7",
+	},
+	{
+		code: "05821  Human herpesvir 6 enceph           Human herpesvirus 6 encephalitis",
+	},
+	{
+		code: "05829  Human herpesvr encph NEC           Other human herpesvirus encephalitis",
+	},
+	{
+		code: "05881  Human herpesvirus 6 infc           Human herpesvirus 6 infection",
+	},
+	{
+		code: "05882  Human herpesvirus 7 infc           Human herpesvirus 7 infection",
+	},
+	{
+		code: "05889  Human herpesvirs inf NEC           Other human herpesvirus infection",
+	},
+	{
+		code: "05900  Orthopoxvirus infect NOS           Orthopoxvirus infection",
+	},
+	{
+		code: "05901  Monkeypox                          Monkeypox",
+	},
+	{
+		code: "05909  Orthopoxvirus infect NEC           Other orthopoxvirus infections",
+	},
+	{
+		code: "05910  Parapoxvirus infectn NOS           Parapoxvirus infection",
+	},
+	{
+		code: "05911  Bovine stomatitis                  Bovine stomatitis",
+	},
+	{
+		code: "05912  Sealpox                            Sealpox",
+	},
+	{
+		code: "05919  Parapoxvirus infectn NEC           Other parapoxvirus infections",
+	},
+	{
+		code: "05920  Yatapoxvirus infectn NOS           Yatapoxvirus infection",
+	},
+	{
+		code: "05921  Tanapox                            Tanapox",
+	},
+	{
+		code: "05922  Yaba monkey tumor virus            Yaba monkey tumor virus",
+	},
+	{
+		code: "0598   Poxvirus infections NEC            Other poxvirus infections",
+	},
+	{
+		code: "0599   Poxvirus infection NOS             Poxvirus infections",
+	},
+	{
+		code: "0600   Sylvatic yellow fever              Sylvatic yellow fever",
+	},
+	{
+		code: "0601   Urban yellow fever                 Urban yellow fever",
+	},
+	{
+		code: "0609   Yellow fever NOS                   Yellow fever",
+	},
+	{
+		code: "061    Dengue                             Dengue",
+	},
+	{
+		code: "0620   Japanese encephalitis              Japanese encephalitis",
+	},
+	{
+		code: "0621   West equine encephalitis           Western equine encephalitis",
+	},
+	{
+		code: "0622   East equine encephalitis           Eastern equine encephalitis",
+	},
+	{
+		code: "0623   St Louis encephalitis              St. Louis encephalitis",
+	},
+	{
+		code: "0624   Australian encephalitis            Australian encephalitis",
+	},
+	{
+		code: "0625   California encephalitis            California virus encephalitis",
+	},
+	{
+		code: "0628   Mosquit-borne enceph NEC           Other specified mosquito-borne viral encephalitis",
+	},
+	{
+		code: "0629   Mosquit-borne enceph NOS           Mosquito-borne viral encephalitis",
+	},
+	{
+		code: "0630   Russia spr-summer enceph           Russian spring-summer [taiga] encephalitis",
+	},
+	{
+		code: "0631   Louping ill                        Louping ill",
+	},
+	{
+		code: "0632   Cent Europe encephalitis           Central european encephalitis",
+	},
+	{
+		code: "0638   Tick-borne enceph NEC              Other specified tick-borne viral encephalitis",
+	},
+	{
+		code: "0639   Tick-borne enceph NOS              Tick-borne viral encephalitis",
+	},
+	{
+		code: "064    Vir enceph arthropod NEC           Viral encephalitis transmitted by other and unspecified arthropods",
+	},
+	{
+		code: "0650   Crimean hemorrhagic fev            Crimean hemorrhagic fever [CHF Congo virus]",
+	},
+	{
+		code: "0651   Omsk hemorrhagic fever             Omsk hemorrhagic fever",
+	},
+	{
+		code: "0652   Kyasanur forest disease            Kyasanur forest disease",
+	},
+	{
+		code: "0653   Tick-borne hem fever NEC           Other tick-borne hemorrhagic fever",
+	},
+	{
+		code: "0654   Mosquito-borne hem fever           Mosquito-borne hemorrhagic fever",
+	},
+	{
+		code: "0658   Arthropod hem fever NEC            Other specified arthropod-borne hemorrhagic fever",
+	},
+	{
+		code: "0659   Arthropod hem fever NOS            Arthropod-borne hemorrhagic fever",
+	},
+	{
+		code: "0660   Phlebotomus fever                  Phlebotomus fever",
+	},
+	{
+		code: "0661   Tick-borne fever                   Tick-borne fever",
+	},
+	{
+		code: "0662   Venezuelan equine fever            Venezuelan equine fever",
+	},
+	{
+		code: "0663   Mosquito-borne fever NEC           Other mosquito-borne fever",
+	},
+	{
+		code: "06640  West Nile Fever NOS                West Nile Fever",
+	},
+	{
+		code: "06641  West Nile Fever w/enceph           West Nile Fever with encephalitis",
+	},
+	{
+		code: "06642  West Nile neuro man NEC            West Nile Fever with other neurologic manifestation",
+	},
+	{
+		code: "06649  West Nile w complic NEC            West Nile Fever with other complications",
+	},
+	{
+		code: "0668   Arthropod virus NEC                Other specified arthropod-borne viral diseases",
+	},
+	{
+		code: "0669   Arthropod virus NOS                Arthropod-borne viral disease",
+	},
+	{
+		code: "0700   Hepatitis A with coma              Viral hepatitis A with hepatic coma",
+	},
+	{
+		code: "0701   Hepatitis A w/o coma               Viral hepatitis A without mention of hepatic coma",
+	},
+	{
+		code: "07020  Hpt B acte coma wo dlta            Viral hepatitis B with hepatic coma",
+	},
+	{
+		code: "07021  Hpt B acte coma w dlta             Viral hepatitis B with hepatic coma",
+	},
+	{
+		code: "07022  Hpt B chrn coma wo dlta            Chronic viral hepatitis B with hepatic coma without hepatitis delta",
+	},
+	{
+		code: "07023  Hpt B chrn coma w dlta             Chronic viral hepatitis B with hepatic coma with hepatitis delta",
+	},
+	{
+		code: "07030  Hpt B acte wo cm wo dlta           Viral hepatitis B without mention of hepatic coma",
+	},
+	{
+		code: "07031  Hpt B acte wo cm w dlta            Viral hepatitis B without mention of hepatic coma",
+	},
+	{
+		code: "07032  Hpt B chrn wo cm wo dlta           Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta",
+	},
+	{
+		code: "07033  Hpt B chrn wo cm w dlta            Chronic viral hepatitis B without mention of hepatic coma with hepatitis delta",
+	},
+	{
+		code: "07041  Hpt C acute w hepat Coma           Acute hepatitis C with hepatic coma",
+	},
+	{
+		code: "07042  Hpt dlt wo b w hpt coma            Hepatitis delta without mention of active hepatitis B disease with hepatic coma",
+	},
+	{
+		code: "07043  Hpt E w hepat Coma                 Hepatitis E with hepatic coma",
+	},
+	{
+		code: "07044  Chrnc hpt C w hepat Coma           Chronic hepatitis C with hepatic coma",
+	},
+	{
+		code: "07049  Oth vrl hepat w hpt coma           Other specified viral hepatitis with hepatic coma",
+	},
+	{
+		code: "07051  Hpt C acute wo hpat coma           Acute hepatitis C without mention of hepatic coma",
+	},
+	{
+		code: "07052  Hpt dlt wo b wo hpt coma           Hepatitis delta without mention of active hepatitis B disease or hepatic coma",
+	},
+	{
+		code: "07053  Hpt E wo hepat Coma                Hepatitis E without mention of hepatic coma",
+	},
+	{
+		code: "07054  Chrnc hpt C wo hpat coma           Chronic hepatitis C without mention of hepatic coma",
+	},
+	{
+		code: "07059  Oth vrl hpat wo hpt coma           Other specified viral hepatitis without mention of hepatic coma",
+	},
+	{
+		code: "0706   Viral hepat NOS w coma             Unspecified viral hepatitis with hepatic coma",
+	},
+	{
+		code: "07070  Hpt C w/o hepat coma NOS           Unspecified viral hepatitis C without hepatic coma",
+	},
+	{
+		code: "07071  Hpt C w hepatic coma NOS           Unspecified viral hepatitis C with hepatic coma",
+	},
+	{
+		code: "0709   Viral hepat NOS w/o coma           Unspecified viral hepatitis without mention of hepatic coma",
+	},
+	{
+		code: "071    Rabies                             Rabies",
+	},
+	{
+		code: "0720   Mumps orchitis                     Mumps orchitis",
+	},
+	{
+		code: "0721   Mumps meningitis                   Mumps meningitis",
+	},
+	{
+		code: "0722   Mumps encephalitis                 Mumps encephalitis",
+	},
+	{
+		code: "0723   Mumps pancreatitis                 Mumps pancreatitis",
+	},
+	{
+		code: "07271  Mumps hepatitis                    Mumps hepatitis",
+	},
+	{
+		code: "07272  Mumps polyneuropathy               Mumps polyneuropathy",
+	},
+	{
+		code: "07279  Mumps complication NEC             Other mumps with other specified complications",
+	},
+	{
+		code: "0728   Mumps complication NOS             Mumps with unspecified complication",
+	},
+	{
+		code: "0729   Mumps uncomplicated                Mumps without mention of complication",
+	},
+	{
+		code: "0730   Ornithosis pneumonia               Ornithosis with pneumonia",
+	},
+	{
+		code: "0737   Ornithosis complicat NEC           Ornithosis with other specified complications",
+	},
+	{
+		code: "0738   Ornithosis complicat NOS           Ornithosis with unspecified complication",
+	},
+	{
+		code: "0739   Ornithosis NOS                     Ornithosis",
+	},
+	{
+		code: "0740   Herpangina                         Herpangina",
+	},
+	{
+		code: "0741   Epidemic pleurodynia               Epidemic pleurodynia",
+	},
+	{
+		code: "07420  Coxsackie carditis NOS             Coxsackie carditis",
+	},
+	{
+		code: "07421  Coxsackie pericarditis             Coxsackie pericarditis",
+	},
+	{
+		code: "07422  Coxsackie endocarditis             Coxsackie endocarditis",
+	},
+	{
+		code: "07423  Coxsackie myocarditis              Coxsackie myocarditis",
+	},
+	{
+		code: "0743   Hand",
+	},
+	{
+		code: "0748   Coxsackie virus NEC                Other specified diseases due to Coxsackie virus",
+	},
+	{
+		code: "075    Infectious mononucleosis           Infectious mononucleosis",
+	},
+	{
+		code: "0760   Trachoma",
+	},
+	{
+		code: "0761   Trachoma",
+	},
+	{
+		code: "0769   Trachoma NOS                       Trachoma",
+	},
+	{
+		code: "0770   Inclusion conjunctivitis           Inclusion conjunctivitis",
+	},
+	{
+		code: "0771   Epidem keratoconjunctiv            Epidemic keratoconjunctivitis",
+	},
+	{
+		code: "0772   Pharyngoconjunct fever             Pharyngoconjunctival fever",
+	},
+	{
+		code: "0773   Adenoviral conjunct NEC            Other adenoviral conjunctivitis",
+	},
+	{
+		code: "0774   Epidem hem conjunctivit            Epidemic hemorrhagic conjunctivitis",
+	},
+	{
+		code: "0778   Viral conjunctivitis NEC           Other viral conjunctivitis",
+	},
+	{
+		code: "07798  Unsp ds conjuc chlamydia           Unspecified diseases of conjunctiva due to chlamydiae",
+	},
+	{
+		code: "07799  Unsp ds conjuc viruses             Unspecified diseases of conjunctiva due to viruses",
+	},
+	{
+		code: "0780   Molluscum contagiosum              Molluscum contagiosum",
+	},
+	{
+		code: "07810  Viral warts NOS                    Viral warts",
+	},
+	{
+		code: "07811  Condyloma acuminatum               Condyloma acuminatum",
+	},
+	{
+		code: "07812  Plantar wart                       Plantar wart",
+	},
+	{
+		code: "07819  Oth specfd viral warts             Other specified viral warts",
+	},
+	{
+		code: "0782   Sweating fever                     Sweating fever",
+	},
+	{
+		code: "0783   Cat-scratch disease                Cat-scratch disease",
+	},
+	{
+		code: "0784   Foot & mouth disease               Foot and mouth disease",
+	},
+	{
+		code: "0785   Cytomegaloviral disease            Cytomegaloviral disease",
+	},
+	{
+		code: "0786   Hem nephrosonephritis              Hemorrhagic nephrosonephritis",
+	},
+	{
+		code: "0787   Arenaviral hem fever               Arenaviral hemorrhagic fever",
+	},
+	{
+		code: "07881  Epidemic vertigo                   Epidemic vertigo",
+	},
+	{
+		code: "07882  Epidemic vomiting synd             Epidemic vomiting syndrome",
+	},
+	{
+		code: "07888  Oth spec dis chlamydiae            Other specified diseases due to chlamydiae",
+	},
+	{
+		code: "07889  Oth spec dis viruses               Other specified diseases due to viruses",
+	},
+	{
+		code: "0790   Adenovirus infect NOS              Adenovirus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0791   Echo virus infect NOS              Echo virus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0792   Coxsackie virus inf NOS            Coxsackie virus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0793   Rhinovirus infect NOS              Rhinovirus infection in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "0794   Human papillomavirus               Human papillomavirus in conditions classified elsewhere and of unspecified site",
+	},
+	{
+		code: "07950  Retrovirus",
+	},
+	{
+		code: "07951  Htlv-1 infection oth dis           Human T-cell lymphotrophic virus",
+	},
+	{
+		code: "07952  Htlv-ii infectn oth dis            Human T-cell lymphotrophic virus",
+	},
+	{
+		code: "07953  Hiv-2 infection oth dis            Human immunodeficiency virus",
+	},
+	{
+		code: "07959  Oth specfied retrovirus            Other specified retrovirus",
+	},
+	{
+		code: "0796   Resprtry syncytial virus           Respiratory syncytial virus (RSV)",
+	},
+	{
+		code: "07981  Hantavirus infection               Hantavirus infection",
+	},
+	{
+		code: "07982  SARS assoc coronavirus             SARS-associated coronavirus",
+	},
+	{
+		code: "07983  Parvovirus B19                     Parvovirus B19",
+	},
+	{
+		code: "07988  Oth spcf chlamydial infc           Other specified chlamydial infection",
+	},
+	{
+		code: "07989  Oth specf viral infectn            Other specified viral infection",
+	},
+	{
+		code: "07998  Chlamydial infection NOS           Unspecified chlamydial infection",
+	},
+	{
+		code: "07999  Viral infection NOS                Unspecified viral infection",
+	},
+	{
+		code: "080    Louse-borne typhus                 Louse-borne (epidemic) typhus",
+	},
+	{
+		code: "0810   Murine typhus                      Murine (endemic) typhus",
+	},
+	{
+		code: "0811   Brill's disease                    Brill's disease",
+	},
+	{
+		code: "0812   Scrub typhus                       Scrub typhus",
+	},
+	{
+		code: "0819   Typhus NOS                         Typhus",
+	},
+	{
+		code: "0820   Spotted fevers                     Spotted fevers",
+	},
+	{
+		code: "0821   Boutonneuse fever                  Boutonneuse fever",
+	},
+	{
+		code: "0822   North asian tick fever             North Asian tick fever",
+	},
+	{
+		code: "0823   Queensland tick typhus             Queensland tick typhus",
+	},
+	{
+		code: "08240  Ehrlichiosis NOS                   Ehrlichiosis",
+	},
+	{
+		code: "08241  Ehrlichiosis chafeensis            Ehrlichiosis chafeensis [E. chafeensis]",
+	},
+	{
+		code: "08249  Ehrlichiosis NEC                   Other ehrlichiosis",
+	},
+	{
+		code: "0828   Tick-borne ricketts NEC            Other specified tick-borne rickettsioses",
+	},
+	{
+		code: "0829   Tick-borne ricketts NOS            Tick-borne rickettsiosis",
+	},
+	{
+		code: "0830   Q fever                            Q fever",
+	},
+	{
+		code: "0831   Trench fever                       Trench fever",
+	},
+	{
+		code: "0832   Rickettsialpox                     Rickettsialpox",
+	},
+	{
+		code: "0838   Rickettsioses NEC                  Other specified rickettsioses",
+	},
+	{
+		code: "0839   Rickettsiosis NOS                  Rickettsiosis",
+	},
+	{
+		code: "0840   Falciparum malaria                 Falciparum malaria [malignant tertian]",
+	},
+	{
+		code: "0841   Vivax malaria                      Vivax malaria [benign tertian]",
+	},
+	{
+		code: "0842   Quartan malaria                    Quartan malaria",
+	},
+	{
+		code: "0843   Ovale malaria                      Ovale malaria",
+	},
+	{
+		code: "0844   Malaria NEC                        Other malaria",
+	},
+	{
+		code: "0845   Mixed malaria                      Mixed malaria",
+	},
+	{
+		code: "0846   Malaria NOS                        Malaria",
+	},
+	{
+		code: "0847   Induced malaria                    Induced malaria",
+	},
+	{
+		code: "0848   Blackwater fever                   Blackwater fever",
+	},
+	{
+		code: "0849   Malaria complicated NEC            Other pernicious complications of malaria",
+	},
+	{
+		code: "0850   Visceral leishmaniasis             Visceral [kala-azar] leishmaniasis",
+	},
+	{
+		code: "0851   Cutan leishmanias urban            Cutaneous leishmaniasis",
+	},
+	{
+		code: "0852   Cutan leishmanias asian            Cutaneous leishmaniasis",
+	},
+	{
+		code: "0853   Cutan leishmanias ethiop           Cutaneous leishmaniasis",
+	},
+	{
+		code: "0854   Cutan leishmanias amer             Cutaneous leishmaniasis",
+	},
+	{
+		code: "0855   Mucocutan leishmaniasis            Mucocutaneous leishmaniasis",
+	},
+	{
+		code: "0859   Leishmaniasis NOS                  Leishmaniasis",
+	},
+	{
+		code: "0860   Chagas disease of heart            Chagas' disease with heart involvement",
+	},
+	{
+		code: "0861   Chagas dis of oth organ            Chagas' disease with other organ involvement",
+	},
+	{
+		code: "0862   Chagas disease NOS                 Chagas' disease without mention of organ involvement",
+	},
+	{
+		code: "0863   Gambian trypanosomiasis            Gambian trypanosomiasis",
+	},
+	{
+		code: "0864   Rhodesian trypanosomias            Rhodesian trypanosomiasis",
+	},
+	{
+		code: "0865   African trypanosoma NOS            African trypanosomiasis",
+	},
+	{
+		code: "0869   Trypanosomiasis NOS                Trypanosomiasis",
+	},
+	{
+		code: "0870   Louse-borne relaps fever           Relapsing fever",
+	},
+	{
+		code: "0871   Tick-borne relaps fever            Relapsing fever",
+	},
+	{
+		code: "0879   Relapsing fever NOS                Relapsing fever",
+	},
+	{
+		code: "0880   Bartonellosis                      Bartonellosis",
+	},
+	{
+		code: "08881  Lyme disease                       Lyme Disease",
+	},
+	{
+		code: "08882  Babesiosis                         Babesiosis",
+	},
+	{
+		code: "08889  Oth arthropod-borne dis            Other specified arthropod-borne diseases",
+	},
+	{
+		code: "0889   Arthropod-borne dis NOS            Arthropod-borne disease",
+	},
+	{
+		code: "0900   Early cong syph symptom            Early congenital syphilis",
+	},
+	{
+		code: "0901   Early congen syph latent           Early congenital syphilis",
+	},
+	{
+		code: "0902   Early congen syph NOS              Early congenital syphilis",
+	},
+	{
+		code: "0903   Syphilitic keratitis               Syphilitic interstitial keratitis",
+	},
+	{
+		code: "09040  Juvenile neurosyph NOS             Juvenile neurosyphilis",
+	},
+	{
+		code: "09041  Congen syph encephalitis           Congenital syphilitic encephalitis",
+	},
+	{
+		code: "09042  Congen syph meningitis             Congenital syphilitic meningitis",
+	},
+	{
+		code: "09049  Juvenile neurosyph NEC             Other juvenile neurosyphilis",
+	},
+	{
+		code: "0905   Late congen syph symptom           Other late congenital syphilis",
+	},
+	{
+		code: "0906   Late congen syph latent            Late congenital syphilis",
+	},
+	{
+		code: "0907   Late congen syph NOS               Late congenital syphilis",
+	},
+	{
+		code: "0909   Congenital syphilis NOS            Congenital syphilis",
+	},
+	{
+		code: "0910   Primary genital syphilis           Genital syphilis (primary)",
+	},
+	{
+		code: "0911   Primary anal syphilis              Primary anal syphilis",
+	},
+	{
+		code: "0912   Primary syphilis NEC               Other primary syphilis",
+	},
+	{
+		code: "0913   Secondary syph skin                Secondary syphilis of skin or mucous membranes",
+	},
+	{
+		code: "0914   Syphilitic adenopathy              Adenopathy due to secondary syphilis",
+	},
+	{
+		code: "09150  Syphilitic uveitis NOS             Syphilitic uveitis",
+	},
+	{
+		code: "09151  Syphilit chorioretinitis           Syphilitic chorioretinitis (secondary)",
+	},
+	{
+		code: "09152  Syphilitic iridocyclitis           Syphilitic iridocyclitis (secondary)",
+	},
+	{
+		code: "09161  Syphilitic periostitis             Secondary syphilitic periostitis",
+	},
+	{
+		code: "09162  Syphilitic hepatitis               Secondary syphilitic hepatitis",
+	},
+	{
+		code: "09169  Second syph viscera NEC            Secondary syphilis of other viscera",
+	},
+	{
+		code: "0917   Second syphilis relapse            Secondary syphilis",
+	},
+	{
+		code: "09181  Acute syphil meningitis            Acute syphilitic meningitis (secondary)",
+	},
+	{
+		code: "09182  Syphilitic alopecia                Syphilitic alopecia",
+	},
+	{
+		code: "09189  Secondary syphilis NEC             Other forms of secondary syphilis",
+	},
+	{
+		code: "0919   Secondary syphilis NOS             Unspecified secondary syphilis",
+	},
+	{
+		code: "0920   Early syph latent relaps           Early syphilis",
+	},
+	{
+		code: "0929   Early syphil latent NOS            Early syphilis",
+	},
+	{
+		code: "0930   Aortic aneurysm",
+	},
+	{
+		code: "0931   Syphilitic aortitis                Syphilitic aortitis",
+	},
+	{
+		code: "09320  Syphil endocarditis NOS            Syphilitic endocarditis of valve",
+	},
+	{
+		code: "09321  Syphilitic mitral valve            Syphilitic endocarditis of mitral valve",
+	},
+	{
+		code: "09322  Syphilitic aortic valve            Syphilitic endocarditis of aortic valve",
+	},
+	{
+		code: "09323  Syphil tricuspid valve             Syphilitic endocarditis of tricuspid valve",
+	},
+	{
+		code: "09324  Syphil pulmonary valve             Syphilitic endocarditis of pulmonary valve",
+	},
+	{
+		code: "09381  Syphilitic pericarditis            Syphilitic pericarditis",
+	},
+	{
+		code: "09382  Syphilitic myocarditis             Syphilitic myocarditis",
+	},
+	{
+		code: "09389  Cardiovascular syph NEC            Other specified cardiovascular syphilis",
+	},
+	{
+		code: "0939   Cardiovascular syph NOS            Cardiovascular syphilis",
+	},
+	{
+		code: "0940   Tabes dorsalis                     Tabes dorsalis",
+	},
+	{
+		code: "0941   General paresis                    General paresis",
+	},
+	{
+		code: "0942   Syphilitic meningitis              Syphilitic meningitis",
+	},
+	{
+		code: "0943   Asymptomat neurosyphilis           Asymptomatic neurosyphilis",
+	},
+	{
+		code: "09481  Syphilitic encephalitis            Syphilitic encephalitis",
+	},
+	{
+		code: "09482  Syphilitic parkinsonism            Syphilitic parkinsonism",
+	},
+	{
+		code: "09483  Syph dissem retinitis              Syphilitic disseminated retinochoroiditis",
+	},
+	{
+		code: "09484  Syphilitic optic atrophy           Syphilitic optic atrophy",
+	},
+	{
+		code: "09485  Syph retrobulb neuritis            Syphilitic retrobulbar neuritis",
+	},
+	{
+		code: "09486  Syphil acoustic neuritis           Syphilitic acoustic neuritis",
+	},
+	{
+		code: "09487  Syph rupt cereb aneurysm           Syphilitic ruptured cerebral aneurysm",
+	},
+	{
+		code: "09489  Neurosyphilis NEC                  Other specified neurosyphilis",
+	},
+	{
+		code: "0949   Neurosyphilis NOS                  Neurosyphilis",
+	},
+	{
+		code: "0950   Syphilitic episcleritis            Syphilitic episcleritis",
+	},
+	{
+		code: "0951   Syphilis of lung                   Syphilis of lung",
+	},
+	{
+		code: "0952   Syphilitic peritonitis             Syphilitic peritonitis",
+	},
+	{
+		code: "0953   Syphilis of liver                  Syphilis of liver",
+	},
+	{
+		code: "0954   Syphilis of kidney                 Syphilis of kidney",
+	},
+	{
+		code: "0955   Syphilis of bone                   Syphilis of bone",
+	},
+	{
+		code: "0956   Syphilis of muscle                 Syphilis of muscle",
+	},
+	{
+		code: "0957   Syphilis of tendon/bursa           Syphilis of synovium",
+	},
+	{
+		code: "0958   Late sympt syphilis NEC            Other specified forms of late symptomatic syphilis",
+	},
+	{
+		code: "0959   Late sympt syphilis NOS            Late symptomatic syphilis",
+	},
+	{
+		code: "096    Late syphilis latent               Late syphilis",
+	},
+	{
+		code: "0970   Late syphilis NOS                  Late syphilis",
+	},
+	{
+		code: "0971   Latent syphilis NOS                Latent syphilis",
+	},
+	{
+		code: "0979   Syphilis NOS                       Syphilis",
+	},
+	{
+		code: "0980   Acute gc infect lower gu           Gonococcal infection (acute) of lower genitourinary tract",
+	},
+	{
+		code: "09810  Gc (acute) upper gu NOS            Gonococcal infection (acute) of upper genitourinary tract",
+	},
+	{
+		code: "09811  Gc cystitis (acute)                Gonococcal cystitis (acute)",
+	},
+	{
+		code: "09812  Gc prostatitis (acute)             Gonococcal prostatitis (acute)",
+	},
+	{
+		code: "09813  Gc orchitis (acute)                Gonococcal epididymo-orchitis (acute)",
+	},
+	{
+		code: "09814  Gc sem vesiculit (acute)           Gonococcal seminal vesiculitis (acute)",
+	},
+	{
+		code: "09815  Gc cervicitis (acute)              Gonococcal cervicitis (acute)",
+	},
+	{
+		code: "09816  Gc endometritis (acute)            Gonococcal endometritis (acute)",
+	},
+	{
+		code: "09817  Acute gc salpingitis               Gonococcal salpingitis",
+	},
+	{
+		code: "09819  Gc (acute) upper gu NEC            Other gonococcal infection (acute) of upper genitourinary tract",
+	},
+	{
+		code: "0982   Chr gc infect lower gu             Gonococcal infection",
+	},
+	{
+		code: "09830  Chr gc upper gu NOS                Chronic gonococcal infection of upper genitourinary tract",
+	},
+	{
+		code: "09831  Gc cystitis",
+	},
+	{
+		code: "09832  Gc prostatitis",
+	},
+	{
+		code: "09833  Gc orchitis",
+	},
+	{
+		code: "09834  Gc sem vesiculitis",
+	},
+	{
+		code: "09835  Gc cervicitis",
+	},
+	{
+		code: "09836  Gc endometritis",
+	},
+	{
+		code: "09837  Gc salpingitis (chronic)           Gonococcal salpingitis (chronic)",
+	},
+	{
+		code: "09839  Chr gc upper gu NEC                Other chronic gonococcal infection of upper genitourinary tract",
+	},
+	{
+		code: "09840  Gonococcal conjunctivit            Gonococcal conjunctivitis (neonatorum)",
+	},
+	{
+		code: "09841  Gonococcal iridocyclitis           Gonococcal iridocyclitis",
+	},
+	{
+		code: "09842  Gonococcal endophthalmia           Gonococcal endophthalmia",
+	},
+	{
+		code: "09843  Gonococcal keratitis               Gonococcal keratitis",
+	},
+	{
+		code: "09849  Gonococcal eye NEC                 Other gonococcal infection of eye",
+	},
+	{
+		code: "09850  Gonococcal arthritis               Gonococcal arthritis",
+	},
+	{
+		code: "09851  Gonococcal synovitis               Gonococcal synovitis and tenosynovitis",
+	},
+	{
+		code: "09852  Gonococcal bursitis                Gonococcal bursitis",
+	},
+	{
+		code: "09853  Gonococcal spondylitis             Gonococcal spondylitis",
+	},
+	{
+		code: "09859  Gc infect joint NEC                Other gonococcal infection of joint",
+	},
+	{
+		code: "0986   Gonococcal infec pharynx           Gonococcal infection of pharynx",
+	},
+	{
+		code: "0987   Gc infect anus & rectum            Gonococcal infection of anus and rectum",
+	},
+	{
+		code: "09881  Gonococcal keratosis               Gonococcal keratosis (blennorrhagica)",
+	},
+	{
+		code: "09882  Gonococcal meningitis              Gonococcal meningitis",
+	},
+	{
+		code: "09883  Gonococcal pericarditis            Gonococcal pericarditis",
+	},
+	{
+		code: "09884  Gonococcal endocarditis            Gonococcal endocarditis",
+	},
+	{
+		code: "09885  Gonococcal heart dis NEC           Other gonococcal heart disease",
+	},
+	{
+		code: "09886  Gonococcal peritonitis             Gonococcal peritonitis",
+	},
+	{
+		code: "09889  Gonococcal inf site NEC            Gonococcal infection of other specified sites",
+	},
+	{
+		code: "0990   Chancroid                          Chancroid",
+	},
+	{
+		code: "0991   Lymphogranuloma venereum           Lymphogranuloma venereum",
+	},
+	{
+		code: "0992   Granuloma inguinale                Granuloma inguinale",
+	},
+	{
+		code: "0993   Reiter's disease                   Reiter's disease",
+	},
+	{
+		code: "09940  Unspcf nongnccl urethrts           Other nongonococcal urethritis",
+	},
+	{
+		code: "09941  Chlmyd trachomatis ureth           Other nongonococcal urethritis",
+	},
+	{
+		code: "09949  Nongc urth oth spf orgsm           Other nongonococcal urethritis",
+	},
+	{
+		code: "09950  Oth VD chlm trch unsp st           Other venereal diseases due to chlamydia trachomatis",
+	},
+	{
+		code: "09951  Oth VD chlm trch pharynx           Other venereal diseases due to chlamydia trachomatis",
+	},
+	{
+		code: "09952  Oth VD chlm trch ans rct           Other venereal diseases due to chlamydia trachomatis",
+	},
+	{
+		code: "09953  Oth VD chlm trch lowr gu           Other venereal diseases due to chlamydia trachomatis",
+	},
+	{
+		code: "09954  Oth VD chlm trch oth gu            Other venereal diseases due to chlamydia trachomatis",
+	},
+	{
+		code: "09955  Ot VD chlm trch unspf gu           Other venereal diseases due to chlamydia trachomatis",
+	},
+	{
+		code: "09956  Ot VD chlm trch prtoneum           Other venereal diseases due to chlamydia trachomatis",
+	},
+	{
+		code: "09959  Oth VD chlm trch spcf st           Other venereal diseases due to chlamydia trachomatis",
+	},
+	{
+		code: "0998   Venereal disease NEC               Other specified venereal diseases",
+	},
+	{
+		code: "0999   Venereal disease NOS               Venereal disease",
+	},
+	{
+		code: "1000   Leptospiros icterohem              Leptospirosis icterohemorrhagica",
+	},
+	{
+		code: "10081  Leptospiral meningitis             Leptospiral meningitis (aseptic)",
+	},
+	{
+		code: "10089  Leptospiral infect NEC             Other specified leptospiral infections",
+	},
+	{
+		code: "1009   Leptospirosis NOS                  Leptospirosis",
+	},
+	{
+		code: "101    Vincent's angina                   Vincent's angina",
+	},
+	{
+		code: "1020   Initial lesions yaws               Initial lesions of yaws",
+	},
+	{
+		code: "1021   Multiple papillomata               Multiple papillomata due to yaws and wet crab yaws",
+	},
+	{
+		code: "1022   Early skin yaws NEC                Other early skin lesions of yaws",
+	},
+	{
+		code: "1023   Hyperkeratosis of yaws             Hyperkeratosis due to yaws",
+	},
+	{
+		code: "1024   Gummata and ulcers",
+	},
+	{
+		code: "1025   Gangosa                            Gangosa",
+	},
+	{
+		code: "1026   Yaws of bone & joint               Bone and joint lesions due to yaws",
+	},
+	{
+		code: "1027   Yaws manifestations NEC            Other manifestations of yaws",
+	},
+	{
+		code: "1028   Latent yaws                        Latent yaws",
+	},
+	{
+		code: "1029   Yaws NOS                           Yaws",
+	},
+	{
+		code: "1030   Pinta primary lesions              Primary lesions of pinta",
+	},
+	{
+		code: "1031   Pinta intermed lesions             Intermediate lesions of pinta",
+	},
+	{
+		code: "1032   Pinta late lesions                 Late lesions of pinta",
+	},
+	{
+		code: "1033   Pinta mixed lesions                Mixed lesions of pinta",
+	},
+	{
+		code: "1039   Pinta NOS                          Pinta",
+	},
+	{
+		code: "1040   Nonvenereal endemic syph           Nonvenereal endemic syphilis",
+	},
+	{
+		code: "1048   Spirochetal infect NEC             Other specified spirochetal infections",
+	},
+	{
+		code: "1049   Spirochetal infect NOS             Spirochetal infection",
+	},
+	{
+		code: "1100   Dermatophyt scalp/beard            Dermatophytosis of scalp and beard",
+	},
+	{
+		code: "1101   Dermatophytosis of nail            Dermatophytosis of nail",
+	},
+	{
+		code: "1102   Dermatophytosis of hand            Dermatophytosis of hand",
+	},
+	{
+		code: "1103   Dermatophytosis of groin           Dermatophytosis of groin and perianal area",
+	},
+	{
+		code: "1104   Dermatophytosis of foot            Dermatophytosis of foot",
+	},
+	{
+		code: "1105   Dermatophytosis of body            Dermatophytosis of the body",
+	},
+	{
+		code: "1106   Deep dermatophytosis               Deep seated dermatophytosis",
+	},
+	{
+		code: "1108   Dermatophytosis site NEC           Dermatophytosis of other specified sites",
+	},
+	{
+		code: "1109   Dermatophytosis site NOS           Dermatophytosis of unspecified site",
+	},
+	{
+		code: "1110   Pityriasis versicolor              Pityriasis versicolor",
+	},
+	{
+		code: "1111   Tinea nigra                        Tinea nigra",
+	},
+	{
+		code: "1112   Tinea blanca                       Tinea blanca",
+	},
+	{
+		code: "1113   Black piedra                       Black piedra",
+	},
+	{
+		code: "1118   Dermatomycoses NEC                 Other specified dermatomycoses",
+	},
+	{
+		code: "1119   Dermatomycosis NOS                 Dermatomycosis",
+	},
+	{
+		code: "1120   Thrush                             Candidiasis of mouth",
+	},
+	{
+		code: "1121   Candidal vulvovaginitis            Candidiasis of vulva and vagina",
+	},
+	{
+		code: "1122   Candidias urogenital NEC           Candidiasis of other urogenital sites",
+	},
+	{
+		code: "1123   Cutaneous candidiasis              Candidiasis of skin and nails",
+	},
+	{
+		code: "1124   Candidiasis of lung                Candidiasis of lung",
+	},
+	{
+		code: "1125   Disseminated candidiasis           Disseminated candidiasis",
+	},
+	{
+		code: "11281  Candidal endocarditis              Candidal endocarditis",
+	},
+	{
+		code: "11282  Candidal otitis externa            Candidal otitis externa",
+	},
+	{
+		code: "11283  Candidal meningitis                Candidal meningitis",
+	},
+	{
+		code: "11284  Candidal esophagitis               Candidal esophagitis",
+	},
+	{
+		code: "11285  Candidal enteritis                 Candidal enteritis",
+	},
+	{
+		code: "11289  Candidiasis site NEC               Other candidiasis of other specified sites",
+	},
+	{
+		code: "1129   Candidiasis site NOS               Candidiasis of unspecified site",
+	},
+	{
+		code: "114    COCCIDIOIDOMYCOSIS                 COCCIDIOIDOMYCOSIS",
+	},
+	{
+		code: "1140   Primary coccidioidomycos           Primary coccidioidomycosis (pulmonary)",
+	},
+	{
+		code: "1141   Prim cutan coccidioid              Primary extrapulmonary coccidioidomycosis",
+	},
+	{
+		code: "1142   Coccidioidal meningitis            Coccidioidal meningitis",
+	},
+	{
+		code: "1143   Progress coccidioid NEC            Other forms of progressive coccidioidomycosis",
+	},
+	{
+		code: "1144   Ch pl coccidioidomycosis           Chronic pulmonary coccidioidomycosis",
+	},
+	{
+		code: "1145   Pl cocidioidomycosis NOS           Pulmonary coccidioidomycosis",
+	},
+	{
+		code: "1149   Coccidioidomycosis NOS             Coccidioidomycosis",
+	},
+	{
+		code: "11500  Histoplasma capsulat NOS           Infection by Histoplasma capsulatum",
+	},
+	{
+		code: "11501  Histoplasm capsul mening           Infection by Histoplasma capsulatum",
+	},
+	{
+		code: "11502  Histoplasm capsul retina           Infection by Histoplasma capsulatum",
+	},
+	{
+		code: "11503  Histoplasm caps pericard           Infection by Histoplasma capsulatum",
+	},
+	{
+		code: "11504  Histoplasm caps endocard           Infection by Histoplasma capsulatum",
+	},
+	{
+		code: "11505  Histoplasm caps pneumon            Infection by Histoplasma capsulatum",
+	},
+	{
+		code: "11509  Histoplasma capsulat NEC           Infection by Histoplasma capsulatum",
+	},
+	{
+		code: "11510  Histoplasma duboisii NOS           Infection by Histoplasma duboisii",
+	},
+	{
+		code: "11511  Histoplasm dubois mening           Infection by Histoplasma duboisii",
+	},
+	{
+		code: "11512  Histoplasm dubois retina           Infection by Histoplasma duboisii",
+	},
+	{
+		code: "11513  Histoplasm dub pericard            Infection by Histoplasma duboisii",
+	},
+	{
+		code: "11514  Histoplasm dub endocard            Infection by Histoplasma duboisii",
+	},
+	{
+		code: "11515  Histoplasm dub pneumonia           Infection by Histoplasma duboisii",
+	},
+	{
+		code: "11519  Histoplasma duboisii NEC           Infection by Histoplasma duboisii",
+	},
+	{
+		code: "11590  Histoplasmosis NOS                 Histoplasmosis",
+	},
+	{
+		code: "11591  Histoplasmosis meningit            Histoplasmosis",
+	},
+	{
+		code: "11592  Histoplasmosis retinitis           Histoplasmosis",
+	},
+	{
+		code: "11593  Histoplasmosis pericard            Histoplasmosis",
+	},
+	{
+		code: "11594  Histoplasmosis endocard            Histoplasmosis",
+	},
+	{
+		code: "11595  Histoplasmosis pneumonia           Histoplasmosis",
+	},
+	{
+		code: "11599  Histoplasmosis NEC                 Histoplasmosis",
+	},
+	{
+		code: "1160   Blastomycosis                      Blastomycosis",
+	},
+	{
+		code: "1161   Paracoccidioidomycosis             Paracoccidioidomycosis",
+	},
+	{
+		code: "1162   Lobomycosis                        Lobomycosis",
+	},
+	{
+		code: "1170   Rhinosporidiosis                   Rhinosporidiosis",
+	},
+	{
+		code: "1171   Sporotrichosis                     Sporotrichosis",
+	},
+	{
+		code: "1172   Chromoblastomycosis                Chromoblastomycosis",
+	},
+	{
+		code: "1173   Aspergillosis                      Aspergillosis",
+	},
+	{
+		code: "1174   Mycotic mycetomas                  Mycotic mycetomas",
+	},
+	{
+		code: "1175   Cryptococcosis                     Cryptococcosis",
+	},
+	{
+		code: "1176   Allescheriosis                     Allescheriosis [Petriellidosis]",
+	},
+	{
+		code: "1177   Zygomycosis                        Zygomycosis [Phycomycosis or Mucormycosis]",
+	},
+	{
+		code: "1178   Dematiacious fungi inf             Infection by dematiacious fungi [Phaehyphomycosis]",
+	},
+	{
+		code: "1179   Mycoses NEC & NOS                  Other and unspecified mycoses",
+	},
+	{
+		code: "118    Opportunistic mycoses              Opportunistic mycoses",
+	},
+	{
+		code: "1200   Schistosoma haematobium            Schistosomiasis due to schistosoma haematobium",
+	},
+	{
+		code: "1201   Schistosoma mansoni                Schistosomiasis due to schistosoma mansoni",
+	},
+	{
+		code: "1202   Schistosoma japonicum              Schistosomiasis due to schistosoma japonicum",
+	},
+	{
+		code: "1203   Cutaneous schistosoma              Cutaneous schistosomiasis",
+	},
+	{
+		code: "1208   Schistosomiasis NEC                Other specified schistosomiasis",
+	},
+	{
+		code: "1209   Schistosomiasis NOS                Schistosomiasis",
+	},
+	{
+		code: "1210   Opisthorchiasis                    Opisthorchiasis",
+	},
+	{
+		code: "1211   Clonorchiasis                      Clonorchiasis",
+	},
+	{
+		code: "1212   Paragonimiasis                     Paragonimiasis",
+	},
+	{
+		code: "1213   Fascioliasis                       Fascioliasis",
+	},
+	{
+		code: "1214   Fasciolopsiasis                    Fasciolopsiasis",
+	},
+	{
+		code: "1215   Metagonimiasis                     Metagonimiasis",
+	},
+	{
+		code: "1216   Heterophyiasis                     Heterophyiasis",
+	},
+	{
+		code: "1218   Trematode infection NEC            Other specified trematode infections",
+	},
+	{
+		code: "1219   Trematode infection NOS            Trematode infection",
+	},
+	{
+		code: "1220   Echinococc granul liver            Echinococcus granulosus infection of liver",
+	},
+	{
+		code: "1221   Echinococc granul lung             Echinococcus granulosus infection of lung",
+	},
+	{
+		code: "1222   Echinococc gran thyroid            Echinococcus granulosus infection of thyroid",
+	},
+	{
+		code: "1223   Echinococc granul NEC              Echinococcus granulosus infection",
+	},
+	{
+		code: "1224   Echinococc granul NOS              Echinococcus granulosus infection",
+	},
+	{
+		code: "1225   Echinococ multiloc liver           Echinococcus multilocularis infection of liver",
+	},
+	{
+		code: "1226   Echinococc multiloc NEC            Echinococcus multilocularis infection",
+	},
+	{
+		code: "1227   Echinococc multiloc NOS            Echinococcus multilocularis infection",
+	},
+	{
+		code: "1228   Echinococcosis NOS liver           Echinococcosis",
+	},
+	{
+		code: "1229   Echinococcosis NEC/NOS             Echinococcosis",
+	},
+	{
+		code: "1230   Taenia solium intestine            Taenia solium infection",
+	},
+	{
+		code: "1231   Cysticercosis                      Cysticercosis",
+	},
+	{
+		code: "1232   Taenia saginata infect             Taenia saginata infection",
+	},
+	{
+		code: "1233   Taeniasis NOS                      Taeniasis",
+	},
+	{
+		code: "1234   Diphyllobothrias intest            Diphyllobothriasis",
+	},
+	{
+		code: "1235   Sparganosis                        Sparganosis [larval diphyllobothriasis]",
+	},
+	{
+		code: "1236   Hymenolepiasis                     Hymenolepiasis",
+	},
+	{
+		code: "1238   Cestode infection NEC              Other specified cestode infection",
+	},
+	{
+		code: "1239   Cestode infection NOS              Cestode infection",
+	},
+	{
+		code: "124    Trichinosis                        Trichinosis",
+	},
+	{
+		code: "1250   Bancroftian filariasis             Bancroftian filariasis",
+	},
+	{
+		code: "1251   Malayan filariasis                 Malayan filariasis",
+	},
+	{
+		code: "1252   Loiasis                            Loiasis",
+	},
+	{
+		code: "1253   Onchocerciasis                     Onchocerciasis",
+	},
+	{
+		code: "1254   Dipetalonemiasis                   Dipetalonemiasis",
+	},
+	{
+		code: "1255   Mansonella ozzardi infec           Mansonella ozzardi infection",
+	},
+	{
+		code: "1256   Filariasis NEC                     Other specified filariasis",
+	},
+	{
+		code: "1257   Dracontiasis                       Dracontiasis",
+	},
+	{
+		code: "1259   Filariasis NOS                     Unspecified filariasis",
+	},
+	{
+		code: "1260   Ancylostoma duodenale              Ancylostomiasis due to ancylostoma duodenale",
+	},
+	{
+		code: "1261   Necator Americanus                 Necatoriasis due to necator americanus",
+	},
+	{
+		code: "1262   Ancylostoma braziliense            Ancylostomiasis due to ancylostoma braziliense",
+	},
+	{
+		code: "1263   Ancylostoma ceylanicum             Ancylostomiasis due to ancylostoma ceylanicum",
+	},
+	{
+		code: "1268   Ancylostoma NEC                    Other specified ancylostoma",
+	},
+	{
+		code: "1269   Ancylostomiasis NOS                Ancylostomiasis and necatoriasis",
+	},
+	{
+		code: "1270   Ascariasis                         Ascariasis",
+	},
+	{
+		code: "1271   Anisakiasis                        Anisakiasis",
+	},
+	{
+		code: "1272   Strongyloidiasis                   Strongyloidiasis",
+	},
+	{
+		code: "1273   Trichuriasis                       Trichuriasis",
+	},
+	{
+		code: "1274   Enterobiasis                       Enterobiasis",
+	},
+	{
+		code: "1275   Capillariasis                      Capillariasis",
+	},
+	{
+		code: "1276   Trichostrongyliasis                Trichostrongyliasis",
+	},
+	{
+		code: "1277   Intest helminthiasis NEC           Other specified intestinal helminthiasis",
+	},
+	{
+		code: "1278   Mixed intestine helminth           Mixed intestinal helminthiasis",
+	},
+	{
+		code: "1279   Intest helminthiasis NOS           Intestinal helminthiasis",
+	},
+	{
+		code: "1280   Toxocariasis                       Toxocariasis",
+	},
+	{
+		code: "1281   Gnathostomiasis                    Gnathostomiasis",
+	},
+	{
+		code: "1288   Helminthiasis NEC                  Other specified helminthiasis",
+	},
+	{
+		code: "1289   Helminthiasis NOS                  Helminth infection",
+	},
+	{
+		code: "129    Intestin parasitism NOS            Intestinal parasitism",
+	},
+	{
+		code: "1300   Toxoplasm meningoenceph            Meningoencephalitis due to toxoplasmosis",
+	},
+	{
+		code: "1301   Toxoplasm conjunctivitis           Conjunctivitis due to toxoplasmosis",
+	},
+	{
+		code: "1302   Toxoplasm chorioretinit            Chorioretinitis due to toxoplasmosis",
+	},
+	{
+		code: "1303   Toxoplasma myocarditis             Myocarditis due to toxoplasmosis",
+	},
+	{
+		code: "1304   Toxoplasma pneumonitis             Pneumonitis due to toxoplasmosis",
+	},
+	{
+		code: "1305   Toxoplasma hepatitis               Hepatitis due to toxoplasmosis",
+	},
+	{
+		code: "1307   Toxoplasmosis site NEC             Toxoplasmosis of other specified sites",
+	},
+	{
+		code: "1308   Multisystem toxoplasmos            Multisystemic disseminated toxoplasmosis",
+	},
+	{
+		code: "1309   Toxoplasmosis NOS                  Toxoplasmosis",
+	},
+	{
+		code: "131    TRICHOMONIASIS                     TRICHOMONIASIS",
+	},
+	{
+		code: "13100  Urogenital trichomon NOS           Urogenital trichomoniasis",
+	},
+	{
+		code: "13101  Trichomonal vaginitis              Trichomonal vulvovaginitis",
+	},
+	{
+		code: "13102  Trichomonal urethritis             Trichomonal urethritis",
+	},
+	{
+		code: "13103  Trichomonal prostatitis            Trichomonal prostatitis",
+	},
+	{
+		code: "13109  Urogenital trichomon NEC           Other urogenital trichomoniasis",
+	},
+	{
+		code: "1318   Trichomoniasis NEC                 Trichomoniasis of other specified sites",
+	},
+	{
+		code: "1319   Trichomoniasis NOS                 Trichomoniasis",
+	},
+	{
+		code: "1320   Pediculus capitis                  Pediculus capitis [head louse]",
+	},
+	{
+		code: "1321   Pediculus corporis                 Pediculus corporis [body louse]",
+	},
+	{
+		code: "1322   Phthirus pubis                     Phthirus pubis [pubic louse]",
+	},
+	{
+		code: "1323   Mixed pedicul & phthirus           Mixed pediculosis infestation",
+	},
+	{
+		code: "1329   Pediculosis NOS                    Pediculosis",
+	},
+	{
+		code: "1330   Scabies                            Scabies",
+	},
+	{
+		code: "1338   Acariasis NEC                      Other acariasis",
+	},
+	{
+		code: "1339   Acariasis NOS                      Acariasis",
+	},
+	{
+		code: "1340   Myiasis                            Myiasis",
+	},
+	{
+		code: "1341   Arthropod infest NEC               Other arthropod infestation",
+	},
+	{
+		code: "1342   Hirudiniasis                       Hirudiniasis",
+	},
+	{
+		code: "1348   Infestation NEC                    Other specified infestations",
+	},
+	{
+		code: "1349   Infestation NOS                    Infestation",
+	},
+	{
+		code: "135    Sarcoidosis                        Sarcoidosis",
+	},
+	{
+		code: "136    OTHER AND UNSPECIFIED INFECTIOUS ANOTHER AND UNSPECIFIED INFECTIOUS AND PARASITIC DISEASES",
+	},
+	{
+		code: "1360   Ainhum                             Ainhum",
+	},
+	{
+		code: "1361   Behcet's syndrome                  Behcet's syndrome",
+	},
+	{
+		code: "1362   FREE-LIVING AMEBA INFECT           FREE-LIVING AMEBA INFECT",
+	},
+	{
+		code: "13621  Infectn d/t acanthamoeba           Specific infection due to acanthamoeba",
+	},
+	{
+		code: "13629  Infc free-liv amebae NEC           Other specific infections by free-living amebae",
+	},
+	{
+		code: "1363   Pneumocystosis                     Pneumocystosis",
+	},
+	{
+		code: "1364   Psorospermiasis                    Psorospermiasis",
+	},
+	{
+		code: "1365   Sarcosporidiosis                   Sarcosporidiosis",
+	},
+	{
+		code: "1368   Infect/parasite dis NEC            Other specified infectious and parasitic diseases",
+	},
+	{
+		code: "1369   Infect/parasite dis NOS            Unspecified infectious and parasitic diseases",
+	},
+	{
+		code: "1370   Late effect tb",
+	},
+	{
+		code: "1371   Late effect cns TB                 Late effects of central nervous system tuberculosis",
+	},
+	{
+		code: "1372   Late effect gu TB                  Late effects of genitourinary tuberculosis",
+	},
+	{
+		code: "1373   Late eff bone & joint TB           Late effects of tuberculosis of bones and joints",
+	},
+	{
+		code: "1374   Late effect TB NEC                 Late effects of tuberculosis of other specified organs",
+	},
+	{
+		code: "138    Late effect acute polio            Late effects of acute poliomyelitis",
+	},
+	{
+		code: "1390   Late eff viral encephal            Late effects of viral encephalitis",
+	},
+	{
+		code: "1391   Late effect of trachoma            Late effects of trachoma",
+	},
+	{
+		code: "1398   Late eff infect dis NEC            Late effects of other and unspecified infectious and parasitic diseases",
+	},
+	{
+		code: "1400   Mal neo upper vermilion            Malignant neoplasm of upper lip",
+	},
+	{
+		code: "1401   Mal neo lower vermilion            Malignant neoplasm of lower lip",
+	},
+	{
+		code: "1403   Mal neo upper lip",
+	},
+	{
+		code: "1404   Mal neo lower lip",
+	},
+	{
+		code: "1405   Mal neo lip",
+	},
+	{
+		code: "1406   Mal neo lip",
+	},
+	{
+		code: "1408   Mal neo lip NEC                    Malignant neoplasm of other sites of lip",
+	},
+	{
+		code: "1409   Mal neo lip/vermil NOS             Malignant neoplasm of lip",
+	},
+	{
+		code: "1410   Mal neo tongue base                Malignant neoplasm of base of tongue",
+	},
+	{
+		code: "1411   Mal neo dorsal tongue              Malignant neoplasm of dorsal surface of tongue",
+	},
+	{
+		code: "1412   Mal neo tip/lat tongue             Malignant neoplasm of tip and lateral border of tongue",
+	},
+	{
+		code: "1413   Mal neo ventral tongue             Malignant neoplasm of ventral surface of tongue",
+	},
+	{
+		code: "1414   Mal neo ant 2/3 tongue             Malignant neoplasm of anterior two-thirds of tongue",
+	},
+	{
+		code: "1415   Mal neo tongue junction            Malignant neoplasm of junctional zone of tongue",
+	},
+	{
+		code: "1416   Mal neo lingual tonsil             Malignant neoplasm of lingual tonsil",
+	},
+	{
+		code: "1418   Malig neo tongue NEC               Malignant neoplasm of other sites of tongue",
+	},
+	{
+		code: "1419   Malig neo tongue NOS               Malignant neoplasm of tongue",
+	},
+	{
+		code: "1420   Malig neo parotid                  Malignant neoplasm of parotid gland",
+	},
+	{
+		code: "1421   Malig neo submandibular            Malignant neoplasm of submandibular gland",
+	},
+	{
+		code: "1422   Malig neo sublingual               Malignant neoplasm of sublingual gland",
+	},
+	{
+		code: "1428   Mal neo maj salivary NEC           Malignant neoplasm of other major salivary glands",
+	},
+	{
+		code: "1429   Mal neo salivary NOS               Malignant neoplasm of salivary gland",
+	},
+	{
+		code: "1430   Malig neo upper gum                Malignant neoplasm of upper gum",
+	},
+	{
+		code: "1431   Malig neo lower gum                Malignant neoplasm of lower gum",
+	},
+	{
+		code: "1438   Malig neo gum NEC                  Malignant neoplasm of other sites of gum",
+	},
+	{
+		code: "1439   Malig neo gum NOS                  Malignant neoplasm of gum",
+	},
+	{
+		code: "1440   Mal neo ant floor mouth            Malignant neoplasm of anterior portion of floor of mouth",
+	},
+	{
+		code: "1441   Mal neo lat floor mouth            Malignant neoplasm of lateral portion of floor of mouth",
+	},
+	{
+		code: "1448   Mal neo mouth floor NEC            Malignant neoplasm of other sites of floor of mouth",
+	},
+	{
+		code: "1449   Mal neo mouth floor NOS            Malignant neoplasm of floor of mouth",
+	},
+	{
+		code: "1450   Mal neo cheek mucosa               Malignant neoplasm of cheek mucosa",
+	},
+	{
+		code: "1451   Mal neo mouth vestibule            Malignant neoplasm of vestibule of mouth",
+	},
+	{
+		code: "1452   Malig neo hard palate              Malignant neoplasm of hard palate",
+	},
+	{
+		code: "1453   Malig neo soft palate              Malignant neoplasm of soft palate",
+	},
+	{
+		code: "1454   Malignant neoplasm uvula           Malignant neoplasm of uvula",
+	},
+	{
+		code: "1455   Malignant neo palate NOS           Malignant neoplasm of palate",
+	},
+	{
+		code: "1456   Malig neo retromolar               Malignant neoplasm of retromolar area",
+	},
+	{
+		code: "1458   Malig neoplasm mouth NEC           Malignant neoplasm of other specified parts of mouth",
+	},
+	{
+		code: "1459   Malig neoplasm mouth NOS           Malignant neoplasm of mouth",
+	},
+	{
+		code: "1460   Malignant neopl tonsil             Malignant neoplasm of tonsil",
+	},
+	{
+		code: "1461   Mal neo tonsillar fossa            Malignant neoplasm of tonsillar fossa",
+	},
+	{
+		code: "1462   Mal neo tonsil pillars             Malignant neoplasm of tonsillar pillars (anterior) (posterior)",
+	},
+	{
+		code: "1463   Malign neopl vallecula             Malignant neoplasm of vallecula epiglottica",
+	},
+	{
+		code: "1464   Mal neo ant epiglottis             Malignant neoplasm of anterior aspect of epiglottis",
+	},
+	{
+		code: "1465   Mal neo epiglottis junct           Malignant neoplasm of junctional region of oropharynx",
+	},
+	{
+		code: "1466   Mal neo lat oropharynx             Malignant neoplasm of lateral wall of oropharynx",
+	},
+	{
+		code: "1467   Mal neo post oropharynx            Malignant neoplasm of posterior wall of oropharynx",
+	},
+	{
+		code: "1468   Mal neo oropharynx NEC             Malignant neoplasm of other specified sites of oropharynx",
+	},
+	{
+		code: "1469   Malig neo oropharynx NOS           Malignant neoplasm of oropharynx",
+	},
+	{
+		code: "1470   Mal neo super nasopharyn           Malignant neoplasm of superior wall of nasopharynx",
+	},
+	{
+		code: "1471   Mal neo post nasopharynx           Malignant neoplasm of posterior wall of nasopharynx",
+	},
+	{
+		code: "1472   Mal neo lat nasopharynx            Malignant neoplasm of lateral wall of nasopharynx",
+	},
+	{
+		code: "1473   Mal neo ant nasopharynx            Malignant neoplasm of anterior wall of nasopharynx",
+	},
+	{
+		code: "1478   Mal neo nasopharynx NEC            Malignant neoplasm of other specified sites of nasopharynx",
+	},
+	{
+		code: "1479   Mal neo nasopharynx NOS            Malignant neoplasm of nasopharynx",
+	},
+	{
+		code: "1480   Mal neo postcricoid                Malignant neoplasm of postcricoid region of hypopharynx",
+	},
+	{
+		code: "1481   Mal neo pyriform sinus             Malignant neoplasm of pyriform sinus",
+	},
+	{
+		code: "1482   Mal neo aryepiglott fold           Malignant neoplasm of aryepiglottic fold",
+	},
+	{
+		code: "1483   Mal neo post hypopharynx           Malignant neoplasm of posterior hypopharyngeal wall",
+	},
+	{
+		code: "1488   Mal neo hypopharynx NEC            Malignant neoplasm of other specified sites of hypopharynx",
+	},
+	{
+		code: "1489   Mal neo hypopharynx NOS            Malignant neoplasm of hypopharynx",
+	},
+	{
+		code: "1490   Mal neo pharynx NOS                Malignant neoplasm of pharynx",
+	},
+	{
+		code: "1491   Mal neo waldeyer's ring            Malignant neoplasm of waldeyer's ring",
+	},
+	{
+		code: "1498   Mal neo oral/pharynx NEC           Malignant neoplasm of other sites within the lip and oral cavity",
+	},
+	{
+		code: "1499   Mal neo orophryn ill-def           Malignant neoplasm of ill-defined sites within the lip and oral cavity",
+	},
+	{
+		code: "150    MALIGNANT NEOPLASM OF ESOPHAGUS    MALIGNANT NEOPLASM OF ESOPHAGUS",
+	},
+	{
+		code: "1500   Mal neo cervical esophag           Malignant neoplasm of cervical esophagus",
+	},
+	{
+		code: "1501   Mal neo thoracic esophag           Malignant neoplasm of thoracic esophagus",
+	},
+	{
+		code: "1502   Mal neo abdomin esophag            Malignant neoplasm of abdominal esophagus",
+	},
+	{
+		code: "1503   Mal neo upper 3rd esoph            Malignant neoplasm of upper third of esophagus",
+	},
+	{
+		code: "1504   Mal neo middle 3rd esoph           Malignant neoplasm of middle third of esophagus",
+	},
+	{
+		code: "1505   Mal neo lower 3rd esoph            Malignant neoplasm of lower third of esophagus",
+	},
+	{
+		code: "1508   Mal neo esophagus NEC              Malignant neoplasm of other specified part of esophagus",
+	},
+	{
+		code: "1509   Mal neo esophagus NOS              Malignant neoplasm of esophagus",
+	},
+	{
+		code: "1510   Mal neo stomach cardia             Malignant neoplasm of cardia",
+	},
+	{
+		code: "1511   Malignant neo pylorus              Malignant neoplasm of pylorus",
+	},
+	{
+		code: "1512   Mal neo pyloric antrum             Malignant neoplasm of pyloric antrum",
+	},
+	{
+		code: "1513   Mal neo stomach fundus             Malignant neoplasm of fundus of stomach",
+	},
+	{
+		code: "1514   Mal neo stomach body               Malignant neoplasm of body of stomach",
+	},
+	{
+		code: "1515   Mal neo stom lesser curv           Malignant neoplasm of lesser curvature of stomach",
+	},
+	{
+		code: "1516   Mal neo stom great curv            Malignant neoplasm of greater curvature of stomach",
+	},
+	{
+		code: "1518   Malig neopl stomach NEC            Malignant neoplasm of other specified sites of stomach",
+	},
+	{
+		code: "1519   Malig neopl stomach NOS            Malignant neoplasm of stomach",
+	},
+	{
+		code: "1520   Malignant neopl duodenum           Malignant neoplasm of duodenum",
+	},
+	{
+		code: "1521   Malignant neopl jejunum            Malignant neoplasm of jejunum",
+	},
+	{
+		code: "1522   Malignant neoplasm ileum           Malignant neoplasm of ileum",
+	},
+	{
+		code: "1523   Mal neo meckel's divert            Malignant neoplasm of Meckel's diverticulum",
+	},
+	{
+		code: "1528   Mal neo small bowel NEC            Malignant neoplasm of other specified sites of small intestine",
+	},
+	{
+		code: "1529   Mal neo small bowel NOS            Malignant neoplasm of small intestine",
+	},
+	{
+		code: "1530   Mal neo hepatic flexure            Malignant neoplasm of hepatic flexure",
+	},
+	{
+		code: "1531   Mal neo transverse colon           Malignant neoplasm of transverse colon",
+	},
+	{
+		code: "1532   Mal neo descend colon              Malignant neoplasm of descending colon",
+	},
+	{
+		code: "1533   Mal neo sigmoid colon              Malignant neoplasm of sigmoid colon",
+	},
+	{
+		code: "1534   Malignant neoplasm cecum           Malignant neoplasm of cecum",
+	},
+	{
+		code: "1535   Malignant neo appendix             Malignant neoplasm of appendix vermiformis",
+	},
+	{
+		code: "1536   Malig neo ascend colon             Malignant neoplasm of ascending colon",
+	},
+	{
+		code: "1537   Mal neo splenic flexure            Malignant neoplasm of splenic flexure",
+	},
+	{
+		code: "1538   Malignant neo colon NEC            Malignant neoplasm of other specified sites of large intestine",
+	},
+	{
+		code: "1539   Malignant neo colon NOS            Malignant neoplasm of colon",
+	},
+	{
+		code: "1540   Mal neo rectosigmoid jct           Malignant neoplasm of rectosigmoid junction",
+	},
+	{
+		code: "1541   Malignant neopl rectum             Malignant neoplasm of rectum",
+	},
+	{
+		code: "1542   Malig neopl anal canal             Malignant neoplasm of anal canal",
+	},
+	{
+		code: "1543   Malignant neo anus NOS             Malignant neoplasm of anus",
+	},
+	{
+		code: "1548   Mal neo rectum/anus NEC            Malignant neoplasm of other sites of rectum",
+	},
+	{
+		code: "1550   Mal neo liver",
+	},
+	{
+		code: "1551   Mal neo intrahepat ducts           Malignant neoplasm of intrahepatic bile ducts",
+	},
+	{
+		code: "1552   Malignant neo liver NOS            Malignant neoplasm of liver",
+	},
+	{
+		code: "1560   Malig neo gallbladder              Malignant neoplasm of gallbladder",
+	},
+	{
+		code: "1561   Mal neo extrahepat ducts           Malignant neoplasm of extrahepatic bile ducts",
+	},
+	{
+		code: "1562   Mal neo ampulla of vater           Malignant neoplasm of ampulla of vater",
+	},
+	{
+		code: "1568   Malig neo biliary NEC              Malignant neoplasm of other specified sites of gallbladder and extrahepatic bile ducts",
+	},
+	{
+		code: "1569   Malig neo biliary NOS              Malignant neoplasm of biliary tract",
+	},
+	{
+		code: "1570   Mal neo pancreas head              Malignant neoplasm of head of pancreas",
+	},
+	{
+		code: "1571   Mal neo pancreas body              Malignant neoplasm of body of pancreas",
+	},
+	{
+		code: "1572   Mal neo pancreas tail              Malignant neoplasm of tail of pancreas",
+	},
+	{
+		code: "1573   Mal neo pancreatic duct            Malignant neoplasm of pancreatic duct",
+	},
+	{
+		code: "1574   Mal neo islet langerhans           Malignant neoplasm of islets of langerhans",
+	},
+	{
+		code: "1578   Malig neo pancreas NEC             Malignant neoplasm of other specified sites of pancreas",
+	},
+	{
+		code: "1579   Malig neo pancreas NOS             Malignant neoplasm of pancreas",
+	},
+	{
+		code: "1580   Mal neo retroperitoneum            Malignant neoplasm of retroperitoneum",
+	},
+	{
+		code: "1588   Mal neo peritoneum NEC             Malignant neoplasm of specified parts of peritoneum",
+	},
+	{
+		code: "1589   Mal neo peritoneum NOS             Malignant neoplasm of peritoneum",
+	},
+	{
+		code: "1590   Malig neo intestine NOS            Malignant neoplasm of intestinal tract",
+	},
+	{
+		code: "1591   Malignant neo spleen NEC           Malignant neoplasm of spleen",
+	},
+	{
+		code: "1598   Mal neo gi/intra-abd NEC           Malignant neoplasm of other sites of digestive system and intra-abdominal organs",
+	},
+	{
+		code: "1599   Mal neo GI tract ill-def           Malignant neoplasm of ill-defined sites within the digestive organs and peritoneum",
+	},
+	{
+		code: "1600   Mal neo nasal cavities             Malignant neoplasm of nasal cavities",
+	},
+	{
+		code: "1601   Malig neo middle ear               Malignant neoplasm of auditory tube",
+	},
+	{
+		code: "1602   Mal neo maxillary sinus            Malignant neoplasm of maxillary sinus",
+	},
+	{
+		code: "1603   Mal neo ethmoidal sinus            Malignant neoplasm of ethmoidal sinus",
+	},
+	{
+		code: "1604   Malig neo frontal sinus            Malignant neoplasm of frontal sinus",
+	},
+	{
+		code: "1605   Mal neo sphenoid sinus             Malignant neoplasm of sphenoidal sinus",
+	},
+	{
+		code: "1608   Mal neo access sinus NEC           Malignant neoplasm of other accessory sinuses",
+	},
+	{
+		code: "1609   Mal neo access sinus NOS           Malignant neoplasm of accessory sinus",
+	},
+	{
+		code: "1610   Malignant neo glottis              Malignant neoplasm of glottis",
+	},
+	{
+		code: "1611   Malig neo supraglottis             Malignant neoplasm of supraglottis",
+	},
+	{
+		code: "1612   Malig neo subglottis               Malignant neoplasm of subglottis",
+	},
+	{
+		code: "1613   Mal neo cartilage larynx           Malignant neoplasm of laryngeal cartilages",
+	},
+	{
+		code: "1618   Malignant neo larynx NEC           Malignant neoplasm of other specified sites of larynx",
+	},
+	{
+		code: "1619   Malignant neo larynx NOS           Malignant neoplasm of larynx",
+	},
+	{
+		code: "1620   Malignant neo trachea              Malignant neoplasm of trachea",
+	},
+	{
+		code: "1622   Malig neo main bronchus            Malignant neoplasm of main bronchus",
+	},
+	{
+		code: "1623   Mal neo upper lobe lung            Malignant neoplasm of upper lobe",
+	},
+	{
+		code: "1624   Mal neo middle lobe lung           Malignant neoplasm of middle lobe",
+	},
+	{
+		code: "1625   Mal neo lower lobe lung            Malignant neoplasm of lower lobe",
+	},
+	{
+		code: "1628   Mal neo bronch/lung NEC            Malignant neoplasm of other parts of bronchus or lung",
+	},
+	{
+		code: "1629   Mal neo bronch/lung NOS            Malignant neoplasm of bronchus and lung",
+	},
+	{
+		code: "1630   Mal neo parietal pleura            Malignant neoplasm of parietal pleura",
+	},
+	{
+		code: "1631   Mal neo visceral pleura            Malignant neoplasm of visceral pleura",
+	},
+	{
+		code: "1638   Malig neopl pleura NEC             Malignant neoplasm of other specified sites of pleura",
+	},
+	{
+		code: "1639   Malig neopl pleura NOS             Malignant neoplasm of pleura",
+	},
+	{
+		code: "1640   Malignant neopl thymus             Malignant neoplasm of thymus",
+	},
+	{
+		code: "1641   Malignant neopl heart              Malignant neoplasm of heart",
+	},
+	{
+		code: "1642   Mal neo ant mediastinum            Malignant neoplasm of anterior mediastinum",
+	},
+	{
+		code: "1643   Mal neo post mediastinum           Malignant neoplasm of posterior mediastinum",
+	},
+	{
+		code: "1648   Mal neo mediastinum NEC            Malignant neoplasm of other parts of mediastinum",
+	},
+	{
+		code: "1649   Mal neo mediastinum NOS            Malignant neoplasm of mediastinum",
+	},
+	{
+		code: "1650   Mal neo upper resp NOS             Malignant neoplasm of upper respiratory tract",
+	},
+	{
+		code: "1658   Mal neo thorax/resp NEC            Malignant neoplasm of other sites within the respiratory system and intrathoracic organs",
+	},
+	{
+		code: "1659   Mal neo resp system NOS            Malignant neoplasm of ill-defined sites within the respiratory system",
+	},
+	{
+		code: "1700   Mal neo skull/face bone            Malignant neoplasm of bones of skull and face",
+	},
+	{
+		code: "1701   Malignant neo mandible             Malignant neoplasm of mandible",
+	},
+	{
+		code: "1702   Malig neo vertebrae                Malignant neoplasm of vertebral column",
+	},
+	{
+		code: "1703   Mal neo ribs/stern/clav            Malignant neoplasm of ribs",
+	},
+	{
+		code: "1704   Mal neo long bones arm             Malignant neoplasm of scapula and long bones of upper limb",
+	},
+	{
+		code: "1705   Mal neo bones wrist/hand           Malignant neoplasm of short bones of upper limb",
+	},
+	{
+		code: "1706   Mal neo pelvic girdle              Malignant neoplasm of pelvic bones",
+	},
+	{
+		code: "1707   Mal neo long bones leg             Malignant neoplasm of long bones of lower limb",
+	},
+	{
+		code: "1708   Mal neo bones ankle/foot           Malignant neoplasm of short bones of lower limb",
+	},
+	{
+		code: "1709   Malig neopl bone NOS               Malignant neoplasm of bone and articular cartilage",
+	},
+	{
+		code: "1710   Mal neo soft tissue head           Malignant neoplasm of connective and other soft tissue of head",
+	},
+	{
+		code: "1712   Mal neo soft tissue arm            Malignant neoplasm of connective and other soft tissue of upper limb",
+	},
+	{
+		code: "1713   Mal neo soft tissue leg            Malignant neoplasm of connective and other soft tissue of lower limb",
+	},
+	{
+		code: "1714   Mal neo soft tis thorax            Malignant neoplasm of connective and other soft tissue of thorax",
+	},
+	{
+		code: "1715   Mal neo soft tis abdomen           Malignant neoplasm of connective and other soft tissue of abdomen",
+	},
+	{
+		code: "1716   Mal neo soft tis pelvis            Malignant neoplasm of connective and other soft tissue of pelvis",
+	},
+	{
+		code: "1717   Mal neopl trunk NOS                Malignant neoplasm of connective and other soft tissue of trunk",
+	},
+	{
+		code: "1718   Mal neo soft tissue NEC            Malignant neoplasm of other specified sites of connective and other soft tissue",
+	},
+	{
+		code: "1719   Mal neo soft tissue NOS            Malignant neoplasm of connective and other soft tissue",
+	},
+	{
+		code: "1720   Malig melanoma lip                 Malignant melanoma of skin of lip",
+	},
+	{
+		code: "1721   Malig melanoma eyelid              Malignant melanoma of skin of eyelid",
+	},
+	{
+		code: "1722   Malig melanoma ear                 Malignant melanoma of skin of ear and external auditory canal",
+	},
+	{
+		code: "1723   Mal melanom face NEC/NOS           Malignant melanoma of skin of other and unspecified parts of face",
+	},
+	{
+		code: "1724   Mal melanoma scalp/neck            Malignant melanoma of skin of scalp and neck",
+	},
+	{
+		code: "1725   Malig melanoma trunk               Malignant melanoma of skin of trunk",
+	},
+	{
+		code: "1726   Malig melanoma arm                 Malignant melanoma of skin of upper limb",
+	},
+	{
+		code: "1727   Malig melanoma leg                 Malignant melanoma of skin of lower limb",
+	},
+	{
+		code: "1728   Malig melanoma skin NEC            Malignant melanoma of other specified sites of skin",
+	},
+	{
+		code: "1729   Malig melanoma skin NOS            Melanoma of skin",
+	},
+	{
+		code: "1730   Malig neo skin lip                 Malig neo skin lip",
+	},
+	{
+		code: "17300  Malig neopl skin lip NOS           Unspecified malignant neoplasm of skin of lip",
+	},
+	{
+		code: "17301  Basal cell ca skin lip             Basal cell carcinoma of skin of lip",
+	},
+	{
+		code: "17302  Squamous cell ca skn lip           Squamous cell carcinoma of skin of lip",
+	},
+	{
+		code: "17309  Malig neo skin lip NEC             Other specified malignant neoplasm of skin of lip",
+	},
+	{
+		code: "1731   Malig neo skin eyelid              Malig neo skin eyelid",
+	},
+	{
+		code: "17310  Mal neo eyelid/canth NOS           Unspecified malignant neoplasm of eyelid",
+	},
+	{
+		code: "17311  Basal cell ca lid/canth            Basal cell carcinoma of eyelid",
+	},
+	{
+		code: "17312  Squam cell ca lid/canth            Squamous cell carcinoma of eyelid",
+	},
+	{
+		code: "17319  Mal neo eyelid/canth NEC           Other specified malignant neoplasm of eyelid",
+	},
+	{
+		code: "1732   Malig neo skin ear                 Malig neo skin ear",
+	},
+	{
+		code: "17320  Malig neo skin ear NOS             Unspecified malignant neoplasm of skin of ear and external auditory canal",
+	},
+	{
+		code: "17321  Basal cell ca skin ear             Basal cell carcinoma of skin of ear and external auditory canal",
+	},
+	{
+		code: "17322  Squam cell ca skin ear             Squamous cell carcinoma of skin of ear and external auditory canal",
+	},
+	{
+		code: "17329  Neo skin ear/ex canl NEC           Other specified malignant neoplasm of skin of ear and external auditory canal",
+	},
+	{
+		code: "1733   Mal neo skin face NEC              Mal neo skin face NEC",
+	},
+	{
+		code: "17330  Mal neo skn face NEC/NOS           Unspecified malignant neoplasm of skin of other and unspecified parts of face",
+	},
+	{
+		code: "17331  Bsl cel skn face NEC/NOS           Basal cell carcinoma of skin of other and unspecified parts of face",
+	},
+	{
+		code: "17332  Sqm cel skn face NEC/NOS           Squamous cell carcinoma of skin of other and unspecified parts of face",
+	},
+	{
+		code: "17339  Mal neo skn face NEC/NOS           Other specified malignant neoplasm of skin of other and unspecified parts of face",
+	},
+	{
+		code: "1734   Mal neo scalp/skin neck            Mal neo scalp/skin neck",
+	},
+	{
+		code: "17340  Mal neo sclp/skn nck NOS           Unspecified malignant neoplasm of scalp and skin of neck",
+	},
+	{
+		code: "17341  Bsl cell ca scalp/skn nk           Basal cell carcinoma of scalp and skin of neck",
+	},
+	{
+		code: "17342  Sqam cell ca sclp/skn nk           Squamous cell carcinoma of scalp and skin of neck",
+	},
+	{
+		code: "17349  Mal neo sclp/skn nck NEC           Other specified malignant neoplasm of scalp and skin of neck",
+	},
+	{
+		code: "1735   Malig neo skin trunk               Malig neo skin trunk",
+	},
+	{
+		code: "17350  Malig neo skin trunk NOS           Unspecified malignant neoplasm of skin of trunk",
+	},
+	{
+		code: "17351  Basal cell ca skin trunk           Basal cell carcinoma of skin of trunk",
+	},
+	{
+		code: "17352  Squam cell ca skin trunk           Squamous cell carcinoma of skin of trunk",
+	},
+	{
+		code: "17359  Malig neo skin trunk NEC           Other specified malignant neoplasm of skin of trunk",
+	},
+	{
+		code: "1736   Malig neo skin arm                 Malig neo skin arm",
+	},
+	{
+		code: "17360  Mal neo skin up limb NOS           Unspecified malignant neoplasm of skin of upper limb",
+	},
+	{
+		code: "17361  Basal cell ca skn up lmb           Basal cell carcinoma of skin of upper limb",
+	},
+	{
+		code: "17362  Squam cell ca skn up lmb           Squamous cell carcinoma of skin of upper limb",
+	},
+	{
+		code: "17369  Malig neo skn up lmb NEC           Other specified malignant neoplasm of skin of upper limb",
+	},
+	{
+		code: "1737   Malig neo skin leg                 Malig neo skin leg",
+	},
+	{
+		code: "17370  Mal neo skn low limb NOS           Unspecified malignant neoplasm of skin of lower limb",
+	},
+	{
+		code: "17371  Basl cell ca skn low lmb           Basal cell carcinoma of skin of lower limb",
+	},
+	{
+		code: "17372  Sqam cell ca skn low lmb           Squamous cell carcinoma of skin of lower limb",
+	},
+	{
+		code: "17379  Mal neo skin low lmb NEC           Other specified malignant neoplasm of skin of lower limb",
+	},
+	{
+		code: "1738   Malig neo skin NEC                 Malig neo skin NEC",
+	},
+	{
+		code: "17380  Mal neo skn site NEC/NOS           Unspecified malignant neoplasm of other specified sites of skin",
+	},
+	{
+		code: "17381  Bsl cell ca skn site NEC           Basal cell carcinoma of other specified sites of skin",
+	},
+	{
+		code: "17382  Sqm cell ca skn site NEC           Squamous cell carcinoma of other specified sites of skin",
+	},
+	{
+		code: "17389  Oth mal neo skn site NEC           Other specified malignant neoplasm of other specified sites of skin",
+	},
+	{
+		code: "1739   Malig neo skin NOS                 Malig neo skin NOS",
+	},
+	{
+		code: "17390  Malig neo skin site NOS            Unspecified malignant neoplasm of skin",
+	},
+	{
+		code: "17391  Basal cell ca skin NOS             Basal cell carcinoma of skin",
+	},
+	{
+		code: "17392  Squam cell ca skin NOS             Squamous cell carcinoma of skin",
+	},
+	{
+		code: "17399  Oth mal neo skn site NOS           Other specified malignant neoplasm of skin",
+	},
+	{
+		code: "1740   Malig neo nipple                   Malignant neoplasm of nipple and areola of female breast",
+	},
+	{
+		code: "1741   Mal neo breast-central             Malignant neoplasm of central portion of female breast",
+	},
+	{
+		code: "1742   Mal neo breast up-inner            Malignant neoplasm of upper-inner quadrant of female breast",
+	},
+	{
+		code: "1743   Mal neo breast low-inner           Malignant neoplasm of lower-inner quadrant of female breast",
+	},
+	{
+		code: "1744   Mal neo breast up-outer            Malignant neoplasm of upper-outer quadrant of female breast",
+	},
+	{
+		code: "1745   Mal neo breast low-outer           Malignant neoplasm of lower-outer quadrant of female breast",
+	},
+	{
+		code: "1746   Mal neo breast-axillary            Malignant neoplasm of axillary tail of female breast",
+	},
+	{
+		code: "1748   Malign neopl breast NEC            Malignant neoplasm of other specified sites of female breast",
+	},
+	{
+		code: "1749   Malign neopl breast NOS            Malignant neoplasm of breast (female)",
+	},
+	{
+		code: "1750   Mal neo male nipple                Malignant neoplasm of nipple and areola of male breast",
+	},
+	{
+		code: "1759   Mal neo male breast NEC            Malignant neoplasm of other and unspecified sites of male breast",
+	},
+	{
+		code: "1760   Skin - kaposi's sarcoma            Kaposi's sarcoma",
+	},
+	{
+		code: "1761   Sft tisue - kpsi's srcma           Kaposi's sarcoma",
+	},
+	{
+		code: "1762   Palate - kpsi's sarcoma            Kaposi's sarcoma",
+	},
+	{
+		code: "1763   GI sites - kpsi's srcoma           Kaposi's sarcoma",
+	},
+	{
+		code: "1764   Lung - kaposi's sarcoma            Kaposi's sarcoma",
+	},
+	{
+		code: "1765   Lym nds - kpsi's sarcoma           Kaposi's sarcoma",
+	},
+	{
+		code: "1768   Spf sts - kpsi's sarcoma           Kaposi's sarcoma",
+	},
+	{
+		code: "1769   Kaposi's sarcoma NOS               Kaposi's sarcoma",
+	},
+	{
+		code: "179    Malig neopl uterus NOS             Malignant neoplasm of uterus",
+	},
+	{
+		code: "1800   Malig neo endocervix               Malignant neoplasm of endocervix",
+	},
+	{
+		code: "1801   Malig neo exocervix                Malignant neoplasm of exocervix",
+	},
+	{
+		code: "1808   Malig neo cervix NEC               Malignant neoplasm of other specified sites of cervix",
+	},
+	{
+		code: "1809   Mal neo cervix uteri NOS           Malignant neoplasm of cervix uteri",
+	},
+	{
+		code: "181    Malignant neopl placenta           Malignant neoplasm of placenta",
+	},
+	{
+		code: "1820   Malig neo corpus uteri             Malignant neoplasm of corpus uteri",
+	},
+	{
+		code: "1821   Mal neo uterine isthmus            Malignant neoplasm of isthmus",
+	},
+	{
+		code: "1828   Mal neo body uterus NEC            Malignant neoplasm of other specified sites of body of uterus",
+	},
+	{
+		code: "1830   Malign neopl ovary                 Malignant neoplasm of ovary",
+	},
+	{
+		code: "1832   Mal neo fallopian tube             Malignant neoplasm of fallopian tube",
+	},
+	{
+		code: "1833   Mal neo broad ligament             Malignant neoplasm of broad ligament of uterus",
+	},
+	{
+		code: "1834   Malig neo parametrium              Malignant neoplasm of parametrium",
+	},
+	{
+		code: "1835   Mal neo round ligament             Malignant neoplasm of round ligament of uterus",
+	},
+	{
+		code: "1838   Mal neo adnexa NEC                 Malignant neoplasm of other specified sites of uterine adnexa",
+	},
+	{
+		code: "1839   Mal neo adnexa NOS                 Malignant neoplasm of uterine adnexa",
+	},
+	{
+		code: "1840   Malign neopl vagina                Malignant neoplasm of vagina",
+	},
+	{
+		code: "1841   Mal neo labia majora               Malignant neoplasm of labia majora",
+	},
+	{
+		code: "1842   Mal neo labia minora               Malignant neoplasm of labia minora",
+	},
+	{
+		code: "1843   Malign neopl clitoris              Malignant neoplasm of clitoris",
+	},
+	{
+		code: "1844   Malign neopl vulva NOS             Malignant neoplasm of vulva",
+	},
+	{
+		code: "1848   Mal neo female genit NEC           Malignant neoplasm of other specified sites of female genital organs",
+	},
+	{
+		code: "1849   Mal neo female genit NOS           Malignant neoplasm of female genital organ",
+	},
+	{
+		code: "185    Malign neopl prostate              Malignant neoplasm of prostate",
+	},
+	{
+		code: "1860   Mal neo undescend testis           Malignant neoplasm of undescended testis",
+	},
+	{
+		code: "1869   Malig neo testis NEC               Malignant neoplasm of other and unspecified testis",
+	},
+	{
+		code: "1871   Malign neopl prepuce               Malignant neoplasm of prepuce",
+	},
+	{
+		code: "1872   Malig neo glans penis              Malignant neoplasm of glans penis",
+	},
+	{
+		code: "1873   Malig neo penis body               Malignant neoplasm of body of penis",
+	},
+	{
+		code: "1874   Malig neo penis NOS                Malignant neoplasm of penis",
+	},
+	{
+		code: "1875   Malig neo epididymis               Malignant neoplasm of epididymis",
+	},
+	{
+		code: "1876   Mal neo spermatic cord             Malignant neoplasm of spermatic cord",
+	},
+	{
+		code: "1877   Malign neopl scrotum               Malignant neoplasm of scrotum",
+	},
+	{
+		code: "1878   Mal neo male genital NEC           Malignant neoplasm of other specified sites of male genital organs",
+	},
+	{
+		code: "1879   Mal neo male genital NOS           Malignant neoplasm of male genital organ",
+	},
+	{
+		code: "1880   Mal neo bladder-trigone            Malignant neoplasm of trigone of urinary bladder",
+	},
+	{
+		code: "1881   Mal neo bladder-dome               Malignant neoplasm of dome of urinary bladder",
+	},
+	{
+		code: "1882   Mal neo bladder-lateral            Malignant neoplasm of lateral wall of urinary bladder",
+	},
+	{
+		code: "1883   Mal neo bladder-anterior           Malignant neoplasm of anterior wall of urinary bladder",
+	},
+	{
+		code: "1884   Mal neo bladder-post               Malignant neoplasm of posterior wall of urinary bladder",
+	},
+	{
+		code: "1885   Mal neo bladder neck               Malignant neoplasm of bladder neck",
+	},
+	{
+		code: "1886   Mal neo ureteric orifice           Malignant neoplasm of ureteric orifice",
+	},
+	{
+		code: "1887   Malig neo urachus                  Malignant neoplasm of urachus",
+	},
+	{
+		code: "1888   Malig neo bladder NEC              Malignant neoplasm of other specified sites of bladder",
+	},
+	{
+		code: "1889   Malig neo bladder NOS              Malignant neoplasm of bladder",
+	},
+	{
+		code: "1890   Malig neopl kidney                 Malignant neoplasm of kidney",
+	},
+	{
+		code: "1891   Malig neo renal pelvis             Malignant neoplasm of renal pelvis",
+	},
+	{
+		code: "1892   Malign neopl ureter                Malignant neoplasm of ureter",
+	},
+	{
+		code: "1893   Malign neopl urethra               Malignant neoplasm of urethra",
+	},
+	{
+		code: "1894   Mal neo paraurethral               Malignant neoplasm of paraurethral glands",
+	},
+	{
+		code: "1898   Mal neo urinary NEC                Malignant neoplasm of other specified sites of urinary organs",
+	},
+	{
+		code: "1899   Mal neo urinary NOS                Malignant neoplasm of urinary organ",
+	},
+	{
+		code: "1900   Malign neopl eyeball               Malignant neoplasm of eyeball",
+	},
+	{
+		code: "1901   Malign neopl orbit                 Malignant neoplasm of orbit",
+	},
+	{
+		code: "1902   Mal neo lacrimal gland             Malignant neoplasm of lacrimal gland",
+	},
+	{
+		code: "1903   Mal neo conjunctiva                Malignant neoplasm of conjunctiva",
+	},
+	{
+		code: "1904   Malign neopl cornea                Malignant neoplasm of cornea",
+	},
+	{
+		code: "1905   Malign neopl retina                Malignant neoplasm of retina",
+	},
+	{
+		code: "1906   Malign neopl choroid               Malignant neoplasm of choroid",
+	},
+	{
+		code: "1907   Mal neo lacrimal duct              Malignant neoplasm of lacrimal duct",
+	},
+	{
+		code: "1908   Malign neopl eye NEC               Malignant neoplasm of other specified sites of eye",
+	},
+	{
+		code: "1909   Malign neopl eye NOS               Malignant neoplasm of eye",
+	},
+	{
+		code: "1910   Malign neopl cerebrum              Malignant neoplasm of cerebrum",
+	},
+	{
+		code: "1911   Malig neo frontal lobe             Malignant neoplasm of frontal lobe",
+	},
+	{
+		code: "1912   Mal neo temporal lobe              Malignant neoplasm of temporal lobe",
+	},
+	{
+		code: "1913   Mal neo parietal lobe              Malignant neoplasm of parietal lobe",
+	},
+	{
+		code: "1914   Mal neo occipital lobe             Malignant neoplasm of occipital lobe",
+	},
+	{
+		code: "1915   Mal neo cereb ventricle            Malignant neoplasm of ventricles",
+	},
+	{
+		code: "1916   Mal neo cerebellum NOS             Malignant neoplasm of cerebellum nos",
+	},
+	{
+		code: "1917   Mal neo brain stem                 Malignant neoplasm of brain stem",
+	},
+	{
+		code: "1918   Malig neo brain NEC                Malignant neoplasm of other parts of brain",
+	},
+	{
+		code: "1919   Malig neo brain NOS                Malignant neoplasm of brain",
+	},
+	{
+		code: "1920   Mal neo cranial nerves             Malignant neoplasm of cranial nerves",
+	},
+	{
+		code: "1921   Mal neo cerebral mening            Malignant neoplasm of cerebral meninges",
+	},
+	{
+		code: "1922   Mal neo spinal cord                Malignant neoplasm of spinal cord",
+	},
+	{
+		code: "1923   Mal neo spinal meninges            Malignant neoplasm of spinal meninges",
+	},
+	{
+		code: "1928   Mal neo nervous syst NEC           Malignant neoplasm of other specified sites of nervous system",
+	},
+	{
+		code: "1929   Mal neo nervous syst NOS           Malignant neoplasm of nervous system",
+	},
+	{
+		code: "193    Malign neopl thyroid               Malignant neoplasm of thyroid gland",
+	},
+	{
+		code: "1940   Malign neopl adrenal               Malignant neoplasm of adrenal gland",
+	},
+	{
+		code: "1941   Malig neo parathyroid              Malignant neoplasm of parathyroid gland",
+	},
+	{
+		code: "1943   Malig neo pituitary                Malignant neoplasm of pituitary gland and craniopharyngeal duct",
+	},
+	{
+		code: "1944   Malign neo pineal gland            Malignant neoplasm of pineal gland",
+	},
+	{
+		code: "1945   Mal neo carotid body               Malignant neoplasm of carotid body",
+	},
+	{
+		code: "1946   Mal neo paraganglia NEC            Malignant neoplasm of aortic body and other paraganglia",
+	},
+	{
+		code: "1948   Mal neo endocrine NEC              Malignant neoplasm of other endocrine glands and related structures",
+	},
+	{
+		code: "1949   Mal neo endocrine NOS              Malignant neoplasm of endocrine gland",
+	},
+	{
+		code: "1950   Mal neo head/face/neck             Malignant neoplasm of head",
+	},
+	{
+		code: "1951   Malign neopl thorax                Malignant neoplasm of thorax",
+	},
+	{
+		code: "1952   Malig neo abdomen                  Malignant neoplasm of abdomen",
+	},
+	{
+		code: "1953   Malign neopl pelvis                Malignant neoplasm of pelvis",
+	},
+	{
+		code: "1954   Malign neopl arm                   Malignant neoplasm of upper limb",
+	},
+	{
+		code: "1955   Malign neopl leg                   Malignant neoplasm of lower limb",
+	},
+	{
+		code: "1958   Malig neo site NEC                 Malignant neoplasm of other specified sites",
+	},
+	{
+		code: "1960   Mal neo lymph-head/neck            Secondary and unspecified malignant neoplasm of lymph nodes of head",
+	},
+	{
+		code: "1961   Mal neo lymph-intrathor            Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes",
+	},
+	{
+		code: "1962   Mal neo lymph intra-abd            Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes",
+	},
+	{
+		code: "1963   Mal neo lymph-axilla/arm           Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb",
+	},
+	{
+		code: "1965   Mal neo lymph-inguin/leg           Secondary and unspecified malignant neoplasm of lymph nodes of inguinal region and lower limb",
+	},
+	{
+		code: "1966   Mal neo lymph-intrapelv            Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes",
+	},
+	{
+		code: "1968   Mal neo lymph node-mult            Secondary and unspecified malignant neoplasm of lymph nodes of multiple sites",
+	},
+	{
+		code: "1969   Mal neo lymph node NOS             Secondary and unspecified malignant neoplasm of lymph nodes",
+	},
+	{
+		code: "1970   Secondary malig neo lung           Secondary malignant neoplasm of lung",
+	},
+	{
+		code: "1971   Sec mal neo mediastinum            Secondary malignant neoplasm of mediastinum",
+	},
+	{
+		code: "1972   Second malig neo pleura            Secondary malignant neoplasm of pleura",
+	},
+	{
+		code: "1973   Sec malig neo resp NEC             Secondary malignant neoplasm of other respiratory organs",
+	},
+	{
+		code: "1974   Sec malig neo sm bowel             Secondary malignant neoplasm of small intestine including duodenum",
+	},
+	{
+		code: "1975   Sec malig neo lg bowel             Secondary malignant neoplasm of large intestine and rectum",
+	},
+	{
+		code: "1976   Sec mal neo peritoneum             Secondary malignant neoplasm of retroperitoneum and peritoneum",
+	},
+	{
+		code: "1977   Second malig neo liver             Malignant neoplasm of liver",
+	},
+	{
+		code: "1978   Sec mal neo GI NEC                 Secondary malignant neoplasm of other digestive organs and spleen",
+	},
+	{
+		code: "1980   Second malig neo kidney            Secondary malignant neoplasm of kidney",
+	},
+	{
+		code: "1981   Sec malig neo urin NEC             Secondary malignant neoplasm of other urinary organs",
+	},
+	{
+		code: "1982   Secondary malig neo skin           Secondary malignant neoplasm of skin",
+	},
+	{
+		code: "1983   Sec mal neo brain/spine            Secondary malignant neoplasm of brain and spinal cord",
+	},
+	{
+		code: "1984   Sec malig neo nerve NEC            Secondary malignant neoplasm of other parts of nervous system",
+	},
+	{
+		code: "1985   Secondary malig neo bone           Secondary malignant neoplasm of bone and bone marrow",
+	},
+	{
+		code: "1986   Second malig neo ovary             Secondary malignant neoplasm of ovary",
+	},
+	{
+		code: "1987   Second malig neo adrenal           Secondary malignant neoplasm of adrenal gland",
+	},
+	{
+		code: "19881  Second malig neo breast            Secondary malignant neoplasm of breast",
+	},
+	{
+		code: "19882  Second malig neo genital           Secondary malignant neoplasm of genital organs",
+	},
+	{
+		code: "19889  Secondary malig neo NEC            Secondary malignant neoplasm of other specified sites",
+	},
+	{
+		code: "1990   Malig neo disseminated             Disseminated malignant neoplasm without specification of site",
+	},
+	{
+		code: "1991   Malignant neoplasm NOS             Other malignant neoplasm without specification of site",
+	},
+	{
+		code: "1992   Malig neopl-transp organ           Malignant neoplasm associated with transplant organ",
+	},
+}

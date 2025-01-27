@@ -1,0 +1,3680 @@
+{
+	{
+		code: "90000  Injur carotid artery NOS           Injury to carotid artery",
+	},
+	{
+		code: "90001  Inj common carotid arter           Injury to common carotid artery",
+	},
+	{
+		code: "90002  Inj external carotid art           Injury to external carotid artery",
+	},
+	{
+		code: "90003  Inj internal carotid art           Injury to internal carotid artery",
+	},
+	{
+		code: "9001   Inj internl jugular vein           Injury to internal jugular vein",
+	},
+	{
+		code: "90081  Inj extern jugular vein            Injury to external jugular vein",
+	},
+	{
+		code: "90082  Inj mlt head/neck vessel           Injury to multiple blood vessels of head and neck",
+	},
+	{
+		code: "90089  Inj head/neck vessel NEC           Injury to other specified blood vessels of head and neck",
+	},
+	{
+		code: "9009   Inj head/neck vessel NOS           Injury to unspecified blood vessel of head and neck",
+	},
+	{
+		code: "9010   Injury thoracic aorta              Injury to thoracic aorta",
+	},
+	{
+		code: "9011   Inj innomin/subclav art            Injury to innominate and subclavian arteries",
+	},
+	{
+		code: "9012   Inj superior vena cava             Injury to superior vena cava",
+	},
+	{
+		code: "9013   Inj innomin/subclav vein           Injury to innominate and subclavian veins",
+	},
+	{
+		code: "90140  Inj pulmonary vessel NOS           Injury to pulmonary vessel(s)",
+	},
+	{
+		code: "90141  Injury pulmonary artery            Injury to pulmonary artery",
+	},
+	{
+		code: "90142  Injury pulmonary vein              Injury to pulmonary vein",
+	},
+	{
+		code: "90181  Inj intercostal art/vein           Injury to intercostal artery or vein",
+	},
+	{
+		code: "90182  Inj int mammary art/vein           Injury to internal mammary artery or vein",
+	},
+	{
+		code: "90183  Inj mult thoracic vessel           Injury to multiple blood vessels of thorax",
+	},
+	{
+		code: "90189  Inj thoracic vessel NEC            Injury to other specified blood vessels of thorax",
+	},
+	{
+		code: "9019   Inj thoracic vessel NOS            Injury to unspecified blood vessel of thorax",
+	},
+	{
+		code: "9020   Injury abdominal aorta             Injury to abdominal aorta",
+	},
+	{
+		code: "90210  Inj infer vena cava NOS            Injury to inferior vena cava",
+	},
+	{
+		code: "90211  Injury hepatic veins               Injury to hepatic veins",
+	},
+	{
+		code: "90219  Inj infer vena cava NEC            Injury to inferior vena cava",
+	},
+	{
+		code: "90220  Inj celiac/mesen art NOS           Injury to celiac and mesenteric arteries",
+	},
+	{
+		code: "90221  Injury gastric artery              Injury to gastric artery",
+	},
+	{
+		code: "90222  Injury hepatic artery              Injury to hepatic artery",
+	},
+	{
+		code: "90223  Injury splenic artery              Injury to splenic artery",
+	},
+	{
+		code: "90224  Injury celiac axis NEC             Injury to other specified branches of celiac axis",
+	},
+	{
+		code: "90225  Inj super mesenteric art           Injury to superior mesenteric artery (trunk)",
+	},
+	{
+		code: "90226  Inj brnch sup mesent art           Injury to primary branches of superior mesenteric artery",
+	},
+	{
+		code: "90227  Inj infer mesenteric art           Injury to inferior mesenteric artery",
+	},
+	{
+		code: "90229  Inj mesenteric vess NEC            Injury to celiac and mesenteric arteries",
+	},
+	{
+		code: "90231  Inj superior mesent vein           Injury to superior mesenteric vein and primary subdivisions",
+	},
+	{
+		code: "90232  Inj inferior mesent vein           Injury to inferior mesenteric vein",
+	},
+	{
+		code: "90233  Injury portal vein                 Injury to portal vein",
+	},
+	{
+		code: "90234  Injury splenic vein                Injury to splenic vein",
+	},
+	{
+		code: "90239  Inj port/splen vess NEC            Injury to portal and splenic veins",
+	},
+	{
+		code: "90240  Injury renal vessel NOS            Injury to renal vessel(s)",
+	},
+	{
+		code: "90241  Injury renal artery                Injury to renal artery",
+	},
+	{
+		code: "90242  Injury renal vein                  Injury to renal vein",
+	},
+	{
+		code: "90249  Injury renal vessel NEC            Injury to renal blood vessels",
+	},
+	{
+		code: "90250  Injury iliac vessel NOS            Injury to iliac vessel(s)",
+	},
+	{
+		code: "90251  Inj hypogastric artery             Injury to hypogastric artery",
+	},
+	{
+		code: "90252  Injury hypogastric vein            Injury to hypogastric vein",
+	},
+	{
+		code: "90253  Injury iliac artery                Injury to iliac artery",
+	},
+	{
+		code: "90254  Injury iliac vein                  Injury to iliac vein",
+	},
+	{
+		code: "90255  Injury uterine artery              Injury to uterine artery",
+	},
+	{
+		code: "90256  Injury uterine vein                Injury to uterine vein",
+	},
+	{
+		code: "90259  Injury iliac vessel NEC            Injury to iliac blood vessels",
+	},
+	{
+		code: "90281  Injury ovarian artery              Injury to ovarian artery",
+	},
+	{
+		code: "90282  Injury ovarian vein                Injury to ovarian vein",
+	},
+	{
+		code: "90287  Inj mult abd/pelv vessel           Injury to multiple blood vessels of abdomen and pelvis",
+	},
+	{
+		code: "90289  Inj abdominal vessel NEC           Injury to other specified blood vessels of abdomen and pelvis",
+	},
+	{
+		code: "9029   Inj abdominal vessel NOS           Injury to unspecified blood vessel of abdomen and pelvis",
+	},
+	{
+		code: "90300  Inj axillary vessel NOS            Injury to axillary vessel(s)",
+	},
+	{
+		code: "90301  Injury axillary artery             Injury to axillary artery",
+	},
+	{
+		code: "90302  Injury axillary vein               Injury to axillary vein",
+	},
+	{
+		code: "9031   Injury brachial vessels            Injury to brachial blood vessels",
+	},
+	{
+		code: "9032   Injury radial vessels              Injury to radial blood vessels",
+	},
+	{
+		code: "9033   Injury ulnar vessels               Injury to ulnar blood vessels",
+	},
+	{
+		code: "9034   Injury palmar artery               Injury to palmar artery",
+	},
+	{
+		code: "9035   Injury finger vessels              Injury to digital blood vessels",
+	},
+	{
+		code: "9038   Injury arm vessels NEC             Injury to other specified blood vessels of upper extremity",
+	},
+	{
+		code: "9039   Injury arm vessel NOS              Injury to unspecified blood vessel of upper extremity",
+	},
+	{
+		code: "9040   Inj common femoral arter           Injury to common femoral artery",
+	},
+	{
+		code: "9041   Inj superfic femoral art           Injury to superficial femoral artery",
+	},
+	{
+		code: "9042   Injury femoral vein                Injury to femoral veins",
+	},
+	{
+		code: "9043   Injury saphenous vein              Injury to saphenous veins",
+	},
+	{
+		code: "90440  Inj popliteal vessel NOS           Injury to popliteal vessel(s)",
+	},
+	{
+		code: "90441  Injury popliteal artery            Injury to popliteal artery",
+	},
+	{
+		code: "90442  Injury popliteal vein              Injury to popliteal vein",
+	},
+	{
+		code: "90450  Injury tibial vessel NOS           Injury to tibial vessel(s)",
+	},
+	{
+		code: "90451  Inj anter tibial artery            Injury to anterior tibial artery",
+	},
+	{
+		code: "90452  Inj anterior tibial vein           Injury to anterior tibial vein",
+	},
+	{
+		code: "90453  Inj post tibial artery             Injury to posterior tibial artery",
+	},
+	{
+		code: "90454  Inj post tibial vein               Injury to posterior tibial vein",
+	},
+	{
+		code: "9046   Inj deep plantar vessel            Injury to deep plantar blood vessels",
+	},
+	{
+		code: "9047   Injury leg vessels NEC             Injury to other specified blood vessels of lower extremity",
+	},
+	{
+		code: "9048   Injury leg vessel NOS              Injury to unspecified blood vessel of lower extremity",
+	},
+	{
+		code: "9049   Blood vessel injury NOS            Injury to blood vessels of unspecified site",
+	},
+	{
+		code: "9050   Late effec skull/face fx           Late effect of fracture of skull and face bones",
+	},
+	{
+		code: "9051   Late eff spine/trunk fx            Late effect of fracture of spine and trunk without mention of spinal cord lesion",
+	},
+	{
+		code: "9052   Late effect arm fx                 Late effect of fracture of upper extremities",
+	},
+	{
+		code: "9053   Late eff femoral neck fx           Late effect of fracture of neck of femur",
+	},
+	{
+		code: "9054   Late effect leg fx                 Late effect of fracture of lower extremities",
+	},
+	{
+		code: "9055   Late effect fracture NEC           Late effect of fracture of multiple and unspecified bones",
+	},
+	{
+		code: "9056   Late effect dislocation            Late effect of dislocation",
+	},
+	{
+		code: "9057   Late effec sprain/strain           Late effect of sprain and strain without mention of tendon injury",
+	},
+	{
+		code: "9058   Late effec tendon injury           Late effect of tendon injury",
+	},
+	{
+		code: "9059   Late eff traumat amputat           Late effect of traumatic amputation",
+	},
+	{
+		code: "9060   Lt eff opn wnd head/trnk           Late effect of open wound of head",
+	},
+	{
+		code: "9061   Late eff open wnd extrem           Late effect of open wound of extremities without mention of tendon injury",
+	},
+	{
+		code: "9062   Late eff superficial inj           Late effect of superficial injury",
+	},
+	{
+		code: "9063   Late effect of contusion           Late effect of contusion",
+	},
+	{
+		code: "9064   Late effect of crushing            Late effect of crushing",
+	},
+	{
+		code: "9065   Late eff head/neck burn            Late effect of burn of eye",
+	},
+	{
+		code: "9066   Late eff wrist/hand burn           Late effect of burn of wrist and hand",
+	},
+	{
+		code: "9067   Late eff burn extrem NEC           Late effect of burn of other extremities",
+	},
+	{
+		code: "9068   Late effect of burns NEC           Late effect of burns of other specified sites",
+	},
+	{
+		code: "9069   Late effect of burn NOS            Late effect of burn of unspecified site",
+	},
+	{
+		code: "9070   Lt eff intracranial inj            Late effect of intracranial injury without mention of skull fracture",
+	},
+	{
+		code: "9071   Late eff cran nerve inj            Late effect of injury to cranial nerve",
+	},
+	{
+		code: "9072   Late eff spinal cord inj           Late effect of spinal cord injury",
+	},
+	{
+		code: "9073   Lt eff nerv inj trnk NEC           Late effect of injury to nerve root(s)",
+	},
+	{
+		code: "9074   Lt eff nerv inj shld/arm           Late effect of injury to peripheral nerve of shoulder girdle and upper limb",
+	},
+	{
+		code: "9075   Lt eff nerv inj pelv/leg           Late effect of injury to peripheral nerve of pelvic girdle and lower limb",
+	},
+	{
+		code: "9079   Late eff nerve inj NEC             Late effect of injury to other and unspecified nerve",
+	},
+	{
+		code: "9080   Late eff int injur chest           Late effect of internal injury to chest",
+	},
+	{
+		code: "9081   Late eff int inj abdomen           Late effect of internal injury to intra-abdominal organs",
+	},
+	{
+		code: "9082   Late eff int injury NEC            Late effect of internal injury to other internal organs",
+	},
+	{
+		code: "9083   Late eff inj periph vess           Late effect of injury to blood vessel of head",
+	},
+	{
+		code: "9084   Lt eff inj thor/abd vess           Late effect of injury to blood vessel of thorax",
+	},
+	{
+		code: "9085   Late eff FB in orifice             Late effect of foreign body in orifice",
+	},
+	{
+		code: "9086   Late eff complic trauma            Late effect of certain complications of trauma",
+	},
+	{
+		code: "9089   Late effect injury NOS             Late effect of unspecified injury",
+	},
+	{
+		code: "9090   Late eff drug poisoning            Late effect of poisoning due to drug",
+	},
+	{
+		code: "9091   Late eff nonmed substanc           Late effect of toxic effects of nonmedical substances",
+	},
+	{
+		code: "9092   Late effect of radiation           Late effect of radiation",
+	},
+	{
+		code: "9093   Late eff surg/med compl            Late effect of complications of surgical and medical care",
+	},
+	{
+		code: "9094   Late eff cert ext cause            Late effect of certain other external causes",
+	},
+	{
+		code: "9095   Lte efct advrs efct drug           Late effect of adverse effect of drug",
+	},
+	{
+		code: "9099   Late eff exter cause NEC           Late effect of other and unspecified external causes",
+	},
+	{
+		code: "9100   Abrasion head                      Abrasion or friction burn of face",
+	},
+	{
+		code: "9101   Abrasion head-infected             Abrasion or friction burn of face",
+	},
+	{
+		code: "9102   Blister head                       Blister of face",
+	},
+	{
+		code: "9103   Blister head-infected              Blister of face",
+	},
+	{
+		code: "9104   Insect bite head                   Insect bite",
+	},
+	{
+		code: "9105   Insect bite head-infect            Insect bite",
+	},
+	{
+		code: "9106   Foreign body head                  Superficial foreign body (splinter) of face",
+	},
+	{
+		code: "9107   Foreign body head-infect           Superficial foreign body (splinter) of face",
+	},
+	{
+		code: "9108   Superfic inj head NEC              Other and unspecified superficial injury of face",
+	},
+	{
+		code: "9109   Superf inj head NEC-inf            Other and unspecified superficial injury of face",
+	},
+	{
+		code: "9110   Abrasion trunk                     Abrasion or friction burn of trunk",
+	},
+	{
+		code: "9111   Abrasion trunk-infected            Abrasion or friction burn of trunk",
+	},
+	{
+		code: "9112   Blister trunk                      Blister of trunk",
+	},
+	{
+		code: "9113   Blister trunk-infected             Blister of trunk",
+	},
+	{
+		code: "9114   Insect bite trunk                  Insect bite",
+	},
+	{
+		code: "9115   Insect bite trunk-infec            Insect bite",
+	},
+	{
+		code: "9116   Foreign body trunk                 Superficial foreign body (splinter) of trunk",
+	},
+	{
+		code: "9117   Foreign body trunk-infec           Superficial foreign body (splinter) of trunk",
+	},
+	{
+		code: "9118   Superfic inj trunk NEC             Other and unspecified superficial injury of trunk",
+	},
+	{
+		code: "9119   Superf inj trnk NEC-inf            Other and unspecified superficial injury of trunk",
+	},
+	{
+		code: "9120   Abrasion shoulder/arm              Abrasion or friction burn of shoulder and upper arm",
+	},
+	{
+		code: "9121   Abrasion shldr/arm-infec           Abrasion or friction burn of shoulder and upper arm",
+	},
+	{
+		code: "9122   Blister shoulder & arm             Blister of shoulder and upper arm",
+	},
+	{
+		code: "9123   Blister shoulder/arm-inf           Blister of shoulder and upper arm",
+	},
+	{
+		code: "9124   Insect bite shoulder/arm           Insect bite",
+	},
+	{
+		code: "9125   Insect bite shld/arm-inf           Insect bite",
+	},
+	{
+		code: "9126   Foreign body shouldr/arm           Superficial foreign body (splinter) of shoulder and upper arm",
+	},
+	{
+		code: "9127   FB shoulder/arm-infect             Superficial foreign body (splinter) of shoulder and upper arm",
+	},
+	{
+		code: "9128   Superf inj shldr/arm NEC           Other and unspecified superficial injury of shoulder and upper arm",
+	},
+	{
+		code: "9129   Superf inj shldr NEC-inf           Other and unspecified superficial injury of shoulder and upper arm",
+	},
+	{
+		code: "9130   Abrasion forearm                   Abrasion or friction burn of elbow",
+	},
+	{
+		code: "9131   Abrasion forearm-infect            Abrasion or friction burn of elbow",
+	},
+	{
+		code: "9132   Blister forearm                    Blister of elbow",
+	},
+	{
+		code: "9133   Blister forearm-infected           Blister of elbow",
+	},
+	{
+		code: "9134   Insect bite forearm                Insect bite",
+	},
+	{
+		code: "9135   Insect bite forearm-inf            Insect bite",
+	},
+	{
+		code: "9136   Foreign body forearm               Superficial foreign body (splinter) of elbow",
+	},
+	{
+		code: "9137   Foreign body forearm-inf           Superficial foreign body (splinter) of elbow",
+	},
+	{
+		code: "9138   Superf inj forearm NEC             Other and unspecified superficial injury of elbow",
+	},
+	{
+		code: "9139   Suprf inj forarm NEC-inf           Other and unspecified superficial injury of elbow",
+	},
+	{
+		code: "9140   Abrasion hand                      Abrasion or friction burn of hand(s) except finger(s) alone",
+	},
+	{
+		code: "9141   Abrasion hand-infected             Abrasion or friction burn of hand(s) except finger(s) alone",
+	},
+	{
+		code: "9142   Blister hand                       Blister of hand(s) except finger(s) alone",
+	},
+	{
+		code: "9143   Blister hand-infected              Blister of hand(s) except finger(s) alone",
+	},
+	{
+		code: "9144   Insect bite hand                   Insect bite",
+	},
+	{
+		code: "9145   Insect bite hand-infect            Insect bite",
+	},
+	{
+		code: "9146   Foreign body hand                  Superficial foreign body (splinter) of hand(s) except finger(s) alone",
+	},
+	{
+		code: "9147   Foreign body hand-infect           Superficial foreign body (splinter) of hand(s) except finger(s) alone",
+	},
+	{
+		code: "9148   Superficial inj hand NEC           Other and unspecified superficial injury of hand(s) except finger(s) alone",
+	},
+	{
+		code: "9149   Superf inj hand NEC-inf            Other and unspecified superficial injury of hand(s) except finger(s) alone",
+	},
+	{
+		code: "9150   Abrasion finger                    Abrasion or friction burn of finger(s)",
+	},
+	{
+		code: "9151   Abrasion finger-infected           Abrasion or friction burn of finger(s)",
+	},
+	{
+		code: "9152   Blister finger                     Blister of finger(s)",
+	},
+	{
+		code: "9153   Blister finger-infected            Blister of finger(s)",
+	},
+	{
+		code: "9154   Insect bite finger                 Insect bite",
+	},
+	{
+		code: "9155   Insect bite finger-infec           Insect bite",
+	},
+	{
+		code: "9156   Foreign body finger                Superficial foreign body (splinter) of finger(s)",
+	},
+	{
+		code: "9157   Foreign body finger-inf            Superficial foreign body (splinter) of finger(s)",
+	},
+	{
+		code: "9158   Superfic inj finger-NEC            Other and unspecified superficial injury of fingers without mention of infection",
+	},
+	{
+		code: "9159   Suprf inj finger NEC-inf           Other and unspecified superficial injury of fingers",
+	},
+	{
+		code: "9160   Abrasion hip & leg                 Abrasion or friction burn of hip",
+	},
+	{
+		code: "9161   Abrasion hip/leg-infect            Abrasion or friction burn of hip",
+	},
+	{
+		code: "9162   Blister hip & leg                  Blister of hip",
+	},
+	{
+		code: "9163   Blister hip & leg-infect           Blister of hip",
+	},
+	{
+		code: "9164   Insect bite hip & leg              Insect bite",
+	},
+	{
+		code: "9165   Insect bite hip/leg-inf            Insect bite",
+	},
+	{
+		code: "9166   Foreign body hip/leg               Superficial foreign body (splinter) of hip",
+	},
+	{
+		code: "9167   Foreign bdy hip/leg-inf            Superficial foreign body (splinter) of hip",
+	},
+	{
+		code: "9168   Superfic inj hip/leg NEC           Other and unspecified superficial injury of hip",
+	},
+	{
+		code: "9169   Superf inj leg NEC-infec           Other and unspecified superficial injury of hip",
+	},
+	{
+		code: "9170   Abrasion foot & toe                Abrasion or friction burn of foot and toe(s)",
+	},
+	{
+		code: "9171   Abrasion foot/toe-infec            Abrasion or friction burn of foot and toe(s)",
+	},
+	{
+		code: "9172   Blister foot & toe                 Blister of foot and toe(s)",
+	},
+	{
+		code: "9173   Blister foot & toe-infec           Blister of foot and toe(s)",
+	},
+	{
+		code: "9174   Insect bite foot/toe               Insect bite",
+	},
+	{
+		code: "9175   Insect bite foot/toe-inf           Insect bite",
+	},
+	{
+		code: "9176   Foreign body foot & toe            Superficial foreign body (splinter) of foot and toe(s)",
+	},
+	{
+		code: "9177   Foreign bdy foot/toe-inf           Superficial foreign body (splinter) of foot and toe(s)",
+	},
+	{
+		code: "9178   Superf inj foot/toe NEC            Other and unspecified superficial injury of foot and toes",
+	},
+	{
+		code: "9179   Superf inj foot NEC-inf            Other and unspecified superficial injury of foot and toes",
+	},
+	{
+		code: "9180   Superfic inj periocular            Superficial injury of eyelids and periocular area",
+	},
+	{
+		code: "9181   Superficial inj cornea             Superficial injury of cornea",
+	},
+	{
+		code: "9182   Superfic inj conjunctiva           Superficial injury of conjunctiva",
+	},
+	{
+		code: "9189   Superficial inj eye NEC            Other and unspecified superficial injuries of eye",
+	},
+	{
+		code: "9190   Abrasion NEC                       Abrasion or friction burn of other",
+	},
+	{
+		code: "9191   Abrasion NEC-infected              Abrasion or friction burn of other",
+	},
+	{
+		code: "9192   Blister NEC                        Blister of other",
+	},
+	{
+		code: "9193   Blister NEC-infected               Blister of other",
+	},
+	{
+		code: "9194   Insect bite NEC                    Insect bite",
+	},
+	{
+		code: "9195   Insect bite NEC-infected           Insect bite",
+	},
+	{
+		code: "9196   Superfic foreign bdy NEC           Superficial foreign body (splinter) of other",
+	},
+	{
+		code: "9197   Superficial FB NEC-infec           Superficial foreign body (splinter) of other",
+	},
+	{
+		code: "9198   Superficial injury NEC             Other and unspecified superficial injury of other",
+	},
+	{
+		code: "9199   Superfic inj NEC-infect            Other and unspecified superficial injury of other",
+	},
+	{
+		code: "920    Contusion face/scalp/nck           Contusion of face",
+	},
+	{
+		code: "9210   Black eye NOS                      Black eye",
+	},
+	{
+		code: "9211   Contusion periocular               Contusion of eyelids and periocular area",
+	},
+	{
+		code: "9212   Contusion orbital tissue           Contusion of orbital tissues",
+	},
+	{
+		code: "9213   Contusion of eyeball               Contusion of eyeball",
+	},
+	{
+		code: "9219   Contusion of eye NOS               Unspecified contusion of eye",
+	},
+	{
+		code: "9220   Contusion of breast                Contusion of breast",
+	},
+	{
+		code: "9221   Contusion of chest wall            Contusion of chest wall",
+	},
+	{
+		code: "9222   Contusion abdominal wall           Contusion of abdominal wall",
+	},
+	{
+		code: "92231  Back contusion                     Contusion of back",
+	},
+	{
+		code: "92232  Buttock contusion                  Contusion of buttock",
+	},
+	{
+		code: "92233  Interscplr reg contusion           Contusion of interscapular region",
+	},
+	{
+		code: "9224   Contusion genital organs           Contusion of genital organs",
+	},
+	{
+		code: "9228   Multiple contusion trunk           Contusion of multiple sites of trunk",
+	},
+	{
+		code: "9229   Contusion trunk NOS                Contusion of unspecified part of trunk",
+	},
+	{
+		code: "92300  Contusion shoulder reg             Contusion of shoulder region",
+	},
+	{
+		code: "92301  Contusion scapul region            Contusion of scapular region",
+	},
+	{
+		code: "92302  Contusion axillary reg             Contusion of axillary region",
+	},
+	{
+		code: "92303  Contusion of upper arm             Contusion of upper arm",
+	},
+	{
+		code: "92309  Contusion shoulder & arm           Contusion of multiple sites of shoulder and upper arm",
+	},
+	{
+		code: "92310  Contusion of forearm               Contusion of forearm",
+	},
+	{
+		code: "92311  Contusion of elbow                 Contusion of elbow",
+	},
+	{
+		code: "92320  Contusion of hand(s)               Contusion of hand(s)",
+	},
+	{
+		code: "92321  Contusion of wrist                 Contusion of wrist",
+	},
+	{
+		code: "9233   Contusion of finger                Contusion of finger",
+	},
+	{
+		code: "9238   Multiple contusion arm             Contusion of multiple sites of upper limb",
+	},
+	{
+		code: "9239   Contusion upper limb NOS           Contusion of unspecified part of upper limb",
+	},
+	{
+		code: "92400  Contusion of thigh                 Contusion of thigh",
+	},
+	{
+		code: "92401  Contusion of hip                   Contusion of hip",
+	},
+	{
+		code: "92410  Contusion of lower leg             Contusion of lower leg",
+	},
+	{
+		code: "92411  Contusion of knee                  Contusion of knee",
+	},
+	{
+		code: "92420  Contusion of foot                  Contusion of foot",
+	},
+	{
+		code: "92421  Contusion of ankle                 Contusion of ankle",
+	},
+	{
+		code: "9243   Contusion of toe                   Contusion of toe",
+	},
+	{
+		code: "9244   Multiple contusion leg             Contusion of multiple sites of lower limb",
+	},
+	{
+		code: "9245   Contusion leg NOS                  Contusion of unspecified part of lower limb",
+	},
+	{
+		code: "9248   Multiple contusions NEC            Contusion of multiple sites",
+	},
+	{
+		code: "9249   Contusion NOS                      Contusion of unspecified site",
+	},
+	{
+		code: "9251   Crush inj face scalp               Crushing injury of face and scalp",
+	},
+	{
+		code: "9252   Crush inj neck                     Crushing injury of neck",
+	},
+	{
+		code: "9260   Crush inj ext genitalia            Crushing injury of external genitalia",
+	},
+	{
+		code: "92611  Crushing injury back               Crushing injury of back",
+	},
+	{
+		code: "92612  Crushing injury buttock            Crushing injury of buttock",
+	},
+	{
+		code: "92619  Crushing inj trunk NEC             Crushing injury of other specified sites of trunk",
+	},
+	{
+		code: "9268   Mult crushing inj trunk            Crushing injury of multiple sites of trunk",
+	},
+	{
+		code: "9269   Crushing inj trunk NOS             Crushing injury of unspecified site of trunk",
+	},
+	{
+		code: "92700  Crush inj shoulder reg             Crushing injury of shoulder region",
+	},
+	{
+		code: "92701  Crush inj scapul region            Crushing injury of scapular region",
+	},
+	{
+		code: "92702  Crush inj axillary reg             Crushing injury of axillary region",
+	},
+	{
+		code: "92703  Crushing inj upper arm             Crushing injury of upper arm",
+	},
+	{
+		code: "92709  Crush inj shoulder & arm           Crushing injury of multiple sites of upper arm",
+	},
+	{
+		code: "92710  Crushing injury forearm            Crushing injury of forearm",
+	},
+	{
+		code: "92711  Crushing injury elbow              Crushing injury of elbow",
+	},
+	{
+		code: "92720  Crushing injury of hand            Crushing injury of hand(s)",
+	},
+	{
+		code: "92721  Crushing injury of wrist           Crushing injury of wrist",
+	},
+	{
+		code: "9273   Crushing injury finger             Crushing injury of finger(s)",
+	},
+	{
+		code: "9278   Mult crushing injury arm           Crushing injury of multiple sites of upper limb",
+	},
+	{
+		code: "9279   Crushing injury arm NOS            Crushing injury of unspecified site of upper limb",
+	},
+	{
+		code: "92800  Crushing injury thigh              Crushing injury of thigh",
+	},
+	{
+		code: "92801  Crushing injury hip                Crushing injury of hip",
+	},
+	{
+		code: "92810  Crushing inj lower leg             Crushing injury of lower leg",
+	},
+	{
+		code: "92811  Crushing injury knee               Crushing injury of knee",
+	},
+	{
+		code: "92820  Crushing injury foot               Crushing injury of foot",
+	},
+	{
+		code: "92821  Crushing injury ankle              Crushing injury of ankle",
+	},
+	{
+		code: "9283   Crushing injury toe                Crushing injury of toe(s)",
+	},
+	{
+		code: "9288   Mult crushing injury leg           Crushing injury of multiple sites of lower limb",
+	},
+	{
+		code: "9289   Crushing injury leg NOS            Crushing injury of unspecified site of lower limb",
+	},
+	{
+		code: "9290   Crush inj mult site NEC            Crushing injury of multiple sites",
+	},
+	{
+		code: "9299   Crushing injury NOS                Crushing injury of unspecified site",
+	},
+	{
+		code: "9300   Corneal foreign body               Corneal foreign body",
+	},
+	{
+		code: "9301   FB in conjunctival sac             Foreign body in conjunctival sac",
+	},
+	{
+		code: "9302   FB in lacrimal punctum             Foreign body in lacrimal punctum",
+	},
+	{
+		code: "9308   Foreign bdy ext eye NEC            Foreign body in other and combined sites on external eye",
+	},
+	{
+		code: "9309   Foreign bdy ext eye NOS            Foreign body in unspecified site on external eye",
+	},
+	{
+		code: "931    Foreign body in ear                Foreign body in ear",
+	},
+	{
+		code: "932    Foreign body in nose               Foreign body in nose",
+	},
+	{
+		code: "9330   Foreign body in pharynx            Foreign body in pharynx",
+	},
+	{
+		code: "9331   Foreign body in larynx             Foreign body in larynx",
+	},
+	{
+		code: "9340   Foreign body in trachea            Foreign body in trachea",
+	},
+	{
+		code: "9341   Foreign body bronchus              Foreign body in main bronchus",
+	},
+	{
+		code: "9348   FB trach/bronch/lung NEC           Foreign body in other specified parts bronchus and lung",
+	},
+	{
+		code: "9349   FB respiratory tree NOS            Foreign body in respiratory tree",
+	},
+	{
+		code: "9350   Foreign body in mouth              Foreign body in mouth",
+	},
+	{
+		code: "9351   Foreign body esophagus             Foreign body in esophagus",
+	},
+	{
+		code: "9352   Foreign body in stomach            Foreign body in stomach",
+	},
+	{
+		code: "936    FB in intestine & colon            Foreign body in intestine and colon",
+	},
+	{
+		code: "937    Foreign body anus/rectum           Foreign body in anus and rectum",
+	},
+	{
+		code: "938    Foreign body GI NOS                Foreign body in digestive system",
+	},
+	{
+		code: "9390   FB bladder & urethra               Foreign body in bladder and urethra",
+	},
+	{
+		code: "9391   Foreign body uterus                Foreign body in uterus",
+	},
+	{
+		code: "9392   Foreign bdy vulva/vagina           Foreign body in vulva and vagina",
+	},
+	{
+		code: "9393   Foreign body penis                 Foreign body in penis",
+	},
+	{
+		code: "9399   Foreign bdy gu tract NOS           Foreign body in unspecified site in genitourinary tract",
+	},
+	{
+		code: "9400   Chemical burn periocular           Chemical burn of eyelids and periocular area",
+	},
+	{
+		code: "9401   Burn periocular area NEC           Other burns of eyelids and periocular area",
+	},
+	{
+		code: "9402   Alkal burn cornea/conjun           Alkaline chemical burn of cornea and conjunctival sac",
+	},
+	{
+		code: "9403   Acid burn cornea/conjunc           Acid chemical burn of cornea and conjunctival sac",
+	},
+	{
+		code: "9404   Burn cornea/conjunct NEC           Other burn of cornea and conjunctival sac",
+	},
+	{
+		code: "9405   Burn w eyeball destruct            Burn with resulting rupture and destruction of eyeball",
+	},
+	{
+		code: "9409   Burn eye & adnexa NOS              Unspecified burn of eye and adnexa",
+	},
+	{
+		code: "94100  Burn NOS head-unspec               Burn of unspecified degree of face and head",
+	},
+	{
+		code: "94101  Burn NOS ear                       Burn of unspecified degree of ear [any part]",
+	},
+	{
+		code: "94102  Burn NOS eye                       Burn of unspecified degree of eye (with other parts of face",
+	},
+	{
+		code: "94103  Burn NOS lip                       Burn of unspecified degree of lip(s)",
+	},
+	{
+		code: "94104  Burn NOS chin                      Burn of unspecified degree of chin",
+	},
+	{
+		code: "94105  Burn NOS nose                      Burn of unspecified degree of nose (septum)",
+	},
+	{
+		code: "94106  Burn NOS scalp                     Burn of unspecified degree of scalp [any part]",
+	},
+	{
+		code: "94107  Burn NOS face NEC                  Burn of unspecified degree of forehead and cheek",
+	},
+	{
+		code: "94108  Burn NOS neck                      Burn of unspecified degree of neck",
+	},
+	{
+		code: "94109  Burn NOS head-mult                 Burn of unspecified degree of multiple sites [except with eye] of face",
+	},
+	{
+		code: "94110  1st deg burn head NOS              Erythema [first degree] of face and head",
+	},
+	{
+		code: "94111  1st deg burn ear                   Erythema [first degree] of ear [any part]",
+	},
+	{
+		code: "94112  1st deg burn eye                   Erythema [first degree] of eye (with other parts face",
+	},
+	{
+		code: "94113  1st deg burn lip                   Erythema [first degree] of lip(s)",
+	},
+	{
+		code: "94114  1st deg burn chin                  Erythema [first degree] of chin",
+	},
+	{
+		code: "94115  1st deg burn nose                  Erythema [first degree] of nose (septum)",
+	},
+	{
+		code: "94116  1st deg burn scalp                 Erythema [first degree] of scalp [any part]",
+	},
+	{
+		code: "94117  1st deg burn face NEC              Erythema [first degree] of forehead and cheek",
+	},
+	{
+		code: "94118  1st deg burn neck                  Erythema [first degree] of neck",
+	},
+	{
+		code: "94119  1st deg burn head-mult             Erythema [first degree] of multiple sites [except with eye] of face",
+	},
+	{
+		code: "94120  2nd deg burn head NOS              Blisters",
+	},
+	{
+		code: "94121  2nd deg burn ear                   Blisters",
+	},
+	{
+		code: "94122  2nd deg burn eye                   Blisters",
+	},
+	{
+		code: "94123  2nd deg burn lip                   Blisters",
+	},
+	{
+		code: "94124  2nd deg burn chin                  Blisters",
+	},
+	{
+		code: "94125  2nd deg burn nose                  Blisters",
+	},
+	{
+		code: "94126  2nd deg burn scalp                 Blisters",
+	},
+	{
+		code: "94127  2nd deg burn face NEC              Blisters",
+	},
+	{
+		code: "94128  2nd deg burn neck                  Blisters",
+	},
+	{
+		code: "94129  2nd deg burn head-mult             Blisters",
+	},
+	{
+		code: "94130  3rd deg burn head NOS              Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94131  3rd deg burn ear                   Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94132  3rd deg burn eye                   Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94133  3rd deg burn lip                   Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94134  3rd deg burn chin                  Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94135  3rd deg burn nose                  Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94136  3rd deg burn scalp                 Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94137  3rd deg burn face NEC              Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94138  3rd deg burn neck                  Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94139  3rd deg burn head-mult             Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94140  Deep 3 deg burn head NOS           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94141  Deep 3rd deg burn ear              Deep necrosis of underlying tissues [deep third degree]) without mention of loss of a body part",
+	},
+	{
+		code: "94142  Deep 3rd deg burn eye              Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94143  Deep 3rd deg burn lip              Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94144  Deep 3rd deg burn chin             Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94145  Deep 3rd deg burn nose             Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94146  Deep 3rd deg burn scalp            Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part of scalp [any part]",
+	},
+	{
+		code: "94147  Deep 3rd burn face NEC             Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94148  Deep 3rd deg burn neck             Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94149  Deep 3 deg brn head-mult           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94150  3rd burn w loss-head NOS           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94151  3rd deg burn w loss-ear            Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94152  3rd deg burn w loss-eye            Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94153  3rd deg burn w loss-lip            Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94154  3rd deg burn w loss-chin           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94155  3rd deg burn w loss-nose           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94156  3rd deg brn w loss-scalp           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94157  3rd burn w loss-face NEC           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94158  3rd deg burn w loss-neck           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94159  3rd brn w loss-head mult           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94200  Burn NOS trunk-unspec              Burn of unspecified degree of trunk",
+	},
+	{
+		code: "94201  Burn NOS breast                    Burn of unspecified degree of breast",
+	},
+	{
+		code: "94202  Burn NOS chest wall                Burn of unspecified degree of chest wall",
+	},
+	{
+		code: "94203  Burn NOS abdominal wall            Burn of unspecified degree of abdominal wall",
+	},
+	{
+		code: "94204  Burn NOS back                      Burn of unspecified degree of back [any part]",
+	},
+	{
+		code: "94205  Burn NOS genitalia                 Burn of unspecified degree of genitalia",
+	},
+	{
+		code: "94209  Burn NOS trunk NEC                 Burn of unspecified degree of other and multiple sites of trunk",
+	},
+	{
+		code: "94210  1st deg burn trunk NOS             Erythema [first degree] of trunk",
+	},
+	{
+		code: "94211  1st deg burn breast                Erythema [first degree] of breast",
+	},
+	{
+		code: "94212  1st deg burn chest wall            Erythema [first degree] of chest wall",
+	},
+	{
+		code: "94213  1st deg burn abdomn wall           Erythema [first degree] of abdominal wall",
+	},
+	{
+		code: "94214  1st deg burn back                  Erythema [first degree] of back [any part]",
+	},
+	{
+		code: "94215  1st deg burn genitalia             Erythema [first degree] of genitalia",
+	},
+	{
+		code: "94219  1st deg burn trunk NEC             Erythema [first degree] of other and multiple sites of trunk",
+	},
+	{
+		code: "94220  2nd deg burn trunk NOS             Blisters",
+	},
+	{
+		code: "94221  2nd deg burn breast                Blisters",
+	},
+	{
+		code: "94222  2nd deg burn chest wall            Blisters",
+	},
+	{
+		code: "94223  2nd deg burn abdomn wall           Blisters",
+	},
+	{
+		code: "94224  2nd deg burn back                  Blisters",
+	},
+	{
+		code: "94225  2nd deg burn genitalia             Blisters",
+	},
+	{
+		code: "94229  2nd deg burn trunk NEC             Blisters",
+	},
+	{
+		code: "94230  3rd deg burn trunk NOS             Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94231  3rd deg burn breast                Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94232  3rd deg burn chest wall            Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94233  3rd deg burn abdomn wall           Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94234  3rd deg burn back                  Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94235  3rd deg burn genitalia             Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94239  3rd deg burn trunk NEC             Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94240  Deep 3rd burn trunk NOS            Deep necrosis of underlying tissues [deep third degree] ) without mention of loss of a body part",
+	},
+	{
+		code: "94241  Deep 3rd deg burn breast           Deep necrosis of underlying tissues [deep third degree]) without mention of loss of a body part",
+	},
+	{
+		code: "94242  Deep 3rd burn chest wall           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94243  Deep 3rd burn abdom wall           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94244  Deep 3rd deg burn back             Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94245  Deep 3rd burn genitalia            Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94249  Deep 3rd burn trunk NEC            Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94250  3rd brn w loss-trunk NOS           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94251  3rd burn w loss-breast             Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94252  3rd brn w loss-chest wll           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94253  3rd brn w loss-abdom wll           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94254  3rd deg burn w loss-back           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94255  3rd brn w loss-genitalia           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94259  3rd brn w loss-trunk NEC           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94300  Burn NOS arm-unspec                Burn of unspecified degree of upper limb",
+	},
+	{
+		code: "94301  Burn NOS forearm                   Burn of unspecified degree of forearm",
+	},
+	{
+		code: "94302  Burn NOS elbow                     Burn of unspecified degree of elbow",
+	},
+	{
+		code: "94303  Burn NOS upper arm                 Burn of unspecified degree of upper arm",
+	},
+	{
+		code: "94304  Burn NOS axilla                    Burn of unspecified degree of axilla",
+	},
+	{
+		code: "94305  Burn NOS shoulder                  Burn of unspecified degree of shoulder",
+	},
+	{
+		code: "94306  Burn NOS scapula                   Burn of unspecified degree of scapular region",
+	},
+	{
+		code: "94309  Burn NOS arm-multiple              Burn of unspecified degree of multiple sites of upper limb",
+	},
+	{
+		code: "94310  1st deg burn arm NOS               Erythema [first degree] of upper limb",
+	},
+	{
+		code: "94311  1st deg burn forearm               Erythema [first degree] of forearm",
+	},
+	{
+		code: "94312  1st deg burn elbow                 Erythema [first degree] of elbow",
+	},
+	{
+		code: "94313  1st deg burn upper arm             Erythema [first degree] of upper arm",
+	},
+	{
+		code: "94314  1st deg burn axilla                Erythema [first degree] of axilla",
+	},
+	{
+		code: "94315  1st deg burn shoulder              Erythema [first degree] of shoulder",
+	},
+	{
+		code: "94316  1st deg burn scapula               Erythema [first degree] of scapular region",
+	},
+	{
+		code: "94319  1st deg burn arm-mult              Erythema [first degree] of multiple sites of upper limb",
+	},
+	{
+		code: "94320  2nd deg burn arm NOS               Blisters",
+	},
+	{
+		code: "94321  2nd deg burn forearm               Blisters",
+	},
+	{
+		code: "94322  2nd deg burn elbow                 Blisters",
+	},
+	{
+		code: "94323  2nd deg burn upper arm             Blisters",
+	},
+	{
+		code: "94324  2nd deg burn axilla                Blisters",
+	},
+	{
+		code: "94325  2nd deg burn shoulder              Blisters",
+	},
+	{
+		code: "94326  2nd deg burn scapula               Blisters",
+	},
+	{
+		code: "94329  2nd deg burn arm-mult              Blisters",
+	},
+	{
+		code: "94330  3rd deg burn arm NOS               Full-thickness skin [third degree",
+	},
+	{
+		code: "94331  3rd deg burn forearm               Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94332  3rd deg burn elbow                 Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94333  3rd deg burn upper arm             Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94334  3rd deg burn axilla                Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94335  3rd deg burn shoulder              Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94336  3rd deg burn scapula               Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94339  3rd deg burn arm-mult              Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94340  Deep 3 deg burn arm NOS            Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94341  Deep 3 deg burn forearm            Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94342  Deep 3 deg burn elbow              Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94343  Deep 3 deg brn upper arm           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94344  Deep 3 deg burn axilla             Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94345  Deep 3 deg burn shoulder           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94346  Deep 3 deg burn scapula            Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94349  Deep 3 deg burn arm-mult           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94350  3rd burn w loss-arm NOS            Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94351  3rd burn w loss-forearm            Deep necrosis of underlying tissues [deep third degree) with loss of a body part",
+	},
+	{
+		code: "94352  3rd burn w loss-elbow              Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94353  3rd brn w loss-upper arm           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94354  3rd burn w loss-axilla             Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94355  3rd burn w loss-shoulder           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94356  3rd burn w loss-scapula            Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94359  3rd burn w loss arm-mult           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94400  Burn NOS hand-unspec               Burn of unspecified degree of hand",
+	},
+	{
+		code: "94401  Burn NOS finger                    Burn of unspecified degree of single digit (finger (nail) other than thumb",
+	},
+	{
+		code: "94402  Burn NOS thumb                     Burn of unspecified degree of thumb (nail)",
+	},
+	{
+		code: "94403  Burn NOS mult fingers              Burn of unspecified degree of two or more digits of hand",
+	},
+	{
+		code: "94404  Burn NOS finger w thumb            Burn of unspecified degree of two or more digits of hand",
+	},
+	{
+		code: "94405  Burn NOS palm                      Burn of unspecified degree of palm",
+	},
+	{
+		code: "94406  Burn NOS back of hand              Burn of unspecified degree of back of hand",
+	},
+	{
+		code: "94407  Burn NOS wrist                     Burn of unspecified degree of wrist",
+	},
+	{
+		code: "94408  Burn NOS hand-multiple             Burn of unspecified degree of multiple sites of wrist(s) and hand(s)",
+	},
+	{
+		code: "94410  1st deg burn hand NOS              Erythema [first degree] of hand",
+	},
+	{
+		code: "94411  1st deg burn finger                Erythema [first degree] of single digit (finger (nail)) other than thumb",
+	},
+	{
+		code: "94412  1st deg burn thumb                 Erythema [first degree] of thumb (nail)",
+	},
+	{
+		code: "94413  1st deg burn mult finger           Erythema [first degree] of two or more digits of hand",
+	},
+	{
+		code: "94414  1 deg burn fingr w thumb           Erythema [first degree] of two or more digits of hand including thumb",
+	},
+	{
+		code: "94415  1st deg burn palm                  Erythema [first degree] of palm",
+	},
+	{
+		code: "94416  1 deg burn back of hand            Erythema [first degree] of back of hand",
+	},
+	{
+		code: "94417  1st deg burn wrist                 Erythema [first degree] of wrist",
+	},
+	{
+		code: "94418  1st deg burn hand-mult             Erythema [first degree] of multiple sites of wrist(s) and hand(s)",
+	},
+	{
+		code: "94420  2nd deg burn hand NOS              Blisters",
+	},
+	{
+		code: "94421  2nd deg burn finger                Blisters",
+	},
+	{
+		code: "94422  2nd deg burn thumb                 Blisters",
+	},
+	{
+		code: "94423  2nd deg burn mult finger           Blisters",
+	},
+	{
+		code: "94424  2 deg burn fingr w thumb           Blisters",
+	},
+	{
+		code: "94425  2nd deg burn palm                  Blisters",
+	},
+	{
+		code: "94426  2 deg burn back of hand            Blisters ",
+	},
+	{
+		code: "94427  2nd deg burn wrist                 Blisters",
+	},
+	{
+		code: "94428  2nd deg burn hand-mult             Blisters",
+	},
+	{
+		code: "94430  3rd deg burn hand NOS              Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94431  3rd deg burn finger                Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94432  3rd deg burn thumb                 Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94433  3rd deg burn mult finger           Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94434  3 deg burn fingr w thumb           Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94435  3rd deg burn palm                  Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94436  3 deg burn back of hand            Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94437  3rd deg burn wrist                 Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94438  3rd deg burn hand-mult             Full-thickness skin loss [third degree",
+	},
+	{
+		code: "94440  Deep 3 deg brn hand NOS            Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94441  Deep 3 deg burn finger             Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94442  Deep 3 deg burn thumb              Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94443  Deep 3rd brn mult finger           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94444  Deep 3rd brn fngr w thmb           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94445  Deep 3 deg burn palm               Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94446  Deep 3rd brn back of hnd           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94447  Deep 3 deg burn wrist              Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94448  Deep 3 deg brn hand-mult           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94450  3rd brn w loss-hand NOS            Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94451  3rd burn w loss-finger             Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94452  3rd burn w loss-thumb              Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94453  3rd brn w loss-mult fngr           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94454  3rd brn w loss-fngr/thmb           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94455  3rd burn w loss-palm               Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94456  3rd brn w loss-bk of hnd           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94457  3rd burn w loss-wrist              Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94458  3rd brn w loss hand-mult           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94500  Burn NOS leg-unspec                Burn of unspecified degree of lower limb [leg]",
+	},
+	{
+		code: "94501  Burn NOS toe                       Burn of unspecified degree of toe(s) (nail)",
+	},
+	{
+		code: "94502  Burn NOS foot                      Burn of unspecified degree of foot",
+	},
+	{
+		code: "94503  Burn NOS ankle                     Burn of unspecified degree of ankle",
+	},
+	{
+		code: "94504  Burn NOS lower leg                 Burn of unspecified degree of lower leg",
+	},
+	{
+		code: "94505  Burn NOS knee                      Burn of unspecified degree of knee",
+	},
+	{
+		code: "94506  Burn NOS thigh                     Burn of unspecified degree of thigh [any part]",
+	},
+	{
+		code: "94509  Burn NOS leg-multiple              Burn of unspecified degree of multiple sites of lower limb(s)",
+	},
+	{
+		code: "94510  1st deg burn leg NOS               Erythema [first degree] of lower limb [leg]",
+	},
+	{
+		code: "94511  1st deg burn toe                   Erythema [first degree] of toe(s) (nail)",
+	},
+	{
+		code: "94512  1st deg burn foot                  Erythema [first degree] of foot",
+	},
+	{
+		code: "94513  1st deg burn ankle                 Erythema [first degree] of ankle",
+	},
+	{
+		code: "94514  1st deg burn lower leg             Erythema [first degree] of lower leg",
+	},
+	{
+		code: "94515  1st deg burn knee                  Erythema [first degree] of knee",
+	},
+	{
+		code: "94516  1st deg burn thigh                 Erythema [first degree] of thigh [any part]",
+	},
+	{
+		code: "94519  1st deg burn leg-mult              Erythema [first degree] of multiple sites of lower limb(s)",
+	},
+	{
+		code: "94520  2nd deg burn leg NOS               Blisters",
+	},
+	{
+		code: "94521  2nd deg burn toe                   Blisters",
+	},
+	{
+		code: "94522  2nd deg burn foot                  Blisters",
+	},
+	{
+		code: "94523  2nd deg burn ankle                 Blisters",
+	},
+	{
+		code: "94524  2nd deg burn lower leg             Blisters",
+	},
+	{
+		code: "94525  2nd deg burn knee                  Blisters",
+	},
+	{
+		code: "94526  2nd deg burn thigh                 Blisters",
+	},
+	{
+		code: "94529  2nd deg burn leg-mult              Blisters",
+	},
+	{
+		code: "94530  3rd deg burn leg NOS               Full-thickness skin loss [third degree NOS] of lower limb [leg] unspecified site",
+	},
+	{
+		code: "94531  3rd deg burn toe                   Full-thickness skin loss [third degree NOS] of toe(s) (nail)",
+	},
+	{
+		code: "94532  3rd deg burn foot                  Full-thickness skin loss [third degree NOS] of foot",
+	},
+	{
+		code: "94533  3rd deg burn ankle                 Full-thickness skin loss [third degree NOS] of ankle",
+	},
+	{
+		code: "94534  3rd deg burn low leg               Full-thickness skin loss [third degree nos] of lower leg",
+	},
+	{
+		code: "94535  3rd deg burn knee                  Full-thickness skin loss [third degree NOS] of knee",
+	},
+	{
+		code: "94536  3rd deg burn thigh                 Full-thickness skin loss [third degree NOS] of thigh [any part]",
+	},
+	{
+		code: "94539  3rd deg burn leg-mult              Full-thickness skin loss [third degree NOS] of multiple sites of lower limb(s)",
+	},
+	{
+		code: "94540  Deep 3rd deg brn leg NOS           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94541  Deep 3rd deg burn toe              Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94542  Deep 3rd deg burn foot             Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94543  Deep 3rd deg burn ankle            Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94544  Deep 3rd deg brn low leg           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94545  Deep 3rd deg burn knee             Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94546  Deep 3rd deg burn thigh            Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94549  Deep 3 deg burn leg-mult           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "94550  3 deg brn w loss-leg NOS           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94551  3 deg burn w loss-toe              Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94552  3 deg burn w loss-foot             Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94553  3 deg burn w loss-ankle            Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94554  3 deg brn w loss-low leg           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94555  3 deg burn w loss-knee             Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94556  3 deg burn w loss-thigh            Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "94559  3 deg brn w loss leg-mlt           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "9460   Burn NOS multiple site             Burns of multiple specified sites",
+	},
+	{
+		code: "9461   1st deg burn mult site             Erythema [first degree] of multiple specified sites",
+	},
+	{
+		code: "9462   2nd deg burn mult site             Blisters",
+	},
+	{
+		code: "9463   3rd deg burn mult site             Full-thickness skin loss [third degree NOS] of multiple specified sites",
+	},
+	{
+		code: "9464   Deep 3 deg brn mult site           Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "9465   3rd brn w loss-mult site           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "9470   Burn of mouth & pharynx            Burn of mouth and pharynx",
+	},
+	{
+		code: "9471   Burn larynx/trachea/lung           Burn of larynx",
+	},
+	{
+		code: "9472   Burn of esophagus                  Burn of esophagus",
+	},
+	{
+		code: "9473   Burn of GI tract                   Burn of gastrointestinal tract",
+	},
+	{
+		code: "9474   Burn of vagina & uterus            Burn of vagina and uterus",
+	},
+	{
+		code: "9478   Burn internal organ NEC            Burn of other specified sites of internal organs",
+	},
+	{
+		code: "9479   Burn internal organ NOS            Burn of internal organs",
+	},
+	{
+		code: "94800  Bdy brn < 10%/3d deg NOS           Burn [any degree] involving less than 10 percent of body surface with third degree burn",
+	},
+	{
+		code: "94810  10-19% bdy brn/3 deg NOS           Burn [any degree] involving 10-19 percent of body surface with third degree burn",
+	},
+	{
+		code: "94811  10-19% bdy brn/10-19% 3d           Burn [any degree] involving 10-19 percent of body surface with third degree burn",
+	},
+	{
+		code: "94820  20-29% bdy brn/3 deg NOS           Burn [any degree] involving 20-29 percent of body surface with third degree burn",
+	},
+	{
+		code: "94821  20-29% bdy brn/10-19% 3d           Burn [any degree] involving 20-29 percent of body surface with third degree burn",
+	},
+	{
+		code: "94822  20-29% bdy brn/20-29% 3d           Burn [any degree] involving 20-29 percent of body surface with third degree burn",
+	},
+	{
+		code: "94830  30-39% bdy brn/3 deg NOS           Burn [any degree] involving 30-39 percent of body surface with third degree burn",
+	},
+	{
+		code: "94831  30-39% bdy brn/10-19% 3d           Burn [any degree] involving 30-39 percent of body surface with third degree burn",
+	},
+	{
+		code: "94832  30-39% bdy brn/20-29% 3d           Burn [any degree] involving 30-39 percent of body surface with third degree burn",
+	},
+	{
+		code: "94833  30-39% bdy brn/30-39% 3d           Burn [any degree] involving 30-39 percent of body surface with third degree burn",
+	},
+	{
+		code: "94840  40-49% bdy brn/3 deg NOS           Burn [any degree] involving 40-49 percent of body surface with third degree burn",
+	},
+	{
+		code: "94841  40-49% bdy brn/10-19% 3d           Burn [any degree] involving 40-49 percent of body surface with third degree burn",
+	},
+	{
+		code: "94842  40-49% bdy brn/20-29% 3d           Burn [any degree] involving 40-49 percent of body surface with third degree burn",
+	},
+	{
+		code: "94843  40-49% bdy brn/30-39% 3d           Burn [any degree] involving 40-49 percent of body surface with third degree burn",
+	},
+	{
+		code: "94844  40-49% bdy brn/40-49% 3d           Burn [any degree] involving 40-49 percent of body surface with third degree burn",
+	},
+	{
+		code: "94850  50-59% bdy brn/3 deg NOS           Burn [any degree] involving 50-59 percent of body surface with third degree burn",
+	},
+	{
+		code: "94851  50-59% bdy brn/10-19% 3d           Burn [any degree] involving 50-59 percent of body surface with third degree burn",
+	},
+	{
+		code: "94852  50-59% bdy brn/20-29% 3d           Burn [any degree] involving 50-59 percent of body surface with third degree burn",
+	},
+	{
+		code: "94853  50-59% bdy brn/30-39% 3d           Burn [any degree] involving 50-59 percent of body surface with third degree burn",
+	},
+	{
+		code: "94854  50-59% bdy brn/40-49% 3d           Burn [any degree] involving 50-59 percent of body surface with third degree burn",
+	},
+	{
+		code: "94855  50-59% bdy brn/50-59% 3d           Burn [any degree] involving 50-59 percent of body surface with third degree burn",
+	},
+	{
+		code: "94860  60-69% bdy brn/3 deg NOS           Burn [any degree] involving 60-69 percent of body surface with third degree burn",
+	},
+	{
+		code: "94861  60-69% bdy brn/10-19% 3d           Burn [any degree] involving 60-69 percent of body surface with third degree burn",
+	},
+	{
+		code: "94862  60-69% bdy brn/20-29% 3d           Burn [any degree] involving 60-69 percent of body surface with third degree burn",
+	},
+	{
+		code: "94863  60-69% bdy brn/30-39% 3d           Burn [any degree] involving 60-69 percent of body surface with third degree burn",
+	},
+	{
+		code: "94864  60-69% bdy brn/40-49% 3d           Burn [any degree] involving 60-69 percent of body surface with third degree burn",
+	},
+	{
+		code: "94865  60-69% bdy brn/50-59% 3d           Burn (any degree) involving 60-69 percent of body surface with third degree burn",
+	},
+	{
+		code: "94866  60-69% bdy brn/60-69% 3d           Burn [any degree] involving 60-69 percent of body surface with third degree burn",
+	},
+	{
+		code: "94870  70-79% bdy brn/3 deg NOS           Burn [any degree] involving 70-79 percent of body surface with third degree burn",
+	},
+	{
+		code: "94871  70-79% bdy brn/10-19% 3d           Burn [any degree] involving 70-79 percent of body surface with third degree burn",
+	},
+	{
+		code: "94872  70-79% bdy brn/20-29% 3d           Burn [any degree] involving 70-79 percent of body surface with third degree burn",
+	},
+	{
+		code: "94873  70-79% bdy brn/30-39% 3d           Burn [any degree] involving 70-79 percent of body surface with third degree burn",
+	},
+	{
+		code: "94874  70-79% bdy brn/40-49% 3d           Burn [any degree] involving 70-79 percent of body surface with third degree burn",
+	},
+	{
+		code: "94875  70-79% bdy brn/50-59% 3d           Burn [any degree] involving 70-79 percent of body surface with third degree burn",
+	},
+	{
+		code: "94876  70-79% bdy brn/60-69% 3d           Burn [any degree] involving 70-79 percent of body surface with third degree burn",
+	},
+	{
+		code: "94877  70-79% bdy brn/70-79% 3d           Burn [any degree] involving 70-79 percent of body surface with third degree burn",
+	},
+	{
+		code: "94880  80-89% bdy brn/3 deg NOS           Burn [any degree] involving 80-89 percent of body surface with third degree burn",
+	},
+	{
+		code: "94881  80-89% bdy brn/10-19% 3d           Burn [any degree] involving 80-89 percent of body surface with third degree burn",
+	},
+	{
+		code: "94882  80-89% bdy brn/20-29% 3d           Burn [any degree] involving 80-89 percent of body surface with third degree burn",
+	},
+	{
+		code: "94883  80-89% bdy brn/30-39% 3d           Burn [any degree] involving 80-89 percent of body surface with third degree burn",
+	},
+	{
+		code: "94884  80-89% bdy brn/40-49% 3d           Burn [any degree] involving 80-89 percent of body surface with third degree burn",
+	},
+	{
+		code: "94885  80-89% bdy brn/50-59% 3d           Burn [any degree] involving 80-89 percent of body surface with third degree burn",
+	},
+	{
+		code: "94886  80-89% bdy brn/60-69% 3d           Burn [any degree] involving 80-89 percent of body surface with third degree burn",
+	},
+	{
+		code: "94887  80-89% bdy brn/70-79% 3d           Burn [any degree] involving 80-89 percent of body surface with third degree burn",
+	},
+	{
+		code: "94888  80-89% bdy brn/80-89% 3d           Burn [any degree] involving 80-89 percent of body surface with third degree burn",
+	},
+	{
+		code: "94890  90% + bdy brn/3d deg NOS           Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "94891  90% + bdy brn/10-19% 3rd           Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "94892  90% + bdy brn/20-29% 3rd           Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "94893  90% + bdy brn/30-39% 3rd           Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "94894  90% + bdy brn/40-49% 3rd           Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "94895  90% + bdy brn/50-59% 3rd           Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "94896  90% + bdy brn/60-69% 3rd           Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "94897  90% + bdy brn/70-79% 3rd           Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "94898  90% + bdy brn/80-89% 3rd           Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "94899  90% + bdy brn/90% + 3rd            Burn [any degree] involving 90 percent or more of body surface with third degree burn",
+	},
+	{
+		code: "9490   Burn NOS                           Burn of unspecified site",
+	},
+	{
+		code: "9491   1st degree burn NOS                Erythema [first degree]",
+	},
+	{
+		code: "9492   2nd degree burn NOS                Blisters",
+	},
+	{
+		code: "9493   3rd degree burn NOS                Full-thickness skin loss [third degree nos]",
+	},
+	{
+		code: "9494   Deep 3rd deg burn NOS              Deep necrosis of underlying tissue [deep third degree] without mention of loss of a body part",
+	},
+	{
+		code: "9495   3rd burn w loss-site NOS           Deep necrosis of underlying tissues [deep third degree] with loss of a body part",
+	},
+	{
+		code: "9500   Optic nerve injury                 Optic nerve injury",
+	},
+	{
+		code: "9501   Injury to optic chiasm             Injury to optic chiasm",
+	},
+	{
+		code: "9502   Injury to optic pathways           Injury to optic pathways",
+	},
+	{
+		code: "9503   Injury to visual cortex            Injury to visual cortex",
+	},
+	{
+		code: "9509   Inj optic nerv/path NOS            Injury to unspecified optic nerve and pathways",
+	},
+	{
+		code: "9510   Injury oculomotor nerve            Injury to oculomotor nerve",
+	},
+	{
+		code: "9511   Injury trochlear nerve             Injury to trochlear nerve",
+	},
+	{
+		code: "9512   Injury trigeminal nerve            Injury to trigeminal nerve",
+	},
+	{
+		code: "9513   Injury abducens nerve              Injury to abducens nerve",
+	},
+	{
+		code: "9514   Injury to facial nerve             Injury to facial nerve",
+	},
+	{
+		code: "9515   Injury to acoustic nerve           Injury to acoustic nerve",
+	},
+	{
+		code: "9516   Injury accessory nerve             Injury to accessory nerve",
+	},
+	{
+		code: "9517   Injury hypoglossal nerve           Injury to hypoglossal nerve",
+	},
+	{
+		code: "9518   Injury cranial nerve NEC           Injury to other specified cranial nerves",
+	},
+	{
+		code: "9519   Injury cranial nerve NOS           Injury to unspecified cranial nerve",
+	},
+	{
+		code: "95200  C1-c4 spin cord inj NOS            C1-C4 level with unspecified spinal cord injury",
+	},
+	{
+		code: "95201  Complete les cord/c1-c4            C1-C4 level with complete lesion of spinal cord",
+	},
+	{
+		code: "95202  Anterior cord synd/c1-c4           C1-C4 level with anterior cord syndrome",
+	},
+	{
+		code: "95203  Central cord synd/c1-c4            C1-C4 level with central cord syndrome",
+	},
+	{
+		code: "95204  C1-c4 spin cord inj NEC            C1-C4 level with other specified spinal cord injury",
+	},
+	{
+		code: "95205  C5-c7 spin cord inj NOS            C5-C7 level with unspecified spinal cord injury",
+	},
+	{
+		code: "95206  Complete les cord/c5-c7            C5-C7 level with complete lesion of spinal cord",
+	},
+	{
+		code: "95207  Anterior cord synd/c5-c7           C5-C7 level with anterior cord syndrome",
+	},
+	{
+		code: "95208  Central cord synd/c5-c7            C5-C7 level with central cord syndrome",
+	},
+	{
+		code: "95209  C5-c7 spin cord inj NEC            C5-C7 level with other specified spinal cord injury",
+	},
+	{
+		code: "95210  T1-t6 spin cord inj NOS            T1-T6 level with unspecified spinal cord injury",
+	},
+	{
+		code: "95211  Complete les cord/t1-t6            T1-T6 level with complete lesion of spinal cord",
+	},
+	{
+		code: "95212  Anterior cord synd/t1-t6           T1-T6 level with anterior cord syndrome",
+	},
+	{
+		code: "95213  Central cord synd/t1-t6            T1-T6 level with central cord syndrome",
+	},
+	{
+		code: "95214  T1-t6 spin cord inj NEC            T1-T6 level with other specified spinal cord injury",
+	},
+	{
+		code: "95215  T7-t12 spin cord inj NOS           T7-T12 level with unspecified spinal cord injury",
+	},
+	{
+		code: "95216  Complete les cord/t7-t12           T7-T12 level with complete lesion of spinal cord",
+	},
+	{
+		code: "95217  Anterior cord syn/t7-t12           T7-T12 level with anterior cord syndrome",
+	},
+	{
+		code: "95218  Central cord syn/t7-t12            T7-T12 level with central cord syndrome",
+	},
+	{
+		code: "95219  T7-t12 spin cord inj NEC           T7-T12 level with other specified spinal cord injury",
+	},
+	{
+		code: "9522   Lumbar spinal cord injur           Lumbar spinal cord injury without evidence of spinal bone injury",
+	},
+	{
+		code: "9523   Sacral spinal cord injur           Sacral spinal cord injury without evidence of spinal bone injury",
+	},
+	{
+		code: "9524   Cauda equina injury                Cauda equina spinal cord injury without evidence of spinal bone injury",
+	},
+	{
+		code: "9528   Spin cord inj-mult site            Multiple sites of spinal cord injury without evidence of spinal bone injury",
+	},
+	{
+		code: "9529   Spinal cord injury NOS             Unspecified site of spinal cord injury without evidence of spinal bone injury",
+	},
+	{
+		code: "9530   Cervical root injury               Injury to cervical nerve root",
+	},
+	{
+		code: "9531   Dorsal root injury                 Injury to dorsal nerve root",
+	},
+	{
+		code: "9532   Lumbar root injury                 Injury to lumbar nerve root",
+	},
+	{
+		code: "9533   Sacral root injury                 Injury to sacral nerve root",
+	},
+	{
+		code: "9534   Brachial plexus injury             Injury to brachial plexus",
+	},
+	{
+		code: "9535   Lumbosacral plex injury            Injury to lumbosacral plexus",
+	},
+	{
+		code: "9538   Mult nerve root/plex inj           Injury to multiple sites of nerve roots and spinal plexus",
+	},
+	{
+		code: "9539   Inj nerve root/plex NOS            Injury to unspecified site of nerve roots and spinal plexus",
+	},
+	{
+		code: "9540   Inj cerv sympath nerve             Injury to cervical sympathetic nerve",
+	},
+	{
+		code: "9541   Inj sympath nerve NEC              Injury to other sympathetic nerve",
+	},
+	{
+		code: "9548   Injury trunk nerve NEC             Injury to other specified nerve(s) of trunk",
+	},
+	{
+		code: "9549   Injury trunk nerve NOS             Injury to unspecified nerve of trunk",
+	},
+	{
+		code: "9550   Injury axillary nerve              Injury to axillary nerve",
+	},
+	{
+		code: "9551   Injury median nerve                Injury to median nerve",
+	},
+	{
+		code: "9552   Injury ulnar nerve                 Injury to ulnar nerve",
+	},
+	{
+		code: "9553   Injury radial nerve                Injury to radial nerve",
+	},
+	{
+		code: "9554   Inj musculocutan nerve             Injury to musculocutaneous nerve",
+	},
+	{
+		code: "9555   Inj cutan senso nerv/arm           Injury to cutaneous sensory nerve",
+	},
+	{
+		code: "9556   Injury digital nerve               Injury to digital nerve",
+	},
+	{
+		code: "9557   Inj nerve shldr/arm NEC            Injury to other specified nerve(s) of shoulder girdle and upper limb",
+	},
+	{
+		code: "9558   Inj mult nerve shldr/arm           Injury to multiple nerves of shoulder girdle and upper limb",
+	},
+	{
+		code: "9559   Inj nerve shldr/arm NOS            Injury to unspecified nerve of shoulder girdle and upper limb",
+	},
+	{
+		code: "9560   Injury sciatic nerve               Injury to sciatic nerve",
+	},
+	{
+		code: "9561   Injury femoral nerve               Injury to femoral nerve",
+	},
+	{
+		code: "9562   Inj posterior tib nerve            Injury to posterior tibial nerve",
+	},
+	{
+		code: "9563   Injury peroneal nerve              Injury to peroneal nerve",
+	},
+	{
+		code: "9564   Inj cutan senso nerv/leg           Injury to cutaneous sensory nerve",
+	},
+	{
+		code: "9565   Inj nerve pelv/leg NEC             Injury to other specified nerve(s) of pelvic girdle and lower limb",
+	},
+	{
+		code: "9568   Inj mult nerve pelv/leg            Injury to multiple nerves of pelvic girdle and lower limb",
+	},
+	{
+		code: "9569   Inj nerve pelv/leg NOS             Injury to unspecified nerve of pelvic girdle and lower limb",
+	},
+	{
+		code: "9570   Inj superf nerv head/nck           Injury to superficial nerves of head and neck",
+	},
+	{
+		code: "9571   Injury to nerve NEC                Injury to other specified nerve(s)",
+	},
+	{
+		code: "9578   Injury to mult nerves              Injury to multiple nerves in several parts",
+	},
+	{
+		code: "9579   Injury to nerve NOS                Injury to nerves",
+	},
+	{
+		code: "9580   Air embolism                       Air embolism",
+	},
+	{
+		code: "9581   Fat embolism                       Fat embolism",
+	},
+	{
+		code: "9582   Secondary/recur hemorr             Secondary and recurrent hemorrhage",
+	},
+	{
+		code: "9583   Posttraum wnd infec NEC            Posttraumatic wound infection not elsewhere classified",
+	},
+	{
+		code: "9584   Traumatic shock                    Traumatic shock",
+	},
+	{
+		code: "9585   Traumatic anuria                   Traumatic anuria",
+	},
+	{
+		code: "9586   Volkmann's isch contract           Volkmann's ischemic contracture",
+	},
+	{
+		code: "9587   Traum subcutan emphysema           Traumatic subcutaneous emphysema",
+	},
+	{
+		code: "9588   Early complic trauma NEC           Other early complications of trauma",
+	},
+	{
+		code: "95890  Compartment syndrome NOS           Compartment syndrome",
+	},
+	{
+		code: "95891  Trauma comp synd up ext            Traumatic compartment syndrome of upper extremity",
+	},
+	{
+		code: "95892  Trauma comp synd low ext           Traumatic compartment syndrome of lower extremity",
+	},
+	{
+		code: "95893  Trauma compart synd abd            Traumatic compartment syndrome of abdomen",
+	},
+	{
+		code: "95899  Trauma compart synd NEC            Traumatic compartment syndrome of other sites",
+	},
+	{
+		code: "95901  Head injury NOS                    Head injury",
+	},
+	{
+		code: "95909  Face & neck injury                 Injury of face and neck",
+	},
+	{
+		code: "95911  Injury of chest wall NEC           Other injury of chest wall",
+	},
+	{
+		code: "95912  Injury of abdomen NEC              Other injury of abdomen",
+	},
+	{
+		code: "95913  Fx corpus cavrnosm penis           Fracture of corpus cavernosum penis",
+	},
+	{
+		code: "95914  Inj external genital NEC           Other injury of external genitals",
+	},
+	{
+		code: "95919  Trunk injury-sites NEC             Other injury of other sites of trunk",
+	},
+	{
+		code: "9592   Shldr/upper arm inj NOS            Shoulder and upper arm injury",
+	},
+	{
+		code: "9593   Elb/forearm/wrst inj NOS           Elbow",
+	},
+	{
+		code: "9594   Hand injury NOS                    Hand",
+	},
+	{
+		code: "9595   Finger injury NOS                  Finger injury",
+	},
+	{
+		code: "9596   Hip & thigh injury NOS             Hip and thigh injury",
+	},
+	{
+		code: "9597   Lower leg injury NOS               Knee",
+	},
+	{
+		code: "9600   Poisoning-penicillins              Poisoning by penicillins",
+	},
+	{
+		code: "9601   Pois-antifungal antibiot           Poisoning by antifungal antibiotics",
+	},
+	{
+		code: "9602   Poison-chloramphenicol             Poisoning by chloramphenicol group",
+	},
+	{
+		code: "9603   Pois-erythromyc/macrolid           Poisoning by erythromycin and other macrolides",
+	},
+	{
+		code: "9604   Poisoning-tetracycline             Poisoning by tetracycline group",
+	},
+	{
+		code: "9605   Pois-cephalosporin group           Poisoning of cephalosporin group",
+	},
+	{
+		code: "9606   Pois-antimycobac antibio           Poisoning of antimycobacterial antibiotics",
+	},
+	{
+		code: "9607   Pois-antineop antibiotic           Poisoning by antineoplastic antibiotics",
+	},
+	{
+		code: "9608   Poisoning-antibiotic NEC           Poisoning by other specified antibiotics",
+	},
+	{
+		code: "9609   Poisoning-antibiotic NOS           Poisoning by unspecified antibiotic",
+	},
+	{
+		code: "9610   Poisoning-sulfonamides             Poisoning by sulfonamides",
+	},
+	{
+		code: "9611   Pois-arsenic anti-infec            Poisoning by arsenical anti-infectives",
+	},
+	{
+		code: "9612   Pois-heav met anti-infec           Poisoning by heavy metal anti-infectives",
+	},
+	{
+		code: "9613   Pois-quinoline/hydroxyqu           Poisoning by quinoline and hydroxyquinoline derivatives",
+	},
+	{
+		code: "9614   Poisoning-antimalarials            Poisoning by antimalarials and drugs acting on other blood protozoa",
+	},
+	{
+		code: "9615   Pois-antiprotoz drug NEC           Poisoning by other antiprotozoal drugs",
+	},
+	{
+		code: "9616   Poisoning-anthelmintics            Poisoning by anthelmintics",
+	},
+	{
+		code: "9617   Poisoning-antiviral drug           Poisoning by antiviral drugs",
+	},
+	{
+		code: "9618   Pois-antimycobac drg NEC           Poisoning by other antimycobacterial drugs",
+	},
+	{
+		code: "9619   Pois-anti-infect NEC/NOS           Poisoning by other and unspecified anti-infectives",
+	},
+	{
+		code: "9620   Pois-corticosteroids               Poisoning by adrenal cortical steroids",
+	},
+	{
+		code: "9621   Poisoning-androgens                Poisoning by androgens and anabolic congeners",
+	},
+	{
+		code: "9622   Poisoning-ovarian hormon           Poisoning by ovarian hormones and synthetic substitutes",
+	},
+	{
+		code: "9623   Poison-insulin/antidiab            Poisoning by insulins and antidiabetic agents",
+	},
+	{
+		code: "9624   Pois-ant pituitary horm            Poisoning by anterior pituitary hormones",
+	},
+	{
+		code: "9625   Pois-post pituitary horm           Poisoning by posterior pituitary hormones",
+	},
+	{
+		code: "9626   Poisoning-parathyroids             Poisoning by parathyroid and parathyroid derivatives",
+	},
+	{
+		code: "9627   Poisoning-thyroid/deriv            Poisoning by thyroid and thyroid derivatives",
+	},
+	{
+		code: "9628   Poison-antithyroid agent           Poisoning by antithyroid agents",
+	},
+	{
+		code: "9629   Poisoning hormon NEC/NOS           Poisoning by other and unspecified hormones and synthetic substitutes",
+	},
+	{
+		code: "9630   Pois-antiallrg/antiemet            Poisoning by antiallergic and antiemetic drugs",
+	},
+	{
+		code: "9631   Pois-antineopl/immunosup           Poisoning by antineoplastic and immunosuppressive drugs",
+	},
+	{
+		code: "9632   Poisoning-acidifying agt           Poisoning by acidifying agents",
+	},
+	{
+		code: "9633   Poisoning-alkalizing agt           Poisoning by alkalizing agents",
+	},
+	{
+		code: "9634   Poisoning-enzymes NEC              Poisoning by enzymes",
+	},
+	{
+		code: "9635   Poisoning-vitamins NEC             Poisoning by vitamins",
+	},
+	{
+		code: "9638   Poisoning-system agt NEC           Poisoning by other specified systemic agents",
+	},
+	{
+		code: "9639   Poisoning-system agt NOS           Poisoning by unspecified systemic agent",
+	},
+	{
+		code: "9640   Poisoning-iron/compounds           Poisoning by iron and its compounds",
+	},
+	{
+		code: "9641   Poison-liver/antianemics           Poisoning by liver preparations and other antianemic agents",
+	},
+	{
+		code: "9642   Poisoning-anticoagulants           Poisoning by anticoagulants",
+	},
+	{
+		code: "9643   Poisoning-vitamin k                Poisoning by vitamin K (phytonadione)",
+	},
+	{
+		code: "9644   Poison-fibrinolysis agnt           Poisoning by fibrinolysis-affecting drugs",
+	},
+	{
+		code: "9645   Poisoning-coagulants               Poisoning by anticoagulant antagonists and other coagulants",
+	},
+	{
+		code: "9646   Poisoning-gamma globulin           Poisoning by gamma globulin",
+	},
+	{
+		code: "9647   Poisoning-blood product            Poisoning by natural blood and blood products",
+	},
+	{
+		code: "9648   Poisoning-blood agt NEC            Poisoning by other specified agents affecting blood constituents",
+	},
+	{
+		code: "9649   Poisoning-blood agt NOS            Poisoning by unspecified agent affecting blood constituents",
+	},
+	{
+		code: "96500  Poisoning-opium NOS                Poisoning by opium (alkaloids)",
+	},
+	{
+		code: "96501  Poisoning-heroin                   Poisoning by heroin",
+	},
+	{
+		code: "96502  Poisoning-methadone                Poisoning by methadone",
+	},
+	{
+		code: "96509  Poisoning-opiates NEC              Poisoning by other opiates and related narcotics",
+	},
+	{
+		code: "9651   Poisoning-salicylates              Poisoning by salicylates",
+	},
+	{
+		code: "9654   Pois-arom analgesics NEC           Poisoning by aromatic analgesics",
+	},
+	{
+		code: "9655   Poisoning-pyrazole deriv           Poisoning by pyrazole derivatives",
+	},
+	{
+		code: "96561  Pois-propionic acid derv           Poisoning by propionic acid derivatives",
+	},
+	{
+		code: "96569  Poison-antirheumatic NEC           Poisoning by other antirheumatics",
+	},
+	{
+		code: "9657   Pois-no-narc analges NEC           Poisoning by other non-narcotic analgesics",
+	},
+	{
+		code: "9658   Pois-analges/antipyr NEC           Poisoning by other specified analgesics and antipyretics",
+	},
+	{
+		code: "9659   Pois-analges/antipyr NOS           Poisoning by unspecified analgesic and antipyretic",
+	},
+	{
+		code: "9660   Poison-oxazolidine deriv           Poisoning by oxazolidine derivatives",
+	},
+	{
+		code: "9661   Poison-hydantoin derivat           Poisoning by hydantoin derivatives",
+	},
+	{
+		code: "9662   Poisoning-succinimides             Poisoning by succinimides",
+	},
+	{
+		code: "9663   Pois-anticonvul NEC/NOS            Poisoning by other and unspecified anticonvulsants",
+	},
+	{
+		code: "9664   Pois-anti-parkinson drug           Poisoning by anti-Parkinsonism drugs",
+	},
+	{
+		code: "9670   Poisoning-barbiturates             Poisoning by barbiturates",
+	},
+	{
+		code: "9671   Poisoning-chloral hydrat           Poisoning by chloral hydrate group",
+	},
+	{
+		code: "9672   Poisoning-paraldehyde              Poisoning by paraldehyde",
+	},
+	{
+		code: "9673   Poisoning-bromine compnd           Poisoning by bromine compounds",
+	},
+	{
+		code: "9674   Poisoning-methaqualone             Poisoning by methaqualone compounds",
+	},
+	{
+		code: "9675   Poisoning-glutethimide             Poisoning by glutethimide group",
+	},
+	{
+		code: "9676   Poison-mix sedative NEC            Poisoning by mixed sedatives",
+	},
+	{
+		code: "9678   Pois-sedative/hypnot NEC           Poisoning by other sedatives and hypnotics",
+	},
+	{
+		code: "9679   Pois-sedative/hypnot NOS           Poisoning by unspecified sedative or hypnotic",
+	},
+	{
+		code: "9680   Pois-cns muscle depress            Poisoning by central nervous system muscle-tone depressants",
+	},
+	{
+		code: "9681   Poisoning-halothane                Poisoning by halothane",
+	},
+	{
+		code: "9682   Poison-gas anesthet NEC            Poisoning by other gaseous anesthetics",
+	},
+	{
+		code: "9683   Poison-intraven anesthet           Poisoning by intravenous anesthetics",
+	},
+	{
+		code: "9684   Pois-gen anesth NEC/NOS            Poisoning by other and unspecified general anesthetics",
+	},
+	{
+		code: "9685   Surfce-topic/infilt anes           Surface (topical) and infiltration anesthetics",
+	},
+	{
+		code: "9686   Pois-nerve/plex-blk anes           Poisoning by peripheral nerve- and plexus-blocking anesthetics",
+	},
+	{
+		code: "9687   Poison-spinal anesthetic           Poisoning by spinal anesthetics",
+	},
+	{
+		code: "9689   Pois-local anest NEC/NOS           Poisoning by other and unspecified local anesthetics",
+	},
+	{
+		code: "9690   POISONING-ANTIDEPRESSANT           POISONING-ANTIDEPRESSANT",
+	},
+	{
+		code: "96900  Poison-antidepresnt NOS            Poisoning by antidepressant",
+	},
+	{
+		code: "96901  Pois monoamine oxidase             Poisoning by monoamine oxidase inhibitors",
+	},
+	{
+		code: "96902  Pois serotn/norepinephrn           Poisoning by selective serotonin and norepinephrine reuptake inhibitors",
+	},
+	{
+		code: "96903  Pois serotinin reuptake            Poisoning by selective serotonin reuptake inhibitors",
+	},
+	{
+		code: "96904  Pois tetracyclc andepres           Poisoning by tetracyclic antidepressants",
+	},
+	{
+		code: "96905  Pois tricyclc antidepres           Poisoning by tricyclic antidepressants",
+	},
+	{
+		code: "96909  Pois antidepressants NEC           Poisoning by other antidepressants",
+	},
+	{
+		code: "9691   Pois-phenothiazine tranq           Poisoning by phenothiazine-based tranquilizers",
+	},
+	{
+		code: "9692   Pois-butyrophenone tranq           Poisoning by butyrophenone-based tranquilizers",
+	},
+	{
+		code: "9693   Poison-antipsychotic NEC           Poisoning by other antipsychotics",
+	},
+	{
+		code: "9694   Pois-benzodiazepine tran           Poisoning by benzodiazepine-based tranquilizers",
+	},
+	{
+		code: "9695   Poison-tranquilizer NEC            Poisoning by other tranquilizers",
+	},
+	{
+		code: "9696   Poisoning-hallucinogens            Poisoning by psychodysleptics (hallucinogens)",
+	},
+	{
+		code: "9697   POISON-PSYCHOSTIMULANTS            POISON-PSYCHOSTIMULANTS",
+	},
+	{
+		code: "96970  Pois psychostimulant NOS           Poisoning by psychostimulant",
+	},
+	{
+		code: "96971  Poisoning by caffeine              Poisoning by caffeine",
+	},
+	{
+		code: "96972  Poisoning by amphetamine           Poisoning by amphetamines",
+	},
+	{
+		code: "96973  Poison by methylphendate           Poisoning by methylphenidate",
+	},
+	{
+		code: "96979  Poison by psychostim NEC           Poisoning by other psychostimulants",
+	},
+	{
+		code: "9698   Poison-psychotropic NEC            Poisoning by other specified psychotropic agents",
+	},
+	{
+		code: "9699   Poison-psychotropic NOS            Poisoning by unspecified psychotropic agent",
+	},
+	{
+		code: "9700   Poisoning-analeptics               Poisoning by analeptics",
+	},
+	{
+		code: "9701   Poison-opiate antagonist           Poisoning by opiate antagonists",
+	},
+	{
+		code: "9708   Pois-cns stimulants NEC            Pois-cns stimulants NEC",
+	},
+	{
+		code: "97081  Poisoning by cocaine               Poisoning by cocaine",
+	},
+	{
+		code: "97089  Poison-CNS stimulant NEC           Poisoning by other central nervous system stimulants",
+	},
+	{
+		code: "9709   Pois-cns stimulant NOS             Poisoning by unspecified central nervous system stimulant",
+	},
+	{
+		code: "9710   Pois-parasympathomimetic           Poisoning by parasympathomimetics (cholinergics)",
+	},
+	{
+		code: "9711   Pois-parasympatholytics            Poisoning by parasympatholytics (anticholinergics and antimuscarinics) and spasmolytics",
+	},
+	{
+		code: "9712   Poison-sympathomimetics            Poisoning by sympathomimetics [adrenergics]",
+	},
+	{
+		code: "9713   Poisoning-sympatholytics           Poisoning by sympatholytics [antiadrenergics]",
+	},
+	{
+		code: "9719   Pois-autonomic agent NOS           Poisoning by unspecified drug primarily affecting autonomic nervous system",
+	},
+	{
+		code: "9720   Pois-card rhythm regulat           Poisoning by cardiac rhythm regulators",
+	},
+	{
+		code: "9721   Poisoning-cardiotonics             Poisoning by cardiotonic glycosides and drugs of similar action",
+	},
+	{
+		code: "9722   Poisoning-antilipemics             Poisoning by antilipemic and antiarteriosclerotic drugs",
+	},
+	{
+		code: "9723   Pois-ganglion block agt            Poisoning by ganglion-blocking agents",
+	},
+	{
+		code: "9724   Pois-coronary vasodilat            Poisoning by coronary vasodilators",
+	},
+	{
+		code: "9725   Poison-vasodilator NEC             Poisoning by other vasodilators",
+	},
+	{
+		code: "9726   Pois-antihyperten agent            Poisoning by other antihypertensive agents",
+	},
+	{
+		code: "9727   Poison-antivaricose drug           Poisoning by antivaricose drugs",
+	},
+	{
+		code: "9728   Poison-capillary act agt           Poisoning by capillary-active drugs",
+	},
+	{
+		code: "9729   Pois-cardiovasc agt NEC            Poisoning by other and unspecified agents primarily affecting the cardiovascular system",
+	},
+	{
+		code: "9730   Pois-antacid/antigastric           Poisoning by antacids and antigastric secretion drugs",
+	},
+	{
+		code: "9731   Pois-irritant cathartics           Poisoning by irritant cathartics",
+	},
+	{
+		code: "9732   Pois-emollient cathartic           Poisoning by emollient cathartics",
+	},
+	{
+		code: "9733   Poisoning-cathartic NEC            Poisoning by other cathartics",
+	},
+	{
+		code: "9734   Poisoning-digestants               Poisoning by digestants",
+	},
+	{
+		code: "9735   Poisoning-antidiarrh agt           Poisoning by antidiarrheal drugs",
+	},
+	{
+		code: "9736   Poisoning-emetics                  Poisoning by emetics",
+	},
+	{
+		code: "9738   Poisoning-gi agents NEC            Poisoning by other specified agents primarily affecting the gastrointestinal system",
+	},
+	{
+		code: "9739   Poisoning-gi agent NOS             Poisoning by unspecified agent primarily affecting the gastrointestinal system",
+	},
+	{
+		code: "9740   Pois-mercurial diuretics           Poisoning by mercurial diuretics",
+	},
+	{
+		code: "9741   Pois-purine diuretics              Poisoning by purine derivative diuretics",
+	},
+	{
+		code: "9742   Pois-h2co3 anhydra inhib           Poisoning by carbonic acid anhydrase inhibitors",
+	},
+	{
+		code: "9743   Poisoning-saluretics               Poisoning by saluretics",
+	},
+	{
+		code: "9744   Poisoning-diuretics NEC            Poisoning by other diuretics",
+	},
+	{
+		code: "9745   Pois-electro/cal/wat agt           Poisoning by electrolytic",
+	},
+	{
+		code: "9746   Poison-mineral salts NEC           Poisoning by other mineral salts",
+	},
+	{
+		code: "9747   Pois-uric acid metabol             Poisoning by uric acid metabolism drugs",
+	},
+	{
+		code: "9750   Poisoning-oxytocic agent           Poisoning by oxytocic agents",
+	},
+	{
+		code: "9751   Pois-smooth muscle relax           Poisoning by smooth muscle relaxants",
+	},
+	{
+		code: "9752   Pois-skelet muscle relax           Poisoning by skeletal muscle relaxants",
+	},
+	{
+		code: "9753   Poison-muscle agent NEC            Poisoning by other and unspecified drugs acting on muscles",
+	},
+	{
+		code: "9754   Poisoning-antitussives             Poisoning by antitussives",
+	},
+	{
+		code: "9755   Poisoning-expectorants             Poisoning by expectorants",
+	},
+	{
+		code: "9756   Pois-anti-cold drugs               Poisoning by anti-common cold drugs",
+	},
+	{
+		code: "9757   Poisoning-antiasthmatics           Poisoning by antiasthmatics",
+	},
+	{
+		code: "9758   Pois-respir drug NEC/NOS           Poisoning by other and unspecified respiratory drugs",
+	},
+	{
+		code: "9760   Pois-local anti-infect             Poisoning by local anti-infectives and anti-inflammatory drugs",
+	},
+	{
+		code: "9761   Poisoning-antipruritics            Poisoning by antipruritics",
+	},
+	{
+		code: "9762   Pois-loc astring/deterg            Poisoning by local astringents and local detergents",
+	},
+	{
+		code: "9763   Pois-emol/demul/protect            Poisoning by emollients",
+	},
+	{
+		code: "9764   Poison-hair/scalp prep             Poisoning by keratolytics",
+	},
+	{
+		code: "9765   Pois-eye anti-infec/drug           Poisoning by eye anti-infectives and other eye drugs",
+	},
+	{
+		code: "9766   Poison-ent preparation             Poisoning by anti-infectives and other drugs and preparations for ear",
+	},
+	{
+		code: "9767   Pois-topical dental drug           Poisoning by dental drugs topically applied",
+	},
+	{
+		code: "9768   Pois-skin/membr agnt NEC           Poisoning by other agents primarily affecting skin and mucous membrane",
+	},
+	{
+		code: "9769   Pois-skin/membr agnt NOS           Poisoning by unspecified agent primarily affecting skin and mucous membrane",
+	},
+	{
+		code: "9770   Poisoning-dietetics                Poisoning by dietetics",
+	},
+	{
+		code: "9771   Poison-lipotropic drugs            Poisoning by lipotropic drugs",
+	},
+	{
+		code: "9772   Poisoning-antidotes NEC            Poisoning by antidotes and chelating agents",
+	},
+	{
+		code: "9773   Poison-alcohol deterrent           Poisoning by alcohol deterrents",
+	},
+	{
+		code: "9774   Pois-pharmaceut excipien           Poisoning by pharmaceutical excipients",
+	},
+	{
+		code: "9778   Poison-medicinal agt NEC           Poisoning by other specified drugs and medicinal substances",
+	},
+	{
+		code: "9779   Poison-medicinal agt NOS           Poisoning by unspecified drug or medicinal substance",
+	},
+	{
+		code: "9780   Poisoning-bcg vaccine              Poisoning by BCG vaccine",
+	},
+	{
+		code: "9781   Pois-typh/paratyph vacc            Poisoning by typhoid and paratyphoid vaccine",
+	},
+	{
+		code: "9782   Poisoning-cholera vaccin           Poisoning by cholera vaccine",
+	},
+	{
+		code: "9783   Poisoning-plague vaccine           Poisoning by plague vaccine",
+	},
+	{
+		code: "9784   Poisoning-tetanus vaccin           Poisoning by tetanus vaccine",
+	},
+	{
+		code: "9785   Pois-diphtheria vaccine            Poisoning by diphtheria vaccine",
+	},
+	{
+		code: "9786   Pois-pertussis vaccine             Poisoning by pertussis vaccine",
+	},
+	{
+		code: "9788   Pois-bact vaccin NEC/NOS           Poisoning by other and unspecified bacterial vaccines",
+	},
+	{
+		code: "9789   Pois-mix bacter vaccines           Poisoning by mixed bacterial vaccines",
+	},
+	{
+		code: "9790   Poison-smallpox vaccine            Poisoning by smallpox vaccine",
+	},
+	{
+		code: "9791   Poison-rabies vaccine              Poisoning by rabies vaccine",
+	},
+	{
+		code: "9792   Poison-typhus vaccine              Poisoning by typhus vaccine",
+	},
+	{
+		code: "9793   Pois-yellow fever vaccin           Poisoning by yellow fever vaccine",
+	},
+	{
+		code: "9794   Poisoning-measles vaccin           Poisoning by measles vaccine",
+	},
+	{
+		code: "9795   Pois-poliomyelit vaccine           Poisoning by poliomyelitis vaccine",
+	},
+	{
+		code: "9796   Pois-viral/rick vacc NEC           Poisoning by other and unspecified viral and rickettsial vaccines",
+	},
+	{
+		code: "9797   Poisoning-mixed vaccine            Poisoning by mixed viral-rickettsial and bacterial vaccines",
+	},
+	{
+		code: "9799   Pois-vaccine/biolog NEC            Poisoning by other and unspecified vaccines and biological substances",
+	},
+	{
+		code: "9800   Toxic eff ethyl alcohol            Toxic effect of ethyl alcohol",
+	},
+	{
+		code: "9801   Toxic eff methyl alcohol           Toxic effect of methyl alcohol",
+	},
+	{
+		code: "9802   Toxic eff isopropyl alc            Toxic effect of isopropyl alcohol",
+	},
+	{
+		code: "9803   Toxic effect fusel oil             Toxic effect of fusel oil",
+	},
+	{
+		code: "9808   Toxic effect alcohol NEC           Toxic effect of other specified alcohols",
+	},
+	{
+		code: "9809   Toxic effect alcohol NOS           Toxic effect of unspecified alcohol",
+	},
+	{
+		code: "981    Toxic eff petroleum prod           Toxic effect of petroleum products",
+	},
+	{
+		code: "9820   Toxic effect benzene               Toxic effect of benzene and homologues",
+	},
+	{
+		code: "9821   Toxic eff carbon tetrach           Toxic effect of carbon tetrachloride",
+	},
+	{
+		code: "9822   Toxic eff carbon disulfi           Toxic effect of carbon disulfide",
+	},
+	{
+		code: "9823   Tx ef cl-hydcarb slv NEC           Toxic effect of other chlorinated hydrocarbon solvents",
+	},
+	{
+		code: "9824   Toxic effect nitroglycol           Toxic effect of nitroglycol",
+	},
+	{
+		code: "9828   Toxic eff nonpetrol solv           Toxic effect of other nonpetroleum-based solvents",
+	},
+	{
+		code: "9830   Tox eff corrosive aromat           Toxic effect of corrosive aromatics",
+	},
+	{
+		code: "9831   Toxic effect acids                 Toxic effect of acids",
+	},
+	{
+		code: "9832   Toxic eff caustic alkali           Toxic effect of caustic alkalis",
+	},
+	{
+		code: "9839   Toxic effect caustic NOS           Toxic effect of caustic",
+	},
+	{
+		code: "9840   Tx eff inorg lead compnd           Toxic effect of inorganic lead compounds",
+	},
+	{
+		code: "9841   Tox eff org lead compnd            Toxic effect of organic lead compounds",
+	},
+	{
+		code: "9848   Tox eff lead compnd NEC            Toxic effect of other lead compounds",
+	},
+	{
+		code: "9849   Tox eff lead compnd NOS            Toxic effect of unspecified lead compound",
+	},
+	{
+		code: "9850   Toxic effect mercury               Toxic effect of mercury and its compounds",
+	},
+	{
+		code: "9851   Toxic effect arsenic               Toxic effect of arsenic and its compounds",
+	},
+	{
+		code: "9852   Toxic effect manganese             Toxic effect of manganese and its compounds",
+	},
+	{
+		code: "9853   Toxic effect beryllium             Toxic effect of beryllium and its compounds",
+	},
+	{
+		code: "9854   Toxic effect antimony              Toxic effect of antimony and its compounds",
+	},
+	{
+		code: "9855   Toxic effect cadmium               Toxic effect of cadmium and its compounds",
+	},
+	{
+		code: "9856   Toxic effect chromium              Toxic effect of chromium",
+	},
+	{
+		code: "9858   Toxic effect metals NEC            Toxic effect of other specified metals",
+	},
+	{
+		code: "9859   Toxic effect metal NOS             Toxic effect of unspecified metal",
+	},
+	{
+		code: "986    Tox eff carbon monoxide            Toxic effect of carbon monoxide",
+	},
+	{
+		code: "9870   Toxic eff liq petrol gas           Toxic effect of liquefied petroleum gases",
+	},
+	{
+		code: "9871   Tox ef hydrocarb gas NEC           Toxic effect of other hydrocarbon gas",
+	},
+	{
+		code: "9872   Toxic eff nitrogen oxide           Toxic effect of nitrogen oxides",
+	},
+	{
+		code: "9873   Toxic eff sulfur dioxide           Toxic effect of sulfur dioxide",
+	},
+	{
+		code: "9874   Toxic effect freon                 Toxic effect of freon",
+	},
+	{
+		code: "9875   Tox eff lacrimogenic gas           Toxic effect of lacrimogenic gas",
+	},
+	{
+		code: "9876   Toxic eff chlorine gas             Toxic effect of chlorine gas",
+	},
+	{
+		code: "9877   Tox eff hydrocyan acd gs           Toxic effect of hydrocyanic acid gas",
+	},
+	{
+		code: "9878   Toxic eff gas/vapor NEC            Toxic effect of other specified gases",
+	},
+	{
+		code: "9879   Toxic eff gas/vapor NOS            Toxic effect of unspecified gas",
+	},
+	{
+		code: "9880   Toxic eff fish/shellfish           Toxic effect of fish and shellfish eaten as food",
+	},
+	{
+		code: "9881   Toxic effect mushrooms             Toxic effect of mushrooms eaten as food",
+	},
+	{
+		code: "9882   Tox eff berry/plant NEC            Toxic effect of berries and other plants eaten as food",
+	},
+	{
+		code: "9888   Tox eff noxious food NEC           Toxic effect of other specified noxious substances eaten as food",
+	},
+	{
+		code: "9889   Tox eff noxious food NOS           Toxic effect of unspecified noxious substance eaten as food",
+	},
+	{
+		code: "9890   Toxic effect cyanides              Toxic effect of hydrocyanic acid and cyanides",
+	},
+	{
+		code: "9891   Toxic effect strychnine            Toxic effect of strychnine and salts",
+	},
+	{
+		code: "9892   Tox eff chlor hydrocarb            Toxic effect of chlorinated hydrocarbons",
+	},
+	{
+		code: "9893   Tox eff organphos/carbam           Toxic effect of organophosphate and carbamate",
+	},
+	{
+		code: "9894   Toxic eff pesticides NEC           Toxic effect of other pesticides",
+	},
+	{
+		code: "9895   Toxic effect venom                 Toxic effect of venom",
+	},
+	{
+		code: "9896   Toxic eff soap/detergent           Toxic effect of soaps and detergents",
+	},
+	{
+		code: "9897   Tox eff aflatox/mycotox            Toxic effect of aflatoxin and other mycotoxin (food contaminants)",
+	},
+	{
+		code: "98981  Toxic effect of asbestos           Toxic effect of asbestos",
+	},
+	{
+		code: "98982  Toxic effect of latex              Toxic effect of latex",
+	},
+	{
+		code: "98983  Toxic effect of silicone           Toxic effect of silicone",
+	},
+	{
+		code: "98984  Toxic effect of tobacco            Toxic effect of tobacco",
+	},
+	{
+		code: "98989  Tox eff nonmed subst NEC           Toxic effect of other substance",
+	},
+	{
+		code: "9899   Tox eff nonmed subst NOS           Toxic effect of unspecified substance",
+	},
+	{
+		code: "990    Effects radiation NOS              Effects of radiation",
+	},
+	{
+		code: "9910   Frostbite of face                  Frostbite of face",
+	},
+	{
+		code: "9911   Frostbite of hand                  Frostbite of hand",
+	},
+	{
+		code: "9912   Frostbite of foot                  Frostbite of foot",
+	},
+	{
+		code: "9913   Frostbite NEC/NOS                  Frostbite of other and unspecified sites",
+	},
+	{
+		code: "9914   Immersion foot                     Immersion foot",
+	},
+	{
+		code: "9915   Chilblains                         Chilblains",
+	},
+	{
+		code: "9916   Hypothermia                        Hypothermia",
+	},
+	{
+		code: "9918   Effect reduced temp NEC            Other specified effects of reduced temperature",
+	},
+	{
+		code: "9919   Effect reduced temp NOS            Unspecified effect of reduced temperature",
+	},
+	{
+		code: "9920   Heat stroke & sunstroke            Heat stroke and sunstroke",
+	},
+	{
+		code: "9921   Heat syncope                       Heat syncope",
+	},
+	{
+		code: "9922   Heat cramps                        Heat cramps",
+	},
+	{
+		code: "9923   Heat exhaust-anhydrotic            Heat exhaustion",
+	},
+	{
+		code: "9924   Heat exhaust-salt deple            Heat exhaustion due to salt depletion",
+	},
+	{
+		code: "9925   Heat exhaustion NOS                Heat exhaustion",
+	},
+	{
+		code: "9926   Heat fatigue",
+	},
+	{
+		code: "9927   Heat edema                         Heat edema",
+	},
+	{
+		code: "9928   Heat effect NEC                    Other specified heat effects",
+	},
+	{
+		code: "9929   Heat effect NOS                    Unspecified effects of heat and light",
+	},
+	{
+		code: "9930   Barotrauma",
+	},
+	{
+		code: "9931   Barotrauma",
+	},
+	{
+		code: "9932   Eff high altitud NEC/NOS           Other and unspecified effects of high altitude",
+	},
+	{
+		code: "9933   Caisson disease                    Caisson disease",
+	},
+	{
+		code: "9934   Eff air press by explos            Effects of air pressure caused by explosion",
+	},
+	{
+		code: "9938   Effect air pressure NEC            Other specified effects of air pressure",
+	},
+	{
+		code: "9939   Effect air pressure NOS            Unspecified effect of air pressure",
+	},
+	{
+		code: "9940   Effects of lightning               Effects of lightning",
+	},
+	{
+		code: "9941   Drowning/nonfatal submer           Drowning and nonfatal submersion",
+	},
+	{
+		code: "9942   Effects of hunger                  Effects of hunger",
+	},
+	{
+		code: "9943   Effects of thirst                  Effects of thirst",
+	},
+	{
+		code: "9944   Exhaustion-exposure                Exhaustion due to exposure",
+	},
+	{
+		code: "9945   Exhaustion-excess exert            Exhaustion due to excessive exertion",
+	},
+	{
+		code: "9946   Motion sickness                    Motion sickness",
+	},
+	{
+		code: "9947   Asphyxiation/strangulat            Asphyxiation and strangulation",
+	},
+	{
+		code: "9948   Effects electric current           Electrocution and nonfatal effects of electric current",
+	},
+	{
+		code: "9949   Effect external caus NEC           Other effects of external causes",
+	},
+	{
+		code: "9950   Other anaphylactic react           Other anaphylactic reaction",
+	},
+	{
+		code: "9951   Angioneurotic edema                Angioneurotic edema",
+	},
+	{
+		code: "99520  Adv eff med/biol sub NOS           Unspecified adverse effect of unspecified drug",
+	},
+	{
+		code: "99521  Arthus phenomenon                  Arthus phenomenon",
+	},
+	{
+		code: "99522  Adv eff anesthesia NOS             Unspecified adverse effect of anesthesia",
+	},
+	{
+		code: "99523  Adverse eff insulin NOS            Unspecified adverse effect of insulin",
+	},
+	{
+		code: "99524  Fail mod sedate dur proc           Failed moderate sedation during procedure",
+	},
+	{
+		code: "99527  Drug allergy NEC                   Other drug allergy",
+	},
+	{
+		code: "99529  Adv eff med/biol NEC/NOS           Unspecified adverse effect of other drug",
+	},
+	{
+		code: "9953   Allergy",
+	},
+	{
+		code: "9954   Shock due to anesthesia            Shock due to anesthesia",
+	},
+	{
+		code: "99550  Child abuse NOS                    Child abuse",
+	},
+	{
+		code: "99551  Child emotnl/psych abuse           Child emotional/psychological abuse",
+	},
+	{
+		code: "99552  Child neglect-nutrition            Child neglect (nutritional)",
+	},
+	{
+		code: "99553  Child sexual abuse                 Child sexual abuse",
+	},
+	{
+		code: "99554  Child physical abuse               Child physical abuse",
+	},
+	{
+		code: "99555  Shaken infant syndrome             Shaken baby syndrome",
+	},
+	{
+		code: "99559  Child abuse/neglect NEC            Other child abuse and neglect",
+	},
+	{
+		code: "99560  Anphylct react food NOS            Anaphylactic reaction due to unspecified food",
+	},
+	{
+		code: "99561  Anphylct react peanuts             Anaphylactic reaction due to peanuts",
+	},
+	{
+		code: "99562  Anphylct react crstacns            Anaphylactic reaction due to crustaceans",
+	},
+	{
+		code: "99563  Anphylct react frts veg            Anaphylactic reaction due to fruits and vegetables",
+	},
+	{
+		code: "99564  Anphyl react tr nts seed           Anaphylactic reaction due to tree nuts and seeds",
+	},
+	{
+		code: "99565  Anphylct reaction fish             Anaphylactic reaction due to fish",
+	},
+	{
+		code: "99566  Anphylct react food addv           Anaphylactic reaction due to food additives",
+	},
+	{
+		code: "99567  Anphylct react milk prod           Anaphylactic reaction due to milk products",
+	},
+	{
+		code: "99568  Anphylct reaction eggs             Anaphylactic reaction due to eggs",
+	},
+	{
+		code: "99569  Anphyl react oth sp food           Anaphylactic reaction due to other specified food",
+	},
+	{
+		code: "9957   Adverse food react NEC             Other adverse food reactions",
+	},
+	{
+		code: "99580  Adult maltreatment NOS             Adult maltreatment",
+	},
+	{
+		code: "99581  Adult physical abuse               Adult physical abuse",
+	},
+	{
+		code: "99582  Adult emotnl/psych abuse           Adult emotional/psychological abuse",
+	},
+	{
+		code: "99583  Adult sexual abuse                 Adult sexual abuse",
+	},
+	{
+		code: "99584  Adult neglect-nutrition            Adult neglect (nutritional)",
+	},
+	{
+		code: "99585  Oth adult abuse/neglect            Other adult abuse and neglect",
+	},
+	{
+		code: "99586  Malignant hyperthermia             Malignant hyperthermia",
+	},
+	{
+		code: "99589  Adverse effect NEC                 Other specified adverse effects",
+	},
+	{
+		code: "99590  SIRS",
+	},
+	{
+		code: "99591  Sepsis                             Sepsis",
+	},
+	{
+		code: "99592  Severe sepsis                      Severe sepsis",
+	},
+	{
+		code: "99593  SIRS-noninf w/o ac or ds           Systemic inflammatory response syndrome due to noninfectious process without acute organ dysfunction",
+	},
+	{
+		code: "99594  SIRS-noninf w ac org dys           Systemic inflammatory response syndrome due to noninfectious process with acute organ dysfunction",
+	},
+	{
+		code: "99600  Malfunc card dev/grf NOS           Mechanical complication of unspecified cardiac device",
+	},
+	{
+		code: "99601  Malfunc cardiac pacemake           Mechanical complication due to cardiac pacemaker (electrode)",
+	},
+	{
+		code: "99602  Malfunc prosth hrt valve           Mechanical complication due to heart valve prosthesis",
+	},
+	{
+		code: "99603  Malfunc coron bypass grf           Mechanical complication due to coronary bypass graft",
+	},
+	{
+		code: "99604  Mch cmp autm mplnt dfbrl           Mechanical complication of automatic implantable cardiac defibrillator",
+	},
+	{
+		code: "99609  Malfunc card dev/grf NEC           Other mechanical complication of cardiac device",
+	},
+	{
+		code: "9961   Malfunc vasc device/graf           Mechanical complication of other vascular device",
+	},
+	{
+		code: "9962   Malfun neuro device/graf           Mechanical complication of nervous system device",
+	},
+	{
+		code: "99630  Malfunc gu dev/graft NOS           Mechanical complication of unspecified genitourinary device",
+	},
+	{
+		code: "99631  Malfunc urethral cath              Mechanical complication due to urethral (indwelling) catheter",
+	},
+	{
+		code: "99632  Malfunction iud                    Mechanical complication due to intrauterine contraceptive device",
+	},
+	{
+		code: "99639  Malfunc gu dev/graft NEC           Other mechanical complication of genitourinary device",
+	},
+	{
+		code: "99640  Cmp int orth dev/gft NOS           Unspecified mechanical complication of internal orthopedic device",
+	},
+	{
+		code: "99641  Mech loosening pros jt             Mechanical loosening of prosthetic joint",
+	},
+	{
+		code: "99642  Dislocate prosthetic jt            Dislocation of prosthetic joint",
+	},
+	{
+		code: "99643  Broke prosthtc jt implnt           Broken prosthetic joint implant",
+	},
+	{
+		code: "99644  Periprosthetc fx-pros jt           Peri-prosthetic fracture around prosthetic joint",
+	},
+	{
+		code: "99645  Periprosthetc osteolysis           Peri-prosthetic osteolysis",
+	},
+	{
+		code: "99646  Articular wear prosth jt           Articular bearing surface wear of prosthetic joint",
+	},
+	{
+		code: "99647  Mech com pros jt implant           Other mechanical complication of prosthetic joint implant",
+	},
+	{
+		code: "99649  Mech com orth dev NEC              Other mechanical complication of other internal orthopedic device",
+	},
+	{
+		code: "99651  Corneal grft malfunction           Mechanical complication due to corneal graft",
+	},
+	{
+		code: "99652  Oth tissue graft malfunc           Mechanical complication due to graft of other tissue",
+	},
+	{
+		code: "99653  Lens prosthesis malfunc            Mechanical complication due to ocular lens prosthesis",
+	},
+	{
+		code: "99654  Breast prosth malfunc              Mechanical complication due to breast prosthesis",
+	},
+	{
+		code: "99655  Comp-artificial skin grf           Mechanical complication due to artificial skin graft and decellularized allodermis",
+	},
+	{
+		code: "99656  Comp-periton dialys cath           Mechanical complication due to peritoneal dialysis catheter",
+	},
+	{
+		code: "99657  Complcation-insulin pump           Mechanical complication due to insulin pump",
+	},
+	{
+		code: "99659  Malfunc oth device/graft           Mechanical complication due to other implant and internal device",
+	},
+	{
+		code: "99660  Reaction-unsp devic/grft           Infection and inflammatory reaction due to unspecified device",
+	},
+	{
+		code: "99661  React-cardiac dev/graft            Infection and inflammatory reaction due to cardiac device",
+	},
+	{
+		code: "99662  React-oth vasc dev/graft           Infection and inflammatory reaction due to other vascular device",
+	},
+	{
+		code: "99663  React-nerv sys dev/graft           Infection and inflammatory reaction due to nervous system device",
+	},
+	{
+		code: "99664  React-indwell urin cath            Infection and inflammatory reaction due to indwelling urinary catheter",
+	},
+	{
+		code: "99665  React-oth genitourin dev           Infection and inflammatory reaction due to other genitourinary device",
+	},
+	{
+		code: "99666  React-inter joint prost            Infection and inflammatory reaction due to internal joint prosthesis",
+	},
+	{
+		code: "99667  React-oth int ortho dev            Infection and inflammatory reaction due to other internal orthopedic device",
+	},
+	{
+		code: "99668  React-periton dialy cath           Infection and inflammatory reaction due to peritoneal dialysis catheter",
+	},
+	{
+		code: "99669  React-int pros devic NEC           Infection and inflammatory reaction due to other internal prosthetic device",
+	},
+	{
+		code: "99670  Comp-unsp device/graft             Other complications due to unspecified device",
+	},
+	{
+		code: "99671  Comp-heart valve prosth            Other complications due to heart valve prosthesis",
+	},
+	{
+		code: "99672  Comp-oth cardiac device            Other complications due to other cardiac device",
+	},
+	{
+		code: "99673  Comp-ren dialys dev/grft           Other complications due to renal dialysis device",
+	},
+	{
+		code: "99674  Comp-oth vasc dev/graft            Other complications due to other vascular device",
+	},
+	{
+		code: "99675  Comp-nerv sys dev/graft            Other complications due to nervous system device",
+	},
+	{
+		code: "99676  Comp-genitourin dev/grft           Other complications due to genitourinary device",
+	},
+	{
+		code: "99677  Comp-internal joint pros           Other complications due to internal joint prosthesis",
+	},
+	{
+		code: "99678  Comp-oth int ortho devic           Other complications due to other internal orthopedic device",
+	},
+	{
+		code: "99679  Comp-int prost devic NEC           Other complications due to other internal prosthetic device",
+	},
+	{
+		code: "99680  Comp organ transplnt NOS           Complications of transplanted organ",
+	},
+	{
+		code: "99681  Compl kidney transplant            Complications of transplanted kidney",
+	},
+	{
+		code: "99682  Compl liver transplant             Complications of transplanted liver",
+	},
+	{
+		code: "99683  Compl heart transplant             Complications of transplanted heart",
+	},
+	{
+		code: "99684  Compl lung transplant              Complications of transplanted lung",
+	},
+	{
+		code: "99685  Compl marrow transplant            Complications of transplanted bone marrow",
+	},
+	{
+		code: "99686  Compl pancreas transplnt           Complications of transplanted pancreas",
+	},
+	{
+		code: "99687  Comp intestine transplnt           Complications of transplanted intestine",
+	},
+	{
+		code: "99688  Comp tp organ-stem cell            Complications of transplanted organ",
+	},
+	{
+		code: "99689  Comp oth organ transplnt           Complications of other specified transplanted organ",
+	},
+	{
+		code: "99690  Comp reattach extrem NOS           Complications of unspecified reattached extremity",
+	},
+	{
+		code: "99691  Compl reattached forearm           Complications of reattached forearm",
+	},
+	{
+		code: "99692  Compl reattached hand              Complications of reattached hand",
+	},
+	{
+		code: "99693  Compl reattached finger            Complications of reattached finger(s)",
+	},
+	{
+		code: "99694  Compl reattached arm NEC           Complications of reattached upper extremity",
+	},
+	{
+		code: "99695  Compl reattached foot              Complication of reattached foot and toe(s)",
+	},
+	{
+		code: "99696  Compl reattached leg NEC           Complication of reattached lower extremity",
+	},
+	{
+		code: "99699  Compl reattach part NEC            Complication of other specified reattached body part",
+	},
+	{
+		code: "99700  Nervous syst complc NOS            Nervous system complication",
+	},
+	{
+		code: "99701  Surg complication - cns            Central nervous system complication",
+	},
+	{
+		code: "99702  Iatrogen CV infarc/hmrhg           Iatrogenic cerebrovascular infarction or hemorrhage",
+	},
+	{
+		code: "99709  Surg comp nerv systm NEC           Other nervous system complications",
+	},
+	{
+		code: "9971   Surg compl-heart                   Cardiac complications",
+	},
+	{
+		code: "9972   Surg comp-peri vasc syst           Peripheral vascular complications",
+	},
+	{
+		code: "9973   SURG COMPLIC-RESPIR SYST           SURG COMPLIC-RESPIR SYST",
+	},
+	{
+		code: "99731  Ventltr assoc pneumonia            Ventilator associated pneumonia",
+	},
+	{
+		code: "99732  Postproc aspiration pneu           Postprocedural aspiration pneumonia",
+	},
+	{
+		code: "99739  Respiratory comp NEC               Other respiratory complications",
+	},
+	{
+		code: "9974   Surg comp-digestv system           Surg comp-digestv system",
+	},
+	{
+		code: "99741  Ret cholelh fol cholecys           Retained cholelithiasis following cholecystectomy",
+	},
+	{
+		code: "99749  Oth digestv system comp            Other digestive system complications",
+	},
+	{
+		code: "9975   Surg compl-urinary tract           Urinary complications",
+	},
+	{
+		code: "99760  Amputat stump compl NOS            Unspecified complication of amputation stump",
+	},
+	{
+		code: "99761  Neuroma amputation stump           Neuroma of amputation stump",
+	},
+	{
+		code: "99762  Infection amputat stump            Infection (chronic) of amputation stump",
+	},
+	{
+		code: "99769  Amputat stump compl NEC            Other amputation stump complication",
+	},
+	{
+		code: "99771  Vasc comp mesenteric art           Vascular complications of mesenteric artery",
+	},
+	{
+		code: "99772  Vasc comp renal artery             Vascular complications of renal artery",
+	},
+	{
+		code: "99779  Vascular comp vessel NEC           Vascular complications of other vessels",
+	},
+	{
+		code: "99791  Surg comp - hypertension           Complications affecting other specified body systems",
+	},
+	{
+		code: "99799  Surg compl-body syst NEC           Complications affecting other specified body systems",
+	},
+	{
+		code: "9980   Postoperative shock                Postoperative shock",
+	},
+	{
+		code: "99800  Postoperative shock",
+	},
+	{
+		code: "99801  Postop shock",
+	},
+	{
+		code: "99802  Postop shock",
+	},
+	{
+		code: "99809  Postop shock",
+	},
+	{
+		code: "99811  Hemorrhage complic proc            Hemorrhage complicating a procedure",
+	},
+	{
+		code: "99812  Hematoma complic proc              Hematoma complicating a procedure",
+	},
+	{
+		code: "99813  Seroma complicting proc            Seroma complicating a procedure",
+	},
+	{
+		code: "9982   Accidental op laceration           Accidental puncture or laceration during a procedure",
+	},
+	{
+		code: "99830  Wound disruption NOS               Disruption of wound",
+	},
+	{
+		code: "99831  Disrup internal op wound           Disruption of internal operation (surgical) wound",
+	},
+	{
+		code: "99832  Disrup-external op wound           Disruption of external operation (surgical) wound",
+	},
+	{
+		code: "99833  Disrpt trauma wound repr           Disruption of traumatic injury wound repair",
+	},
+	{
+		code: "9984   FB left during procedure           Foreign body accidentally left during a procedure",
+	},
+	{
+		code: "99851  Infected postop seroma             Infected postoperative seroma",
+	},
+	{
+		code: "99859  Other postop infection             Other postoperative infection",
+	},
+	{
+		code: "9986   Persist postop fistula             Persistent postoperative fistula",
+	},
+	{
+		code: "9987   Postop forgn subst react           Acute reaction to foreign substance accidentally left during a procedure",
+	},
+	{
+		code: "99881  Emphysema rsult frm proc           Emphysema (subcutaneous) (surgical) resulting from procedure",
+	},
+	{
+		code: "99882  Ctrct frgmt frm ctr surg           Cataract fragments in eye following cataract surgery",
+	},
+	{
+		code: "99883  Non-healing surgcl wound           Non-healing surgical wound",
+	},
+	{
+		code: "99889  Oth spcf cmplc procd NEC           Other specified complications of procedures not elsewhere classified",
+	},
+	{
+		code: "9989   Surgical complicat NOS             Unspecified complication of procedure",
+	},
+	{
+		code: "9990   Generalized vaccinia               Generalized vaccinia as a complication of medical care",
+	},
+	{
+		code: "9991   Air embol comp med care            Air embolism as a complication of medical care",
+	},
+	{
+		code: "9992   Vasc comp med care NEC             Other vascular complications of medical care",
+	},
+	{
+		code: "99931  Oth/uns inf-cen ven cath           Other and unspecified infection due to central venous catheter",
+	},
+	{
+		code: "99932  Blood inf dt cen ven cth           Bloodstream infection due to central venous catheter",
+	},
+	{
+		code: "99933  Lcl inf dt cen ven cth             Local infection due to central venous catheter",
+	},
+	{
+		code: "99934  Ac inf fol trans",
+	},
+	{
+		code: "99939  Infect fol infus/inj/vac           Infection following other infusion",
+	},
+	{
+		code: "9994   Anaphylactic shock-serum           Anaphylactic shock-serum",
+	},
+	{
+		code: "99941  Anaphyl d/t adm bld/prod           Anaphylactic reaction due to administration of blood and blood products",
+	},
+	{
+		code: "99942  Anaphyl react d/t vaccin           Anaphylactic reaction due to vaccination",
+	},
+	{
+		code: "99949  Anaph react d/t ot serum           Anaphylactic reaction due to other serum",
+	},
+	{
+		code: "9995   Serum reaction NEC                 Serum reaction NEC",
+	},
+	{
+		code: "99951  Ot serum react d/t blood           Other serum reaction due to administration of blood and blood products",
+	},
+	{
+		code: "99952  Ot serum react d/t vacc            Other serum reaction due to vaccination",
+	},
+	{
+		code: "99959  Other serum reaction               Other serum reaction",
+	},
+	{
+		code: "9996   Abo incompatibility reac           Abo incompatibility reac",
+	},
+	{
+		code: "99960  Abo incompat react NOS             ABO incompatibility reaction",
+	},
+	{
+		code: "99961  Abo incomp/HTR NEC                 ABO incompatibility with hemolytic transfusion reaction not specified as acute or delayed",
+	},
+	{
+		code: "99962  Abo incompat/acute HTR             ABO incompatibility with acute hemolytic transfusion reaction",
+	},
+	{
+		code: "99963  Abo incompat/delay HTR             ABO incompatibility with delayed hemolytic transfusion reaction",
+	},
+	{
+		code: "99969  Abo incompat reactn NEC            Other ABO incompatibility reaction",
+	},
+	{
+		code: "9997   Rh incompatibility react           Rh incompatibility react",
+	},
+	{
+		code: "99970  Rh incompat reaction NOS           Rh incompatibility reaction",
+	},
+	{
+		code: "99971  Rh incomp/HTR NEC                  Rh incompatibility with hemolytic transfusion reaction not specified as acute or delayed",
+	},
+	{
+		code: "99972  Rh incompat/acute HTR              Rh incompatibility with acute hemolytic transfusion reaction",
+	},
+	{
+		code: "99973  Rh incompat/delay HTR              Rh incompatibility with delayed hemolytic transfusion reaction",
+	},
+	{
+		code: "99974  Rh incompat reaction NEC           Other Rh incompatibility reaction",
+	},
+	{
+		code: "99975  Non-abo incomp react NOS           Non-ABO incompatibility reaction",
+	},
+	{
+		code: "99976  Non-abo incomp/HTR NEC             Non-ABO incompatibility with hemolytic transfusion reaction not specified as acute or delayed",
+	},
+	{
+		code: "99977  Non-abo incomp/acute HTR           Non-ABO incompatibility with acute hemolytic transfusion reaction",
+	},
+	{
+		code: "99978  Non-abo incomp/delay HTR           Non-ABO incompatibility with delayed hemolytic transfusion reaction",
+	},
+	{
+		code: "99979  Non-abo incomp react NEC           Other non-ABO incompatibility reaction",
+	},
+	{
+		code: "9998   TRANSFUSION REACTION NEC           TRANSFUSION REACTION NEC",
+	},
+	{
+		code: "99980  Transfusion reaction NOS           Transfusion reaction",
+	},
+	{
+		code: "99981  Extravstn vesicant chemo           Extravasation of vesicant chemotherapy",
+	},
+	{
+		code: "99982  Extravasn vesicant NEC             Extravasation of other vesicant agent",
+	},
+	{
+		code: "99983  Hemolytc trans react NOS           Hemolytic transfusion reaction",
+	},
+	{
+		code: "99984  Acute HTR NOS                      Acute hemolytic transfusion reaction",
+	},
+	{
+		code: "99985  Delayed HTR NOS                    Delayed hemolytic transfusion reaction",
+	},
+	{
+		code: "99988  Infusion reaction NEC              Other infusion reaction",
+	},
+	{
+		code: "99989  Transfusion reaction NEC           Other transfusion reaction",
+	},
+}

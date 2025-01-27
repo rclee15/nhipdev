@@ -1,0 +1,4442 @@
+{
+	{
+		code: "60000  BPH w/o urinary obs/LUTS           Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)",
+	},
+	{
+		code: "60001  BPH w urinary obs/LUTS             Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)",
+	},
+	{
+		code: "60010  Nod prostate w/o ur obst           Nodular prostate without urinary obstruction",
+	},
+	{
+		code: "60011  Nod prostate w ur obst             Nodular prostate with urinary obstruction",
+	},
+	{
+		code: "60020  BPH loc w/o ur obs/LUTS            Benign localized hyperplasia of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+	},
+	{
+		code: "60021  BPH loc w urin obs/LUTS            Benign localized hyperplasia of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)",
+	},
+	{
+		code: "6003   Cyst of prostate                   Cyst of prostate",
+	},
+	{
+		code: "60090  BPH NOS w/o ur obs/LUTS            Hyperplasia of prostate",
+	},
+	{
+		code: "60091  BPH NOS w ur obs/LUTS              Hyperplasia of prostate",
+	},
+	{
+		code: "6010   Acute prostatitis                  Acute prostatitis",
+	},
+	{
+		code: "6011   Chronic prostatitis                Chronic prostatitis",
+	},
+	{
+		code: "6012   Abscess of prostate                Abscess of prostate",
+	},
+	{
+		code: "6013   Prostatocystitis                   Prostatocystitis",
+	},
+	{
+		code: "6014   Prostatitis in oth dis             Prostatitis in diseases classified elsewhere",
+	},
+	{
+		code: "6018   Prostatic inflam dis NEC           Other specified inflammatory diseases of prostate",
+	},
+	{
+		code: "6019   Prostatitis NOS                    Prostatitis",
+	},
+	{
+		code: "6020   Calculus of prostate               Calculus of prostate",
+	},
+	{
+		code: "6021   Prostatic congest/hemorr           Congestion or hemorrhage of prostate",
+	},
+	{
+		code: "6022   Atrophy of prostate                Atrophy of prostate",
+	},
+	{
+		code: "6023   Dysplasia of prostate              Dysplasia of prostate",
+	},
+	{
+		code: "6028   Prostatic disorders NEC            Other specified disorders of prostate",
+	},
+	{
+		code: "6029   Prostatic disorder NOS             Unspecified disorder of prostate",
+	},
+	{
+		code: "6030   Encysted hydrocele                 Encysted hydrocele",
+	},
+	{
+		code: "6031   Infected hydrocele                 Infected hydrocele",
+	},
+	{
+		code: "6038   Hydrocele NEC                      Other specified types of hydrocele",
+	},
+	{
+		code: "6039   Hydrocele NOS                      Hydrocele",
+	},
+	{
+		code: "6040   Orchitis with abscess              Orchitis",
+	},
+	{
+		code: "60490  Orchitis/epididymit NOS            Orchitis and epididymitis",
+	},
+	{
+		code: "60491  Orchitis in oth disease            Orchitis and epididymitis in diseases classified elsewhere",
+	},
+	{
+		code: "60499  Orchitis/epididymit NEC            Other orchitis",
+	},
+	{
+		code: "605    Redun prepuce & phimosis           Redundant prepuce and phimosis",
+	},
+	{
+		code: "6060   Azoospermia                        Azoospermia",
+	},
+	{
+		code: "6061   Oligospermia                       Oligospermia",
+	},
+	{
+		code: "6068   Male infertility NEC               Infertility due to extratesticular causes",
+	},
+	{
+		code: "6069   Male infertility NOS               Male infertility",
+	},
+	{
+		code: "6070   Leukoplakia of penis               Leukoplakia of penis",
+	},
+	{
+		code: "6071   Balanoposthitis                    Balanoposthitis",
+	},
+	{
+		code: "6072   Inflam dis",
+	},
+	{
+		code: "6073   Priapism                           Priapism",
+	},
+	{
+		code: "60781  Balanitis xerotica oblit           Balanitis xerotica obliterans",
+	},
+	{
+		code: "60782  Vascular disorder",
+	},
+	{
+		code: "60783  Edema of penis                     Edema of penis",
+	},
+	{
+		code: "60784  Impotence",
+	},
+	{
+		code: "60785  Peyronie's disease                 Peyronie's disease",
+	},
+	{
+		code: "60789  Disorder of penis NEC              Other specified disorders of penis",
+	},
+	{
+		code: "6079   Disorder of penis NOS              Unspecified disorder of penis",
+	},
+	{
+		code: "6080   Seminal vesiculitis                Seminal vesiculitis",
+	},
+	{
+		code: "6081   Spermatocele                       Spermatocele",
+	},
+	{
+		code: "60820  Torsion of testis NOS              Torsion of testis",
+	},
+	{
+		code: "60821  Extravag tors sperm cord           Extravaginal torsion of spermatic cord",
+	},
+	{
+		code: "60822  Intravag tors sperm cord           Intravaginal torsion of spermatic cord",
+	},
+	{
+		code: "60823  Torsion appendix testis            Torsion of appendix testis",
+	},
+	{
+		code: "60824  Torsion appy epididymis            Torsion of appendix epididymis",
+	},
+	{
+		code: "6083   Atrophy of testis                  Atrophy of testis",
+	},
+	{
+		code: "6084   Male gen inflam dis NEC            Other inflammatory disorders of male genital organs",
+	},
+	{
+		code: "60881  Male gen dis in oth dis            Disorders of male genital organs in diseases classified elsewhere",
+	},
+	{
+		code: "60882  Hematospermia                      Hematospermia",
+	},
+	{
+		code: "60883  Male gen vascul dis NEC            Vascular disorders of male genital organs",
+	},
+	{
+		code: "60884  Chylocele",
+	},
+	{
+		code: "60885  Stricture",
+	},
+	{
+		code: "60886  Edema",
+	},
+	{
+		code: "60887  Retrograde ejaculation             Retrograde ejaculation",
+	},
+	{
+		code: "60889  Male genital dis NEC               Other specified disorders of male genital organs",
+	},
+	{
+		code: "6089   Male genital dis NOS               Unspecified disorder of male genital organs",
+	},
+	{
+		code: "6100   Solitary cyst of breast            Solitary cyst of breast",
+	},
+	{
+		code: "6101   Diffus cystic mastopathy           Diffuse cystic mastopathy",
+	},
+	{
+		code: "6102   Fibroadenosis of breast            Fibroadenosis of breast",
+	},
+	{
+		code: "6103   Fibrosclerosis of breast           Fibrosclerosis of breast",
+	},
+	{
+		code: "6104   Mammary duct ectasia               Mammary duct ectasia",
+	},
+	{
+		code: "6108   Benign mamm dysplas NEC            Other specified benign mammary dysplasias",
+	},
+	{
+		code: "6109   Benign mamm dysplas NOS            Benign mammary dysplasia",
+	},
+	{
+		code: "6110   Inflam disease of breast           Inflammatory disease of breast",
+	},
+	{
+		code: "6111   Hypertrophy of breast              Hypertrophy of breast",
+	},
+	{
+		code: "6112   Fissure of nipple                  Fissure of nipple",
+	},
+	{
+		code: "6113   Fat necrosis of breast             Fat necrosis of breast",
+	},
+	{
+		code: "6114   Atrophy of breast                  Atrophy of breast",
+	},
+	{
+		code: "6115   Galactocele                        Galactocele",
+	},
+	{
+		code: "6116   Galactorrhea-nonobstet             Galactorrhea not associated with childbirth",
+	},
+	{
+		code: "61171  Mastodynia                         Mastodynia",
+	},
+	{
+		code: "61172  Lump or mass in breast             Lump or mass in breast",
+	},
+	{
+		code: "61179  Symptoms in breast NEC             Other signs and symptoms in breast",
+	},
+	{
+		code: "6118   BREAST DISORDERS NEC               BREAST DISORDERS NEC",
+	},
+	{
+		code: "61181  Ptosis of breast                   Ptosis of breast",
+	},
+	{
+		code: "61182  Hypoplasia of breast               Hypoplasia of breast",
+	},
+	{
+		code: "61183  Capslr contrctr brst imp           Capsular contracture of breast implant",
+	},
+	{
+		code: "61189  Disorders breast NEC               Other specified disorders of breast",
+	},
+	{
+		code: "6119   Breast disorder NOS                Unspecified breast disorder",
+	},
+	{
+		code: "6120   Deformity reconst breast           Deformity of reconstructed breast",
+	},
+	{
+		code: "6121   Disproportn reconst brst           Disproportion of reconstructed breast",
+	},
+	{
+		code: "6140   Ac salpingo-oophoritis             Acute salpingitis and oophoritis",
+	},
+	{
+		code: "6141   Chr salpingo-oophoritis            Chronic salpingitis and oophoritis",
+	},
+	{
+		code: "6142   Salpingo-oophoritis NOS            Salpingitis and oophoritis not specified as acute",
+	},
+	{
+		code: "6143   Acute parametritis                 Acute parametritis and pelvic cellulitis",
+	},
+	{
+		code: "6144   Chronic parametritis               Chronic or unspecified parametritis and pelvic cellulitis",
+	},
+	{
+		code: "6145   Ac pelv peritonitis-fem            Acute or unspecified pelvic peritonitis",
+	},
+	{
+		code: "6146   Fem pelvic periton adhes           Pelvic peritoneal adhesions",
+	},
+	{
+		code: "6147   Chr pelv periton NEC-fem           Other chronic pelvic peritonitis",
+	},
+	{
+		code: "6148   Fem pelv inflam dis NEC            Other specified inflammatory disease of female pelvic organs and tissues",
+	},
+	{
+		code: "6149   Fem pelv inflam dis NOS            Unspecified inflammatory disease of female pelvic organs and tissues",
+	},
+	{
+		code: "6150   Ac uterine inflammation            Acute inflammatory diseases of uterus",
+	},
+	{
+		code: "6151   Chr uterine inflammation           Chronic inflammatory diseases of uterus",
+	},
+	{
+		code: "6159   Uterine inflam dis NOS             Unspecified inflammatory disease of uterus",
+	},
+	{
+		code: "6160   Cervicitis                         Cervicitis and endocervicitis",
+	},
+	{
+		code: "61610  Vaginitis NOS                      Vaginitis and vulvovaginitis",
+	},
+	{
+		code: "61611  Vaginitis in oth disease           Vaginitis and vulvovaginitis in diseases classified elsewhere",
+	},
+	{
+		code: "6162   Bartholin's gland cyst             Cyst of Bartholin's gland",
+	},
+	{
+		code: "6163   Bartholin's glnd abscess           Abscess of Bartholin's gland",
+	},
+	{
+		code: "6164   Abscess of vulva NEC               Other abscess of vulva",
+	},
+	{
+		code: "61650  Ulceration of vulva NOS            Ulceration of vulva",
+	},
+	{
+		code: "61651  Vulvar ulcer in oth dis            Ulceration of vulva in diseases classified elsewhere",
+	},
+	{
+		code: "61681  Mucositis cerv",
+	},
+	{
+		code: "61689  Inflm cerv",
+	},
+	{
+		code: "6169   Female gen inflam NOS              Unspecified inflammatory disease of cervix",
+	},
+	{
+		code: "6170   Uterine endometriosis              Endometriosis of uterus",
+	},
+	{
+		code: "6171   Ovarian endometriosis              Endometriosis of ovary",
+	},
+	{
+		code: "6172   Tubal endometriosis                Endometriosis of fallopian tube",
+	},
+	{
+		code: "6173   Pelv perit endometriosis           Endometriosis of pelvic peritoneum",
+	},
+	{
+		code: "6174   Vaginal endometriosis              Endometriosis of rectovaginal septum and vagina",
+	},
+	{
+		code: "6175   Intestinal endometriosis           Endometriosis of intestine",
+	},
+	{
+		code: "6176   Endometriosis in scar              Endometriosis in scar of skin",
+	},
+	{
+		code: "6178   Endometriosis NEC                  Endometriosis of other specified sites",
+	},
+	{
+		code: "6179   Endometriosis NOS                  Endometriosis",
+	},
+	{
+		code: "61800  Vaginal wall prolpse NOS           Unspecified prolapse of vaginal walls",
+	},
+	{
+		code: "61801  Cystocele",
+	},
+	{
+		code: "61802  Cystocele",
+	},
+	{
+		code: "61803  Urethrocele                        Urethrocele",
+	},
+	{
+		code: "61804  Rectocele                          Rectocele",
+	},
+	{
+		code: "61805  Perineocele                        Perineocele",
+	},
+	{
+		code: "61809  Cystourethrocele                   Other prolapse of vaginal walls without mention of uterine prolapse",
+	},
+	{
+		code: "6181   Uterine prolapse                   Uterine prolapse without mention of vaginal wall prolapse",
+	},
+	{
+		code: "6182   Uterovag prolaps-incompl           Uterovaginal prolapse",
+	},
+	{
+		code: "6183   Uterovag prolaps-complet           Uterovaginal prolapse",
+	},
+	{
+		code: "6184   Utervaginal prolapse NOS           Uterovaginal prolapse",
+	},
+	{
+		code: "6185   Postop vaginal prolapse            Prolapse of vaginal vault after hysterectomy",
+	},
+	{
+		code: "6186   Vaginal enterocele                 Vaginal enterocele",
+	},
+	{
+		code: "6187   Old lacer pelvic muscle            Old laceration of muscles of pelvic floor",
+	},
+	{
+		code: "61881  Incomptnce pubocerv tiss           Incompetence or weakening of pubocervical tissue",
+	},
+	{
+		code: "61882  Incomptnce rectovag tiss           Incompetence or weakening of rectovaginal tissue",
+	},
+	{
+		code: "61883  Pelvic muscle wasting              Pelvic muscle wasting",
+	},
+	{
+		code: "61884  Cervical stump prolapse            Cervical stump prolapse",
+	},
+	{
+		code: "61889  Genital prolapse NEC               Other specified genital prolapse",
+	},
+	{
+		code: "6189   Genital prolapse NOS               Unspecified genital prolapse",
+	},
+	{
+		code: "6190   Urin-genital fistul",
+	},
+	{
+		code: "6191   Digest-genit fistul",
+	},
+	{
+		code: "6192   Genital-skin fistul",
+	},
+	{
+		code: "6198   Fem genital fistula NEC            Other specified fistulas involving female genital tract",
+	},
+	{
+		code: "6199   Fem genital fistula NOS            Unspecified fistula involving female genital tract",
+	},
+	{
+		code: "6200   Follicular cyst of ovary           Follicular cyst of ovary",
+	},
+	{
+		code: "6201   Corpus luteum cyst                 Corpus luteum cyst or hematoma",
+	},
+	{
+		code: "6202   Ovarian cyst NEC/NOS               Other and unspecified ovarian cyst",
+	},
+	{
+		code: "6203   Acq atrophy ovary & tube           Acquired atrophy of ovary and fallopian tube",
+	},
+	{
+		code: "6204   Prolapse of ovary & tube           Prolapse or hernia of ovary and fallopian tube",
+	},
+	{
+		code: "6205   Torsion of ovary or tube           Torsion of ovary",
+	},
+	{
+		code: "6206   Broad ligament lacer syn           Broad ligament laceration syndrome",
+	},
+	{
+		code: "6207   Broad ligament hematoma            Hematoma of broad ligament",
+	},
+	{
+		code: "6208   Noninfl dis ova/adnx NEC           Other noninflammatory disorders of ovary",
+	},
+	{
+		code: "6209   Noninfl dis ova/adnx NOS           Unspecified noninflammatory disorder of ovary",
+	},
+	{
+		code: "6210   Polyp of corpus uteri              Polyp of corpus uteri",
+	},
+	{
+		code: "6211   Chr uterine subinvolutn            Chronic subinvolution of uterus",
+	},
+	{
+		code: "6212   Hypertrophy of uterus              Hypertrophy of uterus",
+	},
+	{
+		code: "62130  Endometrial hyperpla NOS           Endometrial hyperplasia",
+	},
+	{
+		code: "62131  Simp endo hyper w/o atyp           Simple endometrial hyperplasia without atypia",
+	},
+	{
+		code: "62132  Comp endo hyper w/o atyp           Complex endometrial hyperplasia without atypia",
+	},
+	{
+		code: "62133  Endomet hyperpla w atyp            Endometrial hyperplasia with atypia",
+	},
+	{
+		code: "62134  Ben endomet hyperplasia            Benign endometrial hyperplasia",
+	},
+	{
+		code: "62135  Endomet intraepithl neop           Endometrial intraepithelial neoplasia [EIN]",
+	},
+	{
+		code: "6214   Hematometra                        Hematometra",
+	},
+	{
+		code: "6215   Intrauterine synechiae             Intrauterine synechiae",
+	},
+	{
+		code: "6216   Malposition of uterus              Malposition of uterus",
+	},
+	{
+		code: "6217   Chr inversion of uterus            Chronic inversion of uterus",
+	},
+	{
+		code: "6218   Disorders of uterus NEC            Other specified disorders of uterus",
+	},
+	{
+		code: "6219   Disorder of uterus NOS             Unspecified disorder of uterus",
+	},
+	{
+		code: "6220   Erosion/ectropion cervix           Erosion and ectropion of cervix",
+	},
+	{
+		code: "62210  Dysplasia of cervix NOS            Dysplasia of cervix",
+	},
+	{
+		code: "62211  Mild dysplasia of cervix           Mild dysplasia of cervix",
+	},
+	{
+		code: "62212  Mod dysplasia of cervix            Moderate dysplasia of cervix",
+	},
+	{
+		code: "6222   Leukoplakia of cervix              Leukoplakia of cervix (uteri)",
+	},
+	{
+		code: "6223   Old laceration of cervix           Old laceration of cervix",
+	},
+	{
+		code: "6224   Stricture of cervix                Stricture and stenosis of cervix",
+	},
+	{
+		code: "6225   Incompetence of cervix             Incompetence of cervix",
+	},
+	{
+		code: "6226   Hypertrophic elong cervx           Hypertrophic elongation of cervix",
+	},
+	{
+		code: "6227   Mucous polyp of cervix             Mucous polyp of cervix",
+	},
+	{
+		code: "6228   Noninflam dis cervix NEC           Other specified noninflammatory disorders of cervix",
+	},
+	{
+		code: "6229   Noninflam dis cervix NOS           Unspecified noninflammatory disorder of cervix",
+	},
+	{
+		code: "6230   Dysplasia of vagina                Dysplasia of vagina",
+	},
+	{
+		code: "6231   Leukoplakia of vagina              Leukoplakia of vagina",
+	},
+	{
+		code: "6232   Stricture of vagina                Stricture or atresia of vagina",
+	},
+	{
+		code: "6233   Tight hymenal ring                 Tight hymenal ring",
+	},
+	{
+		code: "6234   Old vaginal laceration             Old vaginal laceration",
+	},
+	{
+		code: "6235   Noninfect vag leukorrhea           Leukorrhea",
+	},
+	{
+		code: "6236   Vaginal hematoma                   Vaginal hematoma",
+	},
+	{
+		code: "6237   Polyp of vagina                    Polyp of vagina",
+	},
+	{
+		code: "6238   Noninflam dis vagina NEC           Other specified noninflammatory disorders of vagina",
+	},
+	{
+		code: "6239   Noninflam dis vagina NOS           Unspecified noninflammatory disorder of vagina",
+	},
+	{
+		code: "62401  Vulvar intraeph neopl I            Vulvar intraepithelial neoplasia I [VIN I]",
+	},
+	{
+		code: "62402  Vulvr intraepth neopl II           Vulvar intraepithelial neoplasia II [VIN II]",
+	},
+	{
+		code: "62409  Dystrophy of vulva NEC             Other dystrophy of vulva",
+	},
+	{
+		code: "6241   Atrophy of vulva                   Atrophy of vulva",
+	},
+	{
+		code: "6242   Hypertrophy of clitoris            Hypertrophy of clitoris",
+	},
+	{
+		code: "6243   Hypertrophy of labia               Hypertrophy of labia",
+	},
+	{
+		code: "6244   Old laceration of vulva            Old laceration or scarring of vulva",
+	},
+	{
+		code: "6245   Hematoma of vulva                  Hematoma of vulva",
+	},
+	{
+		code: "6246   Polyp of labia and vulva           Polyp of labia and vulva",
+	},
+	{
+		code: "6248   Noninflam dis vulva NEC            Other specified noninflammatory disorders of vulva and perineum",
+	},
+	{
+		code: "6249   Noninflam dis vulva NOS            Unspecified noninflammatory disorder of vulva and perineum",
+	},
+	{
+		code: "6250   Dyspareunia                        Dyspareunia",
+	},
+	{
+		code: "6251   Vaginismus                         Vaginismus",
+	},
+	{
+		code: "6252   Mittelschmerz                      Mittelschmerz",
+	},
+	{
+		code: "6253   Dysmenorrhea                       Dysmenorrhea",
+	},
+	{
+		code: "6254   Premenstrual tension               Premenstrual tension syndromes",
+	},
+	{
+		code: "6255   Pelvic congestion synd             Pelvic congestion syndrome",
+	},
+	{
+		code: "6256   Fem stress incontinence            Stress incontinence",
+	},
+	{
+		code: "62570  Vulvodynia NOS                     Vulvodynia",
+	},
+	{
+		code: "62571  Vulvar vestibulitis                Vulvar vestibulitis",
+	},
+	{
+		code: "62579  Other vulvodynia                   Other vulvodynia",
+	},
+	{
+		code: "6258   Fem genital symptoms NEC           Other specified symptoms associated with female genital organs",
+	},
+	{
+		code: "6259   Fem genital symptoms NOS           Unspecified symptom associated with female genital organs",
+	},
+	{
+		code: "6260   Absence of menstruation            Absence of menstruation",
+	},
+	{
+		code: "6261   Scanty menstruation                Scanty or infrequent menstruation",
+	},
+	{
+		code: "6262   Excessive menstruation             Excessive or frequent menstruation",
+	},
+	{
+		code: "6263   Pubertal menorrhagia               Puberty bleeding",
+	},
+	{
+		code: "6264   Irregular menstruation             Irregular menstrual cycle",
+	},
+	{
+		code: "6265   Ovulation bleeding                 Ovulation bleeding",
+	},
+	{
+		code: "6266   Metrorrhagia                       Metrorrhagia",
+	},
+	{
+		code: "6267   Postcoital bleeding                Postcoital bleeding",
+	},
+	{
+		code: "6268   Menstrual disorder NEC             Other disorders of menstruation and other abnormal bleeding from female genital tract",
+	},
+	{
+		code: "6269   Menstrual disorder NOS             Unspecified disorders of menstruation and other abnormal bleeding from female genital tract",
+	},
+	{
+		code: "6270   Premenopause menorrhagia           Premenopausal menorrhagia",
+	},
+	{
+		code: "6271   Postmenopausal bleeding            Postmenopausal bleeding",
+	},
+	{
+		code: "6272   Sympt fem climact state            Symptomatic menopausal or female climacteric states",
+	},
+	{
+		code: "6273   Atrophic vaginitis                 Postmenopausal atrophic vaginitis",
+	},
+	{
+		code: "6274   Sympt state w artif meno           Symptomatic states associated with artificial menopause",
+	},
+	{
+		code: "6278   Menopausal disorder NEC            Other specified menopausal and postmenopausal disorders",
+	},
+	{
+		code: "6279   Menopausal disorder NOS            Unspecified menopausal and postmenopausal disorder",
+	},
+	{
+		code: "6280   Infertility-anovulation            Infertility",
+	},
+	{
+		code: "6281   Infertil-pituitary orig            Infertility",
+	},
+	{
+		code: "6282   Infertility-tubal origin           Infertility",
+	},
+	{
+		code: "6283   Infertility-uterine orig           Infertility",
+	},
+	{
+		code: "6284   Infertil-cervical orig             Infertility",
+	},
+	{
+		code: "6288   Female infertility NEC             Infertility",
+	},
+	{
+		code: "6289   Female infertility NOS             Infertility",
+	},
+	{
+		code: "6290   Hematocele",
+	},
+	{
+		code: "6291   Hydrocele canal nuck-fem           Hydrocele",
+	},
+	{
+		code: "62920  Genital mutilation NOS             Female genital mutilation status",
+	},
+	{
+		code: "62921  Genital mutilatn type I            Female genital mutilation Type I status",
+	},
+	{
+		code: "62922  Genital mutilatn type II           Female genital mutilation Type II status",
+	},
+	{
+		code: "62923  Genital muilatn type III           Female genital mutilation Type III status",
+	},
+	{
+		code: "62929  Fem genital mutilate NEC           Other female genital mutilation status",
+	},
+	{
+		code: "62931  Eros imp vag mesh in tis           Erosion of implanted vaginal mesh and other prosthetic materials to surrounding organ or tissue",
+	},
+	{
+		code: "62932  Exp imp vag mesh-vagina            Exposure of implanted vaginal mesh and other prosthetic materials into vagina",
+	},
+	{
+		code: "62981  Rec preg loss wo cur prg           Recurrent pregnancy loss without current pregnancy",
+	},
+	{
+		code: "62989  Female genital disor NEC           Other specified disorders of female genital organs",
+	},
+	{
+		code: "6299   Female genital dis NOS             Unspecified disorder of female genital organs",
+	},
+	{
+		code: "630    Hydatidiform mole                  Hydatidiform mole",
+	},
+	{
+		code: "631    Oth abn prod conception            Oth abn prod conception",
+	},
+	{
+		code: "6310   Inapp chg hCG early preg           Inappropriate change in quantitative human chorionic gonadotropin (hCG) in early pregnancy",
+	},
+	{
+		code: "6318   Oth abn prod conception            Other abnormal products of conception",
+	},
+	{
+		code: "632    Missed abortion                    Missed abortion",
+	},
+	{
+		code: "63300  Abd preg w/o intrau preg           Abdominal pregnancy without intrauterine pregnancy",
+	},
+	{
+		code: "63301  Abd preg w intraut preg            Abdominal pregnancy with intrauterine pregnancy",
+	},
+	{
+		code: "63310  Tubal preg w/o intra prg           Tubal pregnancy without intrauterine pregnancy",
+	},
+	{
+		code: "63311  Tubal preg w intra preg            Tubal pregnancy with intrauterine pregnancy",
+	},
+	{
+		code: "63320  Ovarn preg w/o intra prg           Ovarian pregnancy without intrauterine pregnancy",
+	},
+	{
+		code: "63321  Ovarian preg w intra prg           Ovarian pregnancy with intrauterine pregnancy",
+	},
+	{
+		code: "63380  Ect preg NEC w/o int prg           Other ectopic pregnancy without intrauterine pregnancy",
+	},
+	{
+		code: "63381  Ectpc prg NEC w int preg           Other ectopic pregnancy with intrauterine pregnancy",
+	},
+	{
+		code: "63390  Ect preg NOS w/o int prg           Unspecified ectopic pregnancy without intrauterine pregnancy",
+	},
+	{
+		code: "63391  Ectp preg NOS w int preg           Unspecified ectopic pregnancy with intrauterine pregnancy",
+	},
+	{
+		code: "63400  Spon abor w pel inf-unsp           Spontaneous abortion",
+	},
+	{
+		code: "63401  Spon abor w pelv inf-inc           Spontaneous abortion",
+	},
+	{
+		code: "63402  Spon abor w pel inf-comp           Spontaneous abortion",
+	},
+	{
+		code: "63410  Spon abort w hemorr-unsp           Spontaneous abortion",
+	},
+	{
+		code: "63411  Spon abort w hemorr-inc            Spontaneous abortion",
+	},
+	{
+		code: "63412  Spon abort w hemorr-comp           Spontaneous abortion",
+	},
+	{
+		code: "63420  Spon ab w pel damag-unsp           Spontaneous abortion",
+	},
+	{
+		code: "63421  Spon ab w pelv damag-inc           Spontaneous abortion",
+	},
+	{
+		code: "63422  Spon ab w pel damag-comp           Spontaneous abortion",
+	},
+	{
+		code: "63430  Spon ab w ren fail-unsp            Spontaneous abortion",
+	},
+	{
+		code: "63431  Spon ab w ren fail-inc             Spontaneous abortion",
+	},
+	{
+		code: "63432  Spon ab w ren fail-comp            Spontaneous abortion",
+	},
+	{
+		code: "63440  Spon ab w metab dis-unsp           Spontaneous abortion",
+	},
+	{
+		code: "63441  Spon ab w metab dis-inc            Spontaneous abortion",
+	},
+	{
+		code: "63442  Spon ab w metab dis-comp           Spontaneous abortion",
+	},
+	{
+		code: "63450  Spon abort w shock-unsp            Spontaneous abortion",
+	},
+	{
+		code: "63451  Spon abort w shock-inc             Spontaneous abortion",
+	},
+	{
+		code: "63452  Spon abort w shock-comp            Spontaneous abortion",
+	},
+	{
+		code: "63460  Spon abort w embol-unsp            Spontaneous abortion",
+	},
+	{
+		code: "63461  Spon abort w embol-inc             Spontaneous abortion",
+	},
+	{
+		code: "63462  Spon abort w embol-comp            Spontaneous abortion",
+	},
+	{
+		code: "63470  Spon ab w compl NEC-unsp           Spontaneous abortion",
+	},
+	{
+		code: "63471  Spon ab w compl NEC-inc            Spontaneous abortion",
+	},
+	{
+		code: "63472  Spon ab w compl NEC-comp           Spontaneous abortion",
+	},
+	{
+		code: "63480  Spon ab w compl NOS-unsp           Spontaneous abortion",
+	},
+	{
+		code: "63481  Spon ab w compl NOS-inc            Spontaneous abortion",
+	},
+	{
+		code: "63482  Spon ab w compl NOS-comp           Spontaneous abortion",
+	},
+	{
+		code: "63490  Spon abort uncompl-unsp            Spontaneous abortion",
+	},
+	{
+		code: "63491  Spon abort uncompl-inc             Spontaneous abortion",
+	},
+	{
+		code: "63492  Spon abort uncompl-comp            Spontaneous abortion",
+	},
+	{
+		code: "63500  Leg abor w pelv inf-unsp           Legally induced abortion",
+	},
+	{
+		code: "63501  Leg abor w pelv inf-inc            Legally induced abortion",
+	},
+	{
+		code: "63502  Leg abor w pelv inf-comp           Legally induced abortion",
+	},
+	{
+		code: "63510  Legal abor w hemorr-unsp           Legally induced abortion",
+	},
+	{
+		code: "63511  Legal abort w hemorr-inc           Legally induced abortion",
+	},
+	{
+		code: "63512  Legal abor w hemorr-comp           Legally induced abortion",
+	},
+	{
+		code: "63520  Leg ab w pelv damag-unsp           Legally induced abortion",
+	},
+	{
+		code: "63521  Leg ab w pelv damag-inc            Legally induced abortion",
+	},
+	{
+		code: "63522  Leg ab w pelv damag-comp           Legally induced abortion",
+	},
+	{
+		code: "63530  Leg abor w ren fail-unsp           Legally induced abortion",
+	},
+	{
+		code: "63531  Leg abor w ren fail-inc            Legally induced abortion",
+	},
+	{
+		code: "63532  Leg abor w ren fail-comp           Legally induced abortion",
+	},
+	{
+		code: "63540  Leg ab w metab dis-unsp            Legally induced abortion",
+	},
+	{
+		code: "63541  Leg ab w metab dis-inc             Legally induced abortion",
+	},
+	{
+		code: "63542  Leg ab w metab dis-comp            Legally induced abortion",
+	},
+	{
+		code: "63550  Legal abort w shock-unsp           Legally induced abortion",
+	},
+	{
+		code: "63551  Legal abort w shock-inc            Legally induced abortion",
+	},
+	{
+		code: "63552  Legal abort w shock-comp           Legally induced abortion",
+	},
+	{
+		code: "63560  Legal abort w embol-unsp           Legally induced abortion",
+	},
+	{
+		code: "63561  Legal abort w embol-inc            Legally induced abortion",
+	},
+	{
+		code: "63562  Legal abort w embol-comp           Legally induced abortion",
+	},
+	{
+		code: "63570  Leg ab w compl NEC-unsp            Legally induced abortion",
+	},
+	{
+		code: "63571  Leg ab w compl NEC-inc             Legally induced abortion",
+	},
+	{
+		code: "63572  Leg ab w compl NEC-comp            Legally induced abortion",
+	},
+	{
+		code: "63580  Leg ab w compl NOS-unsp            Legally induced abortion",
+	},
+	{
+		code: "63581  Leg ab w compl NOS-inc             Legally induced abortion",
+	},
+	{
+		code: "63582  Leg ab w compl NOS-comp            Legally induced abortion",
+	},
+	{
+		code: "63590  Legal abort uncompl-unsp           Legally induced abortion",
+	},
+	{
+		code: "63591  Legal abort uncompl-inc            Legally induced abortion",
+	},
+	{
+		code: "63592  Legal abort uncompl-comp           Legally induced abortion",
+	},
+	{
+		code: "63600  Illeg ab w pelv inf-unsp           Illegally induced abortion",
+	},
+	{
+		code: "63601  Illeg ab w pelv inf-inc            Illegally induced abortion",
+	},
+	{
+		code: "63602  Illeg ab w pelv inf-comp           Illegally induced abortion",
+	},
+	{
+		code: "63610  Illeg ab w hemorr-unspec           Illegally induced abortion",
+	},
+	{
+		code: "63611  Illeg ab w hemorr-inc              Illegally induced abortion",
+	},
+	{
+		code: "63612  Illeg ab w hemorr-comp             Illegally induced abortion",
+	},
+	{
+		code: "63620  Illeg ab w pel damg-unsp           Illegally induced abortion",
+	},
+	{
+		code: "63621  Illeg ab w pel damag-inc           Illegally induced abortion",
+	},
+	{
+		code: "63622  Illeg ab w pel damg-comp           Illegally induced abortion",
+	},
+	{
+		code: "63630  Illeg ab w ren fail-unsp           Illegally induced abortion",
+	},
+	{
+		code: "63631  Illeg ab w ren fail-inc            Illegally induced abortion",
+	},
+	{
+		code: "63632  Illeg ab w ren fail-comp           Illegally induced abortion",
+	},
+	{
+		code: "63640  Illeg ab w met dis-unsp            Illegally induced abortion",
+	},
+	{
+		code: "63641  Illeg ab w metab dis-inc           Illegally induced abortion",
+	},
+	{
+		code: "63642  Illeg ab w met dis-comp            Illegally induced abortion",
+	},
+	{
+		code: "63650  Illeg abort w shock-unsp           Illegally induced abortion",
+	},
+	{
+		code: "63651  Illeg abort w shock-inc            Illegally induced abortion",
+	},
+	{
+		code: "63652  Illeg abort w shock-comp           Illegally induced abortion",
+	},
+	{
+		code: "63660  Illeg ab w embolism-unsp           Illegally induced abortion",
+	},
+	{
+		code: "63661  Illeg ab w embolism-inc            Illegally induced abortion",
+	},
+	{
+		code: "63662  Illeg ab w embolism-comp           Illegally induced abortion",
+	},
+	{
+		code: "63670  Illg ab w compl NEC-unsp           Illegally induced abortion",
+	},
+	{
+		code: "63671  Illeg ab w compl NEC-inc           Illegally induced abortion",
+	},
+	{
+		code: "63672  Illg ab w compl NEC-comp           Illegally induced abortion",
+	},
+	{
+		code: "63680  Illg ab w compl NOS-unsp           Illegally induced abortion",
+	},
+	{
+		code: "63681  Illeg ab w compl NOS-inc           Illegally induced abortion",
+	},
+	{
+		code: "63682  Illg ab w compl NOS-comp           Illegally induced abortion",
+	},
+	{
+		code: "63690  Illeg abort uncompl-unsp           Illegally induced abortion",
+	},
+	{
+		code: "63691  Illeg abort uncompl-inc            Illegally induced abortion",
+	},
+	{
+		code: "63692  Illeg abort uncompl-comp           Illegally induced abortion",
+	},
+	{
+		code: "63700  Abort NOS w pel inf-unsp           Unspecified abortion",
+	},
+	{
+		code: "63701  Abort NOS w pel inf-inc            Unspecified abortion",
+	},
+	{
+		code: "63702  Abort NOS w pel inf-comp           Unspecified abortion",
+	},
+	{
+		code: "63710  Abort NOS w hemorr-unsp            Unspecified abortion",
+	},
+	{
+		code: "63711  Abort NOS w hemorr-inc             Unspecified abortion",
+	},
+	{
+		code: "63712  Abort NOS w hemorr-comp            Unspecified abortion",
+	},
+	{
+		code: "63720  Ab NOS w pelv damag-unsp           Unspecified abortion",
+	},
+	{
+		code: "63721  Ab NOS w pelv damag-inc            Unspecified abortion",
+	},
+	{
+		code: "63722  Ab NOS w pelv damag-comp           Unspecified abortion",
+	},
+	{
+		code: "63730  Ab NOS w renal fail-unsp           Unspecified abortion",
+	},
+	{
+		code: "63731  Ab NOS w renal fail-inc            Unspecified abortion",
+	},
+	{
+		code: "63732  Ab NOS w renal fail-comp           Unspecified abortion",
+	},
+	{
+		code: "63740  Ab NOS w metab dis-unsp            Unspecified abortion",
+	},
+	{
+		code: "63741  Ab NOS w metab dis-inc             Unspecified abortion",
+	},
+	{
+		code: "63742  Ab NOS w metab dis-comp            Unspecified abortion",
+	},
+	{
+		code: "63750  Abort NOS w shock-unsp             Unspecified abortion",
+	},
+	{
+		code: "63751  Abort NOS w shock-inc              Unspecified abortion",
+	},
+	{
+		code: "63752  Abort NOS w shock-comp             Unspecified abortion",
+	},
+	{
+		code: "63760  Ab NOS w embolism-unsp             Unspecified abortion",
+	},
+	{
+		code: "63761  Ab NOS w embolism-inc              Unspecified abortion",
+	},
+	{
+		code: "63762  Ab NOS w embolism-comp             Unspecified abortion",
+	},
+	{
+		code: "63770  Ab NOS w compl NEC-unsp            Unspecified abortion",
+	},
+	{
+		code: "63771  Ab NOS w compl NEC-inc             Unspecified abortion",
+	},
+	{
+		code: "63772  Ab NOS w compl NEC-comp            Unspecified abortion",
+	},
+	{
+		code: "63780  Ab NOS w compl NOS-unsp            Unspecified abortion",
+	},
+	{
+		code: "63781  Ab NOS w compl NOS-inc             Unspecified abortion",
+	},
+	{
+		code: "63782  Ab NOS w compl NOS-comp            Unspecified abortion",
+	},
+	{
+		code: "63790  Ab NOS uncomplicat-unsp            Unspecified abortion",
+	},
+	{
+		code: "63791  Ab NOS uncomplicat-inc             Unspecified abortion",
+	},
+	{
+		code: "63792  Ab NOS uncomplicat-comp            Unspecified abortion",
+	},
+	{
+		code: "6380   Attem abort w pelvic inf           Failed attempted abortion complicated by genital tract and pelvic infection",
+	},
+	{
+		code: "6381   Attem abort w hemorrhage           Failed attempted abortion complicated by delayed or excessive hemorrhage",
+	},
+	{
+		code: "6382   Attem abort w pelv damag           Failed attempted abortion complicated by damage to pelvic organs or tissues",
+	},
+	{
+		code: "6383   Attem abort w renal fail           Failed attempted abortion complicated by renal failure",
+	},
+	{
+		code: "6384   Attem abor w metabol dis           Failed attempted abortion complicated by metabolic disorder",
+	},
+	{
+		code: "6385   Attem abortion w shock             Failed attempted abortion complicated by shock",
+	},
+	{
+		code: "6386   Attemp abort w embolism            Failed attempted abortion complicated by embolism",
+	},
+	{
+		code: "6387   Attemp abort w compl NEC           Failed attempted abortion with other specified complications",
+	},
+	{
+		code: "6388   Attemp abort w compl NOS           Failed attempted abortion with unspecified complication",
+	},
+	{
+		code: "6389   Attempted abort uncompl            Failed attempted abortion without mention of complication",
+	},
+	{
+		code: "6390   Postabortion gu infect             Genital tract and pelvic infection following abortion or ectopic and molar pregnancies",
+	},
+	{
+		code: "6391   Postabortion hemorrhage            Delayed or excessive hemorrhage following abortion or ectopic and molar pregnancies",
+	},
+	{
+		code: "6392   Postabort pelvic damage            Damage to pelvic organs and tissues following abortion or ectopic and molar pregnancies",
+	},
+	{
+		code: "6393   Postabort kidney failure           Kidney failure following abortion and ectopic and molar pregnancies",
+	},
+	{
+		code: "6394   Postabort metabolic dis            Metabolic disorders following abortion or ectopic and molar pregnancies",
+	},
+	{
+		code: "6395   Postabortion shock                 Shock following abortion or ectopic and molar pregnancies",
+	},
+	{
+		code: "6396   Postabortion embolism              Embolism following abortion or ectopic and molar pregnancies",
+	},
+	{
+		code: "6398   Postabortion compl NEC             Other specified complications following abortion or ectopic and molar pregnancy",
+	},
+	{
+		code: "6399   Postabortion compl NOS             Unspecified complication following abortion or ectopic and molar pregnancy",
+	},
+	{
+		code: "64000  Threatened abort-unspec            Threatened abortion",
+	},
+	{
+		code: "64001  Threatened abort-deliver           Threatened abortion",
+	},
+	{
+		code: "64003  Threaten abort-antepart            Threatened abortion",
+	},
+	{
+		code: "64080  Hem early preg NEC-unsp            Other specified hemorrhage in early pregnancy",
+	},
+	{
+		code: "64081  Hem early preg NEC-deliv           Other specified hemorrhage in early pregnancy",
+	},
+	{
+		code: "64083  Hem early pg NEC-antepar           Other specified hemorrhage in early pregnancy",
+	},
+	{
+		code: "64090  Hemorr early preg-unspec           Unspecified hemorrhage in early pregnancy",
+	},
+	{
+		code: "64091  Hem early preg-delivered           Unspecified hemorrhage in early pregnancy",
+	},
+	{
+		code: "64093  Hem early preg-antepart            Unspecified hemorrhage in early pregnancy",
+	},
+	{
+		code: "64100  Placenta previa-unspec             Placenta previa without hemorrhage",
+	},
+	{
+		code: "64101  Placenta previa-deliver            Placenta previa without hemorrhage",
+	},
+	{
+		code: "64103  Placenta previa-antepart           Placenta previa without hemorrhage",
+	},
+	{
+		code: "64110  Placenta prev hem-unspec           Hemorrhage from placenta previa",
+	},
+	{
+		code: "64111  Placenta prev hem-deliv            Hemorrhage from placenta previa",
+	},
+	{
+		code: "64113  Placen prev hem-antepart           Hemorrhage from placenta previa",
+	},
+	{
+		code: "64120  Prem separ placen-unspec           Premature separation of placenta",
+	},
+	{
+		code: "64121  Prem separ placen-deliv            Premature separation of placenta",
+	},
+	{
+		code: "64123  Prem separ plac-antepart           Premature separation of placenta",
+	},
+	{
+		code: "64130  Coag def hemorr-unspec             Antepartum hemorrhage associated with coagulation defects",
+	},
+	{
+		code: "64131  Coag def hemorr-deliver            Antepartum hemorrhage associated with coagulation defects",
+	},
+	{
+		code: "64133  Coag def hemorr-antepart           Antepartum hemorrhage associated with coagulation defects",
+	},
+	{
+		code: "64180  Antepart hem NEC-unspec            Other antepartum hemorrhage",
+	},
+	{
+		code: "64181  Antepartum hem NEC-deliv           Other antepartum hemorrhage",
+	},
+	{
+		code: "64183  Antepart hem NEC-antepar           Other antepartum hemorrhage",
+	},
+	{
+		code: "64190  Antepart hem NOS-unspec            Unspecified antepartum hemorrhage",
+	},
+	{
+		code: "64191  Antepartum hem NOS-deliv           Unspecified antepartum hemorrhage",
+	},
+	{
+		code: "64193  Antepart hem NOS-antepar           Unspecified antepartum hemorrhage",
+	},
+	{
+		code: "64200  Essen hyperten preg-unsp           Benign essential hypertension complicating pregnancy",
+	},
+	{
+		code: "64201  Essen hyperten-delivered           Benign essential hypertension complicating pregnancy",
+	},
+	{
+		code: "64202  Essen hyperten-del w p/p           Benign essential hypertension",
+	},
+	{
+		code: "64203  Essen hyperten-antepart            Benign essential hypertension complicating pregnancy",
+	},
+	{
+		code: "64204  Essen hyperten-postpart            Benign essential hypertension complicating pregnancy",
+	},
+	{
+		code: "64210  Renal hyperten preg-unsp           Hypertension secondary to renal disease",
+	},
+	{
+		code: "64211  Renal hyperten pg-deliv            Hypertension secondary to renal disease",
+	},
+	{
+		code: "64212  Renal hyperten-del p/p             Hypertension secondary to renal disease",
+	},
+	{
+		code: "64213  Renal hyperten-antepart            Hypertension secondary to renal disease",
+	},
+	{
+		code: "64214  Renal hyperten-postpart            Hypertension secondary to renal disease",
+	},
+	{
+		code: "64220  Old hyperten preg-unspec           Other pre-existing hypertension complicating pregnancy",
+	},
+	{
+		code: "64221  Old hyperten NEC-deliver           Other pre-existing hypertension",
+	},
+	{
+		code: "64222  Old hyperten-deliv w p/p           Other pre-existing hypertension",
+	},
+	{
+		code: "64223  Old hyperten NEC-antepar           Other pre-existing hypertension",
+	},
+	{
+		code: "64224  Old hyperten NEC-postpar           Other pre-existing hypertension",
+	},
+	{
+		code: "64230  Trans hyperten preg-unsp           Transient hypertension of pregnancy",
+	},
+	{
+		code: "64231  Trans hyperten-delivered           Transient hypertension of pregnancy",
+	},
+	{
+		code: "64232  Trans hyperten-del w p/p           Transient hypertension of pregnancy",
+	},
+	{
+		code: "64233  Trans hyperten-antepart            Transient hypertension of pregnancy",
+	},
+	{
+		code: "64234  Trans hyperten-postpart            Transient hypertension of pregnancy",
+	},
+	{
+		code: "64240  Mild/NOS preeclamp-unsp            Mild or unspecified pre-eclampsia",
+	},
+	{
+		code: "64241  Mild/NOS preeclamp-deliv           Mild or unspecified pre-eclampsia",
+	},
+	{
+		code: "64242  Mild preeclamp-del w p/p           Mild or unspecified pre-eclampsia",
+	},
+	{
+		code: "64243  Mild/NOS preeclamp-antep           Mild or unspecified pre-eclampsia",
+	},
+	{
+		code: "64244  Mild/NOS preeclamp-p/p             Mild or unspecified pre-eclampsia",
+	},
+	{
+		code: "64250  Severe preeclamp-unspec            Severe pre-eclampsia",
+	},
+	{
+		code: "64251  Severe preeclamp-deliver           Severe pre-eclampsia",
+	},
+	{
+		code: "64252  Sev preeclamp-del w p/p            Severe pre-eclampsia",
+	},
+	{
+		code: "64253  Sev preeclamp-antepartum           Severe pre-eclampsia",
+	},
+	{
+		code: "64254  Sev preeclamp-postpartum           Severe pre-eclampsia",
+	},
+	{
+		code: "64260  Eclampsia-unspecified              Eclampsia",
+	},
+	{
+		code: "64261  Eclampsia-delivered                Eclampsia",
+	},
+	{
+		code: "64262  Eclampsia-deliv w p/p              Eclampsia",
+	},
+	{
+		code: "64263  Eclampsia-antepartum               Eclampsia",
+	},
+	{
+		code: "64264  Eclampsia-postpartum               Eclampsia",
+	},
+	{
+		code: "64270  Tox w old hyperten-unsp            Pre-eclampsia or eclampsia superimposed on pre-existing hypertension",
+	},
+	{
+		code: "64271  Tox w old hyperten-deliv           Pre-eclampsia or eclampsia superimposed on pre-existing hypertension",
+	},
+	{
+		code: "64272  Tox w old hyp-del w p/p            Pre-eclampsia or eclampsia superimposed on pre-existing hypertension",
+	},
+	{
+		code: "64273  Tox w old hyper-antepart           Pre-eclampsia or eclampsia superimposed on pre-existing hypertension",
+	},
+	{
+		code: "64274  Tox w old hyper-postpart           Pre-eclampsia or eclampsia superimposed on pre-existing hypertension",
+	},
+	{
+		code: "64290  Hyperten preg NOS-unspec           Unspecified hypertension complicating pregnancy",
+	},
+	{
+		code: "64291  Hypertens NOS-delivered            Unspecified hypertension complicating pregnancy",
+	},
+	{
+		code: "64292  Hypertens NOS-del w p/p            Unspecified hypertension complicating pregnancy",
+	},
+	{
+		code: "64293  Hypertens NOS-antepartum           Unspecified hypertension complicating pregnancy",
+	},
+	{
+		code: "64294  Hypertens NOS-postpartum           Unspecified hypertension complicating pregnancy",
+	},
+	{
+		code: "64300  Mild hyperem grav-unspec           Mild hyperemesis gravidarum",
+	},
+	{
+		code: "64301  Mild hyperem grav-deliv            Mild hyperemesis gravidarum",
+	},
+	{
+		code: "64303  Mild hyperemesis-antepar           Mild hyperemesis gravidarum",
+	},
+	{
+		code: "64310  Hyperem w metab dis-unsp           Hyperemesis gravidarum with metabolic disturbance",
+	},
+	{
+		code: "64311  Hyperem w metab dis-del            Hyperemesis gravidarum with metabolic disturbance",
+	},
+	{
+		code: "64313  Hyperem w metab-antepart           Hyperemesis gravidarum with metabolic disturbance",
+	},
+	{
+		code: "64320  Late vomit of preg-unsp            Late vomiting of pregnancy",
+	},
+	{
+		code: "64321  Late vomit of preg-deliv           Late vomiting of pregnancy",
+	},
+	{
+		code: "64323  Late vomit preg-antepart           Late vomiting of pregnancy",
+	},
+	{
+		code: "64380  Vomit compl preg-unspec            Other vomiting complicating pregnancy",
+	},
+	{
+		code: "64381  Vomit compl preg-deliver           Other vomiting complicating pregnancy",
+	},
+	{
+		code: "64383  Vomit compl preg-antepar           Other vomiting complicating pregnancy",
+	},
+	{
+		code: "64390  Vomit of preg NOS-unspec           Unspecified vomiting of pregnancy",
+	},
+	{
+		code: "64391  Vomit of preg NOS-deliv            Unspecified vomiting of pregnancy",
+	},
+	{
+		code: "64393  Vomit of pg NOS-antepart           Unspecified vomiting of pregnancy",
+	},
+	{
+		code: "64400  Threat prem labor-unspec           Threatened premature labor",
+	},
+	{
+		code: "64403  Thrt prem labor-antepart           Threatened premature labor",
+	},
+	{
+		code: "64410  Threat labor NEC-unspec            Other threatened labor",
+	},
+	{
+		code: "64413  Threat labor NEC-antepar           Other threatened labor",
+	},
+	{
+		code: "64420  Early onset deliv-unspec           Early onset of delivery",
+	},
+	{
+		code: "64421  Early onset delivery-del           Early onset of delivery",
+	},
+	{
+		code: "64510  Post term preg-unsp                Post term pregnancy",
+	},
+	{
+		code: "64511  Post term preg-del                 Post term pregnancy",
+	},
+	{
+		code: "64513  Post term preg-antepar             Post term pregnancy",
+	},
+	{
+		code: "64520  Prolonged preg-unsp                Prolonged pregnancy",
+	},
+	{
+		code: "64521  Prolonged preg-del                 Prolonged pregnancy",
+	},
+	{
+		code: "64523  Prolonged preg-antepar             Prolonged pregnancy",
+	},
+	{
+		code: "64600  Papyraceous fetus-unspec           Papyraceous fetus",
+	},
+	{
+		code: "64601  Papyraceous fetus-deliv            Papyraceous fetus",
+	},
+	{
+		code: "64603  Papyraceous fet-antepar            Papyraceous fetus",
+	},
+	{
+		code: "64610  Edema in preg-unspec               Edema or excessive weight gain in pregnancy",
+	},
+	{
+		code: "64611  Edema in preg-delivered            Edema or excessive weight gain in pregnancy",
+	},
+	{
+		code: "64612  Edema in preg-del w p/p            Edema or excessive weight gain in pregnancy",
+	},
+	{
+		code: "64613  Edema in preg-antepartum           Edema or excessive weight gain in pregnancy",
+	},
+	{
+		code: "64614  Edema in preg-postpartum           Edema or excessive weight gain in pregnancy",
+	},
+	{
+		code: "64620  Renal dis preg NOS-unsp            Unspecified renal disease in pregnancy",
+	},
+	{
+		code: "64621  Renal dis NOS-delivered            Unspecified renal disease in pregnancy",
+	},
+	{
+		code: "64622  Renal dis NOS-del w p/p            Unspecified renal disease in pregnancy",
+	},
+	{
+		code: "64623  Renal dis NOS-antepartum           Unspecified renal disease in pregnancy",
+	},
+	{
+		code: "64624  Renal dis NOS-postpartum           Unspecified renal disease in pregnancy",
+	},
+	{
+		code: "64630  Recur preg loss-unspec             Recurrent pregnancy loss",
+	},
+	{
+		code: "64631  Recurnt preg loss-deliv            Recurrent pregnancy loss",
+	},
+	{
+		code: "64633  Recurnt preg loss-antep            Recurrent pregnancy loss",
+	},
+	{
+		code: "64640  Neuritis of preg-unspec            Peripheral neuritis in pregnancy",
+	},
+	{
+		code: "64641  Neuritis-delivered                 Peripheral neuritis in pregnancy",
+	},
+	{
+		code: "64642  Neuritis-delivered w p/p           Peripheral neuritis in pregnancy",
+	},
+	{
+		code: "64643  Neuritis of preg-antepar           Peripheral neuritis in pregnancy",
+	},
+	{
+		code: "64644  Neuritis of preg-postpar           Peripheral neuritis in pregnancy",
+	},
+	{
+		code: "64650  Bacteriuria preg-unspec            Asymptomatic bacteriuria in pregnancy",
+	},
+	{
+		code: "64651  Asym bacteriuria-deliver           Asymptomatic bacteriuria in pregnancy",
+	},
+	{
+		code: "64652  Asy bacteruria-del w p/p           Asymptomatic bacteriuria in pregnancy",
+	},
+	{
+		code: "64653  Asy bacteriuria-antepart           Asymptomatic bacteriuria in pregnancy",
+	},
+	{
+		code: "64654  Asy bacteriuria-postpart           Asymptomatic bacteriuria in pregnancy",
+	},
+	{
+		code: "64660  Gu infect in preg-unspec           Infections of genitourinary tract in pregnancy",
+	},
+	{
+		code: "64661  Gu infection-delivered             Infections of genitourinary tract in pregnancy",
+	},
+	{
+		code: "64662  Gu infection-deliv w p/p           Infections of genitourinary tract in pregnancy",
+	},
+	{
+		code: "64663  Gu infection-antepartum            Infections of genitourinary tract in pregnancy",
+	},
+	{
+		code: "64664  Gu infection-postpartum            Infections of genitourinary tract in pregnancy",
+	},
+	{
+		code: "64670  Liver/bil trct disr-unsp           Liver and biliary tract disorders in pregnancy",
+	},
+	{
+		code: "64671  Liver/bil trct disr-del            Liver and biliary tract disorders in pregnancy",
+	},
+	{
+		code: "64673  Liver/bil trct disr-ante           Liver and biliary tract disorders in pregnancy",
+	},
+	{
+		code: "64680  Preg compl NEC-unspec              Other specified complications of pregnancy",
+	},
+	{
+		code: "64681  Preg compl NEC-delivered           Other specified complications of pregnancy",
+	},
+	{
+		code: "64682  Preg compl NEC-del w p/p           Other specified complications of pregnancy",
+	},
+	{
+		code: "64683  Preg compl NEC-antepart            Other specified complications of pregnancy",
+	},
+	{
+		code: "64684  Preg compl NEC-postpart            Other specified complications of pregnancy",
+	},
+	{
+		code: "64690  Preg compl NOS-unspec              Unspecified complication of pregnancy",
+	},
+	{
+		code: "64691  Preg compl NOS-delivered           Unspecified complication of pregnancy",
+	},
+	{
+		code: "64693  Preg compl NOS-antepart            Unspecified complication of pregnancy",
+	},
+	{
+		code: "64700  Syphilis in preg-unspec            Syphilis of mother",
+	},
+	{
+		code: "64701  Syphilis-delivered                 Syphilis of mother",
+	},
+	{
+		code: "64702  Syphilis-delivered w p/p           Syphilis of mother",
+	},
+	{
+		code: "64703  Syphilis-antepartum                Syphilis of mother",
+	},
+	{
+		code: "64704  Syphilis-postpartum                Syphilis of mother",
+	},
+	{
+		code: "64710  Gonorrhea in preg-unspec           Gonorrhea of mother",
+	},
+	{
+		code: "64711  Gonorrhea-delivered                Gonorrhea of mother",
+	},
+	{
+		code: "64712  Gonorrhea-deliver w p/p            Gonorrhea of mother",
+	},
+	{
+		code: "64713  Gonorrhea-antepartum               Gonorrhea of mother",
+	},
+	{
+		code: "64714  Gonorrhea-postpartum               Gonorrhea of mother",
+	},
+	{
+		code: "64720  Other VD in preg-unspec            Other venereal diseases of mother",
+	},
+	{
+		code: "64721  Other vd-delivered                 Other venereal diseases of mother",
+	},
+	{
+		code: "64722  Other vd-delivered w p/p           Other venereal diseases of mother",
+	},
+	{
+		code: "64723  Other vd-antepartum                Other venereal diseases of mother",
+	},
+	{
+		code: "64724  Other vd-postpartum                Other venereal diseases of mother",
+	},
+	{
+		code: "64730  TB in preg-unspecified             Tuberculosis of mother",
+	},
+	{
+		code: "64731  Tuberculosis-delivered             Tuberculosis of mother",
+	},
+	{
+		code: "64732  Tuberculosis-deliv w p/p           Tuberculosis of mother",
+	},
+	{
+		code: "64733  Tuberculosis-antepartum            Tuberculosis of mother",
+	},
+	{
+		code: "64734  Tuberculosis-postpartum            Tuberculosis of mother",
+	},
+	{
+		code: "64740  Malaria in preg-unspec             Malaria in the mother",
+	},
+	{
+		code: "64741  Malaria-delivered                  Malaria in the mother",
+	},
+	{
+		code: "64742  Malaria-delivered w p/p            Malaria in the mother",
+	},
+	{
+		code: "64743  Malaria-antepartum                 Malaria in the mother",
+	},
+	{
+		code: "64744  Malaria-postpartum                 Malaria in the mother",
+	},
+	{
+		code: "64750  Rubella in preg-unspec             Rubella in the mother",
+	},
+	{
+		code: "64751  Rubella-delivered                  Rubella in the mother",
+	},
+	{
+		code: "64752  Rubella-delivered w p/p            Rubella in the mother",
+	},
+	{
+		code: "64753  Rubella-antepartum                 Rubella in the mother",
+	},
+	{
+		code: "64754  Rubella-postpartum                 Rubella in the mother",
+	},
+	{
+		code: "64760  Oth virus in preg-unspec           Other viral diseases in the mother",
+	},
+	{
+		code: "64761  Oth viral dis-delivered            Other viral diseases in the mother",
+	},
+	{
+		code: "64762  Oth viral dis-del w p/p            Other viral diseases in the mother",
+	},
+	{
+		code: "64763  Oth viral dis-antepartum           Other viral diseases in the mother",
+	},
+	{
+		code: "64764  Oth viral dis-postpartum           Other viral diseases in the mother",
+	},
+	{
+		code: "64780  Inf dis in preg NEC-unsp           Other specified infectious and parasitic diseases of mother",
+	},
+	{
+		code: "64781  Infect dis NEC-delivered           Other specified infectious and parasitic diseases of mother",
+	},
+	{
+		code: "64782  Infect dis NEC-del w p/p           Other specified infectious and parasitic diseases of mother",
+	},
+	{
+		code: "64783  Infect dis NEC-antepart            Other specified infectious and parasitic diseases of mother",
+	},
+	{
+		code: "64784  Infect dis NEC-postpart            Other specified infectious and parasitic diseases of mother",
+	},
+	{
+		code: "64790  Infect in preg NOS-unsp            Unspecified infection or infestation of mother",
+	},
+	{
+		code: "64791  Infect NOS-delivered               Unspecified infection or infestation of mother",
+	},
+	{
+		code: "64792  Infect NOS-deliver w p/p           Unspecified infection or infestation of mother",
+	},
+	{
+		code: "64793  Infect NOS-antepartum              Unspecified infection or infestation of mother",
+	},
+	{
+		code: "64794  Infect NOS-postpartum              Unspecified infection or infestation of mother",
+	},
+	{
+		code: "64800  Diabetes in preg-unspec            Diabetes mellitus of mother",
+	},
+	{
+		code: "64801  Diabetes-delivered                 Diabetes mellitus of mother",
+	},
+	{
+		code: "64802  Diabetes-delivered w p/p           Diabetes mellitus of mother",
+	},
+	{
+		code: "64803  Diabetes-antepartum                Diabetes mellitus of mother",
+	},
+	{
+		code: "64804  Diabetes-postpartum                Diabetes mellitus of mother",
+	},
+	{
+		code: "64810  Thyroid dysfun preg-unsp           Thyroid dysfunction of mother",
+	},
+	{
+		code: "64811  Thyroid dysfunc-deliver            Thyroid dysfunction of mother",
+	},
+	{
+		code: "64812  Thyroid dysfun-del w p/p           Thyroid dysfunction of mother",
+	},
+	{
+		code: "64813  Thyroid dysfunc-antepart           Thyroid dysfunction of mother",
+	},
+	{
+		code: "64814  Thyroid dysfunc-postpart           Thyroid dysfunction of mother",
+	},
+	{
+		code: "64820  Anemia in preg-unspec              Anemia of mother",
+	},
+	{
+		code: "64821  Anemia-delivered                   Anemia of mother",
+	},
+	{
+		code: "64822  Anemia-delivered w p/p             Anemia of mother",
+	},
+	{
+		code: "64823  Anemia-antepartum                  Anemia of mother",
+	},
+	{
+		code: "64824  Anemia-postpartum                  Anemia of mother",
+	},
+	{
+		code: "64830  Drug depend preg-unspec            Drug dependence of mother",
+	},
+	{
+		code: "64831  Drug dependence-deliver            Drug dependence of mother",
+	},
+	{
+		code: "64832  Drug dependen-del w p/p            Drug dependence of mother",
+	},
+	{
+		code: "64833  Drug dependence-antepart           Drug dependence of mother",
+	},
+	{
+		code: "64834  Drug dependence-postpart           Drug dependence of mother",
+	},
+	{
+		code: "64840  Mental dis preg-unspec             Mental disorders of mother",
+	},
+	{
+		code: "64841  Mental disorder-deliver            Mental disorders of mother",
+	},
+	{
+		code: "64842  Mental dis-deliv w p/p             Mental disorders of mother",
+	},
+	{
+		code: "64843  Mental disorder-antepart           Mental disorders of mother",
+	},
+	{
+		code: "64844  Mental disorder-postpart           Mental disorders of mother",
+	},
+	{
+		code: "64850  Congen CV dis preg-unsp            Congenital cardiovascular disorders of mother",
+	},
+	{
+		code: "64851  Congen CV dis-delivered            Congenital cardiovascular disorders of mother",
+	},
+	{
+		code: "64852  Congen CV dis-del w p/p            Congenital cardiovascular disorders of mother",
+	},
+	{
+		code: "64853  Congen CV dis-antepartum           Congenital cardiovascular disorders of mother",
+	},
+	{
+		code: "64854  Congen CV dis-postpartum           Congenital cardiovascular disorders of mother",
+	},
+	{
+		code: "64860  CV dis NEC preg-unspec             Other cardiovascular diseases of mother",
+	},
+	{
+		code: "64861  CV dis NEC preg-deliver            Other cardiovascular diseases of mother",
+	},
+	{
+		code: "64862  CV dis NEC-deliver w p/p           Other cardiovascular diseases of mother",
+	},
+	{
+		code: "64863  CV dis NEC-antepartum              Other cardiovascular diseases of mother",
+	},
+	{
+		code: "64864  CV dis NEC-postpartum              Other cardiovascular diseases of mother",
+	},
+	{
+		code: "64870  Bone disord in preg-unsp           Bone and joint disorders of back",
+	},
+	{
+		code: "64871  Bone disorder-delivered            Bone and joint disorders of back",
+	},
+	{
+		code: "64872  Bone disorder-del w p/p            Bone and joint disorders of back",
+	},
+	{
+		code: "64873  Bone disorder-antepartum           Bone and joint disorders of back",
+	},
+	{
+		code: "64874  Bone disorder-postpartum           Bone and joint disorders of back",
+	},
+	{
+		code: "64880  Abn glucose in preg-unsp           Abnormal glucose tolerance of mother",
+	},
+	{
+		code: "64881  Abn glucose toler-deliv            Abnormal glucose tolerance of mother",
+	},
+	{
+		code: "64882  Abn glucose-deliv w p/p            Abnormal glucose tolerance of mother",
+	},
+	{
+		code: "64883  Abn glucose-antepartum             Abnormal glucose tolerance of mother",
+	},
+	{
+		code: "64884  Abn glucose-postpartum             Abnormal glucose tolerance of mother",
+	},
+	{
+		code: "64890  Oth curr cond preg-unsp            Other current conditions classifiable elsewhere of mother",
+	},
+	{
+		code: "64891  Oth curr cond-delivered            Other current conditions classifiable elsewhere of mother",
+	},
+	{
+		code: "64892  Oth curr cond-del w p/p            Other current conditions classifiable elsewhere of mother",
+	},
+	{
+		code: "64893  Oth curr cond-antepartum           Other current conditions classifiable elsewhere of mother",
+	},
+	{
+		code: "64894  Oth curr cond-postpartum           Other current conditions classifiable elsewhere of mother",
+	},
+	{
+		code: "64900  Tobacco use disord-unsp            Tobacco use disorder complicating pregnancy",
+	},
+	{
+		code: "64901  Tobacco use disor-delliv           Tobacco use disorder complicating pregnancy",
+	},
+	{
+		code: "64902  Tobacco use dis-del-p/p            Tobacco use disorder complicating pregnancy",
+	},
+	{
+		code: "64903  Tobacco use dis-antepart           Tobacco use disorder complicating pregnancy",
+	},
+	{
+		code: "64904  Tobacco use dis-postpart           Tobacco use disorder complicating pregnancy",
+	},
+	{
+		code: "64910  Obesity-unspecified                Obesity complicating pregnancy",
+	},
+	{
+		code: "64911  Obesity-delivered                  Obesity complicating pregnancy",
+	},
+	{
+		code: "64912  Obesity-delivered w p/p            Obesity complicating pregnancy",
+	},
+	{
+		code: "64913  Obesity-antepartum                 Obesity complicating pregnancy",
+	},
+	{
+		code: "64914  Obesity-postpartum                 Obesity complicating pregnancy",
+	},
+	{
+		code: "64920  Bariatric surg stat-unsp           Bariatric surgery status complicating pregnancy",
+	},
+	{
+		code: "64921  Bariatric surg stat-del            Bariatric surgery status complicating pregnancy",
+	},
+	{
+		code: "64922  Bariatric surg-del w p/p           Bariatric surgery status complicating pregnancy",
+	},
+	{
+		code: "64923  Bariatrc surg stat-antep           Bariatric surgery status complicating pregnancy",
+	},
+	{
+		code: "64924  Bariatrc surg stat w p/p           Bariatric surgery status complicating pregnancy",
+	},
+	{
+		code: "64930  Coagulation def-unspec             Coagulation defects complicating pregnancy",
+	},
+	{
+		code: "64931  Coagulation def-deliv              Coagulation defects complicating pregnancy",
+	},
+	{
+		code: "64932  Coagulatn def-del w p/p            Coagulation defects complicating pregnancy",
+	},
+	{
+		code: "64933  Coagulation def-antepart           Coagulation defects complicating pregnancy",
+	},
+	{
+		code: "64934  Coagulation def-postpart           Coagulation defects complicating pregnancy",
+	},
+	{
+		code: "64940  Epilepsy-unspecified               Epilepsy complicating pregnancy",
+	},
+	{
+		code: "64941  Epilepsy-delivered                 Epilepsy complicating pregnancy",
+	},
+	{
+		code: "64942  Epilepsy-delivered w p/p           Epilepsy complicating pregnancy",
+	},
+	{
+		code: "64943  Epilepsy-antepartum                Epilepsy complicating pregnancy",
+	},
+	{
+		code: "64944  Epilepsy-postpartum                Epilepsy complicating pregnancy",
+	},
+	{
+		code: "64950  Spotting-unspecified               Spotting complicating pregnancy",
+	},
+	{
+		code: "64951  Spotting-delivered                 Spotting complicating pregnancy",
+	},
+	{
+		code: "64953  Spotting-antepartum                Spotting complicating pregnancy",
+	},
+	{
+		code: "64960  Uterine size descrp-unsp           Uterine size date discrepancy",
+	},
+	{
+		code: "64961  Uterine size descrep-del           Uterine size date discrepancy",
+	},
+	{
+		code: "64962  Uterine size-del w p/p             Uterine size date discrepancy",
+	},
+	{
+		code: "64963  Uterine size des-antepar           Uterine size date discrepancy",
+	},
+	{
+		code: "64964  Uterine size descrep-p/p           Uterine size date discrepancy",
+	},
+	{
+		code: "64970  Cervical shortening-unsp           Cervical shortening",
+	},
+	{
+		code: "64971  Cervical shortening-del            Cervical shortening",
+	},
+	{
+		code: "64973  Cervical shortening-ante           Cervical shortening",
+	},
+	{
+		code: "64981  Spon labr w plan C/S-del           Onset (spontaneous) of labor after 37 completed weeks of gestation but before 39 completed weeks gestation",
+	},
+	{
+		code: "64982  Lbr w plan C/S-del w p/p           Onset (spontaneous) of labor after 37 completed weeks of gestation but before 39 completed weeks gestation",
+	},
+	{
+		code: "650    Normal delivery                    Normal delivery",
+	},
+	{
+		code: "65100  Twin pregnancy-unspec              Twin pregnancy",
+	},
+	{
+		code: "65101  Twin pregnancy-delivered           Twin pregnancy",
+	},
+	{
+		code: "65103  Twin pregnancy-antepart            Twin pregnancy",
+	},
+	{
+		code: "65110  Triplet pregnancy-unspec           Triplet pregnancy",
+	},
+	{
+		code: "65111  Triplet pregnancy-deliv            Triplet pregnancy",
+	},
+	{
+		code: "65113  Triplet preg-antepartum            Triplet pregnancy",
+	},
+	{
+		code: "65120  Quadruplet preg-unspec             Quadruplet pregnancy",
+	},
+	{
+		code: "65121  Quadruplet preg-deliver            Quadruplet pregnancy",
+	},
+	{
+		code: "65123  Quadruplet preg-antepart           Quadruplet pregnancy",
+	},
+	{
+		code: "65130  Twins w fetal loss-unsp            Twin pregnancy with fetal loss and retention of one fetus",
+	},
+	{
+		code: "65131  Twins w fetal loss-del             Twin pregnancy with fetal loss and retention of one fetus",
+	},
+	{
+		code: "65133  Twins w fetal loss-ante            Twin pregnancy with fetal loss and retention of one fetus",
+	},
+	{
+		code: "65140  Triplets w fet loss-unsp           Triplet pregnancy with fetal loss and retention of one or more fetus(es)",
+	},
+	{
+		code: "65141  Triplets w fet loss-del            Triplet pregnancy with fetal loss and retention of one or more fetus(es)",
+	},
+	{
+		code: "65143  Triplets w fet loss-ante           Triplet pregnancy with fetal loss and retention of one or more fetus(es)",
+	},
+	{
+		code: "65150  Quads w fetal loss-unsp            Quadruplet pregnancy with fetal loss and retention of one or more fetus(es)",
+	},
+	{
+		code: "65151  Quads w fetal loss-del             Quadruplet pregnancy with fetal loss and retention of one or more fetus(es)",
+	},
+	{
+		code: "65153  Quads w fetal loss-ante            Quadruplet pregnancy with fetal loss and retention of one or more fetus(es)",
+	},
+	{
+		code: "65160  Mult ges w fet loss-unsp           Other multiple pregnancy with fetal loss and retention of one or more fetus(es)",
+	},
+	{
+		code: "65161  Mult ges w fet loss-del            Other multiple pregnancy with fetal loss and retention of one or more fetus(es)",
+	},
+	{
+		code: "65163  Mult ges w fet loss-ante           Other multiple pregnancy with fetal loss and retention of one or more fetus(es)",
+	},
+	{
+		code: "65170  Mul gest-fet reduct unsp           Multiple gestation following (elective) fetal reduction",
+	},
+	{
+		code: "65171  Mult gest-fet reduct del           Multiple gestation following (elective) fetal reduction",
+	},
+	{
+		code: "65173  Mul gest-fet reduct ante           Multiple gestation following (elective) fetal reduction",
+	},
+	{
+		code: "65180  Multi gestat NEC-unspec            Other specified multiple gestation",
+	},
+	{
+		code: "65181  Multi gestat NEC-deliver           Other specified multiple gestation",
+	},
+	{
+		code: "65183  Multi gest NEC-antepart            Other specified multiple gestation",
+	},
+	{
+		code: "65190  Multi gestat NOS-unspec            Unspecified multiple gestation",
+	},
+	{
+		code: "65191  Mult gestation NOS-deliv           Unspecified multiple gestation",
+	},
+	{
+		code: "65193  Multi gest NOS-antepart            Unspecified multiple gestation",
+	},
+	{
+		code: "65200  Unstable lie-unspecified           Unstable lie",
+	},
+	{
+		code: "65201  Unstable lie-delivered             Unstable lie",
+	},
+	{
+		code: "65203  Unstable lie-antepartum            Unstable lie",
+	},
+	{
+		code: "65210  Cephalic vers NOS-unspec           Breech or other malpresentation successfully converted to cephalic presentation",
+	},
+	{
+		code: "65211  Cephalic vers NOS-deliv            Breech or other malpresentation successfully converted to cephalic presentation",
+	},
+	{
+		code: "65213  Cephal vers NOS-antepart           Breech or other malpresentation successfully converted to cephalic presentation",
+	},
+	{
+		code: "65220  Breech presentat-unspec            Breech presentation without mention of version",
+	},
+	{
+		code: "65221  Breech presentat-deliver           Breech presentation without mention of version",
+	},
+	{
+		code: "65223  Breech present-antepart            Breech presentation without mention of version",
+	},
+	{
+		code: "65230  Transv/obliq lie-unspec            Transverse or oblique presentation",
+	},
+	{
+		code: "65231  Transver/obliq lie-deliv           Transverse or oblique presentation",
+	},
+	{
+		code: "65233  Transv/obliq lie-antepar           Transverse or oblique presentation",
+	},
+	{
+		code: "65240  Face/brow present-unspec           Face or brow presentation",
+	},
+	{
+		code: "65241  Face/brow present-deliv            Face or brow presentation",
+	},
+	{
+		code: "65243  Face/brow pres-antepart            Face or brow presentation",
+	},
+	{
+		code: "65250  High head at term-unspec           High head at term",
+	},
+	{
+		code: "65251  High head at term-deliv            High head at term",
+	},
+	{
+		code: "65253  High head term-antepart            High head at term",
+	},
+	{
+		code: "65260  Mult gest malpresen-unsp           Multiple gestation with malpresentation of one fetus or more",
+	},
+	{
+		code: "65261  Mult gest malpres-deliv            Multiple gestation with malpresentation of one fetus or more",
+	},
+	{
+		code: "65263  Mult ges malpres-antepar           Multiple gestation with malpresentation of one fetus or more",
+	},
+	{
+		code: "65270  Prolapsed arm-unspec               Prolapsed arm of fetus",
+	},
+	{
+		code: "65271  Prolapsed arm-delivered            Prolapsed arm of fetus",
+	},
+	{
+		code: "65273  Prolapsed arm-antepart             Prolapsed arm of fetus",
+	},
+	{
+		code: "65280  Malposition NEC-unspec             Other specified malposition or malpresentation",
+	},
+	{
+		code: "65281  Malposition NEC-deliver            Other specified malposition or malpresentation",
+	},
+	{
+		code: "65283  Malposition NEC-antepart           Other specified malposition or malpresentation",
+	},
+	{
+		code: "65290  Malposition NOS-unspec             Unspecified malposition or malpresentation",
+	},
+	{
+		code: "65291  Malposition NOS-deliver            Unspecified malposition or malpresentation",
+	},
+	{
+		code: "65293  Malposition NOS-antepart           Unspecified malposition or malpresentation",
+	},
+	{
+		code: "65300  Pelvic deform NOS-unspec           Major abnormality of bony pelvis",
+	},
+	{
+		code: "65301  Pelvic deform NOS-deliv            Major abnormality of bony pelvis",
+	},
+	{
+		code: "65303  Pelv deform NOS-antepart           Major abnormality of bony pelvis",
+	},
+	{
+		code: "65310  Contract pelv NOS-unspec           Generally contracted pelvis",
+	},
+	{
+		code: "65311  Contract pelv NOS-deliv            Generally contracted pelvis",
+	},
+	{
+		code: "65313  Contrac pelv NOS-antepar           Generally contracted pelvis",
+	},
+	{
+		code: "65320  Inlet contraction-unspec           Inlet contraction of pelvis",
+	},
+	{
+		code: "65321  Inlet contraction-deliv            Inlet contraction of pelvis",
+	},
+	{
+		code: "65323  Inlet contract-antepart            Inlet contraction of pelvis",
+	},
+	{
+		code: "65330  Outlet contraction-unsp            Outlet contraction of pelvis",
+	},
+	{
+		code: "65331  Outlet contraction-deliv           Outlet contraction of pelvis",
+	},
+	{
+		code: "65333  Outlet contract-antepart           Outlet contraction of pelvis",
+	},
+	{
+		code: "65340  Fetopelv disprop-unspec            Fetopelvic disproportion",
+	},
+	{
+		code: "65341  Fetopelv dispropor-deliv           Fetopelvic disproportion",
+	},
+	{
+		code: "65343  Fetopel disprop-antepart           Fetopelvic disproportion",
+	},
+	{
+		code: "65350  Fetal disprop NOS-unspec           Unusually large fetus causing disproportion",
+	},
+	{
+		code: "65351  Fetal disprop NOS-deliv            Unusually large fetus causing disproportion",
+	},
+	{
+		code: "65353  Fetal dispro NOS-antepar           Unusually large fetus causing disproportion",
+	},
+	{
+		code: "65360  Hydrocephal fetus-unspec           Hydrocephalic fetus causing disproportion",
+	},
+	{
+		code: "65361  Hydroceph fetus-deliver            Hydrocephalic fetus causing disproportion",
+	},
+	{
+		code: "65363  Hydroceph fetus-antepart           Hydrocephalic fetus causing disproportion",
+	},
+	{
+		code: "65370  Oth abn fet disprop-unsp           Other fetal abnormality causing disproportion",
+	},
+	{
+		code: "65371  Oth abn fet dispro-deliv           Other fetal abnormality causing disproportion",
+	},
+	{
+		code: "65373  Oth abn fet dispro-antep           Other fetal abnormality causing disproportion",
+	},
+	{
+		code: "65380  Disproportion NEC-unspec           Disproportion of other origin",
+	},
+	{
+		code: "65381  Disproportion NEC-deliv            Disproportion of other origin",
+	},
+	{
+		code: "65383  Dispropor NEC-antepartum           Disproportion of other origin",
+	},
+	{
+		code: "65390  Disproportion NOS-unspec           Unspecified disproportion",
+	},
+	{
+		code: "65391  Disproportion NOS-deliv            Unspecified disproportion",
+	},
+	{
+		code: "65393  Dispropor NOS-antepartum           Unspecified disproportion",
+	},
+	{
+		code: "65400  Cong abn uter preg-unsp            Congenital abnormalities of uterus",
+	},
+	{
+		code: "65401  Congen abn uterus-deliv            Congenital abnormalities of uterus",
+	},
+	{
+		code: "65402  Cong abn uter-del w p/p            Congenital abnormalities of uterus",
+	},
+	{
+		code: "65403  Congen abn uter-antepart           Congenital abnormalities of uterus",
+	},
+	{
+		code: "65404  Congen abn uter-postpart           Congenital abnormalities of uterus",
+	},
+	{
+		code: "65410  Uter tumor in preg-unsp            Tumors of body of uterus",
+	},
+	{
+		code: "65411  Uterine tumor-delivered            Tumors of body of uterus",
+	},
+	{
+		code: "65412  Uterine tumor-del w p/p            Tumors of body of uterus",
+	},
+	{
+		code: "65413  Uterine tumor-antepartum           Tumors of body of uterus",
+	},
+	{
+		code: "65414  Uterine tumor-postpartum           Tumors of body of uterus",
+	},
+	{
+		code: "65420  Prev c-delivery unspec             Previous cesarean delivery",
+	},
+	{
+		code: "65421  Prev c-delivery-delivrd            Previous cesarean delivery",
+	},
+	{
+		code: "65423  Prev c-delivery-antepart           Previous cesarean delivery",
+	},
+	{
+		code: "65430  Retrovert uterus-unspec            Retroverted and incarcerated gravid uterus",
+	},
+	{
+		code: "65431  Retrovert uterus-deliver           Retroverted and incarcerated gravid uterus",
+	},
+	{
+		code: "65432  Retrovert uter-del w p/p           Retroverted and incarcerated gravid uterus",
+	},
+	{
+		code: "65433  Retrovert uter-antepart            Retroverted and incarcerated gravid uterus",
+	},
+	{
+		code: "65434  Retrovert uter-postpart            Retroverted and incarcerated gravid uterus",
+	},
+	{
+		code: "65440  Abn grav uterus NEC-unsp           Other abnormalities in shape or position of gravid uterus and of neighboring structures",
+	},
+	{
+		code: "65441  Abn uterus NEC-delivered           Other abnormalities in shape or position of gravid uterus and of neighboring structures",
+	},
+	{
+		code: "65442  Abn uterus NEC-del w p/p           Other abnormalities in shape or position of gravid uterus and of neighboring structures",
+	},
+	{
+		code: "65443  Abn uterus NEC-antepart            Other abnormalities in shape or position of gravid uterus and of neighboring structures",
+	},
+	{
+		code: "65444  Abn uterus NEC-postpart            Other abnormalities in shape or position of gravid uterus and of neighboring structures",
+	},
+	{
+		code: "65450  Cerv incompet preg-unsp            Cervical incompetence",
+	},
+	{
+		code: "65451  Cervical incompet-deliv            Cervical incompetence",
+	},
+	{
+		code: "65452  Cerv incompet-del w p/p            Cervical incompetence",
+	},
+	{
+		code: "65453  Cerv incompet-antepartum           Cervical incompetence",
+	},
+	{
+		code: "65454  Cerv incompet-postpartum           Cervical incompetence",
+	},
+	{
+		code: "65460  Abn cervix NEC preg-unsp           Other congenital or acquired abnormality of cervix",
+	},
+	{
+		code: "65461  Abn cervix NEC-delivered           Other congenital or acquired abnormality of cervix",
+	},
+	{
+		code: "65462  Abn cervix NEC-del w p/p           Other congenital or acquired abnormality of cervix",
+	},
+	{
+		code: "65463  Abn cervix NEC-antepart            Other congenital or acquired abnormality of cervix",
+	},
+	{
+		code: "65464  Abn cervix NEC-postpart            Other congenital or acquired abnormality of cervix",
+	},
+	{
+		code: "65470  Abn vagina in preg-unsp            Congenital or acquired abnormality of vagina",
+	},
+	{
+		code: "65471  Abnorm vagina-delivered            Congenital or acquired abnormality of vagina",
+	},
+	{
+		code: "65472  Abnorm vagina-del w p/p            Congenital or acquired abnormality of vagina",
+	},
+	{
+		code: "65473  Abnorm vagina-antepartum           Congenital or acquired abnormality of vagina",
+	},
+	{
+		code: "65474  Abnorm vagina-postpartum           Congenital or acquired abnormality of vagina",
+	},
+	{
+		code: "65480  Abn vulva in preg-unspec           Congenital or acquired abnormality of vulva",
+	},
+	{
+		code: "65481  Abnormal vulva-delivered           Congenital or acquired abnormality of vulva",
+	},
+	{
+		code: "65482  Abnormal vulva-del w p/p           Congenital or acquired abnormality of vulva",
+	},
+	{
+		code: "65483  Abnormal vulva-antepart            Congenital or acquired abnormality of vulva",
+	},
+	{
+		code: "65484  Abnormal vulva-postpart            Congenital or acquired abnormality of vulva",
+	},
+	{
+		code: "65490  Abn pel NEC in preg-unsp           Other and unspecified abnormality of organs and soft tissues of pelvis",
+	},
+	{
+		code: "65491  Abn pelv org NEC-deliver           Other and unspecified abnormality of organs and soft tissues of pelvis",
+	},
+	{
+		code: "65492  Abn pelv NEC-deliv w p/p           Other and unspecified abnormality of organs and soft tissues of pelvis",
+	},
+	{
+		code: "65493  Abn pelv org NEC-antepar           Other and unspecified abnormality of organs and soft tissues of pelvis",
+	},
+	{
+		code: "65494  Abn pelv org NEC-postpar           Other and unspecified abnormality of organs and soft tissues of pelvis",
+	},
+	{
+		code: "65500  Fetal cns malform-unspec           Central nervous system malformation in fetus",
+	},
+	{
+		code: "65501  Fetal cns malform-deliv            Central nervous system malformation in fetus",
+	},
+	{
+		code: "65503  Fetal cns malfor-antepar           Central nervous system malformation in fetus",
+	},
+	{
+		code: "65510  Fetal chromos abn-unspec           Chromosomal abnormality in fetus",
+	},
+	{
+		code: "65511  Fetal chromoso abn-deliv           Chromosomal abnormality in fetus",
+	},
+	{
+		code: "65513  Fet chromo abn-antepart            Chromosomal abnormality in fetus",
+	},
+	{
+		code: "65520  Famil heredit dis-unspec           Hereditary disease in family possibly affecting fetus",
+	},
+	{
+		code: "65521  Famil heredit dis-deliv            Hereditary disease in family possibly affecting fetus",
+	},
+	{
+		code: "65523  Famil hered dis-antepart           Hereditary disease in family possibly affecting fetus",
+	},
+	{
+		code: "65530  Fet damg d/t virus-unsp            Suspected damage to fetus from viral disease in the mother",
+	},
+	{
+		code: "65531  Fet damg d/t virus-deliv           Suspected damage to fetus from viral disease in the mother",
+	},
+	{
+		code: "65533  Fet damg d/t virus-antep           Suspected damage to fetus from viral disease in the mother",
+	},
+	{
+		code: "65540  Fet damg d/t dis-unspec            Suspected damage to fetus from other disease in the mother",
+	},
+	{
+		code: "65541  Fet damg d/t dis-deliver           Suspected damage to fetus from other disease in the mother",
+	},
+	{
+		code: "65543  Fet damg d/t dis-antepar           Suspected damage to fetus from other disease in the mother",
+	},
+	{
+		code: "65550  Fetal damg d/t drug-unsp           Suspected damage to fetus from drugs",
+	},
+	{
+		code: "65551  Fet damag d/t drug-deliv           Suspected damage to fetus from drugs",
+	},
+	{
+		code: "65553  Fet damg d/t drug-antepa           Suspected damage to fetus from drugs",
+	},
+	{
+		code: "65560  Radiat fetal damag-unsp            Suspected damage to fetus from radiation",
+	},
+	{
+		code: "65561  Radiat fetal damag-deliv           Suspected damage to fetus from radiation",
+	},
+	{
+		code: "65563  Radiat fet damag-antepar           Suspected damage to fetus from radiation",
+	},
+	{
+		code: "65570  Decrease fetl movmt unsp           Decreased fetal movements",
+	},
+	{
+		code: "65571  Decrease fetal movmt del           Decreased fetal movements",
+	},
+	{
+		code: "65573  Dec fetal movmt antepart           Decreased fetal movements",
+	},
+	{
+		code: "65580  Fetal abnorm NEC-unspec            Other known or suspected fetal abnormality",
+	},
+	{
+		code: "65581  Fetal abnorm NEC-deliver           Other known or suspected fetal abnormality",
+	},
+	{
+		code: "65583  Fetal abnorm NEC-antepar           Other known or suspected fetal abnormality",
+	},
+	{
+		code: "65590  Fetal abnorm NOS-unspec            Unspecified suspected fetal abnormality",
+	},
+	{
+		code: "65591  Fetal abnorm NOS-deliver           Unspecified suspected fetal abnormality",
+	},
+	{
+		code: "65593  Fetal abnorm NOS-antepar           Unspecified suspected fetal abnormality",
+	},
+	{
+		code: "65600  Fetal-maternal hem-unsp            Fetal-maternal hemorrhage",
+	},
+	{
+		code: "65601  Fetal-maternal hem-deliv           Fetal-maternal hemorrhage",
+	},
+	{
+		code: "65603  Fetal-matern hem-antepar           Fetal-maternal hemorrhage",
+	},
+	{
+		code: "65610  Rh isoimmunization-unsp            Rhesus isoimmunization",
+	},
+	{
+		code: "65611  Rh isoimmunizat-deliver            Rhesus isoimmunization",
+	},
+	{
+		code: "65613  Rh isoimmunizat-antepart           Rhesus isoimmunization",
+	},
+	{
+		code: "65620  Abo isoimmunization-unsp           Isoimmunization from other and unspecified blood-group incompatibility",
+	},
+	{
+		code: "65621  Abo isoimmunizat-deliver           Isoimmunization from other and unspecified blood-group incompatibility",
+	},
+	{
+		code: "65623  Abo isoimmunizat-antepar           Isoimmunization from other and unspecified blood-group incompatibility",
+	},
+	{
+		code: "65630  Fetal distress-unspec              Fetal distress",
+	},
+	{
+		code: "65631  Fetal distress-delivered           Fetal distress",
+	},
+	{
+		code: "65633  Fetal distress-antepart            Fetal distress",
+	},
+	{
+		code: "65640  Intrauterine death-unsp            Intrauterine death",
+	},
+	{
+		code: "65641  Intrauter death-deliver            Intrauterine death",
+	},
+	{
+		code: "65643  Intrauter death-antepart           Intrauterine death",
+	},
+	{
+		code: "65650  Poor fetal growth-unspec           Poor fetal growth",
+	},
+	{
+		code: "65651  Poor fetal growth-deliv            Poor fetal growth",
+	},
+	{
+		code: "65653  Poor fetal grth-antepart           Poor fetal growth",
+	},
+	{
+		code: "65660  Excess fetal grth-unspec           Excessive fetal growth",
+	},
+	{
+		code: "65661  Excess fetal grth-deliv            Excessive fetal growth",
+	},
+	{
+		code: "65663  Excess fet grth-antepart           Excessive fetal growth",
+	},
+	{
+		code: "65670  Oth placent cond-unspec            Other placental conditions",
+	},
+	{
+		code: "65671  Oth placent cond-deliver           Other placental conditions",
+	},
+	{
+		code: "65673  Oth placent cond-antepar           Other placental conditions",
+	},
+	{
+		code: "65680  Fet/plac prob NEC-unspec           Other specified fetal and placental problems",
+	},
+	{
+		code: "65681  Fet/plac prob NEC-deliv            Other specified fetal and placental problems",
+	},
+	{
+		code: "65683  Fet/plac prob NEC-antepa           Other specified fetal and placental problems",
+	},
+	{
+		code: "65690  Fet/plac prob NOS-unspec           Unspecified fetal and placental problem",
+	},
+	{
+		code: "65691  Fet/plac prob NOS-deliv            Unspecified fetal and placental problem",
+	},
+	{
+		code: "65693  Fet/plac prob NOS-antepa           Unspecified fetal and placental problem",
+	},
+	{
+		code: "65700  Polyhydramnios-unspec              Polyhydramnios",
+	},
+	{
+		code: "65701  Polyhydramnios-delivered           Polyhydramnios",
+	},
+	{
+		code: "65703  Polyhydramnios-antepart            Polyhydramnios",
+	},
+	{
+		code: "65800  Oligohydramnios-unspec             Oligohydramnios",
+	},
+	{
+		code: "65801  Oligohydramnios-deliver            Oligohydramnios",
+	},
+	{
+		code: "65803  Oligohydramnios-antepar            Oligohydramnios",
+	},
+	{
+		code: "65810  Prem rupt membran-unspec           Premature rupture of membranes",
+	},
+	{
+		code: "65811  Prem rupt membran-deliv            Premature rupture of membranes",
+	},
+	{
+		code: "65813  Prem rupt memb-antepart            Premature rupture of membranes",
+	},
+	{
+		code: "65820  Prolong rupt memb-unspec           Delayed delivery after spontaneous or unspecified rupture of membranes",
+	},
+	{
+		code: "65821  Prolong rupt memb-deliv            Delayed delivery after spontaneous or unspecified rupture of membranes",
+	},
+	{
+		code: "65823  Prolong rup memb-antepar           Delayed delivery after spontaneous or unspecified rupture of membranes",
+	},
+	{
+		code: "65830  Artific rupt membr-unsp            Delayed delivery after artificial rupture of membranes",
+	},
+	{
+		code: "65831  Artific rupt membr-deliv           Delayed delivery after artificial rupture of membranes",
+	},
+	{
+		code: "65833  Artif rupt memb-antepart           Delayed delivery after artificial rupture of membranes",
+	},
+	{
+		code: "65840  Amniotic infection-unsp            Infection of amniotic cavity",
+	},
+	{
+		code: "65841  Amniotic infection-deliv           Infection of amniotic cavity",
+	},
+	{
+		code: "65843  Amniotic infect-antepart           Infection of amniotic cavity",
+	},
+	{
+		code: "65880  Amniotic prob NEC-unspec           Other problems associated with amniotic cavity and membranes",
+	},
+	{
+		code: "65881  Amniotic prob NEC-deliv            Other problems associated with amniotic cavity and membranes",
+	},
+	{
+		code: "65883  Amnion prob NEC-antepart           Other problems associated with amniotic cavity and membranes",
+	},
+	{
+		code: "65890  Amniotic prob NOS-unspec           Unspecified problem associated with amniotic cavity and membranes",
+	},
+	{
+		code: "65891  Amniotic prob NOS-deliv            Unspecified problem associated with amniotic cavity and membranes",
+	},
+	{
+		code: "65893  Amnion prob NOS-antepart           Unspecified problem associated with amniotic cavity and membranes",
+	},
+	{
+		code: "65900  Fail mechan induct-unsp            Failed mechanical induction of labor",
+	},
+	{
+		code: "65901  Fail mech induct-deliver           Failed mechanical induction of labor",
+	},
+	{
+		code: "65903  Fail mech induct-antepar           Failed mechanical induction of labor",
+	},
+	{
+		code: "65910  Fail induction NOS-unsp            Failed medical or unspecified induction of labor",
+	},
+	{
+		code: "65911  Fail induction NOS-deliv           Failed medical or unspecified induction of labor",
+	},
+	{
+		code: "65913  Fail induct NOS-antepart           Failed medical or unspecified induction of labor",
+	},
+	{
+		code: "65920  Pyrexia in labor-unspec            Maternal pyrexia during labor",
+	},
+	{
+		code: "65921  Pyrexia in labor-deliver           Maternal pyrexia during labor",
+	},
+	{
+		code: "65923  Pyrexia in labor-antepar           Maternal pyrexia during labor",
+	},
+	{
+		code: "65930  Septicemia in labor-unsp           Generalized infection during labor",
+	},
+	{
+		code: "65931  Septicem in labor-deliv            Generalized infection during labor",
+	},
+	{
+		code: "65933  Septicem in labor-antepa           Generalized infection during labor",
+	},
+	{
+		code: "65940  Grand multiparity-unspec           Grand multiparity",
+	},
+	{
+		code: "65941  Grand multiparity-deliv            Grand multiparity",
+	},
+	{
+		code: "65943  Grand multiparity-antepa           Grand multiparity",
+	},
+	{
+		code: "65950  Elderly primigravid-unsp           Elderly primigravida",
+	},
+	{
+		code: "65951  Elderly primigravida-del           Elderly primigravida",
+	},
+	{
+		code: "65953  Elder primigravid-antepa           Elderly primigravida",
+	},
+	{
+		code: "65960  Elderly multigravida-uns           Elderly multigravida",
+	},
+	{
+		code: "65961  Elderly multigravida-del           Elderly multigravida",
+	},
+	{
+		code: "65963  Elderly multigravd-antep           Elderly multigravida",
+	},
+	{
+		code: "65970  Abn ftl hrt rate/rhy-uns           Abnormality in fetal heart rate or rhythm",
+	},
+	{
+		code: "65971  Abn ftl hrt rate/rhy-del           Abnormality in fetal heart rate or rhythm",
+	},
+	{
+		code: "65973  Abn ftl hrt rate/rhy-ant           Abnormality in fetal heart rate or rhythm",
+	},
+	{
+		code: "65980  Complic labor NEC-unsp             Other specified indications for care or intervention related to labor and delivery",
+	},
+	{
+		code: "65981  Complic labor NEC-deliv            Other specified indications for care or intervention related to labor and delivery",
+	},
+	{
+		code: "65983  Compl labor NEC-antepart           Other specified indications for care or intervention related to labor and delivery",
+	},
+	{
+		code: "65990  Complic labor NOS-unsp             Unspecified indication for care or intervention related to labor and delivery",
+	},
+	{
+		code: "65991  Complic labor NOS-deliv            Unspecified indication for care or intervention related to labor and delivery",
+	},
+	{
+		code: "65993  Compl labor NOS-antepart           Unspecified indication for care or intervention related to labor and delivery",
+	},
+	{
+		code: "66000  Obstruct/fet malpos-unsp           Obstruction caused by malposition of fetus at onset of labor",
+	},
+	{
+		code: "66001  Obstruc/fet malpos-deliv           Obstruction caused by malposition of fetus at onset of labor",
+	},
+	{
+		code: "66003  Obstruc/fet malpos-antep           Obstruction caused by malposition of fetus at onset of labor",
+	},
+	{
+		code: "66010  Bony pelv obstruc-unspec           Obstruction by bony pelvis during labor",
+	},
+	{
+		code: "66011  Bony pelv obstruct-deliv           Obstruction by bony pelvis during labor",
+	},
+	{
+		code: "66013  Bony pelv obstruc-antepa           Obstruction by bony pelvis during labor",
+	},
+	{
+		code: "66020  Abn pelv tiss obstr-unsp           Obstruction by abnormal pelvic soft tissues during labor",
+	},
+	{
+		code: "66021  Abn pelv tis obstr-deliv           Obstruction by abnormal pelvic soft tissues during labor",
+	},
+	{
+		code: "66023  Abn pelv tis obstr-antep           Obstruction by abnormal pelvic soft tissues during labor",
+	},
+	{
+		code: "66030  Persist occipitpost-unsp           Deep transverse arrest and persistent occipitoposterior position",
+	},
+	{
+		code: "66031  Persist occiptpost-deliv           Deep transverse arrest and persistent occipitoposterior position",
+	},
+	{
+		code: "66033  Persist occiptpost-antep           Deep transverse arrest and persistent occipitoposterior position",
+	},
+	{
+		code: "66040  Shoulder dystocia-unspec           Shoulder (girdle) dystocia",
+	},
+	{
+		code: "66041  Shoulder dystocia-deliv            Shoulder (girdle) dystocia",
+	},
+	{
+		code: "66043  Shoulder dystocia-antepa           Shoulder (girdle) dystocia",
+	},
+	{
+		code: "66050  Locked twins-unspecified           Locked twins",
+	},
+	{
+		code: "66051  Locked twins-delivered             Locked twins",
+	},
+	{
+		code: "66053  Locked twins-antepartum            Locked twins",
+	},
+	{
+		code: "66060  Fail trial lab NOS-unsp            Unspecified failed trial of labor",
+	},
+	{
+		code: "66061  Fail trial lab NOS-deliv           Unspecified failed trial of labor",
+	},
+	{
+		code: "66063  Fail trial lab NOS-antep           Unspecified failed trial of labor",
+	},
+	{
+		code: "66070  Failed forcep NOS-unspec           Failed forceps or vacuum extractor",
+	},
+	{
+		code: "66071  Failed forceps NOS-deliv           Failed forceps or vacuum extractor",
+	},
+	{
+		code: "66073  Fail forceps NOS-antepar           Failed forceps or vacuum extractor",
+	},
+	{
+		code: "66080  Obstruc labor NEC-unspec           Other causes of obstructed labor",
+	},
+	{
+		code: "66081  Obstruct labor NEC-deliv           Other causes of obstructed labor",
+	},
+	{
+		code: "66083  Obstruc labor NEC-antepa           Other causes of obstructed labor",
+	},
+	{
+		code: "66090  Obstruc labor NOS-unspec           Unspecified obstructed labor",
+	},
+	{
+		code: "66091  Obstruct labor NOS-deliv           Unspecified obstructed labor",
+	},
+	{
+		code: "66093  Obstruc labor NOS-antepa           Unspecified obstructed labor",
+	},
+	{
+		code: "66100  Prim uterine inert-unsp            Primary uterine inertia",
+	},
+	{
+		code: "66101  Prim uterine inert-deliv           Primary uterine inertia",
+	},
+	{
+		code: "66103  Prim uter inert-antepart           Primary uterine inertia",
+	},
+	{
+		code: "66110  Sec uterine inert-unspec           Secondary uterine inertia",
+	},
+	{
+		code: "66111  Sec uterine inert-deliv            Secondary uterine inertia",
+	},
+	{
+		code: "66113  Sec uterine inert-antepa           Secondary uterine inertia",
+	},
+	{
+		code: "66120  Uterine inertia NEC-unsp           Other and unspecified uterine inertia",
+	},
+	{
+		code: "66121  Uterine inert NEC-deliv            Other and unspecified uterine inertia",
+	},
+	{
+		code: "66123  Uterine inert NEC-antepa           Other and unspecified uterine inertia",
+	},
+	{
+		code: "66130  Precipitate labor-unspec           Precipitate labor",
+	},
+	{
+		code: "66131  Precipitate labor-deliv            Precipitate labor",
+	},
+	{
+		code: "66133  Precipitate labor-antepa           Precipitate labor",
+	},
+	{
+		code: "66140  Uter dystocia NOS-unspec           Hypertonic",
+	},
+	{
+		code: "66141  Uter dystocia NOS-deliv            Hypertonic",
+	},
+	{
+		code: "66143  Uter dystocia NOS-antepa           Hypertonic",
+	},
+	{
+		code: "66190  Abnormal labor NOS-unsp            Unspecified abnormality of labor",
+	},
+	{
+		code: "66191  Abnormal labor NOS-deliv           Unspecified abnormality of labor",
+	},
+	{
+		code: "66193  Abnorm labor NOS-antepar           Unspecified abnormality of labor",
+	},
+	{
+		code: "66200  Prolonged 1st stage-unsp           Prolonged first stage of labor",
+	},
+	{
+		code: "66201  Prolong 1st stage-deliv            Prolonged first stage of labor",
+	},
+	{
+		code: "66203  Prolong 1st stage-antepa           Prolonged first stage of labor",
+	},
+	{
+		code: "66210  Prolonged labor NOS-unsp           Unspecified prolonged labor",
+	},
+	{
+		code: "66211  Prolong labor NOS-deliv            Unspecified prolonged labor",
+	},
+	{
+		code: "66213  Prolong labor NOS-antepa           Unspecified prolonged labor",
+	},
+	{
+		code: "66220  Prolonged 2nd stage-unsp           Prolonged second stage of labor",
+	},
+	{
+		code: "66221  Prolong 2nd stage-deliv            Prolonged second stage of labor",
+	},
+	{
+		code: "66223  Prolong 2nd stage-antepa           Prolonged second stage of labor",
+	},
+	{
+		code: "66230  Delay del 2nd twin-unsp            Delayed delivery of second twin",
+	},
+	{
+		code: "66231  Delay del 2nd twin-deliv           Delayed delivery of second twin",
+	},
+	{
+		code: "66233  Delay del 2 twin-antepar           Delayed delivery of second twin",
+	},
+	{
+		code: "66300  Cord prolapse-unspec               Prolapse of cord complicating labor and delivery",
+	},
+	{
+		code: "66301  Cord prolapse-delivered            Prolapse of cord complicating labor and delivery",
+	},
+	{
+		code: "66303  Cord prolapse-antepartum           Prolapse of cord complicating labor and delivery",
+	},
+	{
+		code: "66310  Cord around neck-unspec            Cord around neck with compression",
+	},
+	{
+		code: "66311  Cord around neck-deliver           Cord around neck",
+	},
+	{
+		code: "66313  Cord around neck-antepar           Cord around neck",
+	},
+	{
+		code: "66320  Cord compress NEC-unspec           Other and unspecified cord entanglement",
+	},
+	{
+		code: "66321  Cord compress NEC-deliv            Other and unspecified cord entanglement",
+	},
+	{
+		code: "66323  Cord compres NEC-antepar           Other and unspecified cord entanglement",
+	},
+	{
+		code: "66330  Cord entangle NEC-unspec           Other and unspecified cord entanglement",
+	},
+	{
+		code: "66331  Cord entangle NEC-deliv            Other and unspecified cord entanglement",
+	},
+	{
+		code: "66333  Cord entangl NEC-antepar           Other and unspecified cord entanglement",
+	},
+	{
+		code: "66340  Short cord-unspecified             Short cord complicating labor and delivery",
+	},
+	{
+		code: "66341  Short cord-delivered               Short cord complicating labor and delivery",
+	},
+	{
+		code: "66343  Short cord-antepartum              Short cord complicating labor and delivery",
+	},
+	{
+		code: "66350  Vasa previa-unspecified            Vasa previa complicating labor and delivery",
+	},
+	{
+		code: "66351  Vasa previa-delivered              Vasa previa complicating labor and delivery",
+	},
+	{
+		code: "66353  Vasa previa-antepartum             Vasa previa complicating labor and delivery",
+	},
+	{
+		code: "66360  Vasc lesion cord-unspec            Vascular lesions of cord complicating labor and delivery",
+	},
+	{
+		code: "66361  Vasc lesion cord-deliver           Vascular lesions of cord complicating labor and delivery",
+	},
+	{
+		code: "66363  Vasc lesion cord-antepar           Vascular lesions of cord complicating labor and delivery",
+	},
+	{
+		code: "66380  Cord complicat NEC-unsp            Other umbilical cord complications complicating labor and delivery",
+	},
+	{
+		code: "66381  Cord complicat NEC-deliv           Other umbilical cord complications complicating labor and delivery",
+	},
+	{
+		code: "66383  Cord compl NEC-antepart            Other umbilical cord complications complicating labor and delivery",
+	},
+	{
+		code: "66390  Cord complicat NOS-unsp            Unspecified umbilical cord complication complicating labor and delivery",
+	},
+	{
+		code: "66391  Cord complicat NOS-deliv           Unspecified umbilical cord complication complicating labor and delivery",
+	},
+	{
+		code: "66393  Cord compl NOS-antepart            Unspecified umbilical cord complication complicating labor and delivery",
+	},
+	{
+		code: "66400  Del w 1 deg lacerat-unsp           First-degree perineal laceration",
+	},
+	{
+		code: "66401  Del w 1 deg lacerat-del            First-degree perineal laceration",
+	},
+	{
+		code: "66404  Del w 1 deg lac-postpart           First-degree perineal laceration",
+	},
+	{
+		code: "66410  Del w 2 deg lacerat-unsp           Second-degree perineal laceration",
+	},
+	{
+		code: "66411  Del w 2 deg lacerat-del            Second-degree perineal laceration",
+	},
+	{
+		code: "66414  Del w 2 deg lac-postpart           Second-degree perineal laceration",
+	},
+	{
+		code: "66420  Del w 3 deg lacerat-unsp           Third-degree perineal laceration",
+	},
+	{
+		code: "66421  Del w 3 deg lacerat-del            Third-degree perineal laceration",
+	},
+	{
+		code: "66424  Del w 3 deg lac-postpart           Third-degree perineal laceration",
+	},
+	{
+		code: "66430  Del w 4 deg lacerat-unsp           Fourth-degree perineal laceration",
+	},
+	{
+		code: "66431  Del w 4 deg lacerat-del            Fourth-degree perineal laceration",
+	},
+	{
+		code: "66434  Del w 4 deg lac-postpart           Fourth-degree perineal laceration",
+	},
+	{
+		code: "66440  Ob perineal lac NOS-unsp           Unspecified perineal laceration",
+	},
+	{
+		code: "66441  Ob perineal lac NOS-del            Unspecified perineal laceration",
+	},
+	{
+		code: "66444  Perineal lac NOS-postpar           Unspecified perineal laceration",
+	},
+	{
+		code: "66450  Ob perineal hematom-unsp           Vulvar and perineal hematoma",
+	},
+	{
+		code: "66451  Ob perineal hematoma-del           Vulvar and perineal hematoma",
+	},
+	{
+		code: "66454  Perin hematoma-postpart            Vulvar and perineal hematoma",
+	},
+	{
+		code: "66460  Anal sphincter tear NOS            Anal sphincter tear complicating delivery",
+	},
+	{
+		code: "66461  Anal sphincter tear-del            Anal sphincter tear complicating delivery",
+	},
+	{
+		code: "66464  Anal sphinctr tear w p/p           Anal sphincter tear complicating delivery",
+	},
+	{
+		code: "66480  Ob perin traum NEC-unsp            Other specified trauma to perineum and vulva",
+	},
+	{
+		code: "66481  Ob perineal trau NEC-del           Other specified trauma to perineum and vulva",
+	},
+	{
+		code: "66484  Perin traum NEC-postpart           Other specified trauma to perineum and vulva",
+	},
+	{
+		code: "66490  Ob perin traum NOS-unsp            Unspecified trauma to perineum and vulva",
+	},
+	{
+		code: "66491  Ob perineal trau NOS-del           Unspecified trauma to perineum and vulva",
+	},
+	{
+		code: "66494  Perin traum NOS-postpart           Unspecified trauma to perineum and vulva",
+	},
+	{
+		code: "66500  Prelabor rupt uter-unsp            Rupture of uterus before onset of labor",
+	},
+	{
+		code: "66501  Prelabor rupt uterus-del           Rupture of uterus before onset of labor",
+	},
+	{
+		code: "66503  Prelab rupt uter-antepar           Rupture of uterus before onset of labor",
+	},
+	{
+		code: "66510  Rupture uterus NOS-unsp            Rupture of uterus during labor",
+	},
+	{
+		code: "66511  Rupture uterus NOS-deliv           Rupture of uterus during labor",
+	},
+	{
+		code: "66520  Inversion of uterus-unsp           Inversion of uterus",
+	},
+	{
+		code: "66522  Invers uterus-del w p/p            Inversion of uterus",
+	},
+	{
+		code: "66524  Invers uterus-postpart             Inversion of uterus",
+	},
+	{
+		code: "66530  Lacerat of cervix-unspec           Laceration of cervix",
+	},
+	{
+		code: "66531  Lacerat of cervix-deliv            Laceration of cervix",
+	},
+	{
+		code: "66534  Lacer of cervix-postpart           Laceration of cervix",
+	},
+	{
+		code: "66540  High vaginal lacer-unsp            High vaginal laceration",
+	},
+	{
+		code: "66541  High vaginal lacer-deliv           High vaginal laceration",
+	},
+	{
+		code: "66544  High vaginal lac-postpar           High vaginal laceration",
+	},
+	{
+		code: "66550  Ob inj pelv org NEC-unsp           Other injury to pelvic organs",
+	},
+	{
+		code: "66551  Ob inj pelv org NEC-del            Other injury to pelvic organs",
+	},
+	{
+		code: "66554  Inj pelv org NEC-postpar           Other injury to pelvic organs",
+	},
+	{
+		code: "66560  Damage to pelvic jt-unsp           Damage to pelvic joints and ligaments",
+	},
+	{
+		code: "66561  Damage to pelvic jt-del            Damage to pelvic joints and ligaments",
+	},
+	{
+		code: "66564  Damage pelvic jt-postpar           Damage to pelvic joints and ligaments",
+	},
+	{
+		code: "66570  Ob pelvic hematoma-unsp            Pelvic hematoma",
+	},
+	{
+		code: "66571  Ob pelvic hematoma-deliv           Pelvic hematoma",
+	},
+	{
+		code: "66572  Pelvic hematom-del w pp            Pelvic hematoma",
+	},
+	{
+		code: "66574  Pelvic hematoma-postpart           Pelvic hematoma",
+	},
+	{
+		code: "66580  Ob trauma NEC-unspec               Other specified obstetrical trauma",
+	},
+	{
+		code: "66581  Ob trauma NEC-delivered            Other specified obstetrical trauma",
+	},
+	{
+		code: "66582  Ob trauma NEC-del w p/p            Other specified obstetrical trauma",
+	},
+	{
+		code: "66583  Ob trauma NEC-antepartum           Other specified obstetrical trauma",
+	},
+	{
+		code: "66584  Ob trauma NEC-postpartum           Other specified obstetrical trauma",
+	},
+	{
+		code: "66590  Ob trauma NOS-unspec               Unspecified obstetrical trauma",
+	},
+	{
+		code: "66591  Ob trauma NOS-delivered            Unspecified obstetrical trauma",
+	},
+	{
+		code: "66592  Ob trauma NOS-del w p/p            Unspecified obstetrical trauma",
+	},
+	{
+		code: "66593  Ob trauma NOS-antepartum           Unspecified obstetrical trauma",
+	},
+	{
+		code: "66594  Ob trauma NOS-postpartum           Unspecified obstetrical trauma",
+	},
+	{
+		code: "66600  Third-stage hem-unspec             Third-stage postpartum hemorrhage",
+	},
+	{
+		code: "66602  Thrd-stage hem-del w p/p           Third-stage postpartum hemorrhage",
+	},
+	{
+		code: "66604  Third-stage hem-postpart           Third-stage postpartum hemorrhage",
+	},
+	{
+		code: "66610  Postpartum hem NEC-unsp            Other immediate postpartum hemorrhage",
+	},
+	{
+		code: "66612  Postpa hem NEC-del w p/p           Other immediate postpartum hemorrhage",
+	},
+	{
+		code: "66614  Postpart hem NEC-postpar           Other immediate postpartum hemorrhage",
+	},
+	{
+		code: "66620  Delay p/part hem-unspec            Delayed and secondary postpartum hemorrhage",
+	},
+	{
+		code: "66622  Delay p/p hem-del w p/p            Delayed and secondary postpartum hemorrhage",
+	},
+	{
+		code: "66624  Delay p/part hem-postpar           Delayed and secondary postpartum hemorrhage",
+	},
+	{
+		code: "66630  Postpart coagul def-unsp           Postpartum coagulation defects",
+	},
+	{
+		code: "66632  P/p coag def-del w p/p             Postpartum coagulation defects",
+	},
+	{
+		code: "66634  Postpart coag def-postpa           Postpartum coagulation defects",
+	},
+	{
+		code: "66700  Retain placenta NOS-unsp           Retained placenta without hemorrhage",
+	},
+	{
+		code: "66702  Retnd plac NOS-del w p/p           Retained placenta without hemorrhage",
+	},
+	{
+		code: "66704  Retain plac NOS-postpart           Retained placenta without hemorrhage",
+	},
+	{
+		code: "66710  Retain prod concept-unsp           Retained portions of placenta or membranes",
+	},
+	{
+		code: "66712  Ret prod conc-del w p/p            Retained portions of placenta or membranes",
+	},
+	{
+		code: "66714  Ret prod concept-postpar           Retained portions of placenta or membranes",
+	},
+	{
+		code: "66800  Pulm compl in del-unspec           Pulmonary complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66801  Pulm compl in del-deliv            Pulmonary complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66802  Pulm complic-del w p/p             Pulmonary complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66803  Pulm complicat-antepart            Pulmonary complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66804  Pulm complicat-postpart            Pulmonary complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66810  Heart compl in del-unsp            Cardiac complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66811  Heart compl in del-deliv           Cardiac complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66812  Heart compl-del w p/p              Cardiac complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66813  Heart complic-antepart             Cardiac complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66814  Heart complic-postpart             Cardiac complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66820  Cns compl labor/del-unsp           Central nervous system complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66821  Cns compl lab/del-deliv            Central nervous system complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66822  Cns complic-del w p/p              Central nervous system complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66823  Cns compl in del-antepar           Central nervous system complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66824  Cns compl in del-postpar           Central nervous system complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66880  Anesth comp del NEC-unsp           Other complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66881  Anesth compl NEC-deliver           Other complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66882  Anesth compl NEC-del p/p           Other complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66883  Anesth compl antepartum            Other complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66884  Anesth compl-postpartum            Other complications of anesthesia or other sedation in labor and delivery",
+	},
+	{
+		code: "66890  Anesth comp del NOS-unsp           Unspecified complication of anesthesia and other sedation in labor and delivery",
+	},
+	{
+		code: "66891  Anesth compl NOS-deliver           Unspecified complication of anesthesia and other sedation in labor and delivery",
+	},
+	{
+		code: "66892  Anesth compl NOS-del p/p           Unspecified complication of anesthesia and other sedation in labor and delivery",
+	},
+	{
+		code: "66893  Anesth compl-antepartum            Unspecified complication of anesthesia and other sedation in labor and delivery",
+	},
+	{
+		code: "66894  Anesth compl-postpartum            Unspecified complication of anesthesia and other sedation in labor and delivery",
+	},
+	{
+		code: "66900  Maternal distress-unspec           Maternal distress complicating labor and delivery",
+	},
+	{
+		code: "66901  Maternal distress-deliv            Maternal distress complicating labor and delivery",
+	},
+	{
+		code: "66902  Matern distres-del w p/p           Maternal distress complicating labor and delivery",
+	},
+	{
+		code: "66903  Matern distress-antepar            Maternal distress complicating labor and delivery",
+	},
+	{
+		code: "66904  Matern distress-postpart           Maternal distress complicating labor and delivery",
+	},
+	{
+		code: "66910  Obstetric shock-unspec             Shock during or following labor and delivery",
+	},
+	{
+		code: "66911  Obstetric shock-deliver            Shock during or following labor and delivery",
+	},
+	{
+		code: "66912  Obstet shock-deliv w p/p           Shock during or following labor and delivery",
+	},
+	{
+		code: "66913  Obstetric shock-antepar            Shock during or following labor and delivery",
+	},
+	{
+		code: "66914  Obstetric shock-postpart           Shock during or following labor and delivery",
+	},
+	{
+		code: "66920  Matern hypotens syn-unsp           Maternal hypotension syndrome",
+	},
+	{
+		code: "66921  Matern hypoten syn-deliv           Maternal hypotension syndrome",
+	},
+	{
+		code: "66922  Matern hypoten-del w p/p           Maternal hypotension syndrome",
+	},
+	{
+		code: "66923  Matern hypotens-antepar            Maternal hypotension syndrome",
+	},
+	{
+		code: "66924  Matern hypotens-postpart           Maternal hypotension syndrome",
+	},
+	{
+		code: "66930  Ac kidny fail w del-unsp           Acute kidney failure following labor and delivery",
+	},
+	{
+		code: "66932  Ac kidney fail-del w p/p           Acute kidney failure following labor and delivery",
+	},
+	{
+		code: "66934  Ac kidney fail-postpart            Acute kidney failure following labor and delivery",
+	},
+	{
+		code: "66940  Oth ob surg compl-unspec           Other complications of obstetrical surgery and procedures",
+	},
+	{
+		code: "66941  Oth ob compl-delivered             Other complications of obstetrical surgery and procedures",
+	},
+	{
+		code: "66942  Oth ob compl-deliv w p/p           Other complications of obstetrical surgery and procedures",
+	},
+	{
+		code: "66943  Complc ob surg anteprtm            Other complications of obstetrical surgery and procedures",
+	},
+	{
+		code: "66944  Oth ob surg compl-postpa           Other complications of obstetrical surgery and procedures",
+	},
+	{
+		code: "66950  Forcep deliv NOS-unspec            Forceps or vacuum extractor delivery without mention of indication",
+	},
+	{
+		code: "66951  Forcep deliv NOS-deliver           Forceps or vacuum extractor delivery without mention of indication",
+	},
+	{
+		code: "66960  Breech extr NOS-unspec             Breech extraction",
+	},
+	{
+		code: "66961  Breech extr NOS-deliver            Breech extraction",
+	},
+	{
+		code: "66970  Cesarean deliv NOS-unsp            Cesarean delivery",
+	},
+	{
+		code: "66971  Cesarean delivery NOS              Cesarean delivery",
+	},
+	{
+		code: "66980  Compl lab/deliv NEC-unsp           Other complications of labor and delivery",
+	},
+	{
+		code: "66981  Comp lab/deliv NEC-deliv           Other complications of labor and delivery",
+	},
+	{
+		code: "66982  Compl del NEC-del w p/p            Other complications of labor and delivery",
+	},
+	{
+		code: "66983  Compl deliv NEC-antepar            Other complications of labor and delivery",
+	},
+	{
+		code: "66984  Compl deliv NEC-postpart           Other complications of labor and delivery",
+	},
+	{
+		code: "66990  Compl lab/deliv NOS-unsp           Unspecified complication of labor and delivery",
+	},
+	{
+		code: "66991  Comp lab/deliv NOS-deliv           Unspecified complication of labor and delivery",
+	},
+	{
+		code: "66992  Compl del NOS-del w p/p            Unspecified complication of labor and delivery",
+	},
+	{
+		code: "66993  Compl deliv NOS-antepar            Unspecified complication of labor and delivery",
+	},
+	{
+		code: "66994  Compl deliv NOS-postpart           Unspecified complication of labor and delivery",
+	},
+	{
+		code: "67000  Maj puerp inf NOS-unsp             Major puerperal infection",
+	},
+	{
+		code: "67002  Maj puer inf NOS-del p/p           Major puerperal infection",
+	},
+	{
+		code: "67004  Major puerp inf NOS-p/p            Major puerperal infection",
+	},
+	{
+		code: "67010  Puerp endometritis-unsp            Puerperal endometritis",
+	},
+	{
+		code: "67012  Puerp endomet del w p/p            Puerperal endometritis",
+	},
+	{
+		code: "67014  Puerp endomet-postpart             Puerperal endometritis",
+	},
+	{
+		code: "67020  Puerperal sepsis-unsp              Puerperal sepsis",
+	},
+	{
+		code: "67022  Puerprl sepsis-del w p/p           Puerperal sepsis",
+	},
+	{
+		code: "67024  Puerperl sepsis-postpart           Puerperal sepsis",
+	},
+	{
+		code: "67030  Puerp septc thromb-unsp            Puerperal septic thrombophlebitis",
+	},
+	{
+		code: "67032  Prp sptc thrmb-del w p/p           Puerperal septic thrombophlebitis",
+	},
+	{
+		code: "67034  Prp septc thrmb-postpart           Puerperal septic thrombophlebitis",
+	},
+	{
+		code: "67080  Maj prp infec NEC-unspec           Other major puerperal infection",
+	},
+	{
+		code: "67082  Maj prp inf NEC-dl w p/p           Other major puerperal infection",
+	},
+	{
+		code: "67084  Maj puerp infec NEC-p/p            Other major puerperal infection",
+	},
+	{
+		code: "67100  Varic vein leg preg-unsp           Varicose veins of legs complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67101  Varicose vein leg-deliv            Varicose veins of legs complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67102  Varic vein leg-del w p/p           Varicose veins of legs complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67103  Varic vein leg-antepart            Varicose veins of legs complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67104  Varic vein leg-postpart            Varicose veins of legs complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67110  Varic vulva preg-unspec            Varicose veins of vulva and perineum complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67111  Varicose vulva-delivered           Varicose veins of vulva and perineum complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67112  Varicose vulva-del w p/p           Varicose veins of vulva and perineum complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67113  Varicose vulva-antepart            Varicose veins of vulva and perineum complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67114  Varicose vulva-postpart            Varicose veins of vulva and perineum complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67120  Thrombophleb preg-unspec           Superficial thrombophlebitis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67121  Thrombophlebitis-deliver           Superficial thrombophlebitis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67122  Thrombophleb-deliv w p/p           Superficial thrombophlebitis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67123  Thrombophlebit-antepart            Superficial thrombophlebitis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67124  Thrombophlebit-postpart            Superficial thrombophlebitis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67130  Deep thromb antepar-unsp           Deep phlebothrombosis",
+	},
+	{
+		code: "67131  Deep throm antepar-deliv           Deep phlebothrombosis",
+	},
+	{
+		code: "67133  Deep vein thromb-antepar           Deep phlebothrombosis",
+	},
+	{
+		code: "67140  Deep thromb postpar-unsp           Deep phlebothrombosis",
+	},
+	{
+		code: "67142  Thromb postpar-del w p/p           Deep phlebothrombosis",
+	},
+	{
+		code: "67144  Deep vein thromb-postpar           Deep phlebothrombosis",
+	},
+	{
+		code: "67150  Thrombosis NEC preg-unsp           Other phlebitis and thrombosis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67151  Thrombosis NEC-delivered           Other phlebitis and thrombosis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67152  Thromb NEC-deliv w p/p             Other phlebitis and thrombosis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67153  Thrombosis NEC-antepart            Other phlebitis and thrombosis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67154  Thrombosis NEC-postpart            Other phlebitis and thrombosis complicating pregnancy and the puerperium",
+	},
+	{
+		code: "67180  Ven compl preg NEC-unsp            Other venous complications of pregnancy and the puerperium",
+	},
+	{
+		code: "67181  Venous compl NEC-deliver           Other venous complications of pregnancy and the puerperium",
+	},
+	{
+		code: "67182  Ven comp NEC-deliv w p/p           Other venous complications of pregnancy and the puerperium",
+	},
+	{
+		code: "67183  Venous compl NEC-antepar           Other venous complications of pregnancy and the puerperium",
+	},
+	{
+		code: "67184  Venous compl NEC-postpar           Other venous complications of pregnancy and the puerperium",
+	},
+	{
+		code: "67190  Ven compl preg NOS-unsp            Unspecified venous complication of pregnancy and the puerperium",
+	},
+	{
+		code: "67191  Venous compl NOS-deliver           Unspecified venous complication of pregnancy and the puerperium",
+	},
+	{
+		code: "67192  Ven comp NOS-deliv w p/p           Unspecified venous complication of pregnancy and the puerperium",
+	},
+	{
+		code: "67193  Venous compl NOS-antepar           Unspecified venous complication of pregnancy and the puerperium",
+	},
+	{
+		code: "67194  Venous compl NOS-postpar           Unspecified venous complication of pregnancy and the puerperium",
+	},
+	{
+		code: "67200  Puerperal pyrexia-unspec           Pyrexia of unknown origin during the puerperium",
+	},
+	{
+		code: "67202  Puerp pyrexia-del w p/p            Pyrexia of unknown origin during the puerperium",
+	},
+	{
+		code: "67204  Puerp pyrexia-postpartum           Pyrexia of unknown origin during the puerperium",
+	},
+	{
+		code: "67300  Ob air embolism-unspec             Obstetrical air embolism",
+	},
+	{
+		code: "67301  Ob air embolism-deliver            Obstetrical air embolism",
+	},
+	{
+		code: "67302  Ob air embol-deliv w p/p           Obstetrical air embolism",
+	},
+	{
+		code: "67303  Ob air embolism-antepart           Obstetrical air embolism",
+	},
+	{
+		code: "67304  Ob air embolism-postpart           Obstetrical air embolism",
+	},
+	{
+		code: "67310  Amniotic embolism-unspec           Amniotic fluid embolism",
+	},
+	{
+		code: "67311  Amniotic embolism-deliv            Amniotic fluid embolism",
+	},
+	{
+		code: "67312  Amniot embol-deliv w p/p           Amniotic fluid embolism",
+	},
+	{
+		code: "67313  Amniotic embol-antepart            Amniotic fluid embolism",
+	},
+	{
+		code: "67314  Amniotic embol-postpart            Amniotic fluid embolism",
+	},
+	{
+		code: "67320  Ob pulm embol NOS-unspec           Obstetrical blood-clot embolism",
+	},
+	{
+		code: "67321  Pulm embol NOS-delivered           Obstetrical blood-clot embolism",
+	},
+	{
+		code: "67322  Pulm embol NOS-del w p/p           Obstetrical blood-clot embolism",
+	},
+	{
+		code: "67323  Pulm embol NOS-antepart            Obstetrical blood-clot embolism",
+	},
+	{
+		code: "67324  Pulm embol NOS-postpart            Obstetrical blood-clot embolism",
+	},
+	{
+		code: "67330  Ob pyemic embol-unspec             Obstetrical pyemic and septic embolism",
+	},
+	{
+		code: "67331  Ob pyemic embol-deliver            Obstetrical pyemic and septic embolism",
+	},
+	{
+		code: "67332  Ob pyem embol-del w p/p            Obstetrical pyemic and septic embolism",
+	},
+	{
+		code: "67333  Ob pyemic embol-antepart           Obstetrical pyemic and septic embolism",
+	},
+	{
+		code: "67334  Ob pyemic embol-postpart           Obstetrical pyemic and septic embolism",
+	},
+	{
+		code: "67380  Ob pulmon embol NEC-unsp           Other obstetrical pulmonary embolism",
+	},
+	{
+		code: "67381  Pulmon embol NEC-deliver           Other obstetrical pulmonary embolism",
+	},
+	{
+		code: "67382  Pulm embol NEC-del w p/p           Other obstetrical pulmonary embolism",
+	},
+	{
+		code: "67383  Pulmon embol NEC-antepar           Other obstetrical pulmonary embolism",
+	},
+	{
+		code: "67384  Pulmon embol NEC-postpar           Other obstetrical pulmonary embolism",
+	},
+	{
+		code: "67400  Puerp cerebvasc dis-unsp           Cerebrovascular disorders in the puerperium",
+	},
+	{
+		code: "67401  Puerp cerebvas dis-deliv           Cerebrovascular disorders in the puerperium",
+	},
+	{
+		code: "67402  Cerebvas dis-deliv w p/p           Cerebrovascular disorders in the puerperium",
+	},
+	{
+		code: "67403  Cerebrovasc dis-antepart           Cerebrovascular disorders in the puerperium",
+	},
+	{
+		code: "67404  Cerebrovasc dis-postpart           Cerebrovascular disorders in the puerperium",
+	},
+	{
+		code: "67410  Disrupt c-sect wnd-unsp            Disruption of cesarean wound",
+	},
+	{
+		code: "67412  Disrupt c-sect-del w p/p           Disruption of cesarean wound",
+	},
+	{
+		code: "67414  Disrupt c-sect-postpart            Disruption of cesarean wound",
+	},
+	{
+		code: "67420  Disrupt perineum-unspec            Disruption of perineal wound",
+	},
+	{
+		code: "67422  Disrupt perin-del w p/p            Disruption of perineal wound",
+	},
+	{
+		code: "67424  Disrupt perineum-postpar           Disruption of perineal wound",
+	},
+	{
+		code: "67430  Ob surg compl NEC-unspec           Other complications of obstetrical surgical wounds",
+	},
+	{
+		code: "67432  Ob surg compl-del w p/p            Other complications of obstetrical surgical wounds",
+	},
+	{
+		code: "67434  Ob surg comp NEC-postpar           Other complications of obstetrical surgical wounds",
+	},
+	{
+		code: "67440  Placental polyp-unspec             Placental polyp",
+	},
+	{
+		code: "67442  Placent polyp-del w p/p            Placental polyp",
+	},
+	{
+		code: "67444  Placental polyp-postpart           Placental polyp",
+	},
+	{
+		code: "67450  Peripart cardiomy-unspec           Peripartum cardiomyopathy",
+	},
+	{
+		code: "67451  Peripartum cardiomy-del            Peripartum cardiomyopathy",
+	},
+	{
+		code: "67452  Peripart card del w p/p            Peripartum cardiomyopathy",
+	},
+	{
+		code: "67453  Peripartum card-antepart           Peripartum cardiomyopathy",
+	},
+	{
+		code: "67454  Peripartum card-postpart           Peripartum cardiomyopathy",
+	},
+	{
+		code: "67480  Puerp compl NEC-unspec             Other complications of puerperium",
+	},
+	{
+		code: "67482  Puerp comp NEC-del w p/p           Other complications of puerperium",
+	},
+	{
+		code: "67484  Puerp compl NEC-postpart           Other complications of puerperium",
+	},
+	{
+		code: "67490  Puerp compl NOS-unspec             Unspecified complications of puerperium",
+	},
+	{
+		code: "67492  Puerp comp NOS-del w p/p           Unspecified complications of puerperium",
+	},
+	{
+		code: "67494  Puerp compl NOS-postpart           Unspecified complications of puerperium",
+	},
+	{
+		code: "67500  Infect nipple preg-unsp            Infections of nipple associated with childbirth",
+	},
+	{
+		code: "67501  Infect nipple-delivered            Infections of nipple associated with childbirth",
+	},
+	{
+		code: "67502  Infect nipple-del w p/p            Infections of nipple associated with childbirth",
+	},
+	{
+		code: "67503  Infect nipple-antepartum           Infections of nipple associated with childbirth",
+	},
+	{
+		code: "67504  Infect nipple-postpartum           Infections of nipple associated with childbirth",
+	},
+	{
+		code: "67510  Breast abscess preg-unsp           Abscess of breast associated with childbirth",
+	},
+	{
+		code: "67511  Breast abscess-delivered           Abscess of breast associated with childbirth",
+	},
+	{
+		code: "67512  Breast abscess-del w p/p           Abscess of breast associated with childbirth",
+	},
+	{
+		code: "67513  Breast abscess-antepart            Abscess of breast associated with childbirth",
+	},
+	{
+		code: "67514  Breast abscess-postpart            Abscess of breast associated with childbirth",
+	},
+	{
+		code: "67520  Mastitis in preg-unspec            Nonpurulent mastitis associated with childbirth",
+	},
+	{
+		code: "67521  Mastitis-delivered                 Nonpurulent mastitis associated with childbirth",
+	},
+	{
+		code: "67522  Mastitis-deliv w p/p               Nonpurulent mastitis associated with childbirth",
+	},
+	{
+		code: "67523  Mastitis-antepartum                Nonpurulent mastitis associated with childbirth",
+	},
+	{
+		code: "67524  Mastitis-postpartum                Nonpurulent mastitis associated with childbirth",
+	},
+	{
+		code: "67580  Breast inf preg NEC-unsp           Other specified infections of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67581  Breast infect NEC-deliv            Other specified infections of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67582  Breast inf NEC-del w p/p           Other specified infections of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67583  Breast inf NEC-antepart            Other specified infections of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67584  Breast inf NEC-postpart            Other specified infections of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67590  Breast inf preg NOS-unsp           Unspecified infection of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67591  Breast infect NOS-deliv            Unspecified infection of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67592  Breast inf NOS-del w p/p           Unspecified infection of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67593  Breast inf NOS-antepart            Unspecified infection of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67594  Breast inf NOS-postpart            Unspecified infection of the breast and nipple associated with childbirth",
+	},
+	{
+		code: "67600  Retract nipple preg-unsp           Retracted nipple associated with childbirth",
+	},
+	{
+		code: "67601  Retracted nipple-deliver           Retracted nipple associated with childbirth",
+	},
+	{
+		code: "67602  Retract nipple-del w p/p           Retracted nipple associated with childbirth",
+	},
+	{
+		code: "67603  Retract nipple-antepart            Retracted nipple associated with childbirth",
+	},
+	{
+		code: "67604  Retract nipple-postpart            Retracted nipple associated with childbirth",
+	},
+	{
+		code: "67610  Cracked nipple preg-unsp           Cracked nipple associated with childbirth",
+	},
+	{
+		code: "67611  Cracked nipple-delivered           Cracked nipple associated with childbirth",
+	},
+	{
+		code: "67612  Cracked nipple-del w p/p           Cracked nipple associated with childbirth",
+	},
+	{
+		code: "67613  Cracked nipple-antepart            Cracked nipple associated with childbirth",
+	},
+	{
+		code: "67614  Cracked nipple-postpart            Cracked nipple associated with childbirth",
+	},
+	{
+		code: "67620  Breast engorge-unspec              Engorgement of breasts associated with childbirth",
+	},
+	{
+		code: "67621  Breast engorge-delivered           Engorgement of breasts associated with childbirth",
+	},
+	{
+		code: "67622  Breast engorge-del w p/p           Engorgement of breasts associated with childbirth",
+	},
+	{
+		code: "67623  Breast engorge-antepart            Engorgement of breasts associated with childbirth",
+	},
+	{
+		code: "67624  Breast engorge-postpart            Engorgement of breasts associated with childbirth",
+	},
+	{
+		code: "67630  Breast dis preg NEC-unsp           Other and unspecified disorder of breast associated with childbirth",
+	},
+	{
+		code: "67631  Breast dis NEC-delivered           Other and unspecified disorder of breast associated with childbirth",
+	},
+	{
+		code: "67632  Breast dis NEC-del w p/p           Other and unspecified disorder of breast associated with childbirth",
+	},
+	{
+		code: "67633  Breast dis NEC-antepart            Other and unspecified disorder of breast associated with childbirth",
+	},
+	{
+		code: "67634  Breast dis NEC-postpart            Other and unspecified disorder of breast associated with childbirth",
+	},
+	{
+		code: "67640  Lactation fail-unspec              Failure of lactation",
+	},
+	{
+		code: "67641  Lactation fail-delivered           Failure of lactation",
+	},
+	{
+		code: "67642  Lactation fail-del w p/p           Failure of lactation",
+	},
+	{
+		code: "67643  Lactation fail-antepart            Failure of lactation",
+	},
+	{
+		code: "67644  Lactation fail-postpart            Failure of lactation",
+	},
+	{
+		code: "67650  Suppr lactation-unspec             Suppressed lactation",
+	},
+	{
+		code: "67651  Suppr lactation-deliver            Suppressed lactation",
+	},
+	{
+		code: "67652  Suppr lactat-del w p/p             Suppressed lactation",
+	},
+	{
+		code: "67653  Suppr lactation-antepar            Suppressed lactation",
+	},
+	{
+		code: "67654  Suppr lactation-postpart           Suppressed lactation",
+	},
+	{
+		code: "67660  Galactorrhea preg-unspec           Galactorrhea associated with childbirth",
+	},
+	{
+		code: "67661  Galactorrhea-delivered             Galactorrhea associated with childbirth",
+	},
+	{
+		code: "67662  Galactorrhea-del w p/p             Galactorrhea associated with childbirth",
+	},
+	{
+		code: "67663  Galactorrhea-antepartum            Galactorrhea associated with childbirth",
+	},
+	{
+		code: "67664  Galactorrhea-postpartum            Galactorrhea associated with childbirth",
+	},
+	{
+		code: "67680  Lactation dis NEC-unspec           Other disorders of lactation",
+	},
+	{
+		code: "67681  Lactation dis NEC-deliv            Other disorders of lactation",
+	},
+	{
+		code: "67682  Lactat dis NEC-del w p/p           Other disorders of lactation",
+	},
+	{
+		code: "67683  Lactat dis NEC-antepart            Other disorders of lactation",
+	},
+	{
+		code: "67684  Lactat dis NEC-postpart            Other disorders of lactation",
+	},
+	{
+		code: "67690  Lactation dis NOS-unspec           Unspecified disorder of lactation",
+	},
+	{
+		code: "67691  Lactation dis NOS-deliv            Unspecified disorder of lactation",
+	},
+	{
+		code: "67692  Lactat dis NOS-del w p/p           Unspecified disorder of lactation",
+	},
+	{
+		code: "67693  Lactat dis NOS-antepart            Unspecified disorder of lactation",
+	},
+	{
+		code: "67694  Lactat dis NOS-postpart            Unspecified disorder of lactation",
+	},
+	{
+		code: "677    Late effct cmplcatn preg           Late effect of complication of pregnancy",
+	},
+	{
+		code: "67800  Fetal hematologic-unspec           Fetal hematologic conditions",
+	},
+	{
+		code: "67801  Fetal hematologic-deliv            Fetal hematologic conditions",
+	},
+	{
+		code: "67803  Fetal hematologic-ante             Fetal hematologic conditions",
+	},
+	{
+		code: "67810  Fetal conjoin twins-unsp           Fetal conjoined twins",
+	},
+	{
+		code: "67811  Fetal conjoin twins-del            Fetal conjoined twins",
+	},
+	{
+		code: "67813  Fetal conjoin twins-ante           Fetal conjoined twins",
+	},
+	{
+		code: "67900  Mat comp in utero-unsp             Maternal complications from in utero procedure",
+	},
+	{
+		code: "67901  Mat comp in utero-del              Maternal complications from in utero procedure",
+	},
+	{
+		code: "67902  Mat comp in utro-del-p/p           Maternal complications from in utero procedure",
+	},
+	{
+		code: "67903  Mat comp in utero-ante             Maternal complications from in utero procedure",
+	},
+	{
+		code: "67904  Mat comp in utero-p/p              Maternal complications from in utero procedure",
+	},
+	{
+		code: "67910  Fetal comp in utero-unsp           Fetal complications from in utero procedure",
+	},
+	{
+		code: "67911  Fetal comp in utero-del            Fetal complications from in utero procedure",
+	},
+	{
+		code: "67912  Ftl cmp in utro-del-p/p            Fetal complications from in utero procedure",
+	},
+	{
+		code: "67913  Fetal comp in utero-ante           Fetal complications from in utero procedure",
+	},
+	{
+		code: "67914  Fetal comp in utero-p/p            Fetal complications from in utero procedure",
+	},
+	{
+		code: "6800   Carbuncle of face                  Carbuncle and furuncle of face",
+	},
+	{
+		code: "6801   Carbuncle of neck                  Carbuncle and furuncle of neck",
+	},
+	{
+		code: "6802   Carbuncle of trunk                 Carbuncle and furuncle of trunk",
+	},
+	{
+		code: "6803   Carbuncle of arm                   Carbuncle and furuncle of upper arm and forearm",
+	},
+	{
+		code: "6804   Carbuncle of hand                  Carbuncle and furuncle of hand",
+	},
+	{
+		code: "6805   Carbuncle of buttock               Carbuncle and furuncle of buttock",
+	},
+	{
+		code: "6806   Carbuncle of leg                   Carbuncle and furuncle of leg",
+	},
+	{
+		code: "6807   Carbuncle of foot                  Carbuncle and furuncle of foot",
+	},
+	{
+		code: "6808   Carbuncle",
+	},
+	{
+		code: "6809   Carbuncle NOS                      Carbuncle and furuncle of unspecified site",
+	},
+	{
+		code: "68100  Cellulitis",
+	},
+	{
+		code: "68101  Felon                              Felon",
+	},
+	{
+		code: "68102  Onychia of finger                  Onychia and paronychia of finger",
+	},
+	{
+		code: "68110  Cellulitis",
+	},
+	{
+		code: "68111  Onychia of toe                     Onychia and paronychia of toe",
+	},
+	{
+		code: "6819   Cellulitis of digit NOS            Cellulitis and abscess of unspecified digit",
+	},
+	{
+		code: "6820   Cellulitis of face                 Cellulitis and abscess of face",
+	},
+	{
+		code: "6821   Cellulitis of neck                 Cellulitis and abscess of neck",
+	},
+	{
+		code: "6822   Cellulitis of trunk                Cellulitis and abscess of trunk",
+	},
+	{
+		code: "6823   Cellulitis of arm                  Cellulitis and abscess of upper arm and forearm",
+	},
+	{
+		code: "6824   Cellulitis of hand                 Cellulitis and abscess of hand",
+	},
+	{
+		code: "6825   Cellulitis of buttock              Cellulitis and abscess of buttock",
+	},
+	{
+		code: "6826   Cellulitis of leg                  Cellulitis and abscess of leg",
+	},
+	{
+		code: "6827   Cellulitis of foot                 Cellulitis and abscess of foot",
+	},
+	{
+		code: "6828   Cellulitis",
+	},
+	{
+		code: "6829   Cellulitis NOS                     Cellulitis and abscess of unspecified sites",
+	},
+	{
+		code: "683    Acute lymphadenitis                Acute lymphadenitis",
+	},
+	{
+		code: "684    Impetigo                           Impetigo",
+	},
+	{
+		code: "6850   Pilonidal cyst w abscess           Pilonidal cyst with abscess",
+	},
+	{
+		code: "6851   Pilonidal cyst w/o absc            Pilonidal cyst without mention of abscess",
+	},
+	{
+		code: "68600  Pyoderma NOS                       Pyoderma",
+	},
+	{
+		code: "68601  Pyoderma gangrenosum               Pyoderma gangrenosum",
+	},
+	{
+		code: "68609  Pyoderma NEC                       Other pyoderma",
+	},
+	{
+		code: "6861   Pyogenic granuloma                 Pyogenic granuloma of skin and subcutaneous tissue",
+	},
+	{
+		code: "6868   Local skin infection NEC           Other specified local infections of skin and subcutaneous tissue",
+	},
+	{
+		code: "6869   Local skin infection NOS           Unspecified local infection of skin and subcutaneous tissue",
+	},
+	{
+		code: "69010  Sebrrheic dermatitis NOS           Seborrheic dermatitis",
+	},
+	{
+		code: "69011  Seborrhea capitis                  Seborrhea capitis",
+	},
+	{
+		code: "69012  Sbrheic infantl drmtitis           Seborrheic infantile dermatitis",
+	},
+	{
+		code: "69018  Sebrrheic dermatitis NEC           Other seborrheic dermatitis",
+	},
+	{
+		code: "6908   Erythmtsquamous derm NEC           Other erythematosquamous dermatosis",
+	},
+	{
+		code: "6910   Diaper or napkin rash              Diaper or napkin rash",
+	},
+	{
+		code: "6918   Other atopic dermatitis            Other atopic dermatitis and related conditions",
+	},
+	{
+		code: "6920   Detergent dermatitis               Contact dermatitis and other eczema due to detergents",
+	},
+	{
+		code: "6921   Oil & grease dermatitis            Contact dermatitis and other eczema due to oils and greases",
+	},
+	{
+		code: "6922   Solvent dermatitis                 Contact dermatitis and other eczema due to solvents",
+	},
+	{
+		code: "6923   Topical med dermatitis             Contact dermatitis and other eczema due to drugs and medicines in contact with skin",
+	},
+	{
+		code: "6924   Chemical dermatitis NEC            Contact dermatitis and other eczema due to other chemical products",
+	},
+	{
+		code: "6925   Topical food dermatitis            Contact dermatitis and other eczema due to food in contact with skin",
+	},
+	{
+		code: "6926   Dermatitis due to plant            Contact dermatitis and other eczema due to plants [except food]",
+	},
+	{
+		code: "69270  Solar dermatitis NOS               Unspecified dermatitis due to sun",
+	},
+	{
+		code: "69271  Sunburn                            Sunburn",
+	},
+	{
+		code: "69272  Act drmtitis solar rdiat           Acute dermatitis due to solar radiation",
+	},
+	{
+		code: "69273  Actnc retic actnc grnlma           Actinic reticuloid and actinic granuloma",
+	},
+	{
+		code: "69274  Oth chr drmtit solar rad           Other chronic dermatitis due to solar radiation",
+	},
+	{
+		code: "69275  Dis sup actnc porokrtsis           Disseminated superficial actinic porokeratosis (DSAP)",
+	},
+	{
+		code: "69276  2nd degree sunburn                 Sunburn of second degree",
+	},
+	{
+		code: "69277  3rd degree sunburn                 Sunburn of third degree",
+	},
+	{
+		code: "69279  Oth dermatitis solar rad           Other dermatitis due to solar radiation",
+	},
+	{
+		code: "69281  Cosmetic dermatitis                Dermatitis due to cosmetics",
+	},
+	{
+		code: "69282  Dermatitis oth radiation           Dermatitis due to other radiation",
+	},
+	{
+		code: "69283  Dermatitis metals                  Dermatitis due to metals",
+	},
+	{
+		code: "69284  Contact drmatitis-animal           Contact dermatitis and other eczema due to animal (cat) (dog) dander",
+	},
+	{
+		code: "69289  Dermatitis NEC                     Contact dermatitis and other eczema due to other specified agents",
+	},
+	{
+		code: "6929   Dermatitis NOS                     Contact dermatitis and other eczema",
+	},
+	{
+		code: "6930   Drug dermatitis NOS                Dermatitis due to drugs and medicines taken internally",
+	},
+	{
+		code: "6931   Dermat d/t food ingest             Dermatitis due to food taken internally",
+	},
+	{
+		code: "6938   Dermat d/t int agent NEC           Dermatitis due to other specified substances taken internally",
+	},
+	{
+		code: "6939   Dermat d/t int agent NOS           Dermatitis due to unspecified substance taken internally",
+	},
+	{
+		code: "6940   Dermatitis herpetiformis           Dermatitis herpetiformis",
+	},
+	{
+		code: "6941   Subcorneal pust dermatos           Subcorneal pustular dermatosis",
+	},
+	{
+		code: "6942   Juven dermat herpetiform           Juvenile dermatitis herpetiformis",
+	},
+	{
+		code: "6943   Impetigo herpetiformis             Impetigo herpetiformis",
+	},
+	{
+		code: "6944   Pemphigus                          Pemphigus",
+	},
+	{
+		code: "6945   Pemphigoid                         Pemphigoid",
+	},
+	{
+		code: "69460  Bn mucous memb pemph NOS           Benign mucous membrane pemphigoid without mention of ocular involvement",
+	},
+	{
+		code: "69461  Ocular pemphigus                   Benign mucous membrane pemphigoid with ocular involvement",
+	},
+	{
+		code: "6948   Bullous dermatoses NEC             Other specified bullous dermatoses",
+	},
+	{
+		code: "6949   Bullous dermatoses NOS             Unspecified bullous dermatoses",
+	},
+	{
+		code: "6950   Toxic erythema                     Toxic erythema",
+	},
+	{
+		code: "6951   FORCEP DELIV NOS-DELIVER           FORCEP DELIV NOS-DELIVER",
+	},
+	{
+		code: "69510  Erythema multiforme NOS            Erythema multiforme",
+	},
+	{
+		code: "69511  Erythma multiforme minor           Erythema multiforme minor",
+	},
+	{
+		code: "69512  Erythema multiforme maj            Erythema multiforme major",
+	},
+	{
+		code: "69513  Stevens-Johnson syndrome           Stevens-Johnson syndrome",
+	},
+	{
+		code: "69514  Stevens-Johnson-TEN syn            Stevens-Johnson syndrome-toxic epidermal necrolysis overlap syndrome",
+	},
+	{
+		code: "69515  Toxic epidrml necrolysis           Toxic epidermal necrolysis",
+	},
+	{
+		code: "69519  Erythema multiforme NEC            Other erythema multiforme",
+	},
+	{
+		code: "6952   Erythema nodosum                   Erythema nodosum",
+	},
+	{
+		code: "6953   Rosacea                            Rosacea",
+	},
+	{
+		code: "6954   Lupus erythematosus                Lupus erythematosus",
+	},
+	{
+		code: "69550  Exfol d/t eryth <10% bdy           Exfoliation due to erythematous condition involving less than 10 percent of body surface",
+	},
+	{
+		code: "69551  Exfl d/t eryth 10-19 bdy           Exfoliation due to erythematous condition involving 10-19 percent of body surface",
+	},
+	{
+		code: "69552  Exfl d/t eryth 20-29 bdy           Exfoliation due to erythematous condition involving 20-29 percent of body surface",
+	},
+	{
+		code: "69553  Exfl d/t eryth 30-39 bdy           Exfoliation due to erythematous condition involving 30-39 percent of body surface",
+	},
+	{
+		code: "69554  Exfl d/t eryth 40-49 bdy           Exfoliation due to erythematous condition involving 40-49 percent of body surface",
+	},
+	{
+		code: "69555  Exfl d/t eryth 50-59 bdy           Exfoliation due to erythematous condition involving 50-59 percent of body surface",
+	},
+	{
+		code: "69556  Exfl d/t eryth 60-69 bdy           Exfoliation due to erythematous condition involving 60-69 percent of body surface",
+	},
+	{
+		code: "69557  Exfl d/t eryth 70-79 bdy           Exfoliation due to erythematous condition involving 70-79 percent of body surface",
+	},
+	{
+		code: "69558  Exfl d/t eryth 80-89 bdy           Exfoliation due to erythematous condition involving 80-89 percent of body surface",
+	},
+	{
+		code: "69559  Exfl d/t eryth >=90% bdy           Exfoliation due to erythematous condition involving 90 percent or more of body surface",
+	},
+	{
+		code: "69581  Ritter's disease                   Ritter's disease",
+	},
+	{
+		code: "69589  Erythematous cond NEC              Other specified erythematous conditions",
+	},
+	{
+		code: "6959   Erythematous cond NOS              Unspecified erythematous condition",
+	},
+	{
+		code: "6960   Psoriatic arthropathy              Psoriatic arthropathy",
+	},
+	{
+		code: "6961   Other psoriasis                    Other psoriasis",
+	},
+	{
+		code: "6962   Parapsoriasis                      Parapsoriasis",
+	},
+	{
+		code: "6963   Pityriasis rosea                   Pityriasis rosea",
+	},
+	{
+		code: "6964   Pityriasis rubra pilaris           Pityriasis rubra pilaris",
+	},
+	{
+		code: "6965   Pityriasis NEC & NOS               Other and unspecified pityriasis",
+	},
+	{
+		code: "6968   Psorias related dis NEC            Other psoriasis and similar disorders",
+	},
+	{
+		code: "6970   Lichen planus                      Lichen planus",
+	},
+	{
+		code: "6971   Lichen nitidus                     Lichen nitidus",
+	},
+	{
+		code: "6978   Lichen NEC                         Other lichen",
+	},
+	{
+		code: "6979   Lichen NOS                         Lichen",
+	},
+	{
+		code: "6980   Pruritus ani                       Pruritus ani",
+	},
+	{
+		code: "6981   Pruritus of genitalia              Pruritus of genital organs",
+	},
+	{
+		code: "6982   Prurigo                            Prurigo",
+	},
+	{
+		code: "6983   Lichenification                    Lichenification and lichen simplex chronicus",
+	},
+	{
+		code: "6984   Dermatitis factitia                Dermatitis factitia [artefacta]",
+	},
+	{
+		code: "6988   Pruritic conditions NEC            Other specified pruritic conditions",
+	},
+	{
+		code: "6989   Pruritic disorder NOS              Unspecified pruritic disorder",
+	},
+}

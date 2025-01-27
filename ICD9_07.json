@@ -1,0 +1,6182 @@
+{
+	{
+		code: "700    Corns and callosities              Corns and callosities",
+	},
+	{
+		code: "7010   Circumscribe scleroderma           Circumscribed scleroderma",
+	},
+	{
+		code: "7011   Keratoderma",
+	},
+	{
+		code: "7012   Acq acanthosis nigricans           Acquired acanthosis nigricans",
+	},
+	{
+		code: "7013   Striae atrophicae                  Striae atrophicae",
+	},
+	{
+		code: "7014   Keloid scar                        Keloid scar",
+	},
+	{
+		code: "7015   Abnormal granulation NEC           Other abnormal granulation tissue",
+	},
+	{
+		code: "7018   Skin hypertro/atroph NEC           Other specified hypertrophic and atrophic conditions of skin",
+	},
+	{
+		code: "7019   Skin hypertro/atroph NOS           Unspecified hypertrophic and atrophic conditions of skin",
+	},
+	{
+		code: "7020   Actinic keratosis                  Actinic keratosis",
+	},
+	{
+		code: "70211  Inflamed sbrheic keratos           Inflamed seborrheic keratosis",
+	},
+	{
+		code: "70219  Other sborheic keratosis           Other seborrheic keratosis",
+	},
+	{
+		code: "7028   Other specf dermatoses             Other specified dermatoses",
+	},
+	{
+		code: "703    DISEASES OF NAIL                   DISEASES OF NAIL",
+	},
+	{
+		code: "7030   Ingrowing nail                     Ingrowing nail",
+	},
+	{
+		code: "7038   Diseases of nail NEC               Other specified diseases of nail",
+	},
+	{
+		code: "7039   Disease of nail NOS                Unspecified disease of nail",
+	},
+	{
+		code: "70400  Alopecia NOS                       Alopecia",
+	},
+	{
+		code: "70401  Alopecia areata                    Alopecia areata",
+	},
+	{
+		code: "70402  Telogen effluvium                  Telogen effluvium",
+	},
+	{
+		code: "70409  Alopecia NEC                       Other alopecia",
+	},
+	{
+		code: "7041   Hirsutism                          Hirsutism",
+	},
+	{
+		code: "7042   Abnormalities of hair              Abnormalities of the hair",
+	},
+	{
+		code: "7043   Variations in hair color           Variations in hair color",
+	},
+	{
+		code: "70441  Pilar cyst                         Pilar cyst",
+	},
+	{
+		code: "70442  Trichilemmal cyst                  Trichilemmal cyst",
+	},
+	{
+		code: "7048   Hair diseases NEC                  Other specified diseases of hair and hair follicles",
+	},
+	{
+		code: "7049   Hair disease NOS                   Unspecified disease of hair and hair follicles",
+	},
+	{
+		code: "705    DISORDERS OF SWEAT GLANDS          DISORDERS OF SWEAT GLANDS",
+	},
+	{
+		code: "7050   Anhidrosis                         Anhidrosis",
+	},
+	{
+		code: "7051   Prickly heat                       Prickly heat",
+	},
+	{
+		code: "70521  Primary focal hyprhidros           Primary focal hyperhidrosis",
+	},
+	{
+		code: "70522  Sec focal hyperhidrosis            Secondary focal hyperhidrosis",
+	},
+	{
+		code: "70581  Dyshidrosis                        Dyshidrosis",
+	},
+	{
+		code: "70582  Fox-fordyce disease                Fox-Fordyce disease",
+	},
+	{
+		code: "70583  Hidradenitis                       Hidradenitis",
+	},
+	{
+		code: "70589  Sweat gland disorder NEC           Other specified disorders of sweat glands",
+	},
+	{
+		code: "7059   Sweat gland disorder NOS           Unspecified disorder of sweat glands",
+	},
+	{
+		code: "7060   Acne varioliformis                 Acne varioliformis",
+	},
+	{
+		code: "7061   Acne NEC                           Other acne",
+	},
+	{
+		code: "7062   Sebaceous cyst                     Sebaceous cyst",
+	},
+	{
+		code: "7063   Seborrhea                          Seborrhea",
+	},
+	{
+		code: "7068   Sebaceous gland dis NEC            Other specified diseases of sebaceous glands",
+	},
+	{
+		code: "7069   Sebaceous gland dis NOS            Unspecified disease of sebaceous glands",
+	},
+	{
+		code: "70700  Pressure ulcer",
+	},
+	{
+		code: "70701  Pressure ulcer",
+	},
+	{
+		code: "70702  Pressure ulcer",
+	},
+	{
+		code: "70703  Pressure ulcer",
+	},
+	{
+		code: "70704  Pressure ulcer",
+	},
+	{
+		code: "70705  Pressure ulcer",
+	},
+	{
+		code: "70706  Pressure ulcer",
+	},
+	{
+		code: "70707  Pressure ulcer",
+	},
+	{
+		code: "70709  Pressure ulcer",
+	},
+	{
+		code: "70710  Ulcer of lower limb NOS            Ulcer of lower limb",
+	},
+	{
+		code: "70711  Ulcer of thigh                     Ulcer of thigh",
+	},
+	{
+		code: "70712  Ulcer of calf                      Ulcer of calf",
+	},
+	{
+		code: "70713  Ulcer of ankle                     Ulcer of ankle",
+	},
+	{
+		code: "70714  Ulcer of heel & midfoot            Ulcer of heel and midfoot",
+	},
+	{
+		code: "70715  Ulcer other part of foot           Ulcer of other part of foot",
+	},
+	{
+		code: "70719  Ulcer oth part low limb            Ulcer of other part of lower limb",
+	},
+	{
+		code: "70720  Pressure ulcer",
+	},
+	{
+		code: "70721  Pressure ulcer",
+	},
+	{
+		code: "70722  Pressure ulcer",
+	},
+	{
+		code: "70723  Pressure ulcer",
+	},
+	{
+		code: "70724  Pressure ulcer",
+	},
+	{
+		code: "70725  Pressure ulcer",
+	},
+	{
+		code: "7078   Chronic skin ulcer NEC             Chronic ulcer of other specified sites",
+	},
+	{
+		code: "7079   Chronic skin ulcer NOS             Chronic ulcer of unspecified site",
+	},
+	{
+		code: "7080   Allergic urticaria                 Allergic urticaria",
+	},
+	{
+		code: "7081   Idiopathic urticaria               Idiopathic urticaria",
+	},
+	{
+		code: "7082   Urticaria from cold/heat           Urticaria due to cold and heat",
+	},
+	{
+		code: "7083   Dermatographic urticaria           Dermatographic urticaria",
+	},
+	{
+		code: "7084   Vibratory urticaria                Vibratory urticaria",
+	},
+	{
+		code: "7085   Cholinergic urticaria              Cholinergic urticaria",
+	},
+	{
+		code: "7088   Urticaria NEC                      Other specified urticaria",
+	},
+	{
+		code: "7089   Urticaria NOS                      Urticaria",
+	},
+	{
+		code: "70900  Dyschromia",
+	},
+	{
+		code: "70901  Vitiligo                           Vitiligo",
+	},
+	{
+		code: "70909  Other dyschromia                   Other dyschromia",
+	},
+	{
+		code: "7091   Vascular disord of skin            Vascular disorders of skin",
+	},
+	{
+		code: "7092   Scar & fibrosis of skin            Scar conditions and fibrosis of skin",
+	},
+	{
+		code: "7093   Degenerative skin disord           Degenerative skin disorders",
+	},
+	{
+		code: "7094   Foreign body granul-skin           Foreign body granuloma of skin and subcutaneous tissue",
+	},
+	{
+		code: "7098   Skin disorders NEC                 Other specified disorders of skin",
+	},
+	{
+		code: "7099   Skin disorder NOS                  Unspecified disorder of skin and subcutaneous tissue",
+	},
+	{
+		code: "7100   Syst lupus erythematosus           Systemic lupus erythematosus",
+	},
+	{
+		code: "7101   Systemic sclerosis                 Systemic sclerosis",
+	},
+	{
+		code: "7102   Sicca syndrome                     Sicca syndrome",
+	},
+	{
+		code: "7103   Dermatomyositis                    Dermatomyositis",
+	},
+	{
+		code: "7104   Polymyositis                       Polymyositis",
+	},
+	{
+		code: "7105   Eosinophilia myalgia snd           Eosinophilia myalgia syndrome",
+	},
+	{
+		code: "7108   Diff connect tis dis NEC           Other specified diffuse diseases of connective tissue",
+	},
+	{
+		code: "7109   Diff connect tis dis NOS           Unspecified diffuse connective tissue disease",
+	},
+	{
+		code: "71100  Pyogen arthritis-unspec            Pyogenic arthritis",
+	},
+	{
+		code: "71101  Pyogen arthritis-shlder            Pyogenic arthritis",
+	},
+	{
+		code: "71102  Pyogen arthritis-up/arm            Pyogenic arthritis",
+	},
+	{
+		code: "71103  Pyogen arthritis-forearm           Pyogenic arthritis",
+	},
+	{
+		code: "71104  Pyogen arthritis-hand              Pyogenic arthritis",
+	},
+	{
+		code: "71105  Pyogen arthritis-pelvis            Pyogenic arthritis",
+	},
+	{
+		code: "71106  Pyogen arthritis-l/leg             Pyogenic arthritis",
+	},
+	{
+		code: "71107  Pyogen arthritis-ankle             Pyogenic arthritis",
+	},
+	{
+		code: "71108  Pyogen arthritis NEC               Pyogenic arthritis",
+	},
+	{
+		code: "71109  Pyogen arthritis-mult              Pyogenic arthritis",
+	},
+	{
+		code: "71110  Reiter arthritis-unspec            Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71111  Reiter arthritis-shlder            Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71112  Reiter arthritis-up/arm            Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71113  Reiter arthritis-forearm           Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71114  Reiter arthritis-hand              Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71115  Reiter arthritis-pelvis            Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71116  Reiter arthritis-l/leg             Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71117  Reiter arthritis-ankle             Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71118  Reiter arthritis NEC               Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71119  Reiter arthritis-mult              Arthropathy associated with Reiter's disease and nonspecific urethritis",
+	},
+	{
+		code: "71120  Behcet arthritis-unspec            Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71121  Behcet arthritis-shlder            Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71122  Behcet arthritis-up/arm            Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71123  Behcet arthritis-forearm           Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71124  Behcet arthritis-hand              Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71125  Behcet arthritis-pelvis            Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71126  Behcet arthritis-l/leg             Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71127  Behcet arthritis-ankle             Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71128  Behcet arthritis NEC               Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71129  Behcet arthritis-mult              Arthropathy in Behcet's syndrome",
+	},
+	{
+		code: "71130  Dysenter arthrit-unspec            Postdysenteric arthropathy",
+	},
+	{
+		code: "71131  Dysenter arthrit-shlder            Postdysenteric arthropathy",
+	},
+	{
+		code: "71132  Dysenter arthrit-up/arm            Postdysenteric arthropathy",
+	},
+	{
+		code: "71133  Dysenter arthrit-forearm           Postdysenteric arthropathy",
+	},
+	{
+		code: "71134  Dysenter arthrit-hand              Postdysenteric arthropathy",
+	},
+	{
+		code: "71135  Dysenter arthrit-pelvis            Postdysenteric arthropathy",
+	},
+	{
+		code: "71136  Dysenter arthrit-l/leg             Postdysenteric arthropathy",
+	},
+	{
+		code: "71137  Dysenter arthrit-ankle             Postdysenteric arthropathy",
+	},
+	{
+		code: "71138  Dysenter arthrit NEC               Postdysenteric arthropathy",
+	},
+	{
+		code: "71139  Dysenter arthrit-mult              Postdysenteric arthropathy",
+	},
+	{
+		code: "71140  Bact arthritis-unspec              Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71141  Bact arthritis-shlder              Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71142  Bact arthritis-up/arm              Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71143  Bact arthritis-forearm             Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71144  Bact arthritis-hand                Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71145  Bact arthritis-pelvis              Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71146  Bact arthritis-l/leg               Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71147  Bact arthritis-ankle               Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71148  Bact arthritis NEC                 Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71149  Bact arthritis-mult                Arthropathy associated with other bacterial diseases",
+	},
+	{
+		code: "71150  Viral arthritis-unspec             Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71151  Viral arthritis-shlder             Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71152  Viral arthritis-up/arm             Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71153  Viral arthritis-forearm            Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71154  Viral arthritis-hand               Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71155  Viral arthritis-pelvis             Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71156  Viral arthritis-l/leg              Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71157  Viral arthritis-ankle              Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71158  Viral arthritis NEC                Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71159  Viral arthritis-mult               Arthropathy associated with other viral diseases",
+	},
+	{
+		code: "71160  Mycotic arthritis-unspec           Arthropathy associated with mycoses",
+	},
+	{
+		code: "71161  Mycotic arthritis-shlder           Arthropathy associated with mycoses",
+	},
+	{
+		code: "71162  Mycotic arthritis-up/arm           Arthropathy associated with mycoses",
+	},
+	{
+		code: "71163  Mycotic arthrit-forearm            Arthropathy associated with mycoses",
+	},
+	{
+		code: "71164  Mycotic arthritis-hand             Arthropathy associated with mycoses",
+	},
+	{
+		code: "71165  Mycotic arthritis-pelvis           Arthropathy associated with mycoses",
+	},
+	{
+		code: "71166  Mycotic arthritis-l/leg            Arthropathy associated with mycoses",
+	},
+	{
+		code: "71167  Mycotic arthritis-ankle            Arthropathy associated with mycoses",
+	},
+	{
+		code: "71168  Mycotic arthritis NEC              Arthropathy associated with mycoses",
+	},
+	{
+		code: "71169  Mycotic arthritis-mult             Arthropathy associated with mycoses",
+	},
+	{
+		code: "71170  Helminth arthrit-unspec            Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71171  Helminth arthrit-shlder            Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71172  Helminth arthrit-up/arm            Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71173  Helminth arthrit-forearm           Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71174  Helminth arthrit-hand              Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71175  Helminth arthrit-pelvis            Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71176  Helminth arthrit-l/leg             Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71177  Helminth arthrit-ankle             Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71178  Helminth arthrit NEC               Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71179  Helminth arthrit-mult              Arthropathy associated with helminthiasis",
+	},
+	{
+		code: "71180  Inf arthritis NEC-unspec           Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71181  Inf arthritis NEC-shlder           Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71182  Inf arthritis NEC-up/arm           Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71183  Inf arthrit NEC-forearm            Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71184  Inf arthritis NEC-hand             Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71185  Inf arthritis NEC-pelvis           Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71186  Inf arthritis NEC-l/leg            Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71187  Inf arthritis NEC-ankle            Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71188  Inf arthrit NEC-oth site           Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71189  Inf arthritis NEC-mult             Arthropathy associated with other infectious and parasitic diseases",
+	},
+	{
+		code: "71190  Inf arthritis NOS-unspec           Unspecified infective arthritis",
+	},
+	{
+		code: "71191  Inf arthritis NOS-shlder           Unspecified infective arthritis",
+	},
+	{
+		code: "71192  Inf arthritis NOS-up/arm           Unspecified infective arthritis",
+	},
+	{
+		code: "71193  Inf arthrit NOS-forearm            Unspecified infective arthritis",
+	},
+	{
+		code: "71194  Inf arthrit NOS-hand               Unspecified infective arthritis",
+	},
+	{
+		code: "71195  Inf arthrit NOS-pelvis             Unspecified infective arthritis",
+	},
+	{
+		code: "71196  Inf arthrit NOS-l/leg              Unspecified infective arthritis",
+	},
+	{
+		code: "71197  Inf arthrit NOS-ankle              Unspecified infective arthritis",
+	},
+	{
+		code: "71198  Inf arthrit NOS-oth site           Unspecified infective arthritis",
+	},
+	{
+		code: "71199  Inf arthritis NOS-mult             Unspecified infective arthritis",
+	},
+	{
+		code: "71210  Dicalc phos cryst-unspec           Chondrocalcinosis",
+	},
+	{
+		code: "71211  Dicalc phos cryst-shlder           Chondrocalcinosis",
+	},
+	{
+		code: "71212  Dicalc phos cryst-up/arm           Chondrocalcinosis",
+	},
+	{
+		code: "71213  Dicalc phos crys-forearm           Chondrocalcinosis",
+	},
+	{
+		code: "71214  Dicalc phos cryst-hand             Chondrocalcinosis",
+	},
+	{
+		code: "71215  Dicalc phos cryst-pelvis           Chondrocalcinosis",
+	},
+	{
+		code: "71216  Dicalc phos cryst-l/leg            Chondrocalcinosis",
+	},
+	{
+		code: "71217  Dicalc phos cryst-ankle            Chondrocalcinosis",
+	},
+	{
+		code: "71218  Dicalc phos cry-site NEC           Chondrocalcinosis",
+	},
+	{
+		code: "71219  Dicalc phos cryst-mult             Chondrocalcinosis",
+	},
+	{
+		code: "71220  Pyrophosph cryst-unspec            Chondrocalcinosis",
+	},
+	{
+		code: "71221  Pyrophosph cryst-shlder            Chondrocalcinosis",
+	},
+	{
+		code: "71222  Pyrophosph cryst-up/arm            Chondrocalcinosis",
+	},
+	{
+		code: "71223  Pyrophosph cryst-forearm           Chondrocalcinosis",
+	},
+	{
+		code: "71224  Pyrophosph cryst-hand              Chondrocalcinosis",
+	},
+	{
+		code: "71225  Pyrophosph cryst-pelvis            Chondrocalcinosis",
+	},
+	{
+		code: "71226  Pyrophosph cryst-l/leg             Chondrocalcinosis",
+	},
+	{
+		code: "71227  Pyrophosph cryst-ankle             Chondrocalcinosis",
+	},
+	{
+		code: "71228  Pyrophos cryst-site NEC            Chondrocalcinosis",
+	},
+	{
+		code: "71229  Pyrophos cryst-mult                Chondrocalcinosis",
+	},
+	{
+		code: "71230  Chondrocalcin NOS-unspec           Chondrocalcinosis",
+	},
+	{
+		code: "71231  Chondrocalcin NOS-shlder           Chondrocalcinosis",
+	},
+	{
+		code: "71232  Chondrocalcin NOS-up/arm           Chondrocalcinosis",
+	},
+	{
+		code: "71233  Chondrocalc NOS-forearm            Chondrocalcinosis",
+	},
+	{
+		code: "71234  Chondrocalcin NOS-hand             Chondrocalcinosis",
+	},
+	{
+		code: "71235  Chondrocalcin NOS-pelvis           Chondrocalcinosis",
+	},
+	{
+		code: "71236  Chondrocalcin NOS-l/leg            Chondrocalcinosis",
+	},
+	{
+		code: "71237  Chondrocalcin NOS-ankle            Chondrocalcinosis",
+	},
+	{
+		code: "71238  Chondrocalc NOS-oth site           Chondrocalcinosis",
+	},
+	{
+		code: "71239  Chondrocalcin NOS-mult             Chondrocalcinosis",
+	},
+	{
+		code: "71280  Cryst arthrop NEC-unspec           Other specified crystal arthropathies",
+	},
+	{
+		code: "71281  Cryst arthrop NEC-shlder           Other specified crystal arthropathies",
+	},
+	{
+		code: "71282  Cryst arthrop NEC-up/arm           Other specified crystal arthropathies",
+	},
+	{
+		code: "71283  Crys arthrop NEC-forearm           Other specified crystal arthropathies",
+	},
+	{
+		code: "71284  Cryst arthrop NEC-hand             Other specified crystal arthropathies",
+	},
+	{
+		code: "71285  Cryst arthrop NEC-pelvis           Other specified crystal arthropathies",
+	},
+	{
+		code: "71286  Cryst arthrop NEC-l/leg            Other specified crystal arthropathies",
+	},
+	{
+		code: "71287  Cryst arthrop NEC-ankle            Other specified crystal arthropathies",
+	},
+	{
+		code: "71288  Cry arthrop NEC-oth site           Other specified crystal arthropathies",
+	},
+	{
+		code: "71289  Cryst arthrop NEC-mult             Other specified crystal arthropathies",
+	},
+	{
+		code: "71290  Cryst arthrop NOS-unspec           Unspecified crystal arthropathy",
+	},
+	{
+		code: "71291  Cryst arthrop NOS-shldr            Unspecified crystal arthropathy",
+	},
+	{
+		code: "71292  Cryst arthrop NOS-up/arm           Unspecified crystal arthropathy",
+	},
+	{
+		code: "71293  Crys arthrop NOS-forearm           Unspecified crystal arthropathy",
+	},
+	{
+		code: "71294  Cryst arthrop NOS-hand             Unspecified crystal arthropathy",
+	},
+	{
+		code: "71295  Cryst arthrop NOS-pelvis           Unspecified crystal arthropathy",
+	},
+	{
+		code: "71296  Cryst arthrop NOS-l/leg            Unspecified crystal arthropathy",
+	},
+	{
+		code: "71297  Cryst arthrop NOS-ankle            Unspecified crystal arthropathy",
+	},
+	{
+		code: "71298  Cry arthrop NOS-oth site           Unspecified crystal arthropathy",
+	},
+	{
+		code: "71299  Cryst arthrop NOS-mult             Unspecified crystal arthropathy",
+	},
+	{
+		code: "7130   Arthrop w endocr/met dis           Arthropathy associated with other endocrine and metabolic disorders",
+	},
+	{
+		code: "7131   Arthrop w noninf GI dis            Arthropathy associated with gastrointestinal conditions other than infections",
+	},
+	{
+		code: "7132   Arthropath w hematol dis           Arthropathy associated with hematological disorders",
+	},
+	{
+		code: "7133   Arthropathy w skin dis             Arthropathy associated with dermatological disorders",
+	},
+	{
+		code: "7134   Arthropathy w resp dis             Arthropathy associated with respiratory disorders",
+	},
+	{
+		code: "7135   Arthropathy w nerve dis            Arthropathy associated with neurological disorders",
+	},
+	{
+		code: "7136   Arthrop w hypersen react           Arthropathy associated with hypersensitivity reaction",
+	},
+	{
+		code: "7137   Arthrop w system dis NEC           Other general diseases with articular involvement",
+	},
+	{
+		code: "7138   Arthrop w oth dis NEC              Arthropathy associated with other conditions classifiable elsewhere",
+	},
+	{
+		code: "7140   Rheumatoid arthritis               Rheumatoid arthritis",
+	},
+	{
+		code: "7141   Felty's syndrome                   Felty's syndrome",
+	},
+	{
+		code: "7142   Syst rheum arthritis NEC           Other rheumatoid arthritis with visceral or systemic involvement",
+	},
+	{
+		code: "71430  Juv rheum arthritis NOS            Polyarticular juvenile rheumatoid arthritis",
+	},
+	{
+		code: "71431  Polyart juv rheum arthr            Polyarticular juvenile rheumatoid arthritis",
+	},
+	{
+		code: "71432  Pauciart juv rheum arthr           Pauciarticular juvenile rheumatoid arthritis",
+	},
+	{
+		code: "71433  Monoart juv rheum arthr            Monoarticular juvenile rheumatoid arthritis",
+	},
+	{
+		code: "7144   Chr postrheum arthritis            Chronic postrheumatic arthropathy",
+	},
+	{
+		code: "71481  Rheumatoid lung                    Rheumatoid lung",
+	},
+	{
+		code: "71489  Inflamm polyarthrop NEC            Other specified inflammatory polyarthropathies",
+	},
+	{
+		code: "7149   Inflamm polyarthrop NOS            Unspecified inflammatory polyarthropathy",
+	},
+	{
+		code: "71500  General osteoarthrosis             Osteoarthrosis",
+	},
+	{
+		code: "71504  Gen osteoarthros-hand              Osteoarthrosis",
+	},
+	{
+		code: "71509  General osteoarthrosis             Osteoarthrosis",
+	},
+	{
+		code: "71510  Loc prim osteoart-unspec           Osteoarthrosis",
+	},
+	{
+		code: "71511  Loc prim osteoart-shlder           Osteoarthrosis",
+	},
+	{
+		code: "71512  Loc prim osteoart-up/arm           Osteoarthrosis",
+	},
+	{
+		code: "71513  Loc prim osteoart-forarm           Osteoarthrosis",
+	},
+	{
+		code: "71514  Loc prim osteoarth-hand            Osteoarthrosis",
+	},
+	{
+		code: "71515  Loc prim osteoart-pelvis           Osteoarthrosis",
+	},
+	{
+		code: "71516  Loc prim osteoart-l/leg            Osteoarthrosis",
+	},
+	{
+		code: "71517  Loc prim osteoarth-ankle           Osteoarthrosis",
+	},
+	{
+		code: "71518  Loc prim osteoarthr NEC            Osteoarthrosis",
+	},
+	{
+		code: "71520  Loc 2nd osteoarth-unspec           Osteoarthrosis",
+	},
+	{
+		code: "71521  Loc 2nd osteoarth-shlder           Osteoarthrosis",
+	},
+	{
+		code: "71522  Loc 2nd osteoarth-up/arm           Osteoarthrosis",
+	},
+	{
+		code: "71523  Loc 2nd osteoart-forearm           Osteoarthrosis",
+	},
+	{
+		code: "71524  Loc 2nd osteoarthro-hand           Osteoarthrosis",
+	},
+	{
+		code: "71525  Loc 2nd osteoarth-pelvis           Osteoarthrosis",
+	},
+	{
+		code: "71526  Loc 2nd osteoarthr-l/leg           Osteoarthrosis",
+	},
+	{
+		code: "71527  Loc 2nd osteoarthr-ankle           Osteoarthrosis",
+	},
+	{
+		code: "71528  Loc 2nd osteoarthros NEC           Osteoarthrosis",
+	},
+	{
+		code: "71530  Loc osteoarth NOS-unspec           Osteoarthrosis",
+	},
+	{
+		code: "71531  Loc osteoarth NOS-shlder           Osteoarthrosis",
+	},
+	{
+		code: "71532  Loc osteoarth NOS-up/arm           Osteoarthrosis",
+	},
+	{
+		code: "71533  Loc osteoart NOS-forearm           Osteoarthrosis",
+	},
+	{
+		code: "71534  Loc osteoarth NOS-hand             Osteoarthrosis",
+	},
+	{
+		code: "71535  Loc osteoarth NOS-pelvis           Osteoarthrosis",
+	},
+	{
+		code: "71536  Loc osteoarth NOS-l/leg            Osteoarthrosis",
+	},
+	{
+		code: "71537  Loc osteoarth NOS-ankle            Osteoarthrosis",
+	},
+	{
+		code: "71538  Loc osteoar NOS-site NEC           Osteoarthrosis",
+	},
+	{
+		code: "71580  Osteoarthrosis-mult site           Osteoarthrosis involving",
+	},
+	{
+		code: "71589  Osteoarthrosis-mult site           Osteoarthrosis involving",
+	},
+	{
+		code: "71590  Osteoarthros NOS-unspec            Osteoarthrosis",
+	},
+	{
+		code: "71591  Osteoarthros NOS-shlder            Osteoarthrosis",
+	},
+	{
+		code: "71592  Osteoarthros NOS-up/arm            Osteoarthrosis",
+	},
+	{
+		code: "71593  Osteoarthros NOS-forearm           Osteoarthrosis",
+	},
+	{
+		code: "71594  Osteoarthros NOS-hand              Osteoarthrosis",
+	},
+	{
+		code: "71595  Osteoarthros NOS-pelvis            Osteoarthrosis",
+	},
+	{
+		code: "71596  Osteoarthros NOS-l/leg             Osteoarthrosis",
+	},
+	{
+		code: "71597  Osteoarthros NOS-ankle             Osteoarthrosis",
+	},
+	{
+		code: "71598  Osteoarthro NOS-oth site           Osteoarthrosis",
+	},
+	{
+		code: "71600  Kaschin-beck dis-unspec            Kaschin-Beck disease",
+	},
+	{
+		code: "71601  Kaschin-beck dis-shlder            Kaschin-Beck disease",
+	},
+	{
+		code: "71602  Kaschin-beck dis-up/arm            Kaschin-Beck disease",
+	},
+	{
+		code: "71603  Kaschin-beck dis-forearm           Kaschin-Beck disease",
+	},
+	{
+		code: "71604  Kaschin-beck dis-hand              Kaschin-Beck disease",
+	},
+	{
+		code: "71605  Kaschin-beck dis-pelvis            Kaschin-Beck disease",
+	},
+	{
+		code: "71606  Kaschin-beck dis-l/leg             Kaschin-Beck disease",
+	},
+	{
+		code: "71607  Kaschin-beck dis-ankle             Kaschin-Beck disease",
+	},
+	{
+		code: "71608  Kaschin-beck dis NEC               Kaschin-Beck disease",
+	},
+	{
+		code: "71609  Kaschin-beck dis-mult              Kaschin-Beck disease",
+	},
+	{
+		code: "71610  Traum arthropathy-unspec           Traumatic arthropathy",
+	},
+	{
+		code: "71611  Traum arthropathy-shlder           Traumatic arthropathy",
+	},
+	{
+		code: "71612  Traum arthropathy-up/arm           Traumatic arthropathy",
+	},
+	{
+		code: "71613  Traum arthropath-forearm           Traumatic arthropathy",
+	},
+	{
+		code: "71614  Traum arthropathy-hand             Traumatic arthropathy",
+	},
+	{
+		code: "71615  Traum arthropathy-pelvis           Traumatic arthropathy",
+	},
+	{
+		code: "71616  Traum arthropathy-l/leg            Traumatic arthropathy",
+	},
+	{
+		code: "71617  Traum arthropathy-ankle            Traumatic arthropathy",
+	},
+	{
+		code: "71618  Traum arthropathy NEC              Traumatic arthropathy",
+	},
+	{
+		code: "71619  Traum arthropathy-mult             Traumatic arthropathy",
+	},
+	{
+		code: "71620  Allerg arthritis-unspec            Allergic arthritis",
+	},
+	{
+		code: "71621  Allerg arthritis-shlder            Allergic arthritis",
+	},
+	{
+		code: "71622  Allerg arthritis-up/arm            Allergic arthritis",
+	},
+	{
+		code: "71623  Allerg arthritis-forearm           Allergic arthritis",
+	},
+	{
+		code: "71624  Allerg arthritis-hand              Allergic arthritis",
+	},
+	{
+		code: "71625  Allerg arthritis-pelvis            Allergic arthritis",
+	},
+	{
+		code: "71626  Allerg arthritis-l/leg             Allergic arthritis",
+	},
+	{
+		code: "71627  Allerg arthritis-ankle             Allergic arthritis",
+	},
+	{
+		code: "71628  Allerg arthritis NEC               Allergic arthritis",
+	},
+	{
+		code: "71629  Allerg arthritis-mult              Allergic arthritis",
+	},
+	{
+		code: "71630  Climact arthritis-unspec           Climacteric arthritis",
+	},
+	{
+		code: "71631  Climact arthritis-shlder           Climacteric arthritis",
+	},
+	{
+		code: "71632  Climact arthritis-up/arm           Climacteric arthritis",
+	},
+	{
+		code: "71633  Climact arthrit-forearm            Climacteric arthritis",
+	},
+	{
+		code: "71634  Climact arthritis-hand             Climacteric arthritis",
+	},
+	{
+		code: "71635  Climact arthritis-pelvis           Climacteric arthritis",
+	},
+	{
+		code: "71636  Climact arthritis-l/leg            Climacteric arthritis",
+	},
+	{
+		code: "71637  Climact arthritis-ankle            Climacteric arthritis",
+	},
+	{
+		code: "71638  Climact arthritis NEC              Climacteric arthritis",
+	},
+	{
+		code: "71639  Climact arthritis-mult             Climacteric arthritis",
+	},
+	{
+		code: "71640  Trans arthropathy-unspec           Transient arthropathy",
+	},
+	{
+		code: "71641  Trans arthropathy-shlder           Transient arthropathy",
+	},
+	{
+		code: "71642  Trans arthropathy-up/arm           Transient arthropathy",
+	},
+	{
+		code: "71643  Trans arthropath-forearm           Transient arthropathy",
+	},
+	{
+		code: "71644  Trans arthropathy-hand             Transient arthropathy",
+	},
+	{
+		code: "71645  Trans arthropathy-pelvis           Transient arthropathy",
+	},
+	{
+		code: "71646  Trans arthropathy-l/leg            Transient arthropathy",
+	},
+	{
+		code: "71647  Trans arthropathy-ankle            Transient arthropathy",
+	},
+	{
+		code: "71648  Trans arthropathy NEC              Transient arthropathy",
+	},
+	{
+		code: "71649  Trans arthropathy-mult             Transient arthropathy",
+	},
+	{
+		code: "71650  Polyarthritis NOS-unspec           Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71651  Polyarthritis NOS-shlder           Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71652  Polyarthritis NOS-up/arm           Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71653  Polyarthrit NOS-forearm            Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71654  Polyarthritis NOS-hand             Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71655  Polyarthritis NOS-pelvis           Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71656  Polyarthritis NOS-l/leg            Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71657  Polyarthritis NOS-ankle            Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71658  Polyarthrit NOS-oth site           Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71659  Polyarthritis NOS-mult             Unspecified polyarthropathy or polyarthritis",
+	},
+	{
+		code: "71660  Monoarthritis NOS-unspec           Unspecified monoarthritis",
+	},
+	{
+		code: "71661  Monoarthritis NOS-shlder           Unspecified monoarthritis",
+	},
+	{
+		code: "71662  Monoarthritis NOS-up/arm           Unspecified monoarthritis",
+	},
+	{
+		code: "71663  Monoarthrit NOS-forearm            Unspecified monoarthritis",
+	},
+	{
+		code: "71664  Monoarthritis NOS-hand             Unspecified monoarthritis",
+	},
+	{
+		code: "71665  Monoarthritis NOS-pelvis           Unspecified monoarthritis",
+	},
+	{
+		code: "71666  Monoarthritis NOS-l/leg            Unspecified monoarthritis",
+	},
+	{
+		code: "71667  Monoarthritis NOS-ankle            Unspecified monoarthritis",
+	},
+	{
+		code: "71668  Monoarthrit NOS-oth site           Unspecified monoarthritis",
+	},
+	{
+		code: "71680  Arthropathy NEC-unspec             Other specified arthropathy",
+	},
+	{
+		code: "71681  Arthropathy NEC-shlder             Other specified arthropathy",
+	},
+	{
+		code: "71682  Arthropathy NEC-up/arm             Other specified arthropathy",
+	},
+	{
+		code: "71683  Arthropathy NEC-forearm            Other specified arthropathy",
+	},
+	{
+		code: "71684  Arthropathy NEC-hand               Other specified arthropathy",
+	},
+	{
+		code: "71685  Arthropathy NEC-pelvis             Other specified arthropathy",
+	},
+	{
+		code: "71686  Arthropathy NEC-l/leg              Other specified arthropathy",
+	},
+	{
+		code: "71687  Arthropathy NEC-ankle              Other specified arthropathy",
+	},
+	{
+		code: "71688  Arthropathy NEC-oth site           Other specified arthropathy",
+	},
+	{
+		code: "71689  Arthropathy NEC-mult               Other specified arthropathy",
+	},
+	{
+		code: "71690  Arthropathy NOS-unspec             Arthropathy",
+	},
+	{
+		code: "71691  Arthropathy NOS-shlder             Arthropathy",
+	},
+	{
+		code: "71692  Arthropathy NOS-up/arm             Arthropathy",
+	},
+	{
+		code: "71693  Arthropathy NOS-forearm            Arthropathy",
+	},
+	{
+		code: "71694  Arthropathy NOS-hand               Arthropathy",
+	},
+	{
+		code: "71695  Arthropathy NOS-pelvis             Arthropathy",
+	},
+	{
+		code: "71696  Arthropathy NOS-l/leg              Arthropathy",
+	},
+	{
+		code: "71697  Arthropathy NOS-ankle              Arthropathy",
+	},
+	{
+		code: "71698  Arthropathy NOS-oth site           Arthropathy",
+	},
+	{
+		code: "71699  Arthropathy NOS-mult               Arthropathy",
+	},
+	{
+		code: "7170   Old bucket tear med men            Old bucket handle tear of medial meniscus",
+	},
+	{
+		code: "7171   Derang ant med meniscus            Derangement of anterior horn of medial meniscus",
+	},
+	{
+		code: "7172   Derang post med meniscus           Derangement of posterior horn of medial meniscus",
+	},
+	{
+		code: "7173   Derang med meniscus NEC            Other and unspecified derangement of medial meniscus",
+	},
+	{
+		code: "71740  Derang lat meniscus NOS            Derangement of lateral meniscus",
+	},
+	{
+		code: "71741  Old bucket tear lat men            Bucket handle tear of lateral meniscus",
+	},
+	{
+		code: "71742  Derange ant lat meniscus           Derangement of anterior horn of lateral meniscus",
+	},
+	{
+		code: "71743  Derang post lat meniscus           Derangement of posterior horn of lateral meniscus",
+	},
+	{
+		code: "71749  Derang lat meniscus NEC            Other derangement of lateral meniscus",
+	},
+	{
+		code: "7175   Derangement meniscus NEC           Derangement of meniscus",
+	},
+	{
+		code: "7176   Loose body in knee                 Loose body in knee",
+	},
+	{
+		code: "7177   Chondromalacia patellae            Chondromalacia of patella",
+	},
+	{
+		code: "71781  Old disrupt lat collat             Old disruption of lateral collateral ligament",
+	},
+	{
+		code: "71782  Old disrupt med collat             Old disruption of medial collateral ligament",
+	},
+	{
+		code: "71783  Old disrupt ant cruciate           Old disruption of anterior cruciate ligament",
+	},
+	{
+		code: "71784  Old disrupt post cruciat           Old disruption of posterior cruciate ligament",
+	},
+	{
+		code: "71785  Old disrupt knee lig NEC           Old disruption of other ligaments of knee",
+	},
+	{
+		code: "71789  Int derangement knee NEC           Other internal derangement of knee",
+	},
+	{
+		code: "7179   Int derangement knee NOS           Unspecified internal derangement of knee",
+	},
+	{
+		code: "71800  Artic cartil dis-unspec            Articular cartilage disorder",
+	},
+	{
+		code: "71801  Artic cartil dis-shlder            Articular cartilage disorder",
+	},
+	{
+		code: "71802  Artic cartil dis-up/arm            Articular cartilage disorder",
+	},
+	{
+		code: "71803  Artic cartil dis-forearm           Articular cartilage disorder",
+	},
+	{
+		code: "71804  Artic cartil dis-hand              Articular cartilage disorder",
+	},
+	{
+		code: "71805  Artic cartil dis-pelvis            Articular cartilage disorder",
+	},
+	{
+		code: "71807  Artic cartil dis-ankle             Articular cartilage disorder",
+	},
+	{
+		code: "71808  Artic cartil dis-jt NEC            Articular cartilage disorder",
+	},
+	{
+		code: "71809  Artic cartil dis-mult jt           Articular cartilage disorder",
+	},
+	{
+		code: "71810  Loose body-unspec                  Loose body in joint",
+	},
+	{
+		code: "71811  Loose body-shlder                  Loose body in joint",
+	},
+	{
+		code: "71812  Loose body-up/arm                  Loose body in joint",
+	},
+	{
+		code: "71813  Loose body-forearm                 Loose body in joint",
+	},
+	{
+		code: "71814  Loose body-hand                    Loose body in joint",
+	},
+	{
+		code: "71815  Loose body-pelvis                  Loose body in joint",
+	},
+	{
+		code: "71817  Loose body-ankle                   Loose body in joint",
+	},
+	{
+		code: "71818  Loose body-joint NEC               Loose body in joint",
+	},
+	{
+		code: "71819  Loose body-mult joints             Loose body in joint",
+	},
+	{
+		code: "71820  Pathol dislocat-unspec             Pathological dislocation of joint",
+	},
+	{
+		code: "71821  Pathol dislocat-shlder             Pathological dislocation of joint",
+	},
+	{
+		code: "71822  Pathol dislocat-up/arm             Pathological dislocation of joint",
+	},
+	{
+		code: "71823  Pathol dislocat-forearm            Pathological dislocation of joint",
+	},
+	{
+		code: "71824  Pathol dislocat-hand               Pathological dislocation of joint",
+	},
+	{
+		code: "71825  Pathol dislocat-pelvis             Pathological dislocation of joint",
+	},
+	{
+		code: "71826  Pathol dislocat-l/leg              Pathological dislocation of joint",
+	},
+	{
+		code: "71827  Pathol dislocat-ankle              Pathological dislocation of joint",
+	},
+	{
+		code: "71828  Pathol dislocat-jt NEC             Pathological dislocation of joint",
+	},
+	{
+		code: "71829  Pathol dislocat-mult jts           Pathological dislocation of joint",
+	},
+	{
+		code: "71830  Recur dislocat-unspec              Recurrent dislocation of joint",
+	},
+	{
+		code: "71831  Recur dislocat-shlder              Recurrent dislocation of joint",
+	},
+	{
+		code: "71832  Recur dislocat-up/arm              Recurrent dislocation of joint",
+	},
+	{
+		code: "71833  Recur dislocat-forearm             Recurrent dislocation of joint",
+	},
+	{
+		code: "71834  Recur dislocat-hand                Recurrent dislocation of joint",
+	},
+	{
+		code: "71835  Recur dislocat-pelvis              Recurrent dislocation of joint",
+	},
+	{
+		code: "71836  Recur dislocat-l/leg               Recurrent dislocation of joint",
+	},
+	{
+		code: "71837  Recur dislocat-ankle               Recurrent dislocation of joint",
+	},
+	{
+		code: "71838  Recur dislocat-jt NEC              Recurrent dislocation of joint",
+	},
+	{
+		code: "71839  Recur dislocat-mult jts            Recurrent dislocation of joint",
+	},
+	{
+		code: "71840  Jt contracture-unspec              Contracture of joint",
+	},
+	{
+		code: "71841  Jt contracture-shlder              Contracture of joint",
+	},
+	{
+		code: "71842  Jt contracture-up/arm              Contracture of joint",
+	},
+	{
+		code: "71843  Jt contracture-forearm             Contracture of joint",
+	},
+	{
+		code: "71844  Jt contracture-hand                Contracture of joint",
+	},
+	{
+		code: "71845  Jt contracture-pelvis              Contracture of joint",
+	},
+	{
+		code: "71846  Jt contracture-l/leg               Contracture of joint",
+	},
+	{
+		code: "71847  Jt contracture-ankle               Contracture of joint",
+	},
+	{
+		code: "71848  Jt contracture-jt NEC              Contracture of joint",
+	},
+	{
+		code: "71849  Jt contracture-mult jts            Contracture of joint",
+	},
+	{
+		code: "71850  Ankylosis-unspec                   Ankylosis of joint",
+	},
+	{
+		code: "71851  Ankylosis-shoulder                 Ankylosis of joint",
+	},
+	{
+		code: "71852  Ankylosis-upper/arm                Ankylosis of joint",
+	},
+	{
+		code: "71853  Ankylosis-forearm                  Ankylosis of joint",
+	},
+	{
+		code: "71854  Ankylosis-hand                     Ankylosis of joint",
+	},
+	{
+		code: "71855  Ankylosis-pelvis                   Ankylosis of joint",
+	},
+	{
+		code: "71856  Ankylosis-lower/leg                Ankylosis of joint",
+	},
+	{
+		code: "71857  Ankylosis-ankle                    Ankylosis of joint",
+	},
+	{
+		code: "71858  Ankylosis-joint NEC                Ankylosis of joint",
+	},
+	{
+		code: "71859  Ankylosis-mult joints              Ankylosis of joint",
+	},
+	{
+		code: "71860  Protrusio acetab-unspec            Protrusio acetab-unspec",
+	},
+	{
+		code: "71865  Protrusio acetabuli NOS            Unspecified intrapelvic protrusion of acetabulum",
+	},
+	{
+		code: "71870  Dev dislocat jt site NOS           Developmental dislocation of joint",
+	},
+	{
+		code: "71871  Dev dislocat joint-shldr           Developmental dislocation of joint",
+	},
+	{
+		code: "71872  Dev dislocat jt-up/arm             Developmental dislocation of joint",
+	},
+	{
+		code: "71873  Dev dislocat jt-forearm            Developmental dislocation of joint",
+	},
+	{
+		code: "71874  Dev dislocat joint-hand            Developmental dislocation of joint",
+	},
+	{
+		code: "71875  Dev dis jt-pelvic/thigh            Developmental dislocation of joint",
+	},
+	{
+		code: "71876  Dev disloc jt-lower leg            Developmental dislocation of joint",
+	},
+	{
+		code: "71877  Dev disloc jt-ankle/foot           Developmental dislocation of joint",
+	},
+	{
+		code: "71878  Dev disloc jt-site NEC             Developmental dislocation of joint",
+	},
+	{
+		code: "71879  Dev disloc jt-mult sites           Developmental dislocation of joint",
+	},
+	{
+		code: "71880  Jt derangmnt NEC-unsp jt           Other joint derangement",
+	},
+	{
+		code: "71881  Jt derangment NEC-shlder           Other joint derangement",
+	},
+	{
+		code: "71882  Jt derangment NEC-up/arm           Other joint derangement",
+	},
+	{
+		code: "71883  Jt derangmnt NEC-forearm           Other joint derangement",
+	},
+	{
+		code: "71884  Jt derangement NEC-hand            Other joint derangement",
+	},
+	{
+		code: "71885  Jt derangment NEC-pelvis           Other joint derangement",
+	},
+	{
+		code: "71886  Jt derangement NEC-l/leg           Other joint derangement",
+	},
+	{
+		code: "71887  Jt derangement NEC-ankle           Other joint derangement",
+	},
+	{
+		code: "71888  Jt derangment NEC-oth jt           Other joint derangement",
+	},
+	{
+		code: "71889  Jt derangement NEC-mult            Other joint derangement",
+	},
+	{
+		code: "71890  Jt derangmnt NOS-unsp jt           Unspecified derangement of joint",
+	},
+	{
+		code: "71891  Jt derangment NOS-shlder           Unspecified derangement of joint",
+	},
+	{
+		code: "71892  Jt derangment NOS-up/arm           Unspecified derangement of joint",
+	},
+	{
+		code: "71893  Jt derangmnt NOS-forearm           Unspecified derangement of joint",
+	},
+	{
+		code: "71894  Jt derangement NOS-hand            Unspecified derangement of joint",
+	},
+	{
+		code: "71895  Jt derangment NOS-pelvis           Unspecified derangement of joint",
+	},
+	{
+		code: "71897  Jt derangement NOS-ankle           Unspecified derangement of joint",
+	},
+	{
+		code: "71898  Jt derangment NOS-oth jt           Unspecified derangement of joint",
+	},
+	{
+		code: "71899  Jt derangement NOS-mult            Unspecified derangement of joint",
+	},
+	{
+		code: "71900  Joint effusion-unspec              Effusion of joint",
+	},
+	{
+		code: "71901  Joint effusion-shlder              Effusion of joint",
+	},
+	{
+		code: "71902  Joint effusion-up/arm              Effusion of joint",
+	},
+	{
+		code: "71903  Joint effusion-forearm             Effusion of joint",
+	},
+	{
+		code: "71904  Joint effusion-hand                Effusion of joint",
+	},
+	{
+		code: "71905  Joint effusion-pelvis              Effusion of joint",
+	},
+	{
+		code: "71906  Joint effusion-l/leg               Effusion of joint",
+	},
+	{
+		code: "71907  Joint effusion-ankle               Effusion of joint",
+	},
+	{
+		code: "71908  Joint effusion-jt NEC              Effusion of joint",
+	},
+	{
+		code: "71909  Joint effusion-mult jts            Effusion of joint",
+	},
+	{
+		code: "71910  Hemarthrosis-unspec                Hemarthrosis",
+	},
+	{
+		code: "71911  Hemarthrosis-shlder                Hemarthrosis",
+	},
+	{
+		code: "71912  Hemarthrosis-up/arm                Hemarthrosis",
+	},
+	{
+		code: "71913  Hemarthrosis-forearm               Hemarthrosis",
+	},
+	{
+		code: "71914  Hemarthrosis-hand                  Hemarthrosis",
+	},
+	{
+		code: "71915  Hemarthrosis-pelvis                Hemarthrosis",
+	},
+	{
+		code: "71916  Hemarthrosis-l/leg                 Hemarthrosis",
+	},
+	{
+		code: "71917  Hemarthrosis-ankle                 Hemarthrosis",
+	},
+	{
+		code: "71918  Hemarthrosis-jt NEC                Hemarthrosis",
+	},
+	{
+		code: "71919  Hemarthrosis-mult jts              Hemarthrosis",
+	},
+	{
+		code: "71920  Villonod synovit-unspec            Villonodular synovitis",
+	},
+	{
+		code: "71921  Villonod synovit-shlder            Villonodular synovitis",
+	},
+	{
+		code: "71922  Villonod synovit-up/arm            Villonodular synovitis",
+	},
+	{
+		code: "71923  Villonod synovit-forearm           Villonodular synovitis",
+	},
+	{
+		code: "71924  Villonod synovit-hand              Villonodular synovitis",
+	},
+	{
+		code: "71925  Villonod synovit-pelvis            Villonodular synovitis",
+	},
+	{
+		code: "71926  Villonod synovit-l/leg             Villonodular synovitis",
+	},
+	{
+		code: "71927  Villonod synovit-ankle             Villonodular synovitis",
+	},
+	{
+		code: "71928  Villonod synovit-jt NEC            Villonodular synovitis",
+	},
+	{
+		code: "71929  Villonod synovit-mult jt           Villonodular synovitis",
+	},
+	{
+		code: "71930  Palindrom rheum-unspec             Palindromic rheumatism",
+	},
+	{
+		code: "71931  Palindrom rheum-shlder             Palindromic rheumatism",
+	},
+	{
+		code: "71932  Palindrom rheum-up/arm             Palindromic rheumatism",
+	},
+	{
+		code: "71933  Palindrom rheum-forearm            Palindromic rheumatism",
+	},
+	{
+		code: "71934  Palindrom rheum-hand               Palindromic rheumatism",
+	},
+	{
+		code: "71935  Palindrom rheum-pelvis             Palindromic rheumatism",
+	},
+	{
+		code: "71936  Palindrom rheum-l/leg              Palindromic rheumatism",
+	},
+	{
+		code: "71937  Palindrom rheum-ankle              Palindromic rheumatism",
+	},
+	{
+		code: "71938  Palindrom rheum-jt NEC             Palindromic rheumatism",
+	},
+	{
+		code: "71939  Palindrom rheum-mult jts           Palindromic rheumatism",
+	},
+	{
+		code: "71940  Joint pain-unspec                  Pain in joint",
+	},
+	{
+		code: "71941  Joint pain-shlder                  Pain in joint",
+	},
+	{
+		code: "71942  Joint pain-up/arm                  Pain in joint",
+	},
+	{
+		code: "71943  Joint pain-forearm                 Pain in joint",
+	},
+	{
+		code: "71944  Joint pain-hand                    Pain in joint",
+	},
+	{
+		code: "71945  Joint pain-pelvis                  Pain in joint",
+	},
+	{
+		code: "71946  Joint pain-l/leg                   Pain in joint",
+	},
+	{
+		code: "71947  Joint pain-ankle                   Pain in joint",
+	},
+	{
+		code: "71948  Joint pain-jt NEC                  Pain in joint",
+	},
+	{
+		code: "71949  Joint pain-mult jts                Pain in joint",
+	},
+	{
+		code: "71950  Jt stiffness NEC-unspec            Stiffness of joint",
+	},
+	{
+		code: "71951  Jt stiffness NEC-shlder            Stiffness of joint",
+	},
+	{
+		code: "71952  Jt stiffness NEC-up/arm            Stiffness of joint",
+	},
+	{
+		code: "71953  Jt stiffnes NEC-forearm            Stiffness of joint",
+	},
+	{
+		code: "71954  Jt stiffness NEC-hand              Stiffness of joint",
+	},
+	{
+		code: "71955  Jt stiffness NEC-pelvis            Stiffness of joint",
+	},
+	{
+		code: "71956  Jt stiffness NEC-l/leg             Stiffness of joint",
+	},
+	{
+		code: "71957  Jt stiffness NEC-ankle             Stiffness of joint",
+	},
+	{
+		code: "71958  Jt stiffness NEC-oth jt            Stiffness of joint",
+	},
+	{
+		code: "71959  Jt stiffness NEC-mult jt           Stiffness of joint",
+	},
+	{
+		code: "71960  Joint sympt NEC-unsp jt            Other symptoms referable to joint",
+	},
+	{
+		code: "71961  Joint symptom NEC-shlder           Other symptoms referable to joint",
+	},
+	{
+		code: "71962  Joint symptom NEC-up/arm           Other symptoms referable to joint",
+	},
+	{
+		code: "71963  Joint sympt NEC-forearm            Other symptoms referable to joint",
+	},
+	{
+		code: "71964  Joint symptom NEC-hand             Other symptoms referable to joint",
+	},
+	{
+		code: "71965  Joint symptom NEC-pelvis           Other symptoms referable to joint",
+	},
+	{
+		code: "71966  Joint symptom NEC-l/leg            Other symptoms referable to joint",
+	},
+	{
+		code: "71967  Joint symptom NEC-ankle            Other symptoms referable to joint",
+	},
+	{
+		code: "71968  Joint symptom NEC-oth jt           Other symptoms referable to joint",
+	},
+	{
+		code: "71969  Joint sympt NEC-mult jts           Other symptoms referable to joint",
+	},
+	{
+		code: "7197   Difficulty in walking              Difficulty in walking",
+	},
+	{
+		code: "71980  Joint dis NEC-unspec               Other specified disorders of joint",
+	},
+	{
+		code: "71981  Joint dis NEC-shlder               Other specified disorders of joint",
+	},
+	{
+		code: "71982  Joint dis NEC-up/arm               Other specified disorders of joint",
+	},
+	{
+		code: "71983  Joint dis NEC-forearm              Other specified disorders of joint",
+	},
+	{
+		code: "71984  Joint dis NEC-hand                 Other specified disorders of joint",
+	},
+	{
+		code: "71985  Joint dis NEC-pelvis               Other specified disorders of joint",
+	},
+	{
+		code: "71986  Joint dis NEC-l/leg                Other specified disorders of joint",
+	},
+	{
+		code: "71987  Joint dis NEC-ankle                Other specified disorders of joint",
+	},
+	{
+		code: "71988  Joint dis NEC-oth jt               Other specified disorders of joint",
+	},
+	{
+		code: "71989  Joint dis NEC-mult jts             Other specified disorders of joint",
+	},
+	{
+		code: "71990  Joint dis NOS-unspec jt            Unspecified disorder of joint",
+	},
+	{
+		code: "71991  Joint dis NOS-shlder               Unspecified disorder of joint",
+	},
+	{
+		code: "71992  Joint dis NOS-up/arm               Unspecified disorder of joint",
+	},
+	{
+		code: "71993  Joint dis NOS-forearm              Unspecified disorder of joint",
+	},
+	{
+		code: "71994  Joint dis NOS-hand                 Unspecified disorder of joint",
+	},
+	{
+		code: "71995  Joint dis NOS-pelvis               Unspecified disorder of joint",
+	},
+	{
+		code: "71996  Joint dis NOS-l/leg                Unspecified disorder of joint",
+	},
+	{
+		code: "71997  Joint dis NOS-ankle                Unspecified disorder of joint",
+	},
+	{
+		code: "71998  Joint dis NOS-oth jt               Unspecified disorder of joint",
+	},
+	{
+		code: "71999  Joint dis NOS-mult jts             Unspecified disorder of joint",
+	},
+	{
+		code: "7200   Ankylosing spondylitis             Ankylosing spondylitis",
+	},
+	{
+		code: "7201   Spinal enthesopathy                Spinal enthesopathy",
+	},
+	{
+		code: "7202   Sacroiliitis NEC                   Sacroiliitis",
+	},
+	{
+		code: "72081  Spondylopathy in oth dis           Inflammatory spondylopathies in diseases classified elsewhere",
+	},
+	{
+		code: "72089  Inflam spondylopathy NEC           Other inflammatory spondylopathies",
+	},
+	{
+		code: "7209   Inflam spondylopathy NOS           Unspecified inflammatory spondylopathy",
+	},
+	{
+		code: "7210   Cervical spondylosis               Cervical spondylosis without myelopathy",
+	},
+	{
+		code: "7211   Cerv spondyl w myelopath           Cervical spondylosis with myelopathy",
+	},
+	{
+		code: "7212   Thoracic spondylosis               Thoracic spondylosis without myelopathy",
+	},
+	{
+		code: "7213   Lumbosacral spondylosis            Lumbosacral spondylosis without myelopathy",
+	},
+	{
+		code: "72141  Spond compr thor sp cord           Spondylosis with myelopathy",
+	},
+	{
+		code: "72142  Spond compr lumb sp cord           Spondylosis with myelopathy",
+	},
+	{
+		code: "7215   Kissing spine                      Kissing spine",
+	},
+	{
+		code: "7216   Ankyl vert hyperostosis            Ankylosing vertebral hyperostosis",
+	},
+	{
+		code: "7217   Traumatic spondylopathy            Traumatic spondylopathy",
+	},
+	{
+		code: "7218   Spinal disorders NEC               Other allied disorders of spine",
+	},
+	{
+		code: "72190  Spondylos NOS w/o myelop           Spondylosis of unspecified site",
+	},
+	{
+		code: "72191  Spondylosis NOS w myelop           Spondylosis of unspecified site",
+	},
+	{
+		code: "7220   Cervical disc displacmnt           Displacement of cervical intervertebral disc without myelopathy",
+	},
+	{
+		code: "72210  Lumbar disc displacement           Displacement of lumbar intervertebral disc without myelopathy",
+	},
+	{
+		code: "72211  Thoracic disc displacmnt           Displacement of thoracic intervertebral disc without myelopathy",
+	},
+	{
+		code: "7222   Disc displacement NOS              Displacement of intervertebral disc",
+	},
+	{
+		code: "72230  Schmorl's nodes NOS                Schmorl's nodes",
+	},
+	{
+		code: "72231  Schmorls node-thoracic             Schmorl's nodes",
+	},
+	{
+		code: "72232  Schmorls node-lumbar               Schmorl's nodes",
+	},
+	{
+		code: "72239  Schmorls node-region NEC           Schmorl's nodes",
+	},
+	{
+		code: "7224   Cervical disc degen                Degeneration of cervical intervertebral disc",
+	},
+	{
+		code: "72251  Thoracic disc degen                Degeneration of thoracic or thoracolumbar intervertebral disc",
+	},
+	{
+		code: "72252  Lumb/lumbosac disc degen           Degeneration of lumbar or lumbosacral intervertebral disc",
+	},
+	{
+		code: "7226   Disc degeneration NOS              Degeneration of intervertebral disc",
+	},
+	{
+		code: "72270  Disc dis w myelopath NOS           Intervertebral disc disorder with myelopathy",
+	},
+	{
+		code: "72271  Cerv disc dis w myelopat           Intervertebral disc disorder with myelopathy",
+	},
+	{
+		code: "72272  Thor disc dis w myelopat           Intervertebral disc disorder with myelopathy",
+	},
+	{
+		code: "72273  Lumb disc dis w myelopat           Intervertebral disc disorder with myelopathy",
+	},
+	{
+		code: "72280  Postlaminectomy synd NOS           Postlaminectomy syndrome",
+	},
+	{
+		code: "72281  Postlaminect synd-cerv             Postlaminectomy syndrome",
+	},
+	{
+		code: "72282  Postlaminect synd-thorac           Postlaminectomy syndrome",
+	},
+	{
+		code: "72283  Postlaminect synd-lumbar           Postlaminectomy syndrome",
+	},
+	{
+		code: "72290  Disc dis NEC/NOS-unspec            Other and unspecified disc disorder",
+	},
+	{
+		code: "72291  Disc dis NEC/NOS-cerv              Other and unspecified disc disorder",
+	},
+	{
+		code: "72292  Disc dis NEC/NOS-thorac            Other and unspecified disc disorder",
+	},
+	{
+		code: "72293  Disc dis NEC/NOS-lumbar            Other and unspecified disc disorder",
+	},
+	{
+		code: "7230   Cervical spinal stenosis           Spinal stenosis in cervical region",
+	},
+	{
+		code: "7231   Cervicalgia                        Cervicalgia",
+	},
+	{
+		code: "7232   Cervicocranial syndrome            Cervicocranial syndrome",
+	},
+	{
+		code: "7233   Cervicobrachial syndrome           Cervicobrachial syndrome (diffuse)",
+	},
+	{
+		code: "7234   Brachial neuritis NOS              Brachial neuritis or radiculitis NOS",
+	},
+	{
+		code: "7235   Torticollis NOS                    Torticollis",
+	},
+	{
+		code: "7236   Panniculitis of neck               Panniculitis specified as affecting neck",
+	},
+	{
+		code: "7237   Ossification cerv lig              Ossification of posterior longitudinal ligament in cervical region",
+	},
+	{
+		code: "7238   Cervical syndrome NEC              Other syndromes affecting cervical region",
+	},
+	{
+		code: "7239   Neck disorder/sympt NOS            Unspecified musculoskeletal disorders and symptoms referable to neck",
+	},
+	{
+		code: "72400  Spinal stenosis NOS                Spinal stenosis",
+	},
+	{
+		code: "72401  Spinal stenosis-thoracic           Spinal stenosis",
+	},
+	{
+		code: "72402  Spin sten",
+	},
+	{
+		code: "72403  Spin sten",
+	},
+	{
+		code: "72409  Spinal stenosis-oth site           Spinal stenosis",
+	},
+	{
+		code: "7241   Pain in thoracic spine             Pain in thoracic spine",
+	},
+	{
+		code: "7242   Lumbago                            Lumbago",
+	},
+	{
+		code: "7243   Sciatica                           Sciatica",
+	},
+	{
+		code: "7244   Lumbosacral neuritis NOS           Thoracic or lumbosacral neuritis or radiculitis",
+	},
+	{
+		code: "7245   Backache NOS                       Backache",
+	},
+	{
+		code: "7246   Disorders of sacrum                Disorders of sacrum",
+	},
+	{
+		code: "72470  Disorder of coccyx NOS             Unspecified disorder of coccyx",
+	},
+	{
+		code: "72471  Hypermobility of coccyx            Hypermobility of coccyx",
+	},
+	{
+		code: "72479  Disorder of coccyx NEC             Other disorders of coccyx",
+	},
+	{
+		code: "7248   Other back symptoms                Other symptoms referable to back",
+	},
+	{
+		code: "7249   Back disorder NOS                  Other unspecified back disorders",
+	},
+	{
+		code: "725    Polymyalgia rheumatica             Polymyalgia rheumatica",
+	},
+	{
+		code: "7260   Adhesive capsulit shlder           Adhesive capsulitis of shoulder",
+	},
+	{
+		code: "72610  Rotator cuff synd NOS              Disorders of bursae and tendons in shoulder region",
+	},
+	{
+		code: "72611  Calcif tendinitis shlder           Calcifying tendinitis of shoulder",
+	},
+	{
+		code: "72612  Bicipital tenosynovitis            Bicipital tenosynovitis",
+	},
+	{
+		code: "72613  Partial tear rotatr cuff           Partial tear of rotator cuff",
+	},
+	{
+		code: "72619  Rotator cuff dis NEC               Other specified disorders of bursae and tendons in shoulder region",
+	},
+	{
+		code: "7262   Shoulder region dis NEC            Other affections of shoulder region",
+	},
+	{
+		code: "72630  Elbow enthesopathy NOS             Enthesopathy of elbow",
+	},
+	{
+		code: "72631  Medial epicondylitis               Medial epicondylitis",
+	},
+	{
+		code: "72632  Lateral epicondylitis              Lateral epicondylitis",
+	},
+	{
+		code: "72633  Olecranon bursitis                 Olecranon bursitis",
+	},
+	{
+		code: "72639  Elbow enthesopathy NEC             Other enthesopathy of elbow region",
+	},
+	{
+		code: "7264   Enthesopathy of wrist              Enthesopathy of wrist and carpus",
+	},
+	{
+		code: "7265   Enthesopathy of hip                Enthesopathy of hip region",
+	},
+	{
+		code: "72660  Enthesopathy of knee NOS           Enthesopathy of knee",
+	},
+	{
+		code: "72661  Pes anserinus tendinitis           Pes anserinus tendinitis or bursitis",
+	},
+	{
+		code: "72662  Tibial coll lig bursitis           Tibial collateral ligament bursitis",
+	},
+	{
+		code: "72663  Fibula coll lig bursitis           Fibular collateral ligament bursitis",
+	},
+	{
+		code: "72664  Patellar tendinitis                Patellar tendinitis",
+	},
+	{
+		code: "72665  Prepatellar bursitis               Prepatellar bursitis",
+	},
+	{
+		code: "72669  Enthesopathy of knee NEC           Other enthesopathy of knee",
+	},
+	{
+		code: "72670  Ankle enthesopathy NOS             Enthesopathy of ankle and tarsus",
+	},
+	{
+		code: "72671  Achilles tendinitis                Achilles bursitis or tendinitis",
+	},
+	{
+		code: "72672  Tibialis tendinitis                Tibialis tendinitis",
+	},
+	{
+		code: "72673  Calcaneal spur                     Calcaneal spur",
+	},
+	{
+		code: "72679  Ankle enthesopathy NEC             Other enthesopathy of ankle and tarsus",
+	},
+	{
+		code: "7268   Periph enthesopathy NEC            Other peripheral enthesopathies",
+	},
+	{
+		code: "72690  Enthesopathy",
+	},
+	{
+		code: "72691  Exostosis",
+	},
+	{
+		code: "72700  Synovitis NOS                      Synovitis and tenosynovitis",
+	},
+	{
+		code: "72701  Synovitis in oth dis               Synovitis and tenosynovitis in diseases classified elsewhere",
+	},
+	{
+		code: "72702  Giant cell tumor tendon            Giant cell tumor of tendon sheath",
+	},
+	{
+		code: "72703  Trigger finger                     Trigger finger (acquired)",
+	},
+	{
+		code: "72704  Radial styloid tenosynov           Radial styloid tenosynovitis",
+	},
+	{
+		code: "72705  Tenosynov hand/wrist NEC           Other tenosynovitis of hand and wrist",
+	},
+	{
+		code: "72706  Tenosynovitis foot/ankle           Tenosynovitis of foot and ankle",
+	},
+	{
+		code: "72709  Synovitis NEC                      Other synovitis and tenosynovitis",
+	},
+	{
+		code: "7271   Bunion                             Bunion",
+	},
+	{
+		code: "7272   Occupational bursitis              Specific bursitides often of occupational origin",
+	},
+	{
+		code: "7273   Bursitis NEC                       Other bursitis",
+	},
+	{
+		code: "72740  Synovial cyst NOS                  Synovial cyst",
+	},
+	{
+		code: "72741  Ganglion of joint                  Ganglion of joint",
+	},
+	{
+		code: "72742  Ganglion of tendon                 Ganglion of tendon sheath",
+	},
+	{
+		code: "72743  Ganglion NOS                       Ganglion",
+	},
+	{
+		code: "72749  Bursal cyst NEC                    Other ganglion and cyst of synovium",
+	},
+	{
+		code: "72750  Rupture of synovium NOS            Rupture of synovium",
+	},
+	{
+		code: "72751  Popliteal synovial cyst            Synovial cyst of popliteal space",
+	},
+	{
+		code: "72759  Rupture of synovium NEC            Other rupture of synovium",
+	},
+	{
+		code: "72760  Nontraum tendon rupt NOS           Nontraumatic rupture of unspecified tendon",
+	},
+	{
+		code: "72761  Rotator cuff rupture               Complete rupture of rotator cuff",
+	},
+	{
+		code: "72762  Biceps tendon rupture              Nontraumatic rupture of tendons of biceps (long head)",
+	},
+	{
+		code: "72763  Rupt exten tendon hand             Nontraumatic rupture of extensor tendons of hand and wrist",
+	},
+	{
+		code: "72764  Rupt flexor tendon hand            Nontraumatic rupture of flexor tendons of hand and wrist",
+	},
+	{
+		code: "72765  Rupture quadricep tendon           Nontraumatic rupture of quadriceps tendon",
+	},
+	{
+		code: "72766  Rupture patellar tendon            Nontraumatic rupture of patellar tendon",
+	},
+	{
+		code: "72767  Rupture achilles tendon            Nontraumatic rupture of achilles tendon",
+	},
+	{
+		code: "72768  Rupture tendon foot NEC            Nontraumatic rupture of other tendons of foot and ankle",
+	},
+	{
+		code: "72769  Nontraum tendon rupt NEC           Nontraumatic rupture of other tendon",
+	},
+	{
+		code: "72781  Contracture of tendon              Contracture of tendon (sheath)",
+	},
+	{
+		code: "72782  Calcium deposit tendon             Calcium deposits in tendon and bursa",
+	},
+	{
+		code: "72783  Plica syndrome                     Plica syndrome",
+	},
+	{
+		code: "72789  Synov/tend/bursa dis NEC           Other disorders of synovium",
+	},
+	{
+		code: "7279   Synov/tend/bursa dis NOS           Unspecified disorder of synovium",
+	},
+	{
+		code: "7280   Infective myositis                 Infective myositis",
+	},
+	{
+		code: "72810  Muscular calcificat NOS            Calcification and ossification",
+	},
+	{
+		code: "72811  Prog myositis ossificans           Progressive myositis ossificans",
+	},
+	{
+		code: "72812  Traum myositis ossifican           Traumatic myositis ossificans",
+	},
+	{
+		code: "72813  Postop heterotopic calc            Postoperative heterotopic calcification",
+	},
+	{
+		code: "72819  Muscular calcificat NEC            Other muscular calcification and ossification",
+	},
+	{
+		code: "7282   Musc disuse atrophy NEC            Muscular wasting and disuse atrophy",
+	},
+	{
+		code: "7283   Muscle disorders NEC               Other specific muscle disorders",
+	},
+	{
+		code: "7284   Laxity of ligament                 Laxity of ligament",
+	},
+	{
+		code: "7285   Hypermobility syndrome             Hypermobility syndrome",
+	},
+	{
+		code: "7286   Contracted palmar fascia           Contracture of palmar fascia",
+	},
+	{
+		code: "72871  Plantar fibromatosis               Plantar fascial fibromatosis",
+	},
+	{
+		code: "72879  Fibromatoses NEC                   Other fibromatoses of muscle",
+	},
+	{
+		code: "72881  Interstitial myositis              Interstitial myositis",
+	},
+	{
+		code: "72882  FB granuloma of muscle             Foreign body granuloma of muscle",
+	},
+	{
+		code: "72883  Nontraum muscle rupture            Rupture of muscle",
+	},
+	{
+		code: "72884  Diastasis of muscle                Diastasis of muscle",
+	},
+	{
+		code: "72885  Spasm of muscle                    Spasm of muscle",
+	},
+	{
+		code: "72886  Necrotizing fasciitis              Necrotizing fasciitis",
+	},
+	{
+		code: "72887  Muscle weakness-general            Muscle weakness (generalized)",
+	},
+	{
+		code: "72888  Rhabdomyolysis                     Rhabdomyolysis",
+	},
+	{
+		code: "72889  Muscle/ligament dis NEC            Other disorders of muscle",
+	},
+	{
+		code: "7289   Muscle/ligament dis NOS            Unspecified disorder of muscle",
+	},
+	{
+		code: "7290   Rheumatism NOS                     Rheumatism",
+	},
+	{
+		code: "7291   Myalgia and myositis NOS           Myalgia and myositis",
+	},
+	{
+		code: "7292   Neuralgia/neuritis NOS             Neuralgia",
+	},
+	{
+		code: "72930  Panniculitis",
+	},
+	{
+		code: "72931  Hypertrophy of fat pad             Hypertrophy of fat pad",
+	},
+	{
+		code: "72939  Panniculitis",
+	},
+	{
+		code: "7294   Fasciitis NOS                      Fasciitis",
+	},
+	{
+		code: "7295   Pain in limb                       Pain in limb",
+	},
+	{
+		code: "7296   Old FB in soft tissue              Residual foreign body in soft tissue",
+	},
+	{
+		code: "72971  Nontraum comp syn-up ext           Nontraumatic compartment syndrome of upper extremity",
+	},
+	{
+		code: "72972  Nontraum comp syn-low ex           Nontraumatic compartment syndrome of lower extremity",
+	},
+	{
+		code: "72973  Nontrauma comp syn-abd             Nontraumatic compartment syndrome of abdomen",
+	},
+	{
+		code: "72979  Nontrauma comp syn NEC             Nontraumatic compartment syndrome of other sites",
+	},
+	{
+		code: "72981  Swelling of limb                   Swelling of limb",
+	},
+	{
+		code: "72982  Cramp in limb                      Cramp of limb",
+	},
+	{
+		code: "72989  Muscskel sympt limb NEC            Other musculoskeletal symptoms referable to limbs",
+	},
+	{
+		code: "7299   SOFT TISSUE DIS NEC/NOS            SOFT TISSUE DIS NEC/NOS",
+	},
+	{
+		code: "72990  Soft tissue disord NOS             Disorders of soft tissue",
+	},
+	{
+		code: "72991  Post-traumatic seroma              Post-traumatic seroma",
+	},
+	{
+		code: "72992  Nontrauma hema soft tiss           Nontraumatic hematoma of soft tissue",
+	},
+	{
+		code: "72999  Soft tissue disorder NEC           Other disorders of soft tissue",
+	},
+	{
+		code: "73000  Ac osteomyelitis-unspec            Acute osteomyelitis",
+	},
+	{
+		code: "73001  Ac osteomyelitis-shlder            Acute osteomyelitis",
+	},
+	{
+		code: "73002  Ac osteomyelitis-up/arm            Acute osteomyelitis",
+	},
+	{
+		code: "73003  Ac osteomyelitis-forearm           Acute osteomyelitis",
+	},
+	{
+		code: "73004  Ac osteomyelitis-hand              Acute osteomyelitis",
+	},
+	{
+		code: "73005  Ac osteomyelitis-pelvis            Acute osteomyelitis",
+	},
+	{
+		code: "73006  Ac osteomyelitis-l/leg             Acute osteomyelitis",
+	},
+	{
+		code: "73007  Ac osteomyelitis-ankle             Acute osteomyelitis",
+	},
+	{
+		code: "73008  Ac osteomyelitis NEC               Acute osteomyelitis",
+	},
+	{
+		code: "73009  Ac osteomyelitis-mult              Acute osteomyelitis",
+	},
+	{
+		code: "73010  Chr osteomyelitis-unsp             Chronic osteomyelitis",
+	},
+	{
+		code: "73011  Chr osteomyelit-shlder             Chronic osteomyelitis",
+	},
+	{
+		code: "73012  Chr osteomyelit-up/arm             Chronic osteomyelitis",
+	},
+	{
+		code: "73013  Chr osteomyelit-forearm            Chronic osteomyelitis",
+	},
+	{
+		code: "73014  Chr osteomyelit-hand               Chronic osteomyelitis",
+	},
+	{
+		code: "73015  Chr osteomyelit-pelvis             Chronic osteomyelitis",
+	},
+	{
+		code: "73016  Chr osteomyelit-l/leg              Chronic osteomyelitis",
+	},
+	{
+		code: "73017  Chr osteomyelit-ankle              Chronic osteomyelitis",
+	},
+	{
+		code: "73018  Chr osteomyelit NEC                Chronic osteomyelitis",
+	},
+	{
+		code: "73019  Chr osteomyelit-mult               Chronic osteomyelitis",
+	},
+	{
+		code: "73020  Osteomyelitis NOS-unspec           Unspecified osteomyelitis",
+	},
+	{
+		code: "73021  Osteomyelitis NOS-shlder           Unspecified osteomyelitis",
+	},
+	{
+		code: "73022  Osteomyelitis NOS-up/arm           Unspecified osteomyelitis",
+	},
+	{
+		code: "73023  Osteomyelit NOS-forearm            Unspecified osteomyelitis",
+	},
+	{
+		code: "73024  Osteomyelitis NOS-hand             Unspecified osteomyelitis",
+	},
+	{
+		code: "73025  Osteomyelitis NOS-pelvis           Unspecified osteomyelitis",
+	},
+	{
+		code: "73026  Osteomyelitis NOS-l/leg            Unspecified osteomyelitis",
+	},
+	{
+		code: "73027  Osteomyelitis NOS-ankle            Unspecified osteomyelitis",
+	},
+	{
+		code: "73028  Osteomyelit NOS-oth site           Unspecified osteomyelitis",
+	},
+	{
+		code: "73029  Osteomyelitis NOS-mult             Unspecified osteomyelitis",
+	},
+	{
+		code: "73030  Periostitis-unspec                 Periostitis",
+	},
+	{
+		code: "73031  Periostitis-shlder                 Periostitis",
+	},
+	{
+		code: "73032  Periostitis-up/arm                 Periostitis",
+	},
+	{
+		code: "73033  Periostitis-forearm                Periostitis",
+	},
+	{
+		code: "73034  Periostitis-hand                   Periostitis",
+	},
+	{
+		code: "73035  Periostitis-pelvis                 Periostitis",
+	},
+	{
+		code: "73036  Periostitis-l/leg                  Periostitis",
+	},
+	{
+		code: "73037  Periostitis-ankle                  Periostitis",
+	},
+	{
+		code: "73038  Periostitis NEC                    Periostitis",
+	},
+	{
+		code: "73039  Periostitis-mult                   Periostitis",
+	},
+	{
+		code: "73070  Polio osteopathy-unspec            Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73071  Polio osteopathy-shlder            Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73072  Polio osteopathy-up/arm            Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73073  Polio osteopathy-forearm           Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73074  Polio osteopathy-hand              Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73075  Polio osteopathy-pelvis            Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73076  Polio osteopathy-l/leg             Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73077  Polio osteopathy-ankle             Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73078  Polio osteopathy NEC               Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73079  Polio osteopathy-mult              Osteopathy resulting from poliomyelitis",
+	},
+	{
+		code: "73080  Bone infect NEC-unspec             Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73081  Bone infect NEC-shlder             Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73082  Bone infect NEC-up/arm             Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73083  Bone infect NEC-forearm            Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73084  Bone infect NEC-hand               Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73085  Bone infect NEC-pelvis             Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73086  Bone infect NEC-l/leg              Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73087  Bone infect NEC-ankle              Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73088  Bone infect NEC-oth site           Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73089  Bone infect NEC-mult               Other infections involving bone in diseases classified elsewhere",
+	},
+	{
+		code: "73090  Bone infec NOS-unsp site           Unspecified infection of bone",
+	},
+	{
+		code: "73091  Bone infect NOS-shlder             Unspecified infection of bone",
+	},
+	{
+		code: "73092  Bone infect NOS-up/arm             Unspecified infection of bone",
+	},
+	{
+		code: "73093  Bone infect NOS-forearm            Unspecified infection of bone",
+	},
+	{
+		code: "73094  Bone infect NOS-hand               Unspecified infection of bone",
+	},
+	{
+		code: "73095  Bone infect NOS-pelvis             Unspecified infection of bone",
+	},
+	{
+		code: "73096  Bone infect NOS-l/leg              Unspecified infection of bone",
+	},
+	{
+		code: "73097  Bone infect NOS-ankle              Unspecified infection of bone",
+	},
+	{
+		code: "73098  Bone infect NOS-oth site           Unspecified infection of bone",
+	},
+	{
+		code: "73099  Bone infect NOS-mult               Unspecified infection of bone",
+	},
+	{
+		code: "7310   Osteitis deformans NOS             Osteitis deformans without mention of bone tumor",
+	},
+	{
+		code: "7311   Osteitis def in oth dis            Osteitis deformans in diseases classified elsewhere",
+	},
+	{
+		code: "7312   Hypertroph osteoarthrop            Hypertrophic pulmonary osteoarthropathy",
+	},
+	{
+		code: "7313   Major osseous defects              Major osseous defects",
+	},
+	{
+		code: "7318   Bone involv in oth dis             Other bone involvement in diseases classified elsewhere",
+	},
+	{
+		code: "7320   Juv osteochondros spine            Juvenile osteochondrosis of spine",
+	},
+	{
+		code: "7321   Juv osteochondros pelvis           Juvenile osteochondrosis of hip and pelvis",
+	},
+	{
+		code: "7322   Femoral epiphysiolysis             Nontraumatic slipped upper femoral epiphysis",
+	},
+	{
+		code: "7323   Juv osteochondrosis arm            Juvenile osteochondrosis of upper extremity",
+	},
+	{
+		code: "7324   Juv osteochondrosis leg            Juvenile osteochondrosis of lower extremity",
+	},
+	{
+		code: "7325   Juv osteochondrosis foot           Juvenile osteochondrosis of foot",
+	},
+	{
+		code: "7326   Juv osteochondrosis NEC            Other juvenile osteochondrosis",
+	},
+	{
+		code: "7327   Osteochondrit dissecans            Osteochondritis dissecans",
+	},
+	{
+		code: "7328   Osteochondropathy NEC              Other specified forms of osteochondropathy",
+	},
+	{
+		code: "7329   Osteochondropathy NOS              Unspecified osteochondropathy",
+	},
+	{
+		code: "73300  Osteoporosis NOS                   Osteoporosis",
+	},
+	{
+		code: "73301  Senile osteoporosis                Senile osteoporosis",
+	},
+	{
+		code: "73302  Idiopathic osteoporosis            Idiopathic osteoporosis",
+	},
+	{
+		code: "73303  Disuse osteoporosis                Disuse osteoporosis",
+	},
+	{
+		code: "73309  Osteoporosis NEC                   Other osteoporosis",
+	},
+	{
+		code: "73310  Path fx unspecified site           Pathologic fracture",
+	},
+	{
+		code: "73311  Path fx humerus                    Pathologic fracture of humerus",
+	},
+	{
+		code: "73312  Path fx dstl radius ulna           Pathologic fracture of distal radius and ulna",
+	},
+	{
+		code: "73313  Path fx vertebrae                  Pathologic fracture of vertebrae",
+	},
+	{
+		code: "73314  Path fx neck of femur              Pathologic fracture of neck of femur",
+	},
+	{
+		code: "73315  Path fx oth spcf prt fmr           Pathologic fracture of other specified part of femur",
+	},
+	{
+		code: "73316  Path fx tibia fibula               Pathologic fracture of tibia or fibula",
+	},
+	{
+		code: "73319  Path fx oth specif site            Pathologic fracture of other specified site",
+	},
+	{
+		code: "73320  Cyst of bone NOS                   Cyst of bone (localized)",
+	},
+	{
+		code: "73321  Solitary bone cyst                 Solitary bone cyst",
+	},
+	{
+		code: "73322  Aneurysmal bone cyst               Aneurysmal bone cyst",
+	},
+	{
+		code: "73329  Bone cyst NEC                      Other bone cyst",
+	},
+	{
+		code: "7333   Hyperostosis of skull              Hyperostosis of skull",
+	},
+	{
+		code: "73340  Asept necrosis bone NOS            Aseptic necrosis of bone",
+	},
+	{
+		code: "73341  Aseptic necrosis humerus           Aseptic necrosis of head of humerus",
+	},
+	{
+		code: "73342  Aseptic necrosis femur             Aseptic necrosis of head and neck of femur",
+	},
+	{
+		code: "73343  Asept necro femur condyl           Aseptic necrosis of medial femoral condyle",
+	},
+	{
+		code: "73344  Aseptic necrosis talus             Aseptic necrosis of talus",
+	},
+	{
+		code: "73345  Aseptic necrosis of jaw            Aseptic necrosis of bone",
+	},
+	{
+		code: "73349  Asept necrosis bone NEC            Aseptic necrosis of bone",
+	},
+	{
+		code: "7335   Osteitis condensans                Osteitis condensans",
+	},
+	{
+		code: "7336   Tietze's disease                   Tietze's disease",
+	},
+	{
+		code: "7337   Algoneurodystrophy                 Algoneurodystrophy",
+	},
+	{
+		code: "73381  Malunion of fracture               Malunion of fracture",
+	},
+	{
+		code: "73382  Nonunion of fracture               Nonunion of fracture",
+	},
+	{
+		code: "73390  Bone & cartilage dis NOS           Disorder of bone and cartilage",
+	},
+	{
+		code: "73391  Arrest of bone growth              Arrest of bone development or growth",
+	},
+	{
+		code: "73392  Chondromalacia                     Chondromalacia",
+	},
+	{
+		code: "73393  Stress fx tibia/fibula             Stress fracture of tibia or fibula",
+	},
+	{
+		code: "73394  Stress fx metatarsals              Stress fracture of the metatarsals",
+	},
+	{
+		code: "73395  Stress fracture bone NEC           Stress fracture of other bone",
+	},
+	{
+		code: "73396  Stress fx femoral neck             Stress fracture of femoral neck",
+	},
+	{
+		code: "73397  Stress fx shaft femur              Stress fracture of shaft of femur",
+	},
+	{
+		code: "73398  Stress fx pelvis                   Stress fracture of pelvis",
+	},
+	{
+		code: "73399  Bone & cartilage dis NEC           Other disorders of bone and cartilage",
+	},
+	{
+		code: "734    Flat foot                          Flat foot",
+	},
+	{
+		code: "7350   Hallux valgus                      Hallux valgus (acquired)",
+	},
+	{
+		code: "7351   Hallux varus                       Hallux varus (acquired)",
+	},
+	{
+		code: "7352   Hallux rigidus                     Hallux rigidus",
+	},
+	{
+		code: "7353   Hallux malleus                     Hallux malleus",
+	},
+	{
+		code: "7354   Other hammer toe                   Other hammer toe (acquired)",
+	},
+	{
+		code: "7355   Claw toe                           Claw toe (acquired)",
+	},
+	{
+		code: "7358   Acq deformity of toe NEC           Other acquired deformities of toe",
+	},
+	{
+		code: "7359   Acq deformity of toe NOS           Unspecified acquired deformity of toe",
+	},
+	{
+		code: "73600  Forearm deformity NOS              Unspecified deformity of forearm",
+	},
+	{
+		code: "73601  Cubitus valgus                     Cubitus valgus (acquired)",
+	},
+	{
+		code: "73602  Cubitus varus                      Cubitus varus (acquired)",
+	},
+	{
+		code: "73603  Valgus deformity wrist             Valgus deformity of wrist (acquired)",
+	},
+	{
+		code: "73604  Varus deformity wrist              Varus deformity of wrist (acquired)",
+	},
+	{
+		code: "73605  Wrist drop                         Wrist drop (acquired)",
+	},
+	{
+		code: "73606  Claw hand                          Claw hand (acquired)",
+	},
+	{
+		code: "73607  Club hand",
+	},
+	{
+		code: "73609  Forearm deformity NEC              Other acquired deformities of forearm",
+	},
+	{
+		code: "7361   Mallet finger                      Mallet finger",
+	},
+	{
+		code: "73620  Acq finger deformity NOS           Unspecified deformity of finger",
+	},
+	{
+		code: "73621  Boutonniere deformity              Boutonniere deformity",
+	},
+	{
+		code: "73622  Swan-neck deformity                Swan-neck deformity",
+	},
+	{
+		code: "73629  Acq finger deformity NEC           Other acquired deformities of finger",
+	},
+	{
+		code: "73630  Acq hip deformity NOS              Unspecified acquired deformity of hip",
+	},
+	{
+		code: "73631  Coxa valga                         Coxa valga (acquired)",
+	},
+	{
+		code: "73632  Coxa vara                          Coxa vara (acquired)",
+	},
+	{
+		code: "73639  Acq hip deformity NEC              Other acquired deformities of hip",
+	},
+	{
+		code: "73641  Genu valgum                        Genu valgum (acquired)",
+	},
+	{
+		code: "73642  Genu varum                         Genu varum (acquired)",
+	},
+	{
+		code: "7365   Genu recurvatum                    Genu recurvatum (acquired)",
+	},
+	{
+		code: "7366   Acq knee deformity NEC             Other acquired deformities of knee",
+	},
+	{
+		code: "73670  Acq ankle-foot def NOS             Unspecified deformity of ankle and foot",
+	},
+	{
+		code: "73671  Acq equinovarus                    Acquired equinovarus deformity",
+	},
+	{
+		code: "73672  Acq equinus deformity              Equinus deformity of foot",
+	},
+	{
+		code: "73673  Cavus deformity of foot            Cavus deformity of foot",
+	},
+	{
+		code: "73674  Claw foot",
+	},
+	{
+		code: "73675  Acq cavovarus deformity            Cavovarus deformity of foot",
+	},
+	{
+		code: "73676  Calcaneus deformity NEC            Other acquired calcaneus deformity",
+	},
+	{
+		code: "73679  Acq ankle-foot def NEC             Other acquired deformities of ankle and foot",
+	},
+	{
+		code: "73681  Unequal leg length                 Unequal leg length (acquired)",
+	},
+	{
+		code: "73689  Oth acq limb deformity             Other acquired deformity of other parts of limb",
+	},
+	{
+		code: "7369   Acq limb deformity NOS             Acquired deformity of limb",
+	},
+	{
+		code: "7370   Adoles postural kyphosis           Adolescent postural kyphosis",
+	},
+	{
+		code: "73710  Kyphosis NOS                       Kyphosis (acquired) (postural)",
+	},
+	{
+		code: "73711  Radiation kyphosis                 Kyphosis due to radiation",
+	},
+	{
+		code: "73712  Postlaminectomy kyphosis           Kyphosis",
+	},
+	{
+		code: "73719  Kyphosis NEC                       Other kyphosis (acquired)",
+	},
+	{
+		code: "73720  Lordosis NOS                       Lordosis (acquired) (postural)",
+	},
+	{
+		code: "73721  Postlaminectomy lordosis           Lordosis",
+	},
+	{
+		code: "73722  Oth postsurgery lordosis           Other postsurgical lordosis",
+	},
+	{
+		code: "73729  Lordosis NEC                       Other lordosis (acquired)",
+	},
+	{
+		code: "73730  Idiopathic scoliosis               Scoliosis [and kyphoscoliosis]",
+	},
+	{
+		code: "73731  Resolv idiopath scolios            Resolving infantile idiopathic scoliosis",
+	},
+	{
+		code: "73732  Progr idiopath scoliosis           Progressive infantile idiopathic scoliosis",
+	},
+	{
+		code: "73733  Radiation scoliosis                Scoliosis due to radiation",
+	},
+	{
+		code: "73734  Thoracogenic scoliosis             Thoracogenic scoliosis",
+	},
+	{
+		code: "73739  Scoliosis NEC                      Other kyphoscoliosis and scoliosis",
+	},
+	{
+		code: "73740  Spin curv NOS in oth dis           Curvature of spine",
+	},
+	{
+		code: "73741  Kyphosis in oth dis                Kyphosis associated with other conditions",
+	},
+	{
+		code: "73742  Lordosis in oth dis                Lordosis associated with other conditions",
+	},
+	{
+		code: "73743  Scoliosis in oth dis               Scoliosis associated with other conditions",
+	},
+	{
+		code: "7378   Curvature of spine NEC             Other curvatures of spine",
+	},
+	{
+		code: "7379   Curvature of spine NOS             Unspecified curvature of spine",
+	},
+	{
+		code: "7380   Acq nose deformity                 Acquired deformity of nose",
+	},
+	{
+		code: "73810  Unspf acq deformity head           Unspecified acquired deformity of head",
+	},
+	{
+		code: "73811  Zygomatic hyperplasia              Zygomatic hyperplasia",
+	},
+	{
+		code: "73812  Zygomatic hypoplasia               Zygomatic hypoplasia",
+	},
+	{
+		code: "73819  Oth spcf deformity head            Other specified acquired deformity of head",
+	},
+	{
+		code: "7382   Acq neck deformity                 Acquired deformity of neck",
+	},
+	{
+		code: "7383   Acq chest deformity                Acquired deformity of chest and rib",
+	},
+	{
+		code: "7384   Acq spondylolisthesis              Acquired spondylolisthesis",
+	},
+	{
+		code: "7385   Other acq back deformity           Other acquired deformity of back or spine",
+	},
+	{
+		code: "7386   Acq pelvic deformity               Acquired deformity of pelvis",
+	},
+	{
+		code: "7387   Cauliflower ear                    Cauliflower ear",
+	},
+	{
+		code: "7388   Acq deformity NEC                  Acquired deformity of other specified site",
+	},
+	{
+		code: "7389   Acq deformity NOS                  Acquired deformity of unspecified site",
+	},
+	{
+		code: "7390   Somat dys head region              Nonallopathic lesions",
+	},
+	{
+		code: "7391   Somat dysfunc cervic reg           Nonallopathic lesions",
+	},
+	{
+		code: "7392   Somat dysfunc thorac reg           Nonallopathic lesions",
+	},
+	{
+		code: "7393   Somat dysfunc lumbar reg           Nonallopathic lesions",
+	},
+	{
+		code: "7394   Somat dysfunc sacral reg           Nonallopathic lesions",
+	},
+	{
+		code: "7395   Somat dysfunc pelvic reg           Nonallopathic lesions",
+	},
+	{
+		code: "7396   Somat dysfunc lower extr           Nonallopathic lesions",
+	},
+	{
+		code: "7397   Somat dysfunc upper extr           Nonallopathic lesions",
+	},
+	{
+		code: "7398   Somat dysfunc rib cage             Nonallopathic lesions",
+	},
+	{
+		code: "7399   Somatic dysfunction NEC            Nonallopathic lesions",
+	},
+	{
+		code: "7400   Anencephalus                       Anencephalus",
+	},
+	{
+		code: "7401   Craniorachischisis                 Craniorachischisis",
+	},
+	{
+		code: "7402   Iniencephaly                       Iniencephaly",
+	},
+	{
+		code: "74100  Spin bif w hydroceph NOS           Spina bifida with hydrocephalus",
+	},
+	{
+		code: "74101  Spin bif w hydrceph-cerv           Spina bifida with hydrocephalus",
+	},
+	{
+		code: "74102  Spin bif w hydrceph-dors           Spina bifida with hydrocephalus",
+	},
+	{
+		code: "74103  Spin bif w hydrceph-lumb           Spina bifida with hydrocephalus",
+	},
+	{
+		code: "74190  Spina bifida                       Spina bifida without mention of hydrocephalus",
+	},
+	{
+		code: "74191  Spina bifida-cerv                  Spina bifida without mention of hydrocephalus",
+	},
+	{
+		code: "74192  Spina bifida-dorsal                Spina bifida without mention of hydrocephalus",
+	},
+	{
+		code: "74193  Spina bifida-lumbar                Spina bifida without mention of hydrocephalus",
+	},
+	{
+		code: "7420   Encephalocele                      Encephalocele",
+	},
+	{
+		code: "7421   Microcephalus                      Microcephalus",
+	},
+	{
+		code: "7422   Reduction deform",
+	},
+	{
+		code: "7423   Congenital hydrocephalus           Congenital hydrocephalus",
+	},
+	{
+		code: "7424   Brain anomaly NEC                  Other specified congenital anomalies of brain",
+	},
+	{
+		code: "74251  Diastematomyelia                   Diastematomyelia",
+	},
+	{
+		code: "74253  Hydromyelia                        Hydromyelia",
+	},
+	{
+		code: "74259  Spinal cord anomaly NEC            Other specified congenital anomalies of spinal cord",
+	},
+	{
+		code: "7428   Nervous system anom NEC            Other specified congenital anomalies of nervous system",
+	},
+	{
+		code: "7429   Nervous system anom NOS            Unspecified congenital anomaly of brain",
+	},
+	{
+		code: "74300  Clinic anophthalmos NOS            Clinical anophthalmos",
+	},
+	{
+		code: "74303  Congen cystic eyeball              Cystic eyeball",
+	},
+	{
+		code: "74306  Cryptophthalmos                    Cryptophthalmos",
+	},
+	{
+		code: "74310  Microphthalmos NOS                 Microphthalmos",
+	},
+	{
+		code: "74311  Simple microphthalmos              Simple microphthalmos",
+	},
+	{
+		code: "74312  Microphth w oth eye anom           Microphthalmos associated with other anomalies of eye and adnexa",
+	},
+	{
+		code: "74320  Buphthalmos NOS                    Buphthalmos",
+	},
+	{
+		code: "74321  Simple buphthalmos                 Simple buphthalmos",
+	},
+	{
+		code: "74322  Buphthal w oth eye anom            Buphthalmos associated with other ocular anomalies",
+	},
+	{
+		code: "74330  Congenital cataract NOS            Congenital cataract",
+	},
+	{
+		code: "74331  Capsular cataract                  Congenital capsular and subcapsular cataract",
+	},
+	{
+		code: "74332  Cortical/zonular catarac           Congenital cortical and zonular cataract",
+	},
+	{
+		code: "74333  Nuclear cataract                   Congenital nuclear cataract",
+	},
+	{
+		code: "74334  Cong tot/subtot cataract           Total and subtotal cataract",
+	},
+	{
+		code: "74335  Congenital aphakia                 Congenital aphakia",
+	},
+	{
+		code: "74336  Anomalies of lens shape            Congenital anomalies of lens shape",
+	},
+	{
+		code: "74337  Congenital ectopic lens            Congenital ectopic lens",
+	},
+	{
+		code: "74339  Cong catar/lens anom NEC           Other congenital cataract and lens anomalies",
+	},
+	{
+		code: "74341  Anom corneal size/shape            Congenital anomalies of corneal size and shape",
+	},
+	{
+		code: "74342  Cong cornea opac aff vis           Corneal opacities",
+	},
+	{
+		code: "74343  Cong corneal opacit NEC            Other corneal opacities",
+	},
+	{
+		code: "74344  Anom anter chamber-eye             Specified congenital anomalies of anterior chamber",
+	},
+	{
+		code: "74345  Aniridia                           Aniridia",
+	},
+	{
+		code: "74346  Anom iris & cil body NEC           Other specified congenital anomalies of iris and ciliary body",
+	},
+	{
+		code: "74347  Anomalies of sclera                Specified congenital anomalies of sclera",
+	},
+	{
+		code: "74348  Mult anom anter seg-eye            Multiple and combined congenital anomalies of anterior segment",
+	},
+	{
+		code: "74349  Anom anter seg NEC-eye             Other congenital anomalies of anterior segment",
+	},
+	{
+		code: "74351  Vitreous anomalies                 Vitreous anomalies",
+	},
+	{
+		code: "74352  Fundus coloboma                    Fundus coloboma",
+	},
+	{
+		code: "74353  Cong chorioretinal degen           Chorioretinal degeneration",
+	},
+	{
+		code: "74354  Cong fold/cyst post eye            Congenital folds and cysts of posterior segment",
+	},
+	{
+		code: "74355  Cong macular change-eye            Congenital macular changes",
+	},
+	{
+		code: "74356  Cong retinal changes NEC           Other retinal changes",
+	},
+	{
+		code: "74357  Optic disc anomalies               Specified congenital anomalies of optic disc",
+	},
+	{
+		code: "74358  Vascular anom post eye             Vascular anomalies",
+	},
+	{
+		code: "74359  Post segmnt anom NEC-eye           Other congenital anomalies of posterior segment",
+	},
+	{
+		code: "74361  Congenital ptosis                  Congenital ptosis",
+	},
+	{
+		code: "74362  Congenital eyelid deform           Congenital deformities of eyelids",
+	},
+	{
+		code: "74363  Spec anom of eyelid NEC            Other specified congenital anomalies of eyelid",
+	},
+	{
+		code: "74364  Spec lacrimal gland anom           Specified congenital anomalies of lacrimal gland",
+	},
+	{
+		code: "74365  Spec lacrimal pass anom            Specified congenital anomalies of lacrimal passages",
+	},
+	{
+		code: "74366  Spec anomaly of orbit              Specified congenital anomalies of orbit",
+	},
+	{
+		code: "74369  Anom eyelid/lacr/orb NEC           Other congenital anomalies of eyelids",
+	},
+	{
+		code: "7438   Eye anomalies NEC                  Other specified anomalies of eye",
+	},
+	{
+		code: "7439   Eye anomaly NOS                    Unspecified anomaly of eye",
+	},
+	{
+		code: "74400  Ear anom NOS/impair hear           Unspecified anomaly of ear with impairment of hearing",
+	},
+	{
+		code: "74401  Cong absence ext ear               Absence of external ear",
+	},
+	{
+		code: "74402  Ex ear anm NEC-impr hear           Other anomalies of external ear with impairment of hearing",
+	},
+	{
+		code: "74403  Middle ear anomaly NEC             Anomaly of middle ear",
+	},
+	{
+		code: "74404  Anomalies ear ossicles             Anomalies of ear ossicles",
+	},
+	{
+		code: "74405  Anomalies of inner ear             Anomalies of inner ear",
+	},
+	{
+		code: "74409  Ear anom NEC/impair hear           Other anomalies of ear causing impairment of hearing",
+	},
+	{
+		code: "7441   Accessory auricle                  Accessory auricle",
+	},
+	{
+		code: "74421  Cong absence of ear lobe           Absence of ear lobe",
+	},
+	{
+		code: "74422  Macrotia                           Macrotia",
+	},
+	{
+		code: "74423  Microtia                           Microtia",
+	},
+	{
+		code: "74424  Eustachian tube anom NEC           Specified anomalies of Eustachian tube",
+	},
+	{
+		code: "74429  Ear anomalies NEC                  Other specified anomalies of ear",
+	},
+	{
+		code: "7443   Ear anomaly NOS                    Unspecified anomaly of ear",
+	},
+	{
+		code: "74441  Branch cleft sinus/fistu           Branchial cleft sinus or fistula",
+	},
+	{
+		code: "74442  Branchial cleft cyst               Branchial cleft cyst",
+	},
+	{
+		code: "74443  Cervical auricle                   Cervical auricle",
+	},
+	{
+		code: "74446  Preauricular sinus/fistu           Preauricular sinus or fistula",
+	},
+	{
+		code: "74447  Preauricular cyst                  Preauricular cyst",
+	},
+	{
+		code: "74449  Branchial cleft anom NEC           Other branchial cleft cyst or fistula; preauricular sinus",
+	},
+	{
+		code: "7445   Webbing of neck                    Webbing of neck",
+	},
+	{
+		code: "74481  Macrocheilia                       Macrocheilia",
+	},
+	{
+		code: "74482  Microcheilia                       Microcheilia",
+	},
+	{
+		code: "74483  Macrostomia                        Macrostomia",
+	},
+	{
+		code: "74484  Microstomia                        Microstomia",
+	},
+	{
+		code: "74489  Cong face/neck anom NEC            Other specified congenital anomalies of face and neck",
+	},
+	{
+		code: "7449   Cong face/neck anom NOS            Unspecified congenital anomalies of face and neck",
+	},
+	{
+		code: "7450   Common truncus                     Common truncus",
+	},
+	{
+		code: "74510  Compl transpos great ves           Complete transposition of great vessels",
+	},
+	{
+		code: "74511  Double outlet rt ventric           Double outlet right ventricle",
+	},
+	{
+		code: "74512  Correct transpos grt ves           Corrected transposition of great vessels",
+	},
+	{
+		code: "74519  Transpos great vess NEC            Other transposition of great vessels",
+	},
+	{
+		code: "7452   Tetralogy of fallot                Tetralogy of fallot",
+	},
+	{
+		code: "7453   Common ventricle                   Common ventricle",
+	},
+	{
+		code: "7454   Ventricular sept defect            Ventricular septal defect",
+	},
+	{
+		code: "7455   Secundum atrial sept def           Ostium secundum type atrial septal defect",
+	},
+	{
+		code: "74560  Endocard cushion def NOS           Endocardial cushion defect",
+	},
+	{
+		code: "74561  Ostium primum defect               Ostium primum defect",
+	},
+	{
+		code: "74569  Endocard cushion def NEC           Other endocardial cushion defects",
+	},
+	{
+		code: "7457   Cor biloculare                     Cor biloculare",
+	},
+	{
+		code: "7458   Septal closure anom NEC            Other bulbus cordis anomalies and anomalies of cardiac septal closure",
+	},
+	{
+		code: "7459   Septal closure anom NOS            Unspecified defect of septal closure",
+	},
+	{
+		code: "74600  Pulmonary valve anom NOS           Congenital pulmonary valve anomaly",
+	},
+	{
+		code: "74601  Cong pulmon valv atresia           Atresia of pulmonary valve",
+	},
+	{
+		code: "74602  Cong pulmon valve stenos           Stenosis of pulmonary valve",
+	},
+	{
+		code: "74609  Pulmonary valve anom NEC           Other congenital anomalies of pulmonary valve",
+	},
+	{
+		code: "7461   Cong tricusp atres/sten            Tricuspid atresia and stenosis",
+	},
+	{
+		code: "7462   Ebstein's anomaly                  Ebstein's anomaly",
+	},
+	{
+		code: "7463   Cong aorta valv stenosis           Congenital stenosis of aortic valve",
+	},
+	{
+		code: "7464   Cong aorta valv insuffic           Congenital insufficiency of aortic valve",
+	},
+	{
+		code: "7465   Congen mitral stenosis             Congenital mitral stenosis",
+	},
+	{
+		code: "7466   Cong mitral insufficienc           Congenital mitral insufficiency",
+	},
+	{
+		code: "7467   Hypoplas left heart synd           Hypoplastic left heart syndrome",
+	},
+	{
+		code: "74681  Cong subaortic stenosis            Subaortic stenosis",
+	},
+	{
+		code: "74682  Cor triatriatum                    Cor triatriatum",
+	},
+	{
+		code: "74683  Infundib pulmon stenosis           Infundibular pulmonic stenosis",
+	},
+	{
+		code: "74684  Obstruct heart anom NEC            Obstructive anomalies of heart",
+	},
+	{
+		code: "74685  Coronary artery anomaly            Coronary artery anomaly",
+	},
+	{
+		code: "74686  Congenital heart block             Congenital heart block",
+	},
+	{
+		code: "74687  Malposition of heart               Malposition of heart and cardiac apex",
+	},
+	{
+		code: "74689  Cong heart anomaly NEC             Other specified congenital anomalies of heart",
+	},
+	{
+		code: "7469   Cong heart anomaly NOS             Unspecified congenital anomaly of heart",
+	},
+	{
+		code: "7470   Patent ductus arteriosus           Patent ductus arteriosus",
+	},
+	{
+		code: "74710  Coarctation of aorta               Coarctation of aorta (preductal) (postductal)",
+	},
+	{
+		code: "74711  Interrupt of aortic arch           Interruption of aortic arch",
+	},
+	{
+		code: "74720  Cong anom of aorta NOS             Anomaly of aorta",
+	},
+	{
+		code: "74721  Anomalies of aortic arch           Anomalies of aortic arch",
+	},
+	{
+		code: "74722  Aortic atresia/stenosis            Atresia and stenosis of aorta",
+	},
+	{
+		code: "74729  Cong anom of aorta NEC             Other anomalies of aorta",
+	},
+	{
+		code: "7473   Pulmonary artery anom              Pulmonary artery anom",
+	},
+	{
+		code: "74731  Pulmon art coarct/atres            Pulmonary artery coarctation and atresia",
+	},
+	{
+		code: "74732  Pulmonary AV malformatn            Pulmonary arteriovenous malformation",
+	},
+	{
+		code: "74739  Oth anom pul artery/circ           Other anomalies of pulmonary artery and pulmonary circulation",
+	},
+	{
+		code: "74740  Great vein anomaly NOS             Anomaly of great veins",
+	},
+	{
+		code: "74741  Tot anom pulm ven connec           Total anomalous pulmonary venous connection",
+	},
+	{
+		code: "74742  Part anom pulm ven conn            Partial anomalous pulmonary venous connection",
+	},
+	{
+		code: "74749  Great vein anomaly NEC             Other anomalies of great veins",
+	},
+	{
+		code: "7475   Umbilical artery absence           Absence or hypoplasia of umbilical artery",
+	},
+	{
+		code: "74760  Unsp prpherl vasc anomal           Anomaly of the peripheral vascular system",
+	},
+	{
+		code: "74761  Gstrontest vesl anomaly            Gastrointestinal vessel anomaly",
+	},
+	{
+		code: "74762  Renal vessel anomaly               Renal vessel anomaly",
+	},
+	{
+		code: "74763  Upr limb vessel anomaly            Upper limb vessel anomaly",
+	},
+	{
+		code: "74764  Lwr limb vessel anomaly            Lower limb vessel anomaly",
+	},
+	{
+		code: "74769  Oth spcf prph vscl anoml           Anomalies of other specified sites of peripheral vascular system",
+	},
+	{
+		code: "74781  Cerebrovascular anomaly            Anomalies of cerebrovascular system",
+	},
+	{
+		code: "74782  Spinal vessel anomaly              Spinal vessel anomaly",
+	},
+	{
+		code: "74783  Persistent fetal circ              Persistent fetal circulation",
+	},
+	{
+		code: "74789  Circulatory anomaly NEC            Other specified anomalies of circulatory system",
+	},
+	{
+		code: "7479   Circulatory anomaly NOS            Unspecified anomaly of circulatory system",
+	},
+	{
+		code: "7480   Choanal atresia                    Choanal atresia",
+	},
+	{
+		code: "7481   Nose anomaly NEC                   Other anomalies of nose",
+	},
+	{
+		code: "7482   Laryngeal web                      Web of larynx",
+	},
+	{
+		code: "7483   Laryngotrach anomaly NEC           Other anomalies of larynx",
+	},
+	{
+		code: "7484   Congenital cystic lung             Congenital cystic lung",
+	},
+	{
+		code: "7485   Agenesis of lung                   Agenesis",
+	},
+	{
+		code: "74860  Lung anomaly NOS                   Anomaly of lung",
+	},
+	{
+		code: "74861  Congen bronchiectasis              Congenital bronchiectasis",
+	},
+	{
+		code: "74869  Lung anomaly NEC                   Other congenital anomalies of lung",
+	},
+	{
+		code: "7488   Respiratory anomaly NEC            Other specified anomalies of respiratory system",
+	},
+	{
+		code: "7489   Respiratory anomaly NOS            Unspecified anomaly of respiratory system",
+	},
+	{
+		code: "74900  Cleft palate NOS                   Cleft palate",
+	},
+	{
+		code: "74901  Unilat cleft palate-comp           Cleft palate",
+	},
+	{
+		code: "74902  Unilat cleft palate-inc            Cleft palate",
+	},
+	{
+		code: "74903  Bilat cleft palate-compl           Cleft palate",
+	},
+	{
+		code: "74904  Bilat cleft palate-inc             Cleft palate",
+	},
+	{
+		code: "74910  Cleft lip NOS                      Cleft lip",
+	},
+	{
+		code: "74911  Unilat cleft lip-compl             Cleft lip",
+	},
+	{
+		code: "74912  Unilat cleft lip-imcompl           Cleft lip",
+	},
+	{
+		code: "74913  Bilat cleft lip-complete           Cleft lip",
+	},
+	{
+		code: "74914  Bilat cleft lip-incompl            Cleft lip",
+	},
+	{
+		code: "74920  Cleft palate & lip NOS             Cleft palate with cleft lip",
+	},
+	{
+		code: "74921  Unil cleft palat/lip-com           Cleft palate with cleft lip",
+	},
+	{
+		code: "74922  Unil cleft palat/lip-inc           Cleft palate with cleft lip",
+	},
+	{
+		code: "74923  Bilat clft palat/lip-com           Cleft palate with cleft lip",
+	},
+	{
+		code: "74924  Bilat clft palat/lip-inc           Cleft palate with cleft lip",
+	},
+	{
+		code: "74925  Cleft palate & lip NEC             Other combinations of cleft palate with cleft lip",
+	},
+	{
+		code: "7500   Tongue tie                         Tongue tie",
+	},
+	{
+		code: "75010  Tongue anomaly NOS                 Congenital anomaly of tongue",
+	},
+	{
+		code: "75011  Aglossia                           Aglossia",
+	},
+	{
+		code: "75012  Cong adhesions of tongue           Congenital adhesions of tongue",
+	},
+	{
+		code: "75013  Cong fissure of tongue             Fissure of tongue",
+	},
+	{
+		code: "75015  Cong macroglossia                  Macroglossia",
+	},
+	{
+		code: "75016  Microglossia                       Microglossia",
+	},
+	{
+		code: "75019  Tongue anomaly NEC                 Other congenital anomalies of tongue",
+	},
+	{
+		code: "75021  Salivary gland absence             Absence of salivary gland",
+	},
+	{
+		code: "75022  Accessory salivary gland           Accessory salivary gland",
+	},
+	{
+		code: "75023  Cong atresia",
+	},
+	{
+		code: "75024  Cong salivary fistula              Congenital fistula of salivary gland",
+	},
+	{
+		code: "75025  Congenital lip fistula             Congenital fistula of lip",
+	},
+	{
+		code: "75026  Mouth anomaly NEC                  Other specified anomalies of mouth",
+	},
+	{
+		code: "75027  Diverticulum of pharynx            Diverticulum of pharynx",
+	},
+	{
+		code: "75029  Pharyngeal anomaly NEC             Other specified anomalies of pharynx",
+	},
+	{
+		code: "7503   Cong esoph fistula/atres           Tracheoesophageal fistula",
+	},
+	{
+		code: "7504   Esophageal anomaly NEC             Other specified anomalies of esophagus",
+	},
+	{
+		code: "7505   Cong pyloric stenosis              Congenital hypertrophic pyloric stenosis",
+	},
+	{
+		code: "7506   Congenital hiatus hernia           Congenital hiatus hernia",
+	},
+	{
+		code: "7507   Gastric anomaly NEC                Other specified anomalies of stomach",
+	},
+	{
+		code: "7508   Upper GI anomaly NEC               Other specified anomalies of upper alimentary tract",
+	},
+	{
+		code: "7509   Upper GI anomaly NOS               Unspecified anomaly of upper alimentary tract",
+	},
+	{
+		code: "7510   Meckel's diverticulum              Meckel's diverticulum",
+	},
+	{
+		code: "7511   Atresia small intestine            Atresia and stenosis of small intestine",
+	},
+	{
+		code: "7512   Atresia large intestine            Atresia and stenosis of large intestine",
+	},
+	{
+		code: "7513   Hirschsprung's disease             Hirschsprung's disease and other congenital functional disorders of colon",
+	},
+	{
+		code: "7514   Intestinal fixation anom           Anomalies of intestinal fixation",
+	},
+	{
+		code: "7515   Intestinal anomaly NEC             Other anomalies of intestine",
+	},
+	{
+		code: "75160  Biliary & liver anom NOS           Unspecified anomaly of gallbladder",
+	},
+	{
+		code: "75161  Biliary atresia                    Biliary atresia",
+	},
+	{
+		code: "75162  Cong cystic liver dis              Congenital cystic disease of liver",
+	},
+	{
+		code: "75169  Biliary & liver anom NEC           Other anomalies of gallbladder",
+	},
+	{
+		code: "7517   Pancreas anomalies                 Anomalies of pancreas",
+	},
+	{
+		code: "7518   Anom digestive syst NEC            Other specified anomalies of digestive system",
+	},
+	{
+		code: "7519   Anom digestive syst NOS            Unspecified anomaly of digestive system",
+	},
+	{
+		code: "7520   Anomalies of ovaries               Anomalies of ovaries",
+	},
+	{
+		code: "75210  Tubal/broad lig anom NOS           Unspecified anomaly of fallopian tubes and broad ligaments",
+	},
+	{
+		code: "75211  Embryonic cyst of adnexa           Embryonic cyst of fallopian tubes and broad ligaments",
+	},
+	{
+		code: "75219  Tubal/broad lig anom NEC           Other anomalies of fallopian tubes and broad ligaments",
+	},
+	{
+		code: "7522   Doubling of uterus                 Doubling of uterus",
+	},
+	{
+		code: "7523   Uterine anomaly NEC                Uterine anomaly NEC",
+	},
+	{
+		code: "75231  Agenesis of uterus                 Agenesis of uterus",
+	},
+	{
+		code: "75232  Hypoplasia of uterus               Hypoplasia of uterus",
+	},
+	{
+		code: "75233  Unicornuate uterus                 Unicornuate uterus",
+	},
+	{
+		code: "75234  Bicornuate uterus                  Bicornuate uterus",
+	},
+	{
+		code: "75235  Septate uterus                     Septate uterus",
+	},
+	{
+		code: "75236  Arcuate uterus                     Arcuate uterus",
+	},
+	{
+		code: "75239  Anomalies of uterus NEC            Other anomalies of uterus",
+	},
+	{
+		code: "75240  Cervix/fem gen anom NOS            Unspecified anomaly of cervix",
+	},
+	{
+		code: "75241  Embryon cyst fem gen NEC           Embryonic cyst of cervix",
+	},
+	{
+		code: "75242  Imperforate hymen                  Imperforate hymen",
+	},
+	{
+		code: "75243  Cervical agenesis                  Cervical agenesis",
+	},
+	{
+		code: "75244  Cervical duplication               Cervical duplication",
+	},
+	{
+		code: "75245  Vaginal agenesis                   Vaginal agenesis",
+	},
+	{
+		code: "75246  Transv vaginal septum              Transverse vaginal septum",
+	},
+	{
+		code: "75247  Longitud vaginal septum            Longitudinal vaginal septum",
+	},
+	{
+		code: "75249  Cervix/fem gen anom NEC            Other anomalies of cervix",
+	},
+	{
+		code: "75251  Undescended testis                 Undescended testis",
+	},
+	{
+		code: "75252  Retractile testis                  Retractile testis",
+	},
+	{
+		code: "75261  Hypospadias                        Hypospadias",
+	},
+	{
+		code: "75262  Epispadias                         Epispadias",
+	},
+	{
+		code: "75263  Congenital chordee                 Congenital chordee",
+	},
+	{
+		code: "75264  Micropenis                         Micropenis",
+	},
+	{
+		code: "75265  Hidden penis                       Hidden penis",
+	},
+	{
+		code: "75269  Penile anomalies NEC               Other penile anomalies",
+	},
+	{
+		code: "7527   Indeterminate sex                  Indeterminate sex and pseudohermaphroditism",
+	},
+	{
+		code: "75281  Scrotal transposition              Scrotal transposition",
+	},
+	{
+		code: "75289  Genital organ anom NEC             Other specified anomalies of genital organs",
+	},
+	{
+		code: "7529   Genital organ anom NOS             Unspecified anomaly of genital organs",
+	},
+	{
+		code: "7530   Renal agenesis                     Renal agenesis and dysgenesis",
+	},
+	{
+		code: "75310  Cystic kidney diseas NOS           Cystic kidney disease",
+	},
+	{
+		code: "75311  Congenital renal cyst              Congenital single renal cyst",
+	},
+	{
+		code: "75312  Polycystic kidney NOS              Polycystic kidney",
+	},
+	{
+		code: "75313  Polycyst kid-autosom dom           Polycystic kidney",
+	},
+	{
+		code: "75314  Polycyst kid-autosom rec           Polycystic kidney",
+	},
+	{
+		code: "75315  Renal dysplasia                    Renal dysplasia",
+	},
+	{
+		code: "75316  Medullary cystic kidney            Medullary cystic kidney",
+	},
+	{
+		code: "75317  Medullary sponge kidney            Medullary sponge kidney",
+	},
+	{
+		code: "75319  Cystic kidney diseas NEC           Other specified cystic kidney disease",
+	},
+	{
+		code: "75320  Obs dfct ren plv&urt NOS           Unspecified obstructive defect of renal pelvis and ureter",
+	},
+	{
+		code: "75321  Congen obst urtroplv jnc           Congenital obstruction of ureteropelvic junction",
+	},
+	{
+		code: "75322  Cong obst ureteroves jnc           Congenital obstruction of ureterovesical junction",
+	},
+	{
+		code: "75323  Congenital ureterocele             Congenital ureterocele",
+	},
+	{
+		code: "75329  Obst def ren plv&urt NEC           Other obstructive defects of renal pelvis and ureter",
+	},
+	{
+		code: "7533   Kidney anomaly NEC                 Other specified anomalies of kidney",
+	},
+	{
+		code: "7534   Ureteral anomaly NEC               Other specified anomalies of ureter",
+	},
+	{
+		code: "7535   Bladder exstrophy                  Exstrophy of urinary bladder",
+	},
+	{
+		code: "7536   Congen urethral stenosis           Atresia and stenosis of urethra and bladder neck",
+	},
+	{
+		code: "7537   Anomalies of urachus               Anomalies of urachus",
+	},
+	{
+		code: "7538   Cystourethral anom NEC             Other specified anomalies of bladder and urethra",
+	},
+	{
+		code: "7539   Urinary anomaly NOS                Unspecified anomaly of urinary system",
+	},
+	{
+		code: "7540   Cong skull/face/jaw def            Congenital musculoskeletal deformities of skull",
+	},
+	{
+		code: "7541   Congenital torticollis             Congenital musculoskeletal deformities of sternocleidomastoid muscle",
+	},
+	{
+		code: "7542   Cong postural deformity            Congenital musculoskeletal deformities of spine",
+	},
+	{
+		code: "75430  Cong hip disloc",
+	},
+	{
+		code: "75431  Congen hip disloc",
+	},
+	{
+		code: "75432  Cong hip sublux",
+	},
+	{
+		code: "75433  Cong hip sublux",
+	},
+	{
+		code: "75435  Cong hip disloc w sublux           Congenital dislocation of one hip with subluxation of other hip",
+	},
+	{
+		code: "75440  Cong genu recurvatum               Genu recurvatum",
+	},
+	{
+		code: "75441  Cong knee dislocation              Congenital dislocation of knee (with genu recurvatum)",
+	},
+	{
+		code: "75442  Congen bowing of femur             Congenital bowing of femur",
+	},
+	{
+		code: "75443  Cong bowing tibia/fibula           Congenital bowing of tibia and fibula",
+	},
+	{
+		code: "75444  Cong bowing leg NOS                Congenital bowing of unspecified long bones of leg",
+	},
+	{
+		code: "75450  Talipes varus                      Talipes varus",
+	},
+	{
+		code: "75451  Talipes equinovarus                Talipes equinovarus",
+	},
+	{
+		code: "75452  Metatarsus primus varus            Metatarsus primus varus",
+	},
+	{
+		code: "75453  Metatarsus varus                   Metatarsus varus",
+	},
+	{
+		code: "75459  Cong varus foot def NEC            Other varus deformities of feet",
+	},
+	{
+		code: "75460  Talipes valgus                     Talipes valgus",
+	},
+	{
+		code: "75461  Congenital pes planus              Congenital pes planus",
+	},
+	{
+		code: "75462  Talipes calcaneovalgus             Talipes calcaneovalgus",
+	},
+	{
+		code: "75469  Cong valgus foot def NEC           Other valgus deformities of feet",
+	},
+	{
+		code: "75470  Talipes NOS                        Talipes",
+	},
+	{
+		code: "75471  Talipes cavus                      Talipes cavus",
+	},
+	{
+		code: "75479  Cong foot deform NEC               Other deformities of feet",
+	},
+	{
+		code: "75481  Pectus excavatum                   Pectus excavatum",
+	},
+	{
+		code: "75482  Pectus carinatum                   Pectus carinatum",
+	},
+	{
+		code: "75489  Nonteratogenic anom NEC            Other specified nonteratogenic anomalies",
+	},
+	{
+		code: "75500  Polydactyly NOS                    Polydactyly",
+	},
+	{
+		code: "75501  Polydactyly",
+	},
+	{
+		code: "75502  Polydactyly",
+	},
+	{
+		code: "75510  Syndactyly",
+	},
+	{
+		code: "75511  Syndactyl fing-no fusion           Syndactyly of fingers without fusion of bone",
+	},
+	{
+		code: "75512  Syndactyl fing w fusion            Syndactyly of fingers with fusion of bone",
+	},
+	{
+		code: "75513  Syndactyl toe-no fusion            Syndactyly of toes without fusion of bone",
+	},
+	{
+		code: "75514  Syndactyl toe w fusion             Syndactyly of toes with fusion of bone",
+	},
+	{
+		code: "75520  Reduc deform up limb NOS           Unspecified reduction deformity of upper limb",
+	},
+	{
+		code: "75521  Transverse defic arm               Transverse deficiency of upper limb",
+	},
+	{
+		code: "75522  Longitud defic arm NEC             Longitudinal deficiency of upper limb",
+	},
+	{
+		code: "75523  Combin longit defic arm            Longitudinal deficiency",
+	},
+	{
+		code: "75524  Longitudin defic humerus           Longitudinal deficiency",
+	},
+	{
+		code: "75525  Longitud defic radioulna           Longitudinal deficiency",
+	},
+	{
+		code: "75526  Longitud defic radius              Longitudinal deficiency",
+	},
+	{
+		code: "75527  Longitudinal defic ulna            Longitudinal deficiency",
+	},
+	{
+		code: "75528  Longitudinal defic hand            Longitudinal deficiency",
+	},
+	{
+		code: "75529  Longitud defic phalanges           Longitudinal deficiency",
+	},
+	{
+		code: "75530  Reduction deform leg NOS           Unspecified reduction deformity of lower limb",
+	},
+	{
+		code: "75531  Transverse defic leg               Transverse deficiency of lower limb",
+	},
+	{
+		code: "75532  Longitudin defic leg NEC           Longitudinal deficiency of lower limb",
+	},
+	{
+		code: "75533  Comb longitudin def leg            Longitudinal deficiency",
+	},
+	{
+		code: "75534  Longitudinal defic femur           Longitudinal deficiency",
+	},
+	{
+		code: "75535  Tibiofibula longit defic           Longitudinal deficiency",
+	},
+	{
+		code: "75536  Longitudinal defic tibia           Longitudinal deficiency",
+	},
+	{
+		code: "75537  Longitudin defic fibula            Longitudinal deficiency",
+	},
+	{
+		code: "75538  Longitudinal defic foot            Longitudinal deficiency",
+	},
+	{
+		code: "75539  Longitud defic phalanges           Longitudinal deficiency",
+	},
+	{
+		code: "7554   Reduct deform limb NOS             Reduction deformities",
+	},
+	{
+		code: "75550  Upper limb anomaly NOS             Unspecified anomaly of upper limb",
+	},
+	{
+		code: "75551  Cong deformity-clavicle            Congenital deformity of clavicle",
+	},
+	{
+		code: "75552  Cong elevation-scapula             Congenital elevation of scapula",
+	},
+	{
+		code: "75553  Radioulnar synostosis              Radioulnar synostosis",
+	},
+	{
+		code: "75554  Madelung's deformity               Madelung's deformity",
+	},
+	{
+		code: "75555  Acrocephalosyndactyly              Acrocephalosyndactyly",
+	},
+	{
+		code: "75556  Accessory carpal bones             Accessory carpal bones",
+	},
+	{
+		code: "75557  Macrodactylia (fingers)            Macrodactylia (fingers)",
+	},
+	{
+		code: "75558  Congenital cleft hand              Cleft hand",
+	},
+	{
+		code: "75559  Upper limb anomaly NEC             Other anomalies of upper limb",
+	},
+	{
+		code: "75560  Lower limb anomaly NOS             Unspecified anomaly of lower limb",
+	},
+	{
+		code: "75561  Congenital coxa valga              Coxa valga",
+	},
+	{
+		code: "75562  Congenital coxa vara               Coxa vara",
+	},
+	{
+		code: "75563  Cong hip deformity NEC             Other congenital deformity of hip (joint)",
+	},
+	{
+		code: "75564  Cong knee deformity                Congenital deformity of knee (joint)",
+	},
+	{
+		code: "75565  Macrodactylia of toes              Macrodactylia of toes",
+	},
+	{
+		code: "75566  Anomalies of toes NEC              Other anomalies of toes",
+	},
+	{
+		code: "75567  Anomalies of foot NEC              Anomalies of foot",
+	},
+	{
+		code: "75569  Lower limb anomaly NEC             Other anomalies of lower limb",
+	},
+	{
+		code: "7558   Congen limb anomaly NEC            Other specified anomalies of unspecified limb",
+	},
+	{
+		code: "7559   Congen limb anomaly NOS            Unspecified anomaly of unspecified limb",
+	},
+	{
+		code: "7560   Anomal skull/face bones            Anomalies of skull and face bones",
+	},
+	{
+		code: "75610  Anomaly of spine NOS               Anomaly of spine",
+	},
+	{
+		code: "75611  Lumbosacr spondylolysis            Spondylolysis",
+	},
+	{
+		code: "75612  Spondylolisthesis                  Spondylolisthesis",
+	},
+	{
+		code: "75613  Cong absence of vertebra           Absence of vertebra",
+	},
+	{
+		code: "75614  Hemivertebra                       Hemivertebra",
+	},
+	{
+		code: "75615  Congen fusion of spine             Fusion of spine (vertebra)",
+	},
+	{
+		code: "75616  Klippel-feil syndrome              Klippel-Feil syndrome",
+	},
+	{
+		code: "75617  Spina bifida occulta               Spina bifida occulta",
+	},
+	{
+		code: "75619  Anomaly of spine NEC               Other anomalies of spine",
+	},
+	{
+		code: "7562   Cervical rib                       Cervical rib",
+	},
+	{
+		code: "7563   Rib & sternum anomal NEC           Other anomalies of ribs and sternum",
+	},
+	{
+		code: "7564   Chondrodystrophy                   Chondrodystrophy",
+	},
+	{
+		code: "75650  Osteodystrophy NOS                 Congenital osteodystrophy",
+	},
+	{
+		code: "75651  Osteogenesis imperfecta            Osteogenesis imperfecta",
+	},
+	{
+		code: "75652  Osteopetrosis                      Osteopetrosis",
+	},
+	{
+		code: "75653  Osteopoikilosis                    Osteopoikilosis",
+	},
+	{
+		code: "75654  Polyostotic fibros dyspl           Polyostotic fibrous dysplasia of bone",
+	},
+	{
+		code: "75655  Chondroectoderm dysplas            Chondroectodermal dysplasia",
+	},
+	{
+		code: "75656  Mult epiphyseal dysplas            Multiple epiphyseal dysplasia",
+	},
+	{
+		code: "75659  Osteodystrophy NEC                 Other osteodystrophies",
+	},
+	{
+		code: "7566   Anomalies of diaphragm             Anomalies of diaphragm",
+	},
+	{
+		code: "75670  Congn anoml abd wall NOS           Anomaly of abdominal wall",
+	},
+	{
+		code: "75671  Prune belly syndrome               Prune belly syndrome",
+	},
+	{
+		code: "75672  Omphalocele                        Omphalocele",
+	},
+	{
+		code: "75673  Gastroschisis                      Gastroschisis",
+	},
+	{
+		code: "75679  Congn anoml abd wall NEC           Other congenital anomalies of abdominal wall",
+	},
+	{
+		code: "75681  Absence of muscle/tendon           Absence of muscle and tendon",
+	},
+	{
+		code: "75682  Accessory muscle                   Accessory muscle",
+	},
+	{
+		code: "75683  Ehlers-danlos syndrome             Ehlers-Danlos syndrome",
+	},
+	{
+		code: "75689  Soft tissue anomaly NEC            Other specified anomalies of muscle",
+	},
+	{
+		code: "7569   Musculoskel anom NEC/NOS           Other and unspecified anomalies of musculoskeletal system",
+	},
+	{
+		code: "7570   Hereditary edema of legs           Hereditary edema of legs",
+	},
+	{
+		code: "7571   Ichthyosis congenita               Ichthyosis congenita",
+	},
+	{
+		code: "7572   Dermatoglyphic anomalies           Dermatoglyphic anomalies",
+	},
+	{
+		code: "75731  Cong ectodermal dysplas            Congenital ectodermal dysplasia",
+	},
+	{
+		code: "75732  Vascular hamartomas                Vascular hamartomas",
+	},
+	{
+		code: "75733  Cong skin pigment anomal           Congenital pigmentary anomalies of skin",
+	},
+	{
+		code: "75739  Skin anomaly NEC                   Other specified anomalies of skin",
+	},
+	{
+		code: "7574   Hair anomalies NEC                 Specified anomalies of hair",
+	},
+	{
+		code: "7575   Nail anomalies NEC                 Specified anomalies of nails",
+	},
+	{
+		code: "7576   Cong breast anomaly NEC            Specified congenital anomalies of breast",
+	},
+	{
+		code: "7578   Oth integument anomalies           Other specified anomalies of the integument",
+	},
+	{
+		code: "7579   Integument anomaly NOS             Unspecified congenital anomaly of the integument",
+	},
+	{
+		code: "7580   Down's syndrome                    Down's syndrome",
+	},
+	{
+		code: "7581   Patau's syndrome                   Patau's syndrome",
+	},
+	{
+		code: "7582   Edwards' syndrome                  Edwards' syndrome",
+	},
+	{
+		code: "75831  Cri-du-chat syndrome               Cri-du-chat syndrome",
+	},
+	{
+		code: "75832  Velo-cardio-facial synd            Velo-cardio-facial syndrome",
+	},
+	{
+		code: "75833  Microdeletions NEC                 Other microdeletions",
+	},
+	{
+		code: "75839  Autosomal deletions NEC            Other autosomal deletions",
+	},
+	{
+		code: "7584   Balance autosom transloc           Balanced autosomal translocation in normal individual",
+	},
+	{
+		code: "7585   Autosomal anomalies NEC            Other conditions due to autosomal anomalies",
+	},
+	{
+		code: "7586   Gonadal dysgenesis                 Gonadal dysgenesis",
+	},
+	{
+		code: "7587   Klinefelter's syndrome             Klinefelter's syndrome",
+	},
+	{
+		code: "75881  Oth cond due to sex chrm           Other conditions due to sex chromosome anomalies",
+	},
+	{
+		code: "75889  Oth con d/t chrm anm NEC           Other conditions due to chromosome anomalies",
+	},
+	{
+		code: "7589   Chromosome anomaly NOS             Conditions due to anomaly of unspecified chromosome",
+	},
+	{
+		code: "7590   Anomalies of spleen                Anomalies of spleen",
+	},
+	{
+		code: "7591   Adrenal gland anomaly              Anomalies of adrenal gland",
+	},
+	{
+		code: "7592   Endocrine anomaly NEC              Anomalies of other endocrine glands",
+	},
+	{
+		code: "7593   Situs inversus                     Situs inversus",
+	},
+	{
+		code: "7594   Conjoined twins                    Conjoined twins",
+	},
+	{
+		code: "7595   Tuberous sclerosis                 Tuberous sclerosis",
+	},
+	{
+		code: "7596   Hamartoses NEC                     Other hamartoses",
+	},
+	{
+		code: "7597   Mult congen anomal NEC             Multiple congenital anomalies",
+	},
+	{
+		code: "75981  Prader-willi syndrome              Prader-Willi syndrome",
+	},
+	{
+		code: "75982  Marfan syndrome                    Marfan syndrome",
+	},
+	{
+		code: "75983  Fragile x syndrome                 Fragile X syndrome",
+	},
+	{
+		code: "75989  Specfied cong anomal NEC           Other specified congenital anomalies",
+	},
+	{
+		code: "7599   Congenital anomaly NOS             Congenital anomaly",
+	},
+	{
+		code: "7600   Matern hyperten aff NB             Maternal hypertensive disorders affecting fetus or newborn",
+	},
+	{
+		code: "7601   Matern urine dis aff NB            Maternal renal and urinary tract diseases affecting fetus or newborn",
+	},
+	{
+		code: "7602   Maternal infec aff NB              Maternal infections affecting fetus or newborn",
+	},
+	{
+		code: "7603   Matern cardioresp aff NB           Other chronic maternal circulatory and respiratory diseases affecting fetus or newborn",
+	},
+	{
+		code: "7604   Matern nutrit dis aff NB           Maternal nutritional disorders affecting fetus or newborn",
+	},
+	{
+		code: "7605   Maternal injury aff NB             Maternal injury affecting fetus or newborn",
+	},
+	{
+		code: "7606   SURG OP ON MOTHER AFF NB           SURG OP ON MOTHER AFF NB",
+	},
+	{
+		code: "76061  Amniocentesis affect NB            Newborn affected by amniocentesis",
+	},
+	{
+		code: "76062  In utero proc NEC aff NB           Newborn affected by other in utero procedure",
+	},
+	{
+		code: "76063  Mat surg dur preg aff NB           Newborn affected by other surgical operations on mother during pregnancy",
+	},
+	{
+		code: "76064  Prev matern surg aff NB            Newborn affected by previous surgical procedure on mother not associated with pregnancy",
+	},
+	{
+		code: "76070  Nox sub NOS aff NB/fetus           Unspecified noxious substance affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "76071  Maternl alc aff NB/fetus           Alcohol affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "76072  Matern narc aff NB/fetus           Narcotics affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "76073  Matern halluc af NB/fet            Hallucinogenic agents affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "76074  Mat anti-inf aff NB/fet            Anti-infectives affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "76075  Mat cocaine aff NB/fet             Cocaine affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "76076  Maternal DES af NB/fetus           Diethylstilbestrol [DES] affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "76077  Mat anticonv aff NB/fet            Anticonvulsants affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "76078  Mat antimetabol aff NB             Antimetabolic agents affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "76079  Nox sub NEC aff NB/fetus           Other noxious influences affecting fetus or newborn via placenta or breast milk",
+	},
+	{
+		code: "7608   Maternal cond NEC aff NB           Other specified maternal conditions affecting fetus or newborn",
+	},
+	{
+		code: "7609   Maternal cond NOS aff NB           Unspecified maternal condition affecting fetus or newborn",
+	},
+	{
+		code: "7610   Incompetnt cervix aff NB           Incompetent cervix affecting fetus or newborn",
+	},
+	{
+		code: "7611   Premat rupt memb aff NB            Premature rupture of membranes affecting fetus or newborn",
+	},
+	{
+		code: "7612   Oligohydramnios aff NB             Oligohydramnios affecting fetus or newborn",
+	},
+	{
+		code: "7613   Polyhydramnios aff NB              Polyhydramnios affecting fetus or newborn",
+	},
+	{
+		code: "7614   Ectopic pregnancy aff NB           Ectopic pregnancy affecting fetus or newborn",
+	},
+	{
+		code: "7615   Mult pregnancy aff NB              Multiple pregnancy affecting fetus or newborn",
+	},
+	{
+		code: "7616   Maternal death aff NB              Maternal death affecting fetus or newborn",
+	},
+	{
+		code: "7617   Antepart malpres aff NB            Malpresentation before labor affecting fetus or newborn",
+	},
+	{
+		code: "7618   Matern compl NEC aff NB            Other specified maternal complications of pregnancy affecting fetus or newborn",
+	},
+	{
+		code: "7619   Matern compl NOS aff NB            Unspecified maternal complication of pregnancy affecting fetus or newborn",
+	},
+	{
+		code: "7620   Placenta previa aff NB             Placenta previa affecting fetus or newborn",
+	},
+	{
+		code: "7621   Placenta hem NEC aff NB            Other forms of placental separation and hemorrhage affecting fetus or newborn",
+	},
+	{
+		code: "7622   Abn plac NEC/NOS aff NB            Other and unspecified morphological and functional abnormalities of placenta affecting fetus or newborn",
+	},
+	{
+		code: "7623   Placent transfusion syn            Placental transfusion syndromes affecting fetus or newborn",
+	},
+	{
+		code: "7624   Prolapsed cord aff NB              Prolapsed umbilical cord affecting fetus or newborn",
+	},
+	{
+		code: "7625   Oth umbil cord compress            Other compression of umbilical cord affecting fetus or newborn",
+	},
+	{
+		code: "7626   Umbil cond NEC aff NB              Other and unspecified conditions of umbilical cord affecting fetus or newborn",
+	},
+	{
+		code: "7627   Chorioamnionitis aff NB            Chorioamnionitis affecting fetus or newborn",
+	},
+	{
+		code: "7628   Abn amnion NEC aff NB              Other specified abnormalities of chorion and amnion affecting fetus or newborn",
+	},
+	{
+		code: "7629   Abn amnion NOS aff NB              Unspecified abnormality of chorion and amnion affecting fetus or newborn",
+	},
+	{
+		code: "7630   Breech del/extrac aff NB           Breech delivery and extraction affecting fetus or newborn",
+	},
+	{
+		code: "7631   Malpos/dispro NEC aff NB           Other malpresentation",
+	},
+	{
+		code: "7632   Forceps delivery aff NB            Forceps delivery affecting fetus or newborn",
+	},
+	{
+		code: "7633   Vacuum extrac del aff NB           Delivery by vacuum extractor affecting fetus or newborn",
+	},
+	{
+		code: "7634   Cesarean delivery aff NB           Cesarean delivery affecting fetus or newborn",
+	},
+	{
+		code: "7635   Mat anesth/analg aff NB            Maternal anesthesia and analgesia affecting fetus or newborn",
+	},
+	{
+		code: "7636   Precipitate del aff NB             Precipitate delivery affecting fetus or newborn",
+	},
+	{
+		code: "7637   Abn uterine contr aff NB           Abnormal uterine contractions affecting fetus or newborn",
+	},
+	{
+		code: "76381  Ab ftl hrt rt/rh b/f lab           Abnormality in fetal heart rate or rhythm before the onset of labor",
+	},
+	{
+		code: "76382  Ab ftl hrt rt/rh dur lab           Abnormality in fetal heart rate or rhythm during labor",
+	},
+	{
+		code: "76383  Ab ftl hrt rt/rhy NOS              Abnormality in fetal heart rate or rhythm",
+	},
+	{
+		code: "76384  Meconium dur del aff NB            Meconium passage during delivery",
+	},
+	{
+		code: "76389  Compl del NEC aff NB               Other specified complications of labor and delivery affecting fetus or newborn",
+	},
+	{
+		code: "7639   Compl deliv NOS aff NB             Unspecified complication of labor and delivery affecting fetus or newborn",
+	},
+	{
+		code: "76400  Light-for-dates wtNOS              Light-for-dates without mention of fetal malnutrition",
+	},
+	{
+		code: "76401  Light-for-dates <500g              Light-for-dates without mention of fetal malnutrition",
+	},
+	{
+		code: "76402  Lt-for-dates 500-749g              Light-for-dates without mention of fetal malnutrition",
+	},
+	{
+		code: "76403  Lt-for-dates 750-999g              Light-for-dates without mention of fetal malnutrition",
+	},
+	{
+		code: "76404  Lt-for-dates 1000-1249g            Light-for-dates without mention of fetal malnutrition",
+	},
+	{
+		code: "76405  Lt-for-dates 1250-1499g            Light-for-dateswithout mention of fetal malnutrition",
+	},
+	{
+		code: "76406  Lt-for-dates 1500-1749g            Light-for-dates without mention of fetal malnutrition",
+	},
+	{
+		code: "76407  Lt-for-dates 1750-1999g            Light-for-dates without mention of fetal malnutrition",
+	},
+	{
+		code: "76408  Lt-for-dates 2000-2499g            Light-for-dates without mention of fetal malnutrition",
+	},
+	{
+		code: "76409  Lt-for-dates 2500+g                Light-for-dates without mention of fetal malnutrition",
+	},
+	{
+		code: "76410  Lt-for-date w/mal wtNOS            Light-for-dates with signs of fetal malnutrition",
+	},
+	{
+		code: "76411  Lt-for-date w/mal <500g            Light-for-dates with signs of fetal malnutrition",
+	},
+	{
+		code: "76412  Lt-date w/mal 500-749g             Light-for-dateswith signs of fetal malnutrition",
+	},
+	{
+		code: "76413  Lt-date w/mal 750-999g             Light-for-dates with signs of fetal malnutrition",
+	},
+	{
+		code: "76414  Lt-date w/mal 1000-1249g           Light-for-dates with signs of fetal malnutrition",
+	},
+	{
+		code: "76415  Lt-date w/mal 1250-1499g           Light-for-dates with signs of fetal malnutrition",
+	},
+	{
+		code: "76416  Lt-date w/mal 1500-1749g           Light-for-dates with signs of fetal malnutrition",
+	},
+	{
+		code: "76417  Lt-date w/mal 1750-1999g           Light-for-dates with signs of fetal malnutrition",
+	},
+	{
+		code: "76418  Lt-date w/mal 2000-2499g           Light-for-dateswith signs of fetal malnutrition",
+	},
+	{
+		code: "76419  Lt-for-date w/mal 2500+g           Light-for-dateswith signs of fetal malnutrition",
+	},
+	{
+		code: "76420  Fetal malnutrition wtNOS           Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76421  Fetal malnutrition <500g           Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76422  Fetal malnutr 500-749g             Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76423  Fetal mal 750-999g                 Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76424  Fetal mal 1000-1249g               Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76425  Fetal mal 1250-1499g               Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76426  Fetal mal 1500-1749g               Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76427  Fetal malnutr 1750-1999g           Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76428  Fetal malnutr 2000-2499g           Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76429  Fetal malnutr 2500+g               Fetal malnutrition without mention of ""light-for-dates""",
+	},
+	{
+		code: "76490  Fet growth retard wtNOS            Fetal growth retardation",
+	},
+	{
+		code: "76491  Fet growth retard <500g            Fetal growth retardation",
+	},
+	{
+		code: "76492  Fet growth ret 500-749g            Fetal growth retardation",
+	},
+	{
+		code: "76493  Fet growth ret 750-999g            Fetal growth retardation",
+	},
+	{
+		code: "76494  Fet grwth ret 1000-1249g           Fetal growth retardation",
+	},
+	{
+		code: "76495  Fet grwth ret 1250-1499g           Fetal growth retardation",
+	},
+	{
+		code: "76496  Fet grwth ret 1500-1749g           Fetal growth retardation",
+	},
+	{
+		code: "76497  Fet grwth ret 1750-1999g           Fetal growth retardation",
+	},
+	{
+		code: "76498  Fet grwth ret 2000-2499g           Fetal growth retardation",
+	},
+	{
+		code: "76499  Fet growth ret 2500+g              Fetal growth retardation",
+	},
+	{
+		code: "76500  Extreme immatur wtNOS              Extreme immaturity",
+	},
+	{
+		code: "76501  Extreme immatur <500g              Extreme immaturity",
+	},
+	{
+		code: "76502  Extreme immatur 500-749g           Extreme immaturity",
+	},
+	{
+		code: "76503  Extreme immatur 750-999g           Extreme immaturity",
+	},
+	{
+		code: "76504  Extreme immat 1000-1249g           Extreme immaturity",
+	},
+	{
+		code: "76505  Extreme immat 1250-1499g           Extreme immaturity",
+	},
+	{
+		code: "76506  Extreme immat 1500-1749g           Extreme immaturity",
+	},
+	{
+		code: "76507  Extreme immat 1750-1999g           Extreme immaturity",
+	},
+	{
+		code: "76508  Extreme immat 2000-2499g           Extreme immaturity",
+	},
+	{
+		code: "76509  Extreme immat 2500+g               Extreme immaturity",
+	},
+	{
+		code: "76510  Preterm infant NEC wtNOS           Other preterm infants",
+	},
+	{
+		code: "76511  Preterm NEC <500g                  Other preterm infants",
+	},
+	{
+		code: "76512  Preterm NEC 500-749g               Other preterm infants",
+	},
+	{
+		code: "76513  Preterm NEC 750-999g               Other preterm infants",
+	},
+	{
+		code: "76514  Preterm NEC 1000-1249g             Other preterm infants",
+	},
+	{
+		code: "76515  Preterm NEC 1250-1499g             Other preterm infants",
+	},
+	{
+		code: "76516  Preterm NEC 1500-1749g             Other preterm infants",
+	},
+	{
+		code: "76517  Preterm NEC 1750-1999g             Other preterm infants",
+	},
+	{
+		code: "76518  Preterm NEC 2000-2499g             Other preterm infants",
+	},
+	{
+		code: "76519  Preterm NEC 2500+g                 Other preterm infants",
+	},
+	{
+		code: "76520  Weeks of gestation NOS             Unspecified weeks of gestation",
+	},
+	{
+		code: "76521  <24 comp wks gestation             Less than 24 completed weeks of gestation",
+	},
+	{
+		code: "76522  24 comp weeks gestation            24 completed weeks of gestation",
+	},
+	{
+		code: "76523  25-26 comp wks gestation           25-26 completed weeks of gestation",
+	},
+	{
+		code: "76524  27-28 comp wks gestation           27-28 completed weeks of gestation",
+	},
+	{
+		code: "76525  29-30 comp wks gestation           29-30 completed weeks of gestation",
+	},
+	{
+		code: "76526  31-32 comp wks gestation           31-32 completed weeks of gestation",
+	},
+	{
+		code: "76527  33-34 comp wks gestation           33-34 completed weeks of gestation",
+	},
+	{
+		code: "76528  35-36 comp wks gestation           35-36 completed weeks of gestation",
+	},
+	{
+		code: "76529  37+ comp wks gestation             37 or more completed weeks of gestation",
+	},
+	{
+		code: "7660   Exceptionally large baby           Exceptionally large baby",
+	},
+	{
+		code: "7661   Heavy-for-date infan NEC           Other ""heavy-for-dates"" infants"",
+	},
+	{
+		code: "76621  Post-term infant                   Post-term infant",
+	},
+	{
+		code: "76622  Prolong gestation-infant           Prolonged gestation of infant",
+	},
+	{
+		code: "7670   Cerebral hem at birth              Subdural and cerebral hemorrhage",
+	},
+	{
+		code: "76711  Epicranial subapo hemorr           Epicranial subaponeurotic hemorrhage (massive)",
+	},
+	{
+		code: "76719  Injuries to scalp NEC              Other injuries to scalp",
+	},
+	{
+		code: "7672   Clavicle fx at birth               Fracture of clavicle due to birth trauma",
+	},
+	{
+		code: "7673   Bone injury NEC at birth           Other injuries to skeleton due to birth trauma",
+	},
+	{
+		code: "7674   Spinal cord inj at birth           Injury to spine and spinal cord due to birth trauma",
+	},
+	{
+		code: "7675   Facial nerve inj-birth             Facial nerve injury due to birth trauma",
+	},
+	{
+		code: "7676   Brach plexus inj-birth             Injury to brachial plexus due to birth trauma",
+	},
+	{
+		code: "7677   Nerve inj NEC at birth             Other cranial and peripheral nerve injuries due to birth trauma",
+	},
+	{
+		code: "7678   Birth trauma NEC                   Other specified birth trauma",
+	},
+	{
+		code: "7679   Birth trauma NOS                   Birth trauma",
+	},
+	{
+		code: "7680   Fetal death-anoxia NOS             Fetal death from asphyxia or anoxia before onset of labor or at unspecified time",
+	},
+	{
+		code: "7681   Fet death-anoxia dur lab           Fetal death from asphyxia or anoxia during labor",
+	},
+	{
+		code: "7682   Fet distress befor labor           Fetal distress before onset of labor",
+	},
+	{
+		code: "7683   Fetal distrs dur lab/del           Fetal distress first noted during labor and delivery",
+	},
+	{
+		code: "7684   Fetal distress NOS                 Fetal distress",
+	},
+	{
+		code: "7685   Severe birth asphyxia              Severe birth asphyxia",
+	},
+	{
+		code: "7686   Mild/mod birth asphyxia            Mild or moderate birth asphyxia",
+	},
+	{
+		code: "7687   HYPOXIC-ISCHEMIC ENCEPH            HYPOXIC-ISCHEMIC ENCEPH",
+	},
+	{
+		code: "76870  Hypoxc-ischem enceph NOS           Hypoxic-ischemic encephalopathy",
+	},
+	{
+		code: "76871  Mild hypox-ischem enceph           Mild hypoxic-ischemic encephalopathy",
+	},
+	{
+		code: "76872  Mod hypox-ischem enceph            Moderate hypoxic-ischemic encephalopathy",
+	},
+	{
+		code: "76873  Sev hypox-ischem enceph            Severe hypoxic-ischemic encephalopathy",
+	},
+	{
+		code: "7689   Birth asphyxia NOS                 Unspecified severity of birth asphyxia in liveborn infant",
+	},
+	{
+		code: "769    Respiratory distress syn           Respiratory distress syndrome in newborn",
+	},
+	{
+		code: "7700   Congenital pneumonia               Congenital pneumonia",
+	},
+	{
+		code: "77010  Fetal & newborn asp NOS            Fetal and newborn aspiration",
+	},
+	{
+		code: "77011  Meconium asp wo resp sym           Meconium aspiration without respiratory symptoms",
+	},
+	{
+		code: "77012  Meconium asp w resp symp           Meconium aspiration with respiratory symptoms",
+	},
+	{
+		code: "77013  Amniotc asp w/o resp sym           Aspiration of clear amniotic fluid without respiratory symptoms",
+	},
+	{
+		code: "77014  Amniotic asp w resp sym            Aspiration of clear amniotic fluid with respiratory symptoms",
+	},
+	{
+		code: "77015  Blood asp w/o resp sympt           Aspiration of blood without respiratory symptoms",
+	},
+	{
+		code: "77016  Blood asp w resp sympt             Aspiration of blood with respiratory symptoms",
+	},
+	{
+		code: "77017  NB asp w/o resp symp NEC           Other fetal and newborn aspiration without respiratory symptoms",
+	},
+	{
+		code: "77018  NB asp w resp symp NEC             Other fetal and newborn aspiration with respiratory symptoms",
+	},
+	{
+		code: "7702   NB interstit emphysema             Interstitial emphysema and related conditions",
+	},
+	{
+		code: "7703   NB pulmonary hemorrhage            Pulmonary hemorrhage",
+	},
+	{
+		code: "7704   Primary atelectasis                Primary atelectasis",
+	},
+	{
+		code: "7705   NB atelectasis NEC/NOS             Other and unspecified atelectasis",
+	},
+	{
+		code: "7706   NB transitory tachypnea            Transitory tachypnea of newborn",
+	},
+	{
+		code: "7707   Perinatal chr resp dis             Chronic respiratory disease arising in the perinatal period",
+	},
+	{
+		code: "77081  Primary apnea of newborn           Primary apnea of newborn",
+	},
+	{
+		code: "77082  Other apnea of newborn             Other apnea of newborn",
+	},
+	{
+		code: "77083  Cyanotic attack",
+	},
+	{
+		code: "77084  Resp failure of newborn            Respiratory failure of newborn",
+	},
+	{
+		code: "77085  Stomch cont asp w/o resp           Aspiration of postnatal stomach contents without respiratory symptoms",
+	},
+	{
+		code: "77086  Stomach cont asp w resp            Aspiration of postnatal stomach contents with respiratory symptoms",
+	},
+	{
+		code: "77087  NB respiratory arrest              Respiratory arrest of newborn",
+	},
+	{
+		code: "77088  NB hypoxia                         Hypoxemia of newborn",
+	},
+	{
+		code: "77089  Resp prob after brth NEC           Other respiratory problems after birth",
+	},
+	{
+		code: "7709   NB respiratory cond NOS            Unspecified respiratory condition of fetus and newborn",
+	},
+	{
+		code: "7710   Congenital rubella                 Congenital rubella",
+	},
+	{
+		code: "7711   Cong cytomegalovirus inf           Congenital cytomegalovirus infection",
+	},
+	{
+		code: "7712   Congenital infec NEC               Other congenital infections specific to the perinatal period",
+	},
+	{
+		code: "7713   Tetanus neonatorum                 Tetanus neonatorum",
+	},
+	{
+		code: "7714   Omphalitis of newborn              Omphalitis of the newborn",
+	},
+	{
+		code: "7715   Neonatal infec mastitis            Neonatal infective mastitis",
+	},
+	{
+		code: "7716   Neonatal conjunctivitis            Neonatal conjunctivitis and dacryocystitis",
+	},
+	{
+		code: "7717   Neonatal candida infect            Neonatal Candida infection",
+	},
+	{
+		code: "77181  NB septicemia [sepsis]             Septicemia [sepsis] of newborn",
+	},
+	{
+		code: "77182  NB urinary tract infectn           Urinary tract infection of newborn",
+	},
+	{
+		code: "77183  Bacteremia of newborn              Bacteremia of newborn",
+	},
+	{
+		code: "77189  Perinatal infection NEC            Other infections specific to the perinatal period",
+	},
+	{
+		code: "7720   NB fetal blood loss NEC            Fetal blood loss",
+	},
+	{
+		code: "77210  NB intraven hem NOS                Intraventricular hemorrhage unspecified grade",
+	},
+	{
+		code: "77211  NB intraven hem",
+	},
+	{
+		code: "77212  NB intraven hem",
+	},
+	{
+		code: "77213  NB intravn hem",
+	},
+	{
+		code: "77214  NB intraven hem",
+	},
+	{
+		code: "7722   NB subarachnoid hemorr             Subarachnoid hemorrhage of fetus or newborn",
+	},
+	{
+		code: "7723   Post-birth umbil hemorr            Umbilical hemorrhage after birth",
+	},
+	{
+		code: "7724   NB GI hemorrhage                   Gastrointestinal hemorrhage of fetus or newborn",
+	},
+	{
+		code: "7725   NB adrenal hemorrhage              Adrenal hemorrhage of fetus or newborn",
+	},
+	{
+		code: "7726   NB cutaneous hemorrhage            Cutaneous hemorrhage of fetus or newborn",
+	},
+	{
+		code: "7728   Neonatal hemorrhage NEC            Other specified hemorrhage of fetus or newborn",
+	},
+	{
+		code: "7729   Neonatal hemorrhage NOS            Unspecified hemorrhage of newborn",
+	},
+	{
+		code: "7730   NB hemolyt dis:rh isoimm           Hemolytic disease of fetus or newborn due to Rh isoimmunization",
+	},
+	{
+		code: "7731   NB hemolyt dis-abo isoim           Hemolytic disease of fetus or newborn due to ABO isoimmunization",
+	},
+	{
+		code: "7732   NB hemolyt dis-isoim NEC           Hemolytic disease of fetus or newborn due to other and unspecified isoimmunization",
+	},
+	{
+		code: "7733   Hydrops fetalis:isoimm             Hydrops fetalis due to isoimmunization",
+	},
+	{
+		code: "7734   NB kernicterus:isoimmun            Kernicterus of fetus or newborn due to isoimmunization",
+	},
+	{
+		code: "7735   NB late anemia:isoimmun            Late anemia of fetus or newborn due to isoimmunization",
+	},
+	{
+		code: "7740   Perinat jaund-hered anem           Perinatal jaundice from hereditary hemolytic anemias",
+	},
+	{
+		code: "7741   Perinat jaund:hemolysis            Perinatal jaundice from other excessive hemolysis",
+	},
+	{
+		code: "7742   Neonat jaund preterm del           Neonatal jaundice associated with preterm delivery",
+	},
+	{
+		code: "77430  Delay conjugat jaund NOS           Neonatal jaundice due to delayed conjugation",
+	},
+	{
+		code: "77431  Neonat jaund in oth dis            Neonatal jaundice due to delayed conjugation in diseases classified elsewhere",
+	},
+	{
+		code: "77439  Delay conjugat jaund NEC           Other neonatal jaundice due to delayed conjugation from other causes",
+	},
+	{
+		code: "7744   Fetal/neonatal hepatitis           Perinatal jaundice due to hepatocellular damage",
+	},
+	{
+		code: "7745   Perinatal jaundice NEC             Perinatal jaundice from other causes",
+	},
+	{
+		code: "7746   Fetal/neonatal jaund NOS           Unspecified fetal and neonatal jaundice",
+	},
+	{
+		code: "7747   NB kernicterus                     Kernicterus of fetus or newborn not due to isoimmunization",
+	},
+	{
+		code: "7750   Infant diabet mother syn           Syndrome of ""infant of a diabetic mother""",
+	},
+	{
+		code: "7751   Neonat diabetes mellitus           Neonatal diabetes mellitus",
+	},
+	{
+		code: "7752   Neonat myasthenia gravis           Neonatal myasthenia gravis",
+	},
+	{
+		code: "7753   Neonatal thyrotoxicosis            Neonatal thyrotoxicosis",
+	},
+	{
+		code: "7754   Hypocalcem/hypomagnes NB           Hypocalcemia and hypomagnesemia of newborn",
+	},
+	{
+		code: "7755   Neonatal dehydration               Other transitory neonatal electrolyte disturbances",
+	},
+	{
+		code: "7756   Neonatal hypoglycemia              Neonatal hypoglycemia",
+	},
+	{
+		code: "7757   Late metab acidosis NB             Late metabolic acidosis of newborn",
+	},
+	{
+		code: "77581  NB acidosis NEC                    Other acidosis of newborn",
+	},
+	{
+		code: "77589  Neonat endo/met dis NEC            Other neonatal endocrine and metabolic disturbances",
+	},
+	{
+		code: "7759   Transient met dis NB NOS           Unspecified endocrine and metabolic disturbances specific to the fetus and newborn",
+	},
+	{
+		code: "7760   NB hemorrhagic disease             Hemorrhagic disease of newborn",
+	},
+	{
+		code: "7761   Neonatal thrombocytopen            Transient neonatal thrombocytopenia",
+	},
+	{
+		code: "7762   Dissem intravasc coag NB           Disseminated intravascular coagulation in newborn",
+	},
+	{
+		code: "7763   Oth neonatal coag dis              Other transient neonatal disorders of coagulation",
+	},
+	{
+		code: "7764   Polycythemia neonatorum            Polycythemia neonatorum",
+	},
+	{
+		code: "7765   Congenital anemia                  Congenital anemia",
+	},
+	{
+		code: "7766   Anemia of prematurity              Anemia of prematurity",
+	},
+	{
+		code: "7767   Neonatal neutropenia               Transient neonatal neutropenia",
+	},
+	{
+		code: "7768   Transient hemat dis NEC            Other specified transient hematological disorders of fetus or newborn",
+	},
+	{
+		code: "7769   NB hematological dis NOS           Unspecified hematological disorder specific to newborn",
+	},
+	{
+		code: "7771   Meconium obstruction               Meconium obstruction in fetus or newborn",
+	},
+	{
+		code: "7772   Intest obst-inspiss milk           Intestinal obstruction in newborn due to inspissated milk",
+	},
+	{
+		code: "7773   Swallowed blood syndrome           Hematemesis and melena of newborn due to swallowed maternal blood",
+	},
+	{
+		code: "7774   Transitory ileus of NB             Transitory ileus of newborn",
+	},
+	{
+		code: "7775   NECROT ENTEROCOLITIS NB            NECROT ENTEROCOLITIS NB",
+	},
+	{
+		code: "77750  Nec enterocoltis NB NOS            Necrotizing enterocolitis in newborn",
+	},
+	{
+		code: "77751  Stg I nec enterocol NB             Stage I necrotizing enterocolitis in newborn",
+	},
+	{
+		code: "77752  Stg II nec enterocol NB            Stage II necrotizing enterocolitis in newborn",
+	},
+	{
+		code: "77753  Stg III nec enterocol NB           Stage III necrotizing enterocolitis in newborn",
+	},
+	{
+		code: "7776   Perinatal intest perfor            Perinatal intestinal perforation",
+	},
+	{
+		code: "7778   Perinat GI sys dis NEC             Other specified perinatal disorders of digestive system",
+	},
+	{
+		code: "7779   Perinat GI sys dis NOS             Unspecified perinatal disorder of digestive system",
+	},
+	{
+		code: "7780   Hydrops fetalis no isoim           Hydrops fetalis not due to isoimmunization",
+	},
+	{
+		code: "7781   Sclerema neonatorum                Sclerema neonatorum",
+	},
+	{
+		code: "7782   NB cold injury syndrome            Cold injury syndrome of newborn",
+	},
+	{
+		code: "7783   NB hypothermia NEC                 Other hypothermia of newborn",
+	},
+	{
+		code: "7784   NB temp regulat dis NEC            Other disturbances of temperature regulation of newborn",
+	},
+	{
+		code: "7785   Edema of newborn NEC/NOS           Other and unspecified edema of newborn",
+	},
+	{
+		code: "7786   Congenital hydrocele               Congenital hydrocele",
+	},
+	{
+		code: "7787   NB breast engorgement              Breast engorgement in newborn",
+	},
+	{
+		code: "7788   NB integument cond NEC             Other specified conditions involving the integument of fetus and newborn",
+	},
+	{
+		code: "7789   NB integument cond NOS             Unspecified condition involving the integument and temperature regulation of fetus and newborn",
+	},
+	{
+		code: "7790   Convulsions in newborn             Convulsions in newborn",
+	},
+	{
+		code: "7791   NB cereb irrit NEC/NOS             Other and unspecified cerebral irritability in newborn",
+	},
+	{
+		code: "7792   Cns dysfunction syn NB             Cerebral depression",
+	},
+	{
+		code: "7793   NB FEEDING PROBLEMS                NB FEEDING PROBLEMS",
+	},
+	{
+		code: "77931  NB feeding problems                Feeding problems in newborn",
+	},
+	{
+		code: "77932  NB bilious vomiting                Bilious vomiting in newborn",
+	},
+	{
+		code: "77933  NB other vomiting                  Other vomiting in newborn",
+	},
+	{
+		code: "77934  NB failure to thrive               Failure to thrive in newborn",
+	},
+	{
+		code: "7794   NB drug reaction/intoxic           Drug reactions and intoxications specific to newborn",
+	},
+	{
+		code: "7795   NB drug withdrawal syndr           Drug withdrawal syndrome in newborn",
+	},
+	{
+		code: "7796   Termination of pregnancy           Termination of pregnancy (fetus)",
+	},
+	{
+		code: "7797   Perivent leukomalacia              Periventricular leukomalacia",
+	},
+	{
+		code: "77981  Neonatal bradycardia               Neonatal bradycardia",
+	},
+	{
+		code: "77982  Neonatal tachycardia               Neonatal tachycardia",
+	},
+	{
+		code: "77983  Delay separate umbl cord           Delayed separation of umbilical cord",
+	},
+	{
+		code: "77984  Meconium staining                  Meconium staining",
+	},
+	{
+		code: "77985  NB cardiac arrest                  Cardiac arrest of newborn",
+	},
+	{
+		code: "77989  Perinatal condition NEC            Other specified conditions originating in the perinatal period",
+	},
+	{
+		code: "7799   Perinatal condition NOS            Unspecified condition originating in the perinatal period",
+	},
+	{
+		code: "78001  Coma                               Coma",
+	},
+	{
+		code: "78002  Trans alter awareness              Transient alteration of awareness",
+	},
+	{
+		code: "78003  Persistent vegtv state             Persistent vegetative state",
+	},
+	{
+		code: "78009  Other alter consciousnes           Other alteration of consciousness",
+	},
+	{
+		code: "7801   Hallucinations                     Hallucinations",
+	},
+	{
+		code: "7802   Syncope and collapse               Syncope and collapse",
+	},
+	{
+		code: "78031  Febrile convulsions NOS            Febrile convulsions (simple)",
+	},
+	{
+		code: "78032  Complx febrile convulsns           Complex febrile convulsions",
+	},
+	{
+		code: "78033  Post traumatic seizures            Post traumatic seizures",
+	},
+	{
+		code: "78039  Convulsions NEC                    Other convulsions",
+	},
+	{
+		code: "7804   Dizziness and giddiness            Dizziness and giddiness",
+	},
+	{
+		code: "78050  Sleep disturbance NOS              Sleep disturbance",
+	},
+	{
+		code: "78051  Insomn w sleep apnea NOS           Insomnia with sleep apnea",
+	},
+	{
+		code: "78052  Insomnia NOS                       Insomnia",
+	},
+	{
+		code: "78053  Hypersom w slp apnea NOS           Hypersomnia with sleep apnea",
+	},
+	{
+		code: "78054  Hypersomnia NOS                    Hypersomnia",
+	},
+	{
+		code: "78055  Irreg sleep-wake rhy NOS           Disruption of 24 hour sleep wake cycle",
+	},
+	{
+		code: "78056  Sleep stage dysfunctions           Dysfunctions associated with sleep stages or arousal from sleep",
+	},
+	{
+		code: "78057  Sleep apnea NOS                    Unspecified sleep apnea",
+	},
+	{
+		code: "78058  Sleep rel move disor NOS           Sleep related movement disorder",
+	},
+	{
+		code: "78059  Sleep disturbances NEC             Other sleep disturbances",
+	},
+	{
+		code: "7806   Fever                              Fever",
+	},
+	{
+		code: "78060  Fever NOS                          Fever",
+	},
+	{
+		code: "78061  Fever in other diseases            Fever presenting with conditions classified elsewhere",
+	},
+	{
+		code: "78062  Postprocedural fever               Postprocedural fever",
+	},
+	{
+		code: "78063  Postvaccination fever              Postvaccination fever",
+	},
+	{
+		code: "78064  Chills (without fever)             Chills (without fever)",
+	},
+	{
+		code: "78065  Hypothrm-wo low env tmp            Hypothermia not associated with low environmental temperature",
+	},
+	{
+		code: "78066  Feb nonhemo transf react           Febrile nonhemolytic transfusion reaction",
+	},
+	{
+		code: "78071  Chronic fatigue syndrome           Chronic fatigue syndrome",
+	},
+	{
+		code: "78072  Functional quadriplegia            Functional quadriplegia",
+	},
+	{
+		code: "78079  Malaise and fatigue NEC            Other malaise and fatigue",
+	},
+	{
+		code: "7808   Generalizd hyperhidrosis           Generalized hyperhidrosis",
+	},
+	{
+		code: "78091  Fussy infant/baby                  Fussy infant (baby)",
+	},
+	{
+		code: "78092  Excess cry infant/baby             Excessive crying of infant (baby)",
+	},
+	{
+		code: "78093  Memory loss                        Memory loss",
+	},
+	{
+		code: "78094  Early satiety                      Early satiety",
+	},
+	{
+		code: "78095  Excs cry chld",
+	},
+	{
+		code: "78096  Generalized pain                   Generalized pain",
+	},
+	{
+		code: "78097  Altered mental status              Altered mental status",
+	},
+	{
+		code: "7810   Abn involun movement NEC           Abnormal involuntary movements",
+	},
+	{
+		code: "7811   Smell & taste disturb              Disturbances of sensation of smell and taste",
+	},
+	{
+		code: "7812   Abnormality of gait                Abnormality of gait",
+	},
+	{
+		code: "7813   Lack of coordination               Lack of coordination",
+	},
+	{
+		code: "7814   Transient limb paralysis           Transient paralysis of limb",
+	},
+	{
+		code: "7815   Clubbing of fingers                Clubbing of fingers",
+	},
+	{
+		code: "7816   Meningismus                        Meningismus",
+	},
+	{
+		code: "7817   Tetany                             Tetany",
+	},
+	{
+		code: "7818   Neurologic neglect syndr           Neurologic neglect syndrome",
+	},
+	{
+		code: "78191  Loss of height                     Loss of height",
+	},
+	{
+		code: "78192  Abnormal posture                   Abnormal posture",
+	},
+	{
+		code: "78193  Ocular torticollis                 Ocular torticollis",
+	},
+	{
+		code: "78194  Facial weakness                    Facial weakness",
+	},
+	{
+		code: "78199  Nerve/musculskel sym NEC           Other symptoms involving nervous and musculoskeletal systems",
+	},
+	{
+		code: "7820   Skin sensation disturb             Disturbance of skin sensation",
+	},
+	{
+		code: "7821   Nonspecif skin erupt NEC           Rash and other nonspecific skin eruption",
+	},
+	{
+		code: "7822   Local suprficial swellng           Localized superficial swelling",
+	},
+	{
+		code: "7823   Edema                              Edema",
+	},
+	{
+		code: "7824   Jaundice NOS                       Jaundice",
+	},
+	{
+		code: "7825   Cyanosis                           Cyanosis",
+	},
+	{
+		code: "78261  Pallor                             Pallor",
+	},
+	{
+		code: "78262  Flushing                           Flushing",
+	},
+	{
+		code: "7827   Spontaneous ecchymoses             Spontaneous ecchymoses",
+	},
+	{
+		code: "7828   Changes in skin texture            Changes in skin texture",
+	},
+	{
+		code: "7829   Integument tiss symp NEC           Other symptoms involving skin and integumentary tissues",
+	},
+	{
+		code: "7830   Anorexia                           Anorexia",
+	},
+	{
+		code: "7831   Abnormal weight gain               Abnormal weight gain",
+	},
+	{
+		code: "78321  Abnormal loss of weight            Loss of weight",
+	},
+	{
+		code: "78322  Underweight                        Underweight",
+	},
+	{
+		code: "7833   Feeding problem                    Feeding difficulties and mismanagement",
+	},
+	{
+		code: "78340  Lack norm physio dev NOS           Lack of normal physiological development",
+	},
+	{
+		code: "78341  Failure to thrive-child            Failure to thrive",
+	},
+	{
+		code: "78342  Delayed milestones                 Delayed milestones",
+	},
+	{
+		code: "78343  Short stature                      Short stature",
+	},
+	{
+		code: "7835   Polydipsia                         Polydipsia",
+	},
+	{
+		code: "7836   Polyphagia                         Polyphagia",
+	},
+	{
+		code: "7837   Failure to thrive-adult            Adult failure to thrive",
+	},
+	{
+		code: "7839   Nutr/metab/devel sym NEC           Other symptoms concerning nutrition",
+	},
+	{
+		code: "7840   Headache                           Headache                                                                                                                                                                                   Y",
+	},
+	{
+		code: "7841   Throat pain                        Throat pain",
+	},
+	{
+		code: "7842   Swelling in head & neck            Swelling",
+	},
+	{
+		code: "7843   Aphasia                            Aphasia",
+	},
+	{
+		code: "78440  Voice/resonance dis NOS            Voice and resonance disorder",
+	},
+	{
+		code: "78441  Aphonia                            Aphonia",
+	},
+	{
+		code: "78442  Dysphonia                          Dysphonia",
+	},
+	{
+		code: "78443  Hypernasality                      Hypernasality",
+	},
+	{
+		code: "78444  Hyponasality                       Hyponasality",
+	},
+	{
+		code: "78449  Voice/resonance dis NEC            Other voice and resonance disorders",
+	},
+	{
+		code: "7845   SPEECH DISTURBANCE NEC             SPEECH DISTURBANCE NEC",
+	},
+	{
+		code: "78451  Dysarthria                         Dysarthria",
+	},
+	{
+		code: "78452  Flncy dsord cond elsewhr           Fluency disorder in conditions classified elsewhere",
+	},
+	{
+		code: "78459  Speech disturbance NEC             Other speech disturbance",
+	},
+	{
+		code: "78460  Symbolic dysfunction NOS           Symbolic dysfunction",
+	},
+	{
+		code: "78461  Alexia and dyslexia                Alexia and dyslexia",
+	},
+	{
+		code: "78469  Symbolic dysfunction NEC           Other symbolic dysfunction",
+	},
+	{
+		code: "7847   Epistaxis                          Epistaxis",
+	},
+	{
+		code: "7848   Hemorrhage from throat             Hemorrhage from throat",
+	},
+	{
+		code: "78491  Postnasal drip                     Postnasal drip",
+	},
+	{
+		code: "78492  Jaw pain                           Jaw pain",
+	},
+	{
+		code: "78499  Head & neck symptoms NEC           Other symptoms involving head and neck",
+	},
+	{
+		code: "7850   Tachycardia NOS                    Tachycardia",
+	},
+	{
+		code: "7851   Palpitations                       Palpitations",
+	},
+	{
+		code: "7852   Cardiac murmurs NEC                Undiagnosed cardiac murmurs",
+	},
+	{
+		code: "7853   Abnorm heart sounds NEC            Other abnormal heart sounds",
+	},
+	{
+		code: "7854   Gangrene                           Gangrene",
+	},
+	{
+		code: "78550  Shock NOS                          Shock",
+	},
+	{
+		code: "78551  Cardiogenic shock                  Cardiogenic shock",
+	},
+	{
+		code: "78552  Septic shock                       Septic shock",
+	},
+	{
+		code: "78559  Shock w/o trauma NEC               Other shock without mention of trauma",
+	},
+	{
+		code: "7856   Enlargement lymph nodes            Enlargement of lymph nodes",
+	},
+	{
+		code: "7859   Cardiovas sys symp NEC             Other symptoms involving cardiovascular system",
+	},
+	{
+		code: "78600  Respiratory abnorm NOS             Respiratory abnormality",
+	},
+	{
+		code: "78601  Hyperventilation                   Hyperventilation",
+	},
+	{
+		code: "78602  Orthopnea                          Orthopnea",
+	},
+	{
+		code: "78603  Apnea                              Apnea",
+	},
+	{
+		code: "78604  Cheyne-stokes respiratn            Cheyne-Stokes respiration",
+	},
+	{
+		code: "78605  Shortness of breath                Shortness of breath",
+	},
+	{
+		code: "78606  Tachypnea                          Tachypnea",
+	},
+	{
+		code: "78607  Wheezing                           Wheezing",
+	},
+	{
+		code: "78609  Respiratory abnorm NEC             Other respiratory abnormalities",
+	},
+	{
+		code: "7861   Stridor                            Stridor",
+	},
+	{
+		code: "7862   Cough                              Cough",
+	},
+	{
+		code: "7863   Hemoptysis                         Hemoptysis",
+	},
+	{
+		code: "78630  Hemoptysis NOS                     Hemoptysis",
+	},
+	{
+		code: "78631  Ac idio pul hemrg infant           Acute idiopathic pulmonary hemorrhage in infants [AIPHI]",
+	},
+	{
+		code: "78639  Hemoptysis NEC                     Other hemoptysis",
+	},
+	{
+		code: "7864   Abnormal sputum                    Abnormal sputum",
+	},
+	{
+		code: "78650  Chest pain NOS                     Chest pain",
+	},
+	{
+		code: "78651  Precordial pain                    Precordial pain",
+	},
+	{
+		code: "78652  Painful respiration                Painful respiration",
+	},
+	{
+		code: "78659  Chest pain NEC                     Other chest pain",
+	},
+	{
+		code: "7866   Chest swelling/mass/lump           Swelling",
+	},
+	{
+		code: "7867   Abnormal chest sounds              Abnormal chest sounds",
+	},
+	{
+		code: "7868   Hiccough                           Hiccough",
+	},
+	{
+		code: "7869   Resp sys/chest symp NEC            Other symptoms involving respiratory system and chest",
+	},
+	{
+		code: "78701  Nausea with vomiting               Nausea with vomiting",
+	},
+	{
+		code: "78702  Nausea alone                       Nausea alone",
+	},
+	{
+		code: "78703  Vomiting alone                     Vomiting alone",
+	},
+	{
+		code: "78704  Bilious emesis                     Bilious emesis",
+	},
+	{
+		code: "7871   Heartburn                          Heartburn",
+	},
+	{
+		code: "78720  Dysphagia NOS                      Dysphagia",
+	},
+	{
+		code: "78721  Dysphagia",
+	},
+	{
+		code: "78722  Dysphagia",
+	},
+	{
+		code: "78723  Dysphagia",
+	},
+	{
+		code: "78724  Dysphagia",
+	},
+	{
+		code: "78729  Dysphagia NEC                      Other dysphagia",
+	},
+	{
+		code: "7873   Flatul/eructat/gas pain            Flatulence",
+	},
+	{
+		code: "7874   Visible peristalsis                Visible peristalsis",
+	},
+	{
+		code: "7875   Abnormal bowel sounds              Abnormal bowel sounds",
+	},
+	{
+		code: "7876   Incontinence of feces              Incontinence of feces",
+	},
+	{
+		code: "78760  Full incontinence-feces            Full incontinence of feces",
+	},
+	{
+		code: "78761  Incomplete defecation              Incomplete defecation",
+	},
+	{
+		code: "78762  Fecal smearing                     Fecal smearing",
+	},
+	{
+		code: "78763  Fecal urgency                      Fecal urgency",
+	},
+	{
+		code: "7877   Abnormal feces                     Abnormal feces",
+	},
+	{
+		code: "78791  Diarrhea                           Diarrhea",
+	},
+	{
+		code: "78799  Digestve syst symptm NEC           Other symptoms involving digestive system",
+	},
+	{
+		code: "7880   Renal colic                        Renal colic",
+	},
+	{
+		code: "7881   Dysuria                            Dysuria",
+	},
+	{
+		code: "78820  Retention urine NOS                Retention of urine",
+	},
+	{
+		code: "78821  Incmplet bldder emptying           Incomplete bladder emptying",
+	},
+	{
+		code: "78829  Oth spcf retention urine           Other specified retention of urine",
+	},
+	{
+		code: "78830  Urinary incontinence NOS           Urinary incontinence",
+	},
+	{
+		code: "78831  Urge incontinence                  Urge incontinence",
+	},
+	{
+		code: "78832  Stress incontinence male           Stress incontinence",
+	},
+	{
+		code: "78833  Mixed incontinence                 Mixed incontinence (male) (female)",
+	},
+	{
+		code: "78834  Incontnce wo sensr aware           Incontinence without sensory awareness",
+	},
+	{
+		code: "78835  Post-void dribbling                Post-void dribbling",
+	},
+	{
+		code: "78836  Nocturnal enuresis                 Nocturnal enuresis",
+	},
+	{
+		code: "78837  Continuous leakage                 Continuous leakage",
+	},
+	{
+		code: "78838  Overflow incontinence              Overflow incontinence",
+	},
+	{
+		code: "78839  Oth urinry incontinence            Other urinary incontinence",
+	},
+	{
+		code: "78841  Urinary frequency                  Urinary frequency",
+	},
+	{
+		code: "78842  Polyuria                           Polyuria",
+	},
+	{
+		code: "78843  Nocturia                           Nocturia",
+	},
+	{
+		code: "7885   Oliguria & anuria                  Oliguria and anuria",
+	},
+	{
+		code: "78861  Splitting urinary stream           Splitting of urinary stream",
+	},
+	{
+		code: "78862  Slowing urinary stream             Slowing of urinary stream",
+	},
+	{
+		code: "78863  Urgency of urination               Urgency of urination",
+	},
+	{
+		code: "78864  Urinary hesitancy                  Urinary hesitancy",
+	},
+	{
+		code: "78865  Straining on urination             Straining on urination",
+	},
+	{
+		code: "78869  Oth abnormalt urination            Other abnormality of urination",
+	},
+	{
+		code: "7887   Urethral discharge                 Urethral discharge",
+	},
+	{
+		code: "7888   Extravasation of urine             Extravasation of urine",
+	},
+	{
+		code: "7889   URINARY SYS SYMPTOM NEC            URINARY SYS SYMPTOM NEC",
+	},
+	{
+		code: "78891  Fnctnl urinary incontnce           Functional urinary incontinence",
+	},
+	{
+		code: "78899  Oth symptm urinary systm           Other symptoms involving urinary system",
+	},
+	{
+		code: "78900  Abdmnal pain unspcf site           Abdominal pain",
+	},
+	{
+		code: "78901  Abdmnal pain rt upr quad           Abdominal pain",
+	},
+	{
+		code: "78902  Abdmnal pain lft up quad           Abdominal pain",
+	},
+	{
+		code: "78903  Abdmnal pain rt lwr quad           Abdominal pain",
+	},
+	{
+		code: "78904  Abdmnal pain lt lwr quad           Abdominal pain",
+	},
+	{
+		code: "78905  Abdmnal pain periumbilic           Abdominal pain",
+	},
+	{
+		code: "78906  Abdmnal pain epigastric            Abdominal pain",
+	},
+	{
+		code: "78907  Abdmnal pain generalized           Abdominal pain",
+	},
+	{
+		code: "78909  Abdmnal pain oth spcf st           Abdominal pain",
+	},
+	{
+		code: "7891   Hepatomegaly                       Hepatomegaly",
+	},
+	{
+		code: "7892   Splenomegaly                       Splenomegaly",
+	},
+	{
+		code: "78930  Abdmnal mass unspcf site           Abdominal or pelvic swelling",
+	},
+	{
+		code: "78931  Abdmnal mass rt upr quad           Abdominal or pelvic swelling",
+	},
+	{
+		code: "78932  Abdmnal mass lft up quad           Abdominal or pelvic swelling",
+	},
+	{
+		code: "78933  Abdmnal mass rt lwr quad           Abdominal or pelvic swelling",
+	},
+	{
+		code: "78934  Abdmnal mass lt lwr quad           Abdominal or pelvic swelling",
+	},
+	{
+		code: "78935  Abdmnal mass periumbilic           Abdominal or pelvic swelling",
+	},
+	{
+		code: "78936  Abdmnal mass epigastric            Abdominal or pelvic swelling",
+	},
+	{
+		code: "78937  Abdmnal mass generalized           Abdominal or pelvic swelling",
+	},
+	{
+		code: "78939  Abdmnal mass oth spcf st           Abdominal or pelvic swelling",
+	},
+	{
+		code: "78940  Abdmnal rgdt unspcf site           Abdominal rigidity",
+	},
+	{
+		code: "78941  Abdmnal rgdt rt upr quad           Abdominal rigidity",
+	},
+	{
+		code: "78942  Abdmnal rgdt lft up quad           Abdominal rigidity",
+	},
+	{
+		code: "78943  Abdmnal rgdt rt lwr quad           Abdominal rigidity",
+	},
+	{
+		code: "78944  Abdmnal rgdt lt lwr quad           Abdominal rigidity",
+	},
+	{
+		code: "78945  Abdmnal rgdt periumbilic           Abdominal rigidity",
+	},
+	{
+		code: "78946  Abdmnal rgdt epigastric            Abdominal rigidity",
+	},
+	{
+		code: "78947  Abdmnal rgdt generalized           Abdominal rigidity",
+	},
+	{
+		code: "78949  Abdmnal rgdt oth spcf st           Abdominal rigidity",
+	},
+	{
+		code: "78951  Malignant ascites                  Malignant ascites",
+	},
+	{
+		code: "78959  Ascites NEC                        Other ascites",
+	},
+	{
+		code: "78960  Abdmnal tndr unspcf site           Abdominal tenderness",
+	},
+	{
+		code: "78961  Abdmnal tndr rt upr quad           Abdominal tenderness",
+	},
+	{
+		code: "78962  Abdmnal tndr lft up quad           Abdominal tenderness",
+	},
+	{
+		code: "78963  Abdmnal tndr rt lwr quad           Abdominal tenderness",
+	},
+	{
+		code: "78964  Abdmnal tndr lt lwr quad           Abdominal tenderness",
+	},
+	{
+		code: "78965  Abdmnal tndr periumbilic           Abdominal tenderness",
+	},
+	{
+		code: "78966  Abdmnal tndr epigastric            Abdominal tenderness",
+	},
+	{
+		code: "78967  Abdmnal tndr generalized           Abdominal tenderness",
+	},
+	{
+		code: "78969  Abdmnal tndr oth spcf st           Abdominal tenderness",
+	},
+	{
+		code: "7897   Colic                              Colic",
+	},
+	{
+		code: "7899   Abdomen/pelvis symp NEC            Other symptoms involving abdomen and pelvis",
+	},
+	{
+		code: "79001  Drop",
+	},
+	{
+		code: "79009  Abnormal RBC NEC                   Other abnormality of red blood cells",
+	},
+	{
+		code: "7901   Elevated sediment rate             Elevated sedimentation rate",
+	},
+	{
+		code: "79021  Impaired fasting glucose           Impaired fasting glucose",
+	},
+	{
+		code: "79022  Impaired oral glucse tol           Impaired glucose tolerance test (oral)",
+	},
+	{
+		code: "79029  Abnormal glucose NEC               Other abnormal glucose",
+	},
+	{
+		code: "7903   Excess blood-alcohol lev           Excessive blood level of alcohol",
+	},
+	{
+		code: "7904   Elev transaminase/ldh              Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]",
+	},
+	{
+		code: "7905   Abn serum enzy level NEC           Other nonspecific abnormal serum enzyme levels",
+	},
+	{
+		code: "7906   Abn blood chemistry NEC            Other abnormal blood chemistry",
+	},
+	{
+		code: "7907   Bacteremia                         Bacteremia",
+	},
+	{
+		code: "7908   Viremia NOS                        Viremia",
+	},
+	{
+		code: "79091  Abnrml art blood gases             Abnormal arterial blood gases",
+	},
+	{
+		code: "79092  Abnrml coagultion prfile           Abnormal coagulation profile",
+	},
+	{
+		code: "79093  Elvtd prstate spcf antgn           Elevated prostate specific antigen [PSA]",
+	},
+	{
+		code: "79094  Euthyroid sick syndrome            Euthyroid sick syndrome",
+	},
+	{
+		code: "79095  Elev C-reactive protein            Elevated C-reactive protein (CRP)",
+	},
+	{
+		code: "79099  Oth nspcf finding blood            Other nonspecific findings on examination of blood",
+	},
+	{
+		code: "7910   Proteinuria                        Proteinuria",
+	},
+	{
+		code: "7911   Chyluria                           Chyluria",
+	},
+	{
+		code: "7912   Hemoglobinuria                     Hemoglobinuria",
+	},
+	{
+		code: "7913   Myoglobinuria                      Myoglobinuria",
+	},
+	{
+		code: "7914   Biliuria                           Biliuria",
+	},
+	{
+		code: "7915   Glycosuria                         Glycosuria",
+	},
+	{
+		code: "7916   Acetonuria                         Acetonuria",
+	},
+	{
+		code: "7917   Oth cells/casts in urine           Other cells and casts in urine",
+	},
+	{
+		code: "7919   Abn urine findings NEC             Other nonspecific findings on examination of urine",
+	},
+	{
+		code: "7920   Abn fnd-cerebrospinal fl           Nonspecific abnormal findings in cerebrospinal fluid",
+	},
+	{
+		code: "7921   Abn find-stool contents            Nonspecific abnormal findings in stool contents",
+	},
+	{
+		code: "7922   Abn findings-semen                 Nonspecific abnormal findings in semen",
+	},
+	{
+		code: "7923   Abn find-amniotic fluid            Nonspecific abnormal findings in amniotic fluid",
+	},
+	{
+		code: "7924   Abn findings-saliva                Nonspecific abnormal findings in saliva",
+	},
+	{
+		code: "7925   Cloudy dialysis effluent           Cloudy (hemodialysis) (peritoneal) dialysis effluent",
+	},
+	{
+		code: "7929   Abn find-body subst NEC            Other nonspecific abnormal findings in body substances",
+	},
+	{
+		code: "7930   Nonsp abn fd-skull/head            Nonspecific (abnormal) findings on radiological and other examination of skull and head",
+	},
+	{
+		code: "7931   Nonsp abn fd-lung field            Nonsp abn fd-lung field",
+	},
+	{
+		code: "79311  Solitary pulmonry nodule           Solitary pulmonary nodule",
+	},
+	{
+		code: "79319  Ot nonsp ab fnd lung fld           Other nonspecific abnormal finding of lung field",
+	},
+	{
+		code: "7932   Nonsp abn intrathor NEC            Nonspecific (abnormal) findings on radiological and other examination of other intrathoracic organs",
+	},
+	{
+		code: "7933   Nonsp abn fd-bilry tract           Nonspecific (abnormal) findings on radiological and other examination of biliary tract",
+	},
+	{
+		code: "7934   Nonsp abn find-gi tract            Nonspecific (abnormal) findings on radiological and other examination of gastrointestinal tract",
+	},
+	{
+		code: "7935   Nonsp abn find-gu organs           Nonspecific (abnormal) findings on radiological and other examination of genitourinary organs",
+	},
+	{
+		code: "7936   Nonsp abn fnd-abdom area           Nonspecific (abnormal) findings on radiological and other examination of abdominal area",
+	},
+	{
+		code: "7937   Nonsp abn find-ms system           Nonspecific (abnormal) findings on radiological and other examination of musculoskeletal system",
+	},
+	{
+		code: "79380  Ab mammogram NOS                   Abnormal mammogram",
+	},
+	{
+		code: "79381  Mammographic microcalcif           Mammographic microcalcification",
+	},
+	{
+		code: "79382  Inconclusive mammogram             Inconclusive mammogram",
+	},
+	{
+		code: "79389  Abn finding-breast NEC             Other (abnormal) findings on radiological examination of breast",
+	},
+	{
+		code: "79391  Image test incon d/t fat           Image test inconclusive due to excess body fat",
+	},
+	{
+		code: "79399  Nonsp abn find-body NEC            Other nonspecific (abnormal) findings on radiological and other examinations of body structure",
+	},
+	{
+		code: "79400  Abn cns funct study NOS            Abnormal function study of brain and central nervous system",
+	},
+	{
+		code: "79401  Abnorm echoencephalogram           Nonspecific abnormal echoencephalogram",
+	},
+	{
+		code: "79402  Abn electroencephalogram           Nonspecific abnormal electroencephalogram [EEG]",
+	},
+	{
+		code: "79409  Abn cns funct study NEC            Other nonspecific abnormal results of function study of brain and central nervous system",
+	},
+	{
+		code: "79410  Abn stimul response NOS            Nonspecific abnormal response to nerve stimulation",
+	},
+	{
+		code: "79411  Abn retinal funct study            Nonspecific abnormal retinal function studies",
+	},
+	{
+		code: "79412  Abnorm electro-oculogram           Nonspecific abnormal electro-oculogram [EOG]",
+	},
+	{
+		code: "79413  Abnormal vep                       Nonspecific abnormal visually evoked potential",
+	},
+	{
+		code: "79414  Abn oculomotor studies             Nonspecific abnormal oculomotor studies",
+	},
+	{
+		code: "79415  Abn auditory funct study           Nonspecific abnormal auditory function studies",
+	},
+	{
+		code: "79416  Abn vestibular func stud           Nonspecific abnormal vestibular function studies",
+	},
+	{
+		code: "79417  Abnorm electromyogram              Nonspecific abnormal electromyogram [EMG]",
+	},
+	{
+		code: "79419  Abn periph nerv stud NEC           Other nonspecific abnormal results of function study of peripheral nervous system and special senses",
+	},
+	{
+		code: "7942   Abn pulmonary func study           Nonspecific abnormal results of pulmonary function study",
+	},
+	{
+		code: "79430  Abn cardiovasc study NOS           Abnormal cardiovascular function study",
+	},
+	{
+		code: "79431  Abnorm electrocardiogram           Nonspecific abnormal electrocardiogram [ECG] [EKG]",
+	},
+	{
+		code: "79439  Abn cardiovasc study NEC           Other nonspecific abnormal results of function study of cardiovascular system",
+	},
+	{
+		code: "7944   Abn kidney funct study             Nonspecific abnormal results of function study of kidney",
+	},
+	{
+		code: "7945   Abn thyroid funct study            Nonspecific abnormal results of function study of thyroid",
+	},
+	{
+		code: "7946   Abn endocrine study NEC            Nonspecific abnormal results of other endocrine function study",
+	},
+	{
+		code: "7947   Abn basal metabol study            Nonspecific abnormal results of function study of basal metabolism",
+	},
+	{
+		code: "7948   Abn liver function study           Nonspecific abnormal results of function study of liver",
+	},
+	{
+		code: "7949   Abn function study NEC             Nonspecific abnormal results of other specified function study",
+	},
+	{
+		code: "79500  Abn glandular pap smear            Abnormal glandular Papanicolaou smear of cervix",
+	},
+	{
+		code: "79501  Pap smear (ASC-US)                 Papanicolaou smear of cervix with atypical squamous cells of undetermined significance (ASC-US)",
+	},
+	{
+		code: "79502  Pap smear (ASC-H)                  Papanicolaou smear of cervix with atypical squamous cells cannot exclude high grade squamous intraepithelial lesion (ASC-H)",
+	},
+	{
+		code: "79503  Pap smear cervix w LGSIL           Papanicolaou smear of cervix with low grade squamous intraepithelial lesion (LGSIL)",
+	},
+	{
+		code: "79504  Pap smear cervix w HGSIL           Papanicolaou smear of cervix with high grade squamous intraepithelial lesion (HGSIL)",
+	},
+	{
+		code: "79505  Cervical (HPV) DNA pos             Cervical high risk human papillomavirus (HPV) DNA test positive",
+	},
+	{
+		code: "79506  Pap smr cytol evid malig           Papanicolaou smear of cervix with cytologic evidence of malignancy",
+	},
+	{
+		code: "79507  Sat cerv smr-no trnsfrm            Satisfactory cervical smear but lacking transformation zone",
+	},
+	{
+		code: "79508  Unsat cerv cytlogy smear           Unsatisfactory cervical cytology smear",
+	},
+	{
+		code: "79509  Abn pap cervix HPV NEC             Other abnormal Papanicolaou smear of cervix and cervical HPV",
+	},
+	{
+		code: "7951   ABN PAP SMEAR-OTH SITE             ABN PAP SMEAR-OTH SITE",
+	},
+	{
+		code: "79510  Abn gland pap smr vagina           Abnormal glandular Papanicolaou smear of vagina",
+	},
+	{
+		code: "79511  Pap smear vag w ASC-US             Papanicolaou smear of vagina with atypical squamous cells of undetermined significance (ASC-US)",
+	},
+	{
+		code: "79512  Pap smear vagina w ASC-H           Papanicolaou smear of vagina with atypical squamous cells cannot exclude high grade squamous intraepithelial lesion (ASC-H)",
+	},
+	{
+		code: "79513  Pap smear vagina w LGSIL           Papanicolaou smear of vagina with low grade squamous intraepithelial lesion (LGSIL)",
+	},
+	{
+		code: "79514  Pap smear vagina w HGSIL           Papanicolaou smear of vagina with high grade squamous intraepithelial lesion (HGSIL)",
+	},
+	{
+		code: "79515  Vag hi risk HPV-DNA pos            Vaginal high risk human papillomavirus (HPV) DNA test positive",
+	},
+	{
+		code: "79516  Pap smr vag-cytol malig            Papanicolaou smear of vagina with cytologic evidence of malignancy",
+	},
+	{
+		code: "79518  Vaginl cytol smr unsatis           Unsatisfactory vaginal cytology smear",
+	},
+	{
+		code: "79519  Oth abn Pap smr vag/HPV            Other abnormal Papanicolaou smear of vagina and vaginal HPV",
+	},
+	{
+		code: "7952   Abn chromosomal analysis           Nonspecific abnormal findings on chromosomal analysis",
+	},
+	{
+		code: "79531  Nonsp postv find-anthrax           Nonspecific positive findings for anthrax",
+	},
+	{
+		code: "79539  Nonsp positive cult NEC            Other nonspecific positive culture findings",
+	},
+	{
+		code: "7954   Abn histologic find NEC            Other nonspecific abnormal histological findings",
+	},
+	{
+		code: "7955   Tuberculin test reaction           Tuberculin test reaction",
+	},
+	{
+		code: "79551  Nonsp rea skn test wo tb           Nonspecific reaction to tuberculin skin test without active tuberculosis",
+	},
+	{
+		code: "79552  Nonsp rea gma interferon           Nonspecific reaction to cell mediated immunity measurement of gamma interferon antigen response without active tuberculosis",
+	},
+	{
+		code: "7956   False pos sero test-syph           False positive serological test for syphilis",
+	},
+	{
+		code: "79571  Nonspcf serlgc evdnc hiv           Nonspecific serologic evidence of human immunodeficiency virus [HIV]",
+	},
+	{
+		code: "79579  Oth unspcf nspf imun fnd           Other and unspecified nonspecific immunological findings",
+	},
+	{
+		code: "79581  Elev ca-embryoic antigen           Elevated carcinoembryonic antigen [CEA]",
+	},
+	{
+		code: "79582  Elev ca antigen 125                Elevated cancer antigen 125 [CA 125]",
+	},
+	{
+		code: "79589  Abnorml tumor marker NEC           Other abnormal tumor markers",
+	},
+	{
+		code: "7960   Abn toxicologic finding            Nonspecific abnormal toxicological findings",
+	},
+	{
+		code: "7961   Abnormal reflex                    Abnormal reflex",
+	},
+	{
+		code: "7962   Elev bl pres w/o hypertn           Elevated blood pressure reading without diagnosis of hypertension",
+	},
+	{
+		code: "7963   Low blood press reading            Nonspecific low blood pressure reading",
+	},
+	{
+		code: "7965   Abn find antenatl screen           Abnormal finding on antenatal screening",
+	},
+	{
+		code: "7966   Abnorm neonate screening           Abnormal findings on neonatal screening",
+	},
+	{
+		code: "79670  Abn gland pap smear anus           Abnormal glandular Papanicolaou smear of anus",
+	},
+	{
+		code: "79671  Pap smear anus w ASC-US            Papanicolaou smear of anus with atypical squamous cells of undetermined significance (ASC-US)",
+	},
+	{
+		code: "79672  Pap smear anus w ASC-H             Papanicolaou smear of anus with atypical squamous cells cannot exclude high grade squamous intraepithelial lesion (ASC-H)",
+	},
+	{
+		code: "79673  Pap smear anus w LGSIL             Papanicolaou smear of anus with low grade squamous intraepithelial lesion (LGSIL)",
+	},
+	{
+		code: "79674  Pap smear anus w HGSIL             Papanicolaou smear of anus with high grade squamous intraepithelial lesion (HGSIL)",
+	},
+	{
+		code: "79675  Anal hi risk HPV-DNA pos           Anal high risk human papillomavirus (HPV) DNA test positive",
+	},
+	{
+		code: "79676  Pap smr anus-cytol malig           Papanicolaou smear of anus with cytologic evidence of malignancy",
+	},
+	{
+		code: "79677  Sat anal smr-no trnsfrm            Satisfactory anal smear but lacking transformation zone",
+	},
+	{
+		code: "79678  Anal cytolgy smr unsatis           Unsatisfactory anal cytology smear",
+	},
+	{
+		code: "79679  Oth abn Pap smr anus/HPV           Other abnormal Papanicolaou smear of anus and anal HPV",
+	},
+	{
+		code: "797    Senility w/o psychosis             Senility without mention of psychosis",
+	},
+	{
+		code: "7980   Sudden infant death synd           Sudden infant death syndrome",
+	},
+	{
+		code: "79901  Asphyxia                           Asphyxia",
+	},
+	{
+		code: "79902  Hypoxemia                          Hypoxemia",
+	},
+	{
+		code: "7991   Respiratory arrest                 Respiratory arrest",
+	},
+	{
+		code: "7992   NERVOUSNESS                        NERVOUSNESS",
+	},
+	{
+		code: "79921  Nervousness                        Nervousness",
+	},
+	{
+		code: "79922  Irritability                       Irritability",
+	},
+	{
+		code: "79923  Impulsiveness                      Impulsiveness",
+	},
+	{
+		code: "79924  Emotional lability                 Emotional lability",
+	},
+	{
+		code: "79925  Demoralization & apathy            Demoralization and apathy",
+	},
+	{
+		code: "79929  Emotional state sym NEC            Other signs and symptoms involving emotional state",
+	},
+	{
+		code: "7993   Debility NOS                       Debility",
+	},
+	{
+		code: "7994   Cachexia                           Cachexia",
+	},
+	{
+		code: "79951  Attn/concentrate deficit           Attention or concentration deficit",
+	},
+	{
+		code: "79952  Cog communicate deficit            Cognitive communication deficit",
+	},
+	{
+		code: "79953  Visuospatial deficit               Visuospatial deficit",
+	},
+	{
+		code: "79954  Psychomotor deficit                Psychomotor deficit",
+	},
+	{
+		code: "79955  Frontal lobe deficit               Frontal lobe and executive function deficit",
+	},
+	{
+		code: "79959  Cognition sign/sympt NEC           Other signs and symptoms involving cognition",
+	},
+	{
+		code: "79981  Decreased libido                   Decreased libido",
+	},
+	{
+		code: "79982  Appar life threat-infant           Apparent life threatening event in infant",
+	},
+}

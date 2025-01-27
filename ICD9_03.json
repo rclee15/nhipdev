@@ -1,0 +1,5171 @@
+{
+	{
+		code: "30000  Anxiety state NOS                  Anxiety state",
+	},
+	{
+		code: "30001  Panic dis w/o agorphobia           Panic disorder without agoraphobia                                                                                                                                                         Y",
+	},
+	{
+		code: "30002  Generalized anxiety dis            Generalized anxiety disorder                                                                                                                                                               Y",
+	},
+	{
+		code: "30009  Anxiety state NEC                  Other anxiety states                                                                                                                                                                       Y",
+	},
+	{
+		code: "30010  Hysteria NOS                       Hysteria",
+	},
+	{
+		code: "30011  Conversion disorder                Conversion disorder                                                                                                                                                                        Y",
+	},
+	{
+		code: "30012  Dissociative amnesia               Dissociative amnesia                                                                                                                                                                       Y",
+	},
+	{
+		code: "30013  Dissociative fugue                 Dissociative fugue                                                                                                                                                                         Y",
+	},
+	{
+		code: "30014  Dissociatve identity dis           Dissociative identity disorder                                                                                                                                                             Y",
+	},
+	{
+		code: "30015  Dissociative react NOS             Dissociative disorder or reaction",
+	},
+	{
+		code: "30016  Factitious dis w symptom           Factitious disorder with predominantly psychological signs and symptoms                                                                                                                    Y",
+	},
+	{
+		code: "30019  Factitious ill NEC/NOS             Other and unspecified factitious illness                                                                                                                                                   Y",
+	},
+	{
+		code: "30020  Phobia NOS                         Phobia",
+	},
+	{
+		code: "30021  Agoraphobia w panic dis            Agoraphobia with panic disorder                                                                                                                                                            Y",
+	},
+	{
+		code: "30022  Agoraphobia w/o panic              Agoraphobia without mention of panic attacks                                                                                                                                               Y",
+	},
+	{
+		code: "30023  Social phobia                      Social phobia                                                                                                                                                                              Y",
+	},
+	{
+		code: "30029  Isolated/spec phobia NEC           Other isolated or specific phobias                                                                                                                                                         Y",
+	},
+	{
+		code: "3003   Obsessive-compulsive dis           Obsessive-compulsive disorders                                                                                                                                                             Y",
+	},
+	{
+		code: "3004   Dysthymic disorder                 Dysthymic disorder                                                                                                                                                                         Y",
+	},
+	{
+		code: "3005   Neurasthenia                       Neurasthenia                                                                                                                                                                               Y",
+	},
+	{
+		code: "3006   Depersonalization disord           Depersonalization disorder                                                                                                                                                                 Y",
+	},
+	{
+		code: "3007   Hypochondriasis                    Hypochondriasis                                                                                                                                                                            Y",
+	},
+	{
+		code: "30081  Somatization disorder              Somatization disorder                                                                                                                                                                      Y",
+	},
+	{
+		code: "30082  Undiff somatoform disrdr           Undifferentiated somatoform disorder                                                                                                                                                       Y",
+	},
+	{
+		code: "30089  Somatoform disorders NEC           Other somatoform disorders                                                                                                                                                                 Y",
+	},
+	{
+		code: "3009   Nonpsychotic disord NOS            Unspecified nonpsychotic mental disorder                                                                                                                                                   Y",
+	},
+	{
+		code: "3010   Paranoid personality               Paranoid personality disorder",
+	},
+	{
+		code: "30110  Affectiv personality NOS           Affective personality disorder",
+	},
+	{
+		code: "30111  Chronic hypomanic person           Chronic hypomanic personality disorder",
+	},
+	{
+		code: "30112  Chr depressive person              Chronic depressive personality disorder",
+	},
+	{
+		code: "30113  Cyclothymic disorder               Cyclothymic disorder",
+	},
+	{
+		code: "30120  Schizoid personality NOS           Schizoid personality disorder",
+	},
+	{
+		code: "30121  Introverted personality            Introverted personality",
+	},
+	{
+		code: "30122  Schizotypal person dis             Schizotypal personality disorder",
+	},
+	{
+		code: "3013   Explosive personality              Explosive personality disorder",
+	},
+	{
+		code: "3014   Obsessive-compulsive dis           Obsessive-compulsive personality disorder",
+	},
+	{
+		code: "30150  Histrionic person NOS              Histrionic personality disorder",
+	},
+	{
+		code: "30151  Chr factitious illness             Chronic factitious illness with physical symptoms",
+	},
+	{
+		code: "30159  Histrionic person NEC              Other histrionic personality disorder",
+	},
+	{
+		code: "3016   Dependent personality              Dependent personality disorder",
+	},
+	{
+		code: "3017   Antisocial personality             Antisocial personality disorder",
+	},
+	{
+		code: "30181  Narcissistic personality           Narcissistic personality disorder",
+	},
+	{
+		code: "30182  Avoidant personality dis           Avoidant personality disorder",
+	},
+	{
+		code: "30183  Borderline personality             Borderline personality disorder",
+	},
+	{
+		code: "30184  Passive-aggressiv person           Passive-aggressive personality",
+	},
+	{
+		code: "30189  Personality disorder NEC           Other personality disorders",
+	},
+	{
+		code: "3019   Personality disorder NOS           Unspecified personality disorder",
+	},
+	{
+		code: "3020   Ego-dystonic sex orient            Ego-dystonic sexual orientation",
+	},
+	{
+		code: "3021   Zoophilia                          Zoophilia",
+	},
+	{
+		code: "3022   Pedophilia                         Pedophilia",
+	},
+	{
+		code: "3023   Transvestic fetishism              Transvestic fetishism",
+	},
+	{
+		code: "3024   Exhibitionism                      Exhibitionism",
+	},
+	{
+		code: "30250  Trans-sexualism NOS                Trans-sexualism with unspecified sexual history",
+	},
+	{
+		code: "30251  Trans-sexualism",
+	},
+	{
+		code: "30252  Trans-sexual",
+	},
+	{
+		code: "30253  Trans-sex",
+	},
+	{
+		code: "3026   Gendr identity dis-child           Gender identity disorder in children",
+	},
+	{
+		code: "30270  Psychosexual dysfunc NOS           Psychosexual dysfunction",
+	},
+	{
+		code: "30271  Hypoactive sex desire              Hypoactive sexual desire disorder",
+	},
+	{
+		code: "30272  Inhibited sex excitement           Psychosexual dysfunction with inhibited sexual excitement",
+	},
+	{
+		code: "30273  Female orgasmic disorder           Female orgasmic disorder",
+	},
+	{
+		code: "30274  Male orgasmic disorder             Male orgasmic disorder",
+	},
+	{
+		code: "30275  Premature ejaculation              Premature ejaculation",
+	},
+	{
+		code: "30276  Dyspareunia",
+	},
+	{
+		code: "30279  Psychosexual dysfunc NEC           Psychosexual dysfunction with other specified psychosexual dysfunctions",
+	},
+	{
+		code: "30281  Fetishism                          Fetishism",
+	},
+	{
+		code: "30282  Voyeurism                          Voyeurism",
+	},
+	{
+		code: "30283  Sexual masochism                   Sexual masochism",
+	},
+	{
+		code: "30284  Sexual sadism                      Sexual sadism",
+	},
+	{
+		code: "30285  Gend iden dis",
+	},
+	{
+		code: "30289  Psychosexual dis NEC               Other specified psychosexual disorders",
+	},
+	{
+		code: "3029   Psychosexual dis NOS               Unspecified psychosexual disorder",
+	},
+	{
+		code: "30300  Ac alcohol intox-unspec            Acute alcoholic intoxication in alcoholism",
+	},
+	{
+		code: "30301  Ac alcohol intox-contin            Acute alcoholic intoxication in alcoholism",
+	},
+	{
+		code: "30302  Ac alcohol intox-episod            Acute alcoholic intoxication in alcoholism",
+	},
+	{
+		code: "30303  Ac alcohol intox-remiss            Acute alcoholic intoxication in alcoholism",
+	},
+	{
+		code: "30390  Alcoh dep NEC/NOS-unspec           Other and unspecified alcohol dependence",
+	},
+	{
+		code: "30391  Alcoh dep NEC/NOS-contin           Other and unspecified alcohol dependence",
+	},
+	{
+		code: "30392  Alcoh dep NEC/NOS-episod           Other and unspecified alcohol dependence",
+	},
+	{
+		code: "30393  Alcoh dep NEC/NOS-remiss           Other and unspecified alcohol dependence",
+	},
+	{
+		code: "30400  Opioid dependence-unspec           Opioid type dependence",
+	},
+	{
+		code: "30401  Opioid dependence-contin           Opioid type dependence",
+	},
+	{
+		code: "30402  Opioid dependence-episod           Opioid type dependence",
+	},
+	{
+		code: "30403  Opioid dependence-remiss           Opioid type dependence",
+	},
+	{
+		code: "30410  Sed",
+	},
+	{
+		code: "30411  Sed",
+	},
+	{
+		code: "30412  Sed",
+	},
+	{
+		code: "30413  Sed",
+	},
+	{
+		code: "30420  Cocaine depend-unspec              Cocaine dependence",
+	},
+	{
+		code: "30421  Cocaine depend-contin              Cocaine dependence",
+	},
+	{
+		code: "30422  Cocaine depend-episodic            Cocaine dependence",
+	},
+	{
+		code: "30423  Cocaine depend-remiss              Cocaine dependence",
+	},
+	{
+		code: "30430  Cannabis depend-unspec             Cannabis dependence",
+	},
+	{
+		code: "30431  Cannabis depend-contin             Cannabis dependence",
+	},
+	{
+		code: "30432  Cannabis depend-episodic           Cannabis dependence",
+	},
+	{
+		code: "30433  Cannabis depend-remiss             Cannabis dependence",
+	},
+	{
+		code: "30440  Amphetamin depend-unspec           Amphetamine and other psychostimulant dependence",
+	},
+	{
+		code: "30441  Amphetamin depend-contin           Amphetamine and other psychostimulant dependence",
+	},
+	{
+		code: "30442  Amphetamin depend-episod           Amphetamine and other psychostimulant dependence",
+	},
+	{
+		code: "30443  Amphetamin depend-remiss           Amphetamine and other psychostimulant dependence",
+	},
+	{
+		code: "30450  Hallucinogen dep-unspec            Hallucinogen dependence",
+	},
+	{
+		code: "30451  Hallucinogen dep-contin            Hallucinogen dependence",
+	},
+	{
+		code: "30452  Hallucinogen dep-episod            Hallucinogen dependence",
+	},
+	{
+		code: "30453  Hallucinogen dep-remiss            Hallucinogen dependence",
+	},
+	{
+		code: "30460  Drug depend NEC-unspec             Other specified drug dependence",
+	},
+	{
+		code: "30461  Drug depend NEC-contin             Other specified drug dependence",
+	},
+	{
+		code: "30462  Drug depend NEC-episodic           Other specified drug dependence",
+	},
+	{
+		code: "30463  Drug depend NEC-in rem             Other specified drug dependence",
+	},
+	{
+		code: "30470  Opioid/other dep-unspec            Combinations of opioid type drug with any other drug dependence",
+	},
+	{
+		code: "30471  Opioid/other dep-contin            Combinations of opioid type drug with any other drug dependence",
+	},
+	{
+		code: "30472  Opioid/other dep-episod            Combinations of opioid type drug with any other drug dependence",
+	},
+	{
+		code: "30473  Opioid/other dep-remiss            Combinations of opioid type drug with any other drug dependence",
+	},
+	{
+		code: "30480  Comb drug dep NEC-unspec           Combinations of drug dependence excluding opioid type drug",
+	},
+	{
+		code: "30481  Comb drug dep NEC-contin           Combinations of drug dependence excluding opioid type drug",
+	},
+	{
+		code: "30482  Comb drug dep NEC-episod           Combinations of drug dependence excluding opioid type drug",
+	},
+	{
+		code: "30483  Comb drug dep NEC-remiss           Combinations of drug dependence excluding opioid type drug",
+	},
+	{
+		code: "30490  Drug depend NOS-unspec             Unspecified drug dependence",
+	},
+	{
+		code: "30491  Drug depend NOS-contin             Unspecified drug dependence",
+	},
+	{
+		code: "30492  Drug depend NOS-episodic           Unspecified drug dependence",
+	},
+	{
+		code: "30493  Drug depend NOS-remiss             Unspecified drug dependence",
+	},
+	{
+		code: "30500  Alcohol abuse-unspec               Alcohol abuse",
+	},
+	{
+		code: "30501  Alcohol abuse-continuous           Alcohol abuse",
+	},
+	{
+		code: "30502  Alcohol abuse-episodic             Alcohol abuse",
+	},
+	{
+		code: "30503  Alcohol abuse-in remiss            Alcohol abuse",
+	},
+	{
+		code: "3051   Tobacco use disorder               Tobacco use disorder                                                                                                                                                                       Y",
+	},
+	{
+		code: "30520  Cannabis abuse-unspec              Cannabis abuse",
+	},
+	{
+		code: "30521  Cannabis abuse-contin              Cannabis abuse",
+	},
+	{
+		code: "30522  Cannabis abuse-episodic            Cannabis abuse",
+	},
+	{
+		code: "30523  Cannabis abuse-in remiss           Cannabis abuse",
+	},
+	{
+		code: "30530  Hallucinog abuse-unspec            Hallucinogen abuse",
+	},
+	{
+		code: "30531  Hallucinog abuse-contin            Hallucinogen abuse",
+	},
+	{
+		code: "30532  Hallucinog abuse-episod            Hallucinogen abuse",
+	},
+	{
+		code: "30533  Hallucinog abuse-remiss            Hallucinogen abuse",
+	},
+	{
+		code: "30540  Sed",
+	},
+	{
+		code: "30541  Sed",
+	},
+	{
+		code: "30542  Sed",
+	},
+	{
+		code: "30543  Sed",
+	},
+	{
+		code: "30550  Opioid abuse-unspec                Opioid abuse",
+	},
+	{
+		code: "30551  Opioid abuse-continuous            Opioid abuse",
+	},
+	{
+		code: "30552  Opioid abuse-episodic              Opioid abuse",
+	},
+	{
+		code: "30553  Opioid abuse-in remiss             Opioid abuse",
+	},
+	{
+		code: "30560  Cocaine abuse-unspec               Cocaine abuse",
+	},
+	{
+		code: "30561  Cocaine abuse-continuous           Cocaine abuse",
+	},
+	{
+		code: "30562  Cocaine abuse-episodic             Cocaine abuse",
+	},
+	{
+		code: "30563  Cocaine abuse-in remiss            Cocaine abuse",
+	},
+	{
+		code: "30570  Amphetamine abuse-unspec           Amphetamine or related acting sympathomimetic abuse",
+	},
+	{
+		code: "30571  Amphetamine abuse-contin           Amphetamine or related acting sympathomimetic abuse",
+	},
+	{
+		code: "30572  Amphetamine abuse-episod           Amphetamine or related acting sympathomimetic abuse",
+	},
+	{
+		code: "30573  Amphetamine abuse-remiss           Amphetamine or related acting sympathomimetic abuse",
+	},
+	{
+		code: "30580  Antidepress abuse-unspec           Antidepressant type abuse",
+	},
+	{
+		code: "30581  Antidepress abuse-contin           Antidepressant type abuse",
+	},
+	{
+		code: "30582  Antidepress abuse-episod           Antidepressant type abuse",
+	},
+	{
+		code: "30583  Antidepress abuse-remiss           Antidepressant type abuse",
+	},
+	{
+		code: "30590  Drug abuse NEC-unspec              Other",
+	},
+	{
+		code: "30591  Drug abuse NEC-contin              Other",
+	},
+	{
+		code: "30592  Drug abuse NEC-episodic            Other",
+	},
+	{
+		code: "30593  Drug abuse NEC-in remiss           Other",
+	},
+	{
+		code: "3060   Psychogen musculskel dis           Musculoskeletal malfunction arising from mental factors",
+	},
+	{
+		code: "3061   Psychogenic respir dis             Respiratory malfunction arising from mental factors",
+	},
+	{
+		code: "3062   Psychogen cardiovasc dis           Cardiovascular malfunction arising from mental factors",
+	},
+	{
+		code: "3063   Psychogenic skin disease           Skin disorder arising from mental factors",
+	},
+	{
+		code: "3064   Psychogenic GI disease             Gastrointestinal malfunction arising from mental factors",
+	},
+	{
+		code: "30650  Psychogenic gu dis NOS             Psychogenic genitourinary malfunction",
+	},
+	{
+		code: "30651  Psychogenic vaginismus             Psychogenic vaginismus",
+	},
+	{
+		code: "30652  Psychogenic dysmenorrhea           Psychogenic dysmenorrhea",
+	},
+	{
+		code: "30653  Psychogenic dysuria                Psychogenic dysuria",
+	},
+	{
+		code: "30659  Psychogenic gu dis NEC             Other genitourinary malfunction arising from mental factors",
+	},
+	{
+		code: "3066   Psychogen endocrine dis            Endocrine disorder arising from mental factors",
+	},
+	{
+		code: "3067   Psychogenic sensory dis            Disorder of organs of special sense arising from mental factors",
+	},
+	{
+		code: "3068   Psychogenic disorder NEC           Other specified psychophysiological malfunction",
+	},
+	{
+		code: "3069   Psychogenic disorder NOS           Unspecified psychophysiological malfunction",
+	},
+	{
+		code: "3070   Adult onset flncy disord           Adult onset fluency disorder",
+	},
+	{
+		code: "3071   Anorexia nervosa                   Anorexia nervosa",
+	},
+	{
+		code: "30720  Tic disorder NOS                   Tic disorder",
+	},
+	{
+		code: "30721  Transient tic disorder             Transient tic disorder",
+	},
+	{
+		code: "30722  Chr motor/vocal tic dis            Chronic motor or vocal tic disorder",
+	},
+	{
+		code: "30723  Tourette's disorder                Tourette's disorder",
+	},
+	{
+		code: "3073   Stereotypic movement dis           Stereotypic movement disorder",
+	},
+	{
+		code: "30740  Nonorganic sleep dis NOS           Nonorganic sleep disorder",
+	},
+	{
+		code: "30741  Transient insomnia                 Transient disorder of initiating or maintaining sleep",
+	},
+	{
+		code: "30742  Persistent insomnia                Persistent disorder of initiating or maintaining sleep",
+	},
+	{
+		code: "30743  Transient hypersomnia              Transient disorder of initiating or maintaining wakefulness",
+	},
+	{
+		code: "30744  Persistent hypersomnia             Persistent disorder of initiating or maintaining wakefulness",
+	},
+	{
+		code: "30745  Nonorganic circadian rhy           Circadian rhythm sleep disorder of nonorganic origin",
+	},
+	{
+		code: "30746  Sleep arousal disorder             Sleep arousal disorder",
+	},
+	{
+		code: "30747  Sleep stage dysfunc NEC            Other dysfunctions of sleep stages or arousal from sleep",
+	},
+	{
+		code: "30748  Repetit sleep intrusion            Repetitive intrusions of sleep",
+	},
+	{
+		code: "30749  Nonorganic sleep dis NEC           Other specific disorders of sleep of nonorganic origin",
+	},
+	{
+		code: "30750  Eating disorder NOS                Eating disorder",
+	},
+	{
+		code: "30751  Bulimia nervosa                    Bulimia nervosa",
+	},
+	{
+		code: "30752  Pica                               Pica",
+	},
+	{
+		code: "30753  Rumination disorder                Rumination disorder",
+	},
+	{
+		code: "30754  Psychogenic vomiting               Psychogenic vomiting",
+	},
+	{
+		code: "30759  Eating disorder NEC                Other disorders of eating",
+	},
+	{
+		code: "3076   Enuresis                           Enuresis",
+	},
+	{
+		code: "3077   Encopresis                         Encopresis",
+	},
+	{
+		code: "30780  Psychogenic pain NOS               Psychogenic pain",
+	},
+	{
+		code: "30781  Tension headache                   Tension headache",
+	},
+	{
+		code: "30789  Psychogenic pain NEC               Other pain disorders related to psychological factors",
+	},
+	{
+		code: "3079   Special symptom NEC/NOS            Other and unspecified special symptoms or syndromes",
+	},
+	{
+		code: "3080   Stress react",
+	},
+	{
+		code: "3081   Stress reaction",
+	},
+	{
+		code: "3082   Stress react",
+	},
+	{
+		code: "3083   Acute stress react NEC             Other acute reactions to stress",
+	},
+	{
+		code: "3084   Stress react",
+	},
+	{
+		code: "3089   Acute stress react NOS             Unspecified acute reaction to stress",
+	},
+	{
+		code: "3090   Adjustmnt dis w depressn           Adjustment disorder with depressed mood",
+	},
+	{
+		code: "3091   Prolong depressive react           Prolonged depressive reaction",
+	},
+	{
+		code: "30921  Separation anxiety                 Separation anxiety disorder",
+	},
+	{
+		code: "30922  Emancipation disorder              Emancipation disorder of adolescence and early adult life",
+	},
+	{
+		code: "30923  Academic/work inhibition           Specific academic or work inhibition",
+	},
+	{
+		code: "30924  Adjustment dis w anxiety           Adjustment disorder with anxiety",
+	},
+	{
+		code: "30928  Adjust dis w anxiety/dep           Adjustment disorder with mixed anxiety and depressed mood",
+	},
+	{
+		code: "30929  Adj react-emotion NEC              Other adjustment reactions with predominant disturbance of other emotions",
+	},
+	{
+		code: "3093   Adjust disor/dis conduct           Adjustment disorder with disturbance of conduct",
+	},
+	{
+		code: "3094   Adj dis-emotion/conduct            Adjustment disorder with mixed disturbance of emotions and conduct",
+	},
+	{
+		code: "30981  Posttraumatic stress dis           Posttraumatic stress disorder",
+	},
+	{
+		code: "30982  Adjust react-phys sympt            Adjustment reaction with physical symptoms",
+	},
+	{
+		code: "30983  Adjust react-withdrawal            Adjustment reaction with withdrawal",
+	},
+	{
+		code: "30989  Adjustment reaction NEC            Other specified adjustment reactions",
+	},
+	{
+		code: "3099   Adjustment reaction NOS            Unspecified adjustment reaction",
+	},
+	{
+		code: "3100   Frontal lobe syndrome              Frontal lobe syndrome",
+	},
+	{
+		code: "3101   Personality chg oth dis            Personality change due to conditions classified elsewhere",
+	},
+	{
+		code: "3102   Postconcussion syndrome            Postconcussion syndrome",
+	},
+	{
+		code: "3108   Nonpsychot brain syn NEC           Nonpsychot brain syn NEC",
+	},
+	{
+		code: "31081  Pseudobulbar affect                Pseudobulbar affect",
+	},
+	{
+		code: "31089  Nonpsych mntl disord NEC           Other specified nonpsychotic mental disorders following organic brain damage",
+	},
+	{
+		code: "3109   Nonpsychot brain syn NOS           Unspecified nonpsychotic mental disorder following organic brain damage",
+	},
+	{
+		code: "311    Depressive disorder NEC            Depressive disorder",
+	},
+	{
+		code: "31200  Unsocial aggress-unspec            Undersocialized conduct disorder",
+	},
+	{
+		code: "31201  Unsocial aggression-mild           Undersocialized conduct disorder",
+	},
+	{
+		code: "31202  Unsocial aggression-mod            Undersocialized conduct disorder",
+	},
+	{
+		code: "31203  Unsocial aggress-severe            Undersocialized conduct disorder",
+	},
+	{
+		code: "31210  Unsocial unaggress-unsp            Undersocialized conduct disorder",
+	},
+	{
+		code: "31211  Unsocial unaggress-mild            Undersocialized conduct disorder",
+	},
+	{
+		code: "31212  Unsocial unaggress-mod             Undersocialized conduct disorder",
+	},
+	{
+		code: "31213  Unsocial unaggr-severe             Undersocialized conduct disorder",
+	},
+	{
+		code: "31220  Social conduct dis-unsp            Socialized conduct disorder",
+	},
+	{
+		code: "31221  Social conduct dis-mild            Socialized conduct disorder",
+	},
+	{
+		code: "31222  Social conduct dis-mod             Socialized conduct disorder",
+	},
+	{
+		code: "31223  Social conduct dis-sev             Socialized conduct disorder",
+	},
+	{
+		code: "31230  Impulse control dis NOS            Impulse control disorder",
+	},
+	{
+		code: "31231  Pathological gambling              Pathological gambling",
+	},
+	{
+		code: "31232  Kleptomania                        Kleptomania",
+	},
+	{
+		code: "31233  Pyromania                          Pyromania",
+	},
+	{
+		code: "31234  Intermitt explosive dis            Intermittent explosive disorder",
+	},
+	{
+		code: "31235  Isolated explosive dis             Isolated explosive disorder",
+	},
+	{
+		code: "31239  Impulse control dis NEC            Other disorders of impulse control",
+	},
+	{
+		code: "3124   Mix dis conduct/emotion            Mixed disturbance of conduct and emotions",
+	},
+	{
+		code: "31281  Cndct dsrdr chldhd onst            Conduct disorder",
+	},
+	{
+		code: "31282  Cndct dsrdr adlscnt onst           Conduct disorder",
+	},
+	{
+		code: "31289  Other conduct disorder             Other conduct disorder",
+	},
+	{
+		code: "3129   Conduct disturbance NOS            Unspecified disturbance of conduct",
+	},
+	{
+		code: "3130   Overanxious disorder               Overanxious disorder specific to childhood and adolescence",
+	},
+	{
+		code: "3131   Misery & unhappiness dis           Misery and unhappiness disorder specific to childhood and adolescence",
+	},
+	{
+		code: "31321  Shyness disorder-child             Shyness disorder of childhood",
+	},
+	{
+		code: "31322  Introverted dis-child              Introverted disorder of childhood",
+	},
+	{
+		code: "31323  Selective mutism                   Selective mutism",
+	},
+	{
+		code: "3133   Relationship problems              Relationship problems specific to childhood and adolescence",
+	},
+	{
+		code: "31381  Opposition defiant disor           Oppositional defiant disorder",
+	},
+	{
+		code: "31382  Identity disorder                  Identity disorder of childhood or adolescence",
+	},
+	{
+		code: "31383  Academic underachievment           Academic underachievement disorder of childhood or adolescence",
+	},
+	{
+		code: "31389  Emotional dis child NEC            Other emotional disturbances of childhood or adolescence",
+	},
+	{
+		code: "3139   Emotional dis child NOS            Unspecified emotional disturbance of childhood or adolescence",
+	},
+	{
+		code: "31400  Attn defic nonhyperact             Attention deficit disorder without mention of hyperactivity",
+	},
+	{
+		code: "31401  Attn deficit w hyperact            Attention deficit disorder with hyperactivity",
+	},
+	{
+		code: "3141   Hyperkinet w devel delay           Hyperkinesis with developmental delay",
+	},
+	{
+		code: "3142   Hyperkinetic conduct dis           Hyperkinetic conduct disorder",
+	},
+	{
+		code: "3148   Other hyperkinetic synd            Other specified manifestations of hyperkinetic syndrome",
+	},
+	{
+		code: "3149   Hyperkinetic synd NOS              Unspecified hyperkinetic syndrome",
+	},
+	{
+		code: "31500  Reading disorder NOS               Developmental reading disorder",
+	},
+	{
+		code: "31501  Alexia                             Alexia",
+	},
+	{
+		code: "31502  Developmental dyslexia             Developmental dyslexia",
+	},
+	{
+		code: "31509  Reading disorder NEC               Other specific developmental reading disorder",
+	},
+	{
+		code: "3151   Mathematics disorder               Mathematics disorder",
+	},
+	{
+		code: "3152   Oth learning difficulty            Other specific developmental learning difficulties",
+	},
+	{
+		code: "31531  Expressive language dis            Expressive language disorder",
+	},
+	{
+		code: "31532  Recp-expres language dis           Mixed receptive-expressive language disorder",
+	},
+	{
+		code: "31534  Speech del d/t hear loss           Speech and language developmental delay due to hearing loss",
+	},
+	{
+		code: "31535  Chldhd onset flncy disor           Childhood onset fluency disorder",
+	},
+	{
+		code: "31539  Speech/language dis NEC            Other developmental speech or language disorder",
+	},
+	{
+		code: "3154   Devel coordination dis             Developmental coordination disorder",
+	},
+	{
+		code: "3155   Mixed development dis              Mixed development disorder",
+	},
+	{
+		code: "3158   Development delays NEC             Other specified delays in development",
+	},
+	{
+		code: "3159   Development delay NOS              Unspecified delay in development",
+	},
+	{
+		code: "316    Psychic factor w oth dis           Psychic factors associated with diseases classified elsewhere",
+	},
+	{
+		code: "317    Mild intellect disabilty           Mild intellectual disabilities",
+	},
+	{
+		code: "3180   Mod intellect disability           Moderate intellectual disabilities",
+	},
+	{
+		code: "3181   Sev intellect disability           Severe intellectual disabilities",
+	},
+	{
+		code: "3182   Profnd intellct disablty           Profound intellectual disabilities",
+	},
+	{
+		code: "319    Intellect disability NOS           Unspecified intellectual disabilities",
+	},
+	{
+		code: "3200   Hemophilus meningitis              Hemophilus meningitis",
+	},
+	{
+		code: "3201   Pneumococcal meningitis            Pneumococcal meningitis",
+	},
+	{
+		code: "3202   Streptococcal meningitis           Streptococcal meningitis",
+	},
+	{
+		code: "3203   Staphylococc meningitis            Staphylococcal meningitis",
+	},
+	{
+		code: "3207   Mening in oth bact dis             Meningitis in other bacterial diseases classified elsewhere",
+	},
+	{
+		code: "32081  Anaerobic meningitis               Anaerobic meningitis",
+	},
+	{
+		code: "32082  Mningts gram-neg bct NEC           Meningitis due to gram-negative bacteria",
+	},
+	{
+		code: "32089  Meningitis oth spcf bact           Meningitis due to other specified bacteria",
+	},
+	{
+		code: "3209   Bacterial meningitis NOS           Meningitis due to unspecified bacterium",
+	},
+	{
+		code: "3210   Cryptococcal meningitis            Cryptococcal meningitis",
+	},
+	{
+		code: "3211   Mening in oth fungal dis           Meningitis in other fungal diseases",
+	},
+	{
+		code: "3212   Mening in oth viral dis            Meningitis due to viruses not elsewhere classified",
+	},
+	{
+		code: "3213   Trypanosomiasis meningit           Meningitis due to trypanosomiasis",
+	},
+	{
+		code: "3214   Meningit d/t sarcoidosis           Meningitis in sarcoidosis",
+	},
+	{
+		code: "3218   Mening in oth nonbac dis           Meningitis due to other nonbacterial organisms classified elsewhere",
+	},
+	{
+		code: "3220   Nonpyogenic meningitis             Nonpyogenic meningitis",
+	},
+	{
+		code: "3221   Eosinophilic meningitis            Eosinophilic meningitis",
+	},
+	{
+		code: "3222   Chronic meningitis                 Chronic meningitis",
+	},
+	{
+		code: "3229   Meningitis NOS                     Meningitis",
+	},
+	{
+		code: "32301  Enceph/encephmye oth dis           Encephalitis and encephalomyelitis in viral diseases classified elsewhere",
+	},
+	{
+		code: "32302  Myelitis-oth viral dis             Myelitis in viral diseases classified elsewhere",
+	},
+	{
+		code: "3231   Rickettsial encephalitis           Encephalitis",
+	},
+	{
+		code: "3232   Protozoal encephalitis             Encephalitis",
+	},
+	{
+		code: "32341  Ot encph/mye ot inf else           Other encephalitis and encephalomyelitis due to other infections classified elsewhere",
+	},
+	{
+		code: "32342  Oth myelitis ot inf else           Other myelitis due to other infections classified elsewhere",
+	},
+	{
+		code: "32351  Enceph/myel folwg immune           Encephalitis and encephalomyelitis following immunization procedures",
+	},
+	{
+		code: "32352  Myelitis follwg immune             Myelitis following immunization procedures",
+	},
+	{
+		code: "32361  Inf ac dis encephalomyel           Infectious acute disseminated encephalomyelitis (ADEM)",
+	},
+	{
+		code: "32362  Postinf encephalitis NEC           Other postinfectious encephalitis and encephalomyelitis",
+	},
+	{
+		code: "32363  Postinfectious myelitis            Postinfectious myelitis",
+	},
+	{
+		code: "32371  Toxic encph & encephlomy           Toxic encephalitis and encephalomyelitis",
+	},
+	{
+		code: "32372  Toxic myelitis                     Toxic myelitis",
+	},
+	{
+		code: "32381  Enceph & encephlalo NEC            Other causes of encephalitis and encephalomyelitis",
+	},
+	{
+		code: "32382  Myelitis cause NEC                 Other causes of myelitis",
+	},
+	{
+		code: "3239   Encephalitis NOS                   Unspecified causes of encephalitis",
+	},
+	{
+		code: "3240   Intracranial abscess               Intracranial abscess",
+	},
+	{
+		code: "3241   Intraspinal abscess                Intraspinal abscess",
+	},
+	{
+		code: "3249   Cns abscess NOS                    Intracranial and intraspinal abscess of unspecified site",
+	},
+	{
+		code: "325    Phlebitis intrcran sinus           Phlebitis and thrombophlebitis of intracranial venous sinuses",
+	},
+	{
+		code: "326    Late eff cns abscess               Late effects of intracranial abscess or pyogenic infection",
+	},
+	{
+		code: "32700  Organic insomnia NOS               Organic insomnia",
+	},
+	{
+		code: "32701  Insomnia in other dis              Insomnia due to medical condition classified elsewhere",
+	},
+	{
+		code: "32702  Insomnia dt mental disor           Insomnia due to mental disorder",
+	},
+	{
+		code: "32709  Organic insomnia NEC               Other organic insomnia",
+	},
+	{
+		code: "32710  Organic hypersomnia NOS            Organic hypersomnia",
+	},
+	{
+		code: "32711  Idio hypersom-long sleep           Idiopathic hypersomnia with long sleep time",
+	},
+	{
+		code: "32712  Idio hypersom-no lng slp           Idiopathic hypersomnia without long sleep time",
+	},
+	{
+		code: "32713  Recurrent hypersomnia              Recurrent hypersomnia",
+	},
+	{
+		code: "32714  Hypersomnia in other dis           Hypersomnia due to medical condition classified elsewhere",
+	},
+	{
+		code: "32715  Hypersom dt mental disor           Hypersomnia due to mental disorder",
+	},
+	{
+		code: "32719  Organic hypersomnia NEC            Other organic hypersomnia",
+	},
+	{
+		code: "32720  Organic sleep apnea NOS            Organic sleep apnea",
+	},
+	{
+		code: "32721  Prim central sleep apnea           Primary central sleep apnea",
+	},
+	{
+		code: "32722  High altitude breathing            High altitude periodic breathing",
+	},
+	{
+		code: "32723  Obstructive sleep apnea            Obstructive sleep apnea (adult)(pediatric)",
+	},
+	{
+		code: "32724  Idiopath sleep hypovent            Idiopathic sleep related non-obstructive alveolar hypoventilation",
+	},
+	{
+		code: "32725  Cong cntrl hypovent synd           Congenital central alveolar hypoventilation syndrome",
+	},
+	{
+		code: "32726  Sleep hypovent oth dis             Sleep related hypoventilation/hypoxemia in conditions classifiable elsewhere",
+	},
+	{
+		code: "32727  Cntrl sleep apnea ot dis           Central sleep apnea in conditions classified elsewhere",
+	},
+	{
+		code: "32729  Organic sleep apnea NEC            Other organic sleep apnea",
+	},
+	{
+		code: "32730  Circadian rhym sleep NOS           Circadian rhythm sleep disorder",
+	},
+	{
+		code: "32731  Circadian rhy-delay slp            Circadian rhythm sleep disorder",
+	},
+	{
+		code: "32732  Circadian rhy-advc sleep           Circadian rhythm sleep disorder",
+	},
+	{
+		code: "32733  Circadian rhym-irreg slp           Circadian rhythm sleep disorder",
+	},
+	{
+		code: "32734  Circadian rhym-free run            Circadian rhythm sleep disorder",
+	},
+	{
+		code: "32735  Circadian rhythm-jetlag            Circadian rhythm sleep disorder",
+	},
+	{
+		code: "32736  Circadian rhy-shift work           Circadian rhythm sleep disorder",
+	},
+	{
+		code: "32737  Circadian rhym oth dis             Circadian rhythm sleep disorder in conditions classified elsewhere",
+	},
+	{
+		code: "32739  Circadian rhym sleep NEC           Other circadian rhythm sleep disorder",
+	},
+	{
+		code: "32740  Organic parasomnia NOS             Organic parasomnia",
+	},
+	{
+		code: "32741  Confusional arousals               Confusional arousals",
+	},
+	{
+		code: "32742  REM sleep behavior dis             REM sleep behavior disorder",
+	},
+	{
+		code: "32743  Recurrnt sleep paralysis           Recurrent isolated sleep paralysis",
+	},
+	{
+		code: "32744  Parasomnia oth diseases            Parasomnia in conditions classified elsewhere",
+	},
+	{
+		code: "32749  Organic parasomnia NEC             Other organic parasomnia",
+	},
+	{
+		code: "32751  Periodic limb movement             Periodic limb movement disorder",
+	},
+	{
+		code: "32752  Sleep related leg cramps           Sleep related leg cramps",
+	},
+	{
+		code: "32753  Sleep related bruxism              Sleep related bruxism",
+	},
+	{
+		code: "32759  Organic sleep movemt NEC           Other organic sleep related movement disorders",
+	},
+	{
+		code: "3278   Sleep organic disord NEC           Other organic sleep disorders",
+	},
+	{
+		code: "3300   Leukodystrophy                     Leukodystrophy",
+	},
+	{
+		code: "3301   Cerebral lipidoses                 Cerebral lipidoses",
+	},
+	{
+		code: "3302   Cereb degen in lipidosis           Cerebral degeneration in generalized lipidoses",
+	},
+	{
+		code: "3303   Cerb deg chld in oth dis           Cerebral degeneration of childhood in other diseases classified elsewhere",
+	},
+	{
+		code: "3308   Cereb degen in child NEC           Other specified cerebral degenerations in childhood",
+	},
+	{
+		code: "3309   Cereb degen in child NOS           Unspecified cerebral degeneration in childhood",
+	},
+	{
+		code: "3310   Alzheimer's disease                Alzheimer's disease",
+	},
+	{
+		code: "33111  Pick's disease                     Pick's disease",
+	},
+	{
+		code: "33119  Frontotemp dementia NEC            Other frontotemporal dementia",
+	},
+	{
+		code: "3312   Senile degenerat brain             Senile degeneration of brain",
+	},
+	{
+		code: "3313   Communicat hydrocephalus           Communicating hydrocephalus",
+	},
+	{
+		code: "3314   Obstructiv hydrocephalus           Obstructive hydrocephalus",
+	},
+	{
+		code: "3315   Norml pressure hydroceph           Idiopathic normal pressure hydrocephalus (INPH)",
+	},
+	{
+		code: "3316   Corticobasal degneration           Corticobasal degeneration",
+	},
+	{
+		code: "3317   Cereb degen in oth dis             Cerebral degeneration in diseases classified elsewhere",
+	},
+	{
+		code: "33181  Reye's syndrome                    Reye's syndrome",
+	},
+	{
+		code: "33182  Dementia w Lewy bodies             Dementia with lewy bodies",
+	},
+	{
+		code: "33183  Mild cognitive impairemt           Mild cognitive impairment",
+	},
+	{
+		code: "33189  Cereb degeneration NEC             Other cerebral degeneration",
+	},
+	{
+		code: "3319   Cereb degeneration NOS             Cerebral degeneration",
+	},
+	{
+		code: "3320   Paralysis agitans                  Paralysis agitans",
+	},
+	{
+		code: "3321   Secondary parkinsonism             Secondary parkinsonism",
+	},
+	{
+		code: "3330   Degen basal ganglia NEC            Other degenerative diseases of the basal ganglia",
+	},
+	{
+		code: "3331   Tremor NEC                         Essential and other specified forms of tremor",
+	},
+	{
+		code: "3332   Myoclonus                          Myoclonus",
+	},
+	{
+		code: "3333   Tics of organic origin             Tics of organic origin",
+	},
+	{
+		code: "3334   Huntington's chorea                Huntington's chorea",
+	},
+	{
+		code: "3335   Chorea NEC                         Other choreas",
+	},
+	{
+		code: "3336   Genetic torsion dystonia           Genetic torsion dystonia",
+	},
+	{
+		code: "33371  Athetoid cerebral palsy            Athetoid cerebral palsy",
+	},
+	{
+		code: "33372  Acute dystonia d/t drugs           Acute dystonia due to drugs",
+	},
+	{
+		code: "33379  Acq torsion dystonia NEC           Other acquired torsion dystonia",
+	},
+	{
+		code: "33381  Blepharospasm                      Blepharospasm",
+	},
+	{
+		code: "33382  Orofacial dyskinesia               Orofacial dyskinesia",
+	},
+	{
+		code: "33383  Spasmodic torticollis              Spasmodic torticollis",
+	},
+	{
+		code: "33384  Organic writers' cramp             Organic writers' cramp",
+	},
+	{
+		code: "33385  Subac dyskinesa d/t drug           Subacute dyskinesia due to drugs",
+	},
+	{
+		code: "33389  Fragm torsion dyston NEC           Other fragments of torsion dystonia",
+	},
+	{
+		code: "33390  Extrapyramidal dis NOS             Unspecified extrapyramidal disease and abnormal movement disorder",
+	},
+	{
+		code: "33391  Stiff-man syndrome                 Stiff-man syndrome",
+	},
+	{
+		code: "33392  Neuroleptic malgnt synd            Neuroleptic malignant syndrome",
+	},
+	{
+		code: "33393  Bnign shuddering attacks           Benign shuddering attacks",
+	},
+	{
+		code: "33394  Restless legs syndrome             Restless legs syndrome (RLS)",
+	},
+	{
+		code: "33399  Extrapyramidal dis NEC             Other extrapyramidal diseases and abnormal movement disorders",
+	},
+	{
+		code: "3340   Friedreich's ataxia                Friedreich's ataxia",
+	},
+	{
+		code: "3341   Hered spastic paraplegia           Hereditary spastic paraplegia",
+	},
+	{
+		code: "3342   Primary cerebellar degen           Primary cerebellar degeneration",
+	},
+	{
+		code: "3343   Cerebellar ataxia NEC              Other cerebellar ataxia",
+	},
+	{
+		code: "3344   Cerebel atax in oth dis            Cerebellar ataxia in diseases classified elsewhere",
+	},
+	{
+		code: "3348   Spinocerebellar dis NEC            Other spinocerebellar diseases",
+	},
+	{
+		code: "3349   Spinocerebellar dis NOS            Spinocerebellar disease",
+	},
+	{
+		code: "3350   Werdnig-hoffmann disease           Werdnig-Hoffmann disease",
+	},
+	{
+		code: "33510  Spinal muscl atrophy NOS           Spinal muscular atrophy",
+	},
+	{
+		code: "33511  Kugelberg-welander dis             Kugelberg-Welander disease",
+	},
+	{
+		code: "33519  Spinal muscl atrophy NEC           Other spinal muscular atrophy",
+	},
+	{
+		code: "33520  Amyotrophic sclerosis              Amyotrophic lateral sclerosis",
+	},
+	{
+		code: "33521  Prog muscular atrophy              Progressive muscular atrophy",
+	},
+	{
+		code: "33522  Progressive bulbar palsy           Progressive bulbar palsy",
+	},
+	{
+		code: "33523  Pseudobulbar palsy                 Pseudobulbar palsy",
+	},
+	{
+		code: "33524  Prim lateral sclerosis             Primary lateral sclerosis",
+	},
+	{
+		code: "33529  Motor neuron disease NEC           Other motor neuron disease",
+	},
+	{
+		code: "3358   Ant horn cell dis NEC              Other anterior horn cell diseases",
+	},
+	{
+		code: "3359   Ant horn cell dis NOS              Anterior horn cell disease",
+	},
+	{
+		code: "3360   Syringomyelia                      Syringomyelia and syringobulbia",
+	},
+	{
+		code: "3361   Vascular myelopathies              Vascular myelopathies",
+	},
+	{
+		code: "3362   Comb deg cord in oth dis           Subacute combined degeneration of spinal cord in diseases classified elsewhere",
+	},
+	{
+		code: "3363   Myelopathy in oth dis              Myelopathy in other diseases classified elsewhere",
+	},
+	{
+		code: "3368   Myelopathy NEC                     Other myelopathy",
+	},
+	{
+		code: "3369   Spinal cord disease NOS            Unspecified disease of spinal cord",
+	},
+	{
+		code: "3370   IDIOPATH AUTO NEUROPATHY           IDIOPATH AUTO NEUROPATHY",
+	},
+	{
+		code: "33700  Idio perph auto neur NOS           Idiopathic peripheral autonomic neuropathy",
+	},
+	{
+		code: "33701  Carotid sinus syndrome             Carotid sinus syndrome",
+	},
+	{
+		code: "33709  Idio perph auto neur NEC           Other idiopathic peripheral autonomic neuropathy",
+	},
+	{
+		code: "3371   Aut neuropthy in oth dis           Peripheral autonomic neuropathy in disorders classified elsewhere",
+	},
+	{
+		code: "33720  Unsp rflx sympth dystrph           Reflex sympathetic dystrophy",
+	},
+	{
+		code: "33721  Rflx sym dystrph up limb           Reflex sympathetic dystrophy of the upper limb",
+	},
+	{
+		code: "33722  Rflx sym dystrph lwr lmb           Reflex sympathetic dystrophy of the lower limb",
+	},
+	{
+		code: "33729  Rflx sym dystrph oth st            Reflex sympathetic dystrophy of other specified site",
+	},
+	{
+		code: "3373   Autonomic dysreflexia              Autonomic dysreflexia",
+	},
+	{
+		code: "3379   Autonomic nerve dis NEC            Unspecified disorder of autonomic nervous system",
+	},
+	{
+		code: "3380   Central pain syndrome              Central pain syndrome",
+	},
+	{
+		code: "33811  Acute pain due to trauma           Acute pain due to trauma",
+	},
+	{
+		code: "33812  Acute post-thoracot pain           Acute post-thoracotomy pain",
+	},
+	{
+		code: "33818  Acute postop pain NEC              Other acute postoperative pain",
+	},
+	{
+		code: "33819  Acute pain NEC                     Other acute pain",
+	},
+	{
+		code: "33821  Chronc pain d/t trauma             Chronic pain due to trauma",
+	},
+	{
+		code: "33822  Chron post-thoracot pain           Chronic post-thoracotomy pain",
+	},
+	{
+		code: "33828  Chronic postop pain NEC            Other chronic postoperative pain",
+	},
+	{
+		code: "33829  Chronic pain NEC                   Other chronic pain",
+	},
+	{
+		code: "3383   Neoplasm related pain              Neoplasm related pain (acute) (chronic)",
+	},
+	{
+		code: "3384   Chronic pain syndrome              Chronic pain syndrome",
+	},
+	{
+		code: "33900  Cluster headache syn NOS           Cluster headache syndrome",
+	},
+	{
+		code: "33901  Episodc cluster headache           Episodic cluster headache",
+	},
+	{
+		code: "33902  Chronic cluster headache           Chronic cluster headache",
+	},
+	{
+		code: "33903  Episdc paroxyml hemicran           Episodic paroxysmal hemicrania",
+	},
+	{
+		code: "33904  Chr paroxysml hemicrania           Chronic paroxysmal hemicrania",
+	},
+	{
+		code: "33905  Shrt lst uni nral hdache           Short lasting unilateral neuralgiform headache with conjunctival injection and tearing",
+	},
+	{
+		code: "33909  Trigem autonmc cephl NEC           Other trigeminal autonomic cephalgias",
+	},
+	{
+		code: "33910  Tension headache NOS               Tension type headache",
+	},
+	{
+		code: "33911  Episdic tension headache           Episodic tension type headache",
+	},
+	{
+		code: "33912  Chronic tension headache           Chronic tension type headache",
+	},
+	{
+		code: "33920  Post-trauma headache NOS           Post-traumatic headache",
+	},
+	{
+		code: "33921  Ac post-trauma headache            Acute post-traumatic headache",
+	},
+	{
+		code: "33922  Chr post-trauma headache           Chronic post-traumatic headache",
+	},
+	{
+		code: "3393   Drug induce headache NEC           Drug induced headache",
+	},
+	{
+		code: "33941  Hemicrania continua                Hemicrania continua",
+	},
+	{
+		code: "33942  New daily pers headache            New daily persistent headache",
+	},
+	{
+		code: "33943  Prim thnderclap headache           Primary thunderclap headache",
+	},
+	{
+		code: "33944  Comp headache synd NEC             Other complicated headache syndrome",
+	},
+	{
+		code: "33981  Hypnic headache                    Hypnic headache",
+	},
+	{
+		code: "33982  Headache w sex activity            Headache associated with sexual activity",
+	},
+	{
+		code: "33983  Primary cough headache             Primary cough headache",
+	},
+	{
+		code: "33984  Prim exertion headache             Primary exertional headache",
+	},
+	{
+		code: "33985  Prim stabbing headache             Primary stabbing headache",
+	},
+	{
+		code: "33989  Headache syndrome NEC              Other headache syndromes",
+	},
+	{
+		code: "340    Multiple sclerosis                 Multiple sclerosis",
+	},
+	{
+		code: "3410   Neuromyelitis optica               Neuromyelitis optica",
+	},
+	{
+		code: "3411   Schilder's disease                 Schilder's disease",
+	},
+	{
+		code: "34120  Acute myelitis NOS                 Acute (transverse) myelitis NOS",
+	},
+	{
+		code: "34121  Acute myelitis oth cond            Acute (transverse) myelitis in conditions classified elsewhere",
+	},
+	{
+		code: "34122  Idiopathc trans myelitis           Idiopathic transverse myelitis",
+	},
+	{
+		code: "3418   Cns demyelination NEC              Other demyelinating diseases of central nervous system",
+	},
+	{
+		code: "3419   Cns demyelination NOS              Demyelinating disease of central nervous system",
+	},
+	{
+		code: "34200  Flccd hmiplga unspf side           Flaccid hemiplegia and hemiparesis affecting unspecified side",
+	},
+	{
+		code: "34201  Flccd hmiplga domnt side           Flaccid hemiplegia and hemiparesis affecting dominant side",
+	},
+	{
+		code: "34202  Flccd hmiplg nondmnt sde           Flaccid hemiplegia and hemiparesis affecting nondominant side",
+	},
+	{
+		code: "34210  Spstc hmiplga unspf side           Spastic hemiplegia and hemiparesis affecting unspecified side",
+	},
+	{
+		code: "34211  Spstc hmiplga domnt side           Spastic hemiplegia and hemiparesis affecting dominant side",
+	},
+	{
+		code: "34212  Spstc hmiplg nondmnt sde           Spastic hemiplegia and hemiparesis affecting nondominant side",
+	},
+	{
+		code: "34280  Ot sp hmiplga unspf side           Other specified hemiplegia and hemiparesis affecting unspecified side",
+	},
+	{
+		code: "34281  Ot sp hmiplga domnt side           Other specified hemiplegia and hemiparesis affecting dominant side",
+	},
+	{
+		code: "34282  Ot sp hmiplg nondmnt sde           Other specified hemiplegia and hemiparesis affecting nondominant side",
+	},
+	{
+		code: "34290  Unsp hemiplga unspf side           Hemiplegia",
+	},
+	{
+		code: "34291  Unsp hemiplga domnt side           Hemiplegia",
+	},
+	{
+		code: "34292  Unsp hmiplga nondmnt sde           Hemiplegia",
+	},
+	{
+		code: "3430   Congenital diplegia                Congenital diplegia",
+	},
+	{
+		code: "3431   Congenital hemiplegia              Congenital hemiplegia",
+	},
+	{
+		code: "3432   Congenital quadriplegia            Congenital quadriplegia",
+	},
+	{
+		code: "3433   Congenital monoplegia              Congenital monoplegia",
+	},
+	{
+		code: "3434   Infantile hemiplegia               Infantile hemiplegia",
+	},
+	{
+		code: "3438   Cerebral palsy NEC                 Other specified infantile cerebral palsy",
+	},
+	{
+		code: "3439   Cerebral palsy NOS                 Infantile cerebral palsy",
+	},
+	{
+		code: "34400  Quadriplegia",
+	},
+	{
+		code: "34401  Quadrplg c1-c4",
+	},
+	{
+		code: "34402  Quadrplg c1-c4",
+	},
+	{
+		code: "34403  Quadrplg c5-c7",
+	},
+	{
+		code: "34404  Quadrplg c5-c7",
+	},
+	{
+		code: "34409  Other quadriplegia                 Other quadriplegia",
+	},
+	{
+		code: "3441   Paraplegia NOS                     Paraplegia",
+	},
+	{
+		code: "3442   Diplegia of upper limbs            Diplegia of upper limbs",
+	},
+	{
+		code: "34430  Monplga lwr lmb unsp sde           Monoplegia of lower limb affecting unspecified side",
+	},
+	{
+		code: "34431  Monplga lwr lmb dmnt sde           Monoplegia of lower limb affecting dominant side",
+	},
+	{
+		code: "34432  Mnplg lwr lmb nondmnt sd           Monoplegia of lower limb affecting nondominant side",
+	},
+	{
+		code: "34440  Monplga upr lmb unsp sde           Monoplegia of upper limb affecting unspecified side",
+	},
+	{
+		code: "34441  Monplga upr lmb dmnt sde           Monoplegia of upper limb affecting dominant side",
+	},
+	{
+		code: "34442  Mnplg upr lmb nondmnt sd           Monoplegia of upper limb affecting nondominant sde",
+	},
+	{
+		code: "3445   Monoplegia NOS                     Unspecified monoplegia",
+	},
+	{
+		code: "34460  Cauda equina synd NOS              Cauda equina syndrome without mention of neurogenic bladder",
+	},
+	{
+		code: "34461  Neurogenic bladder                 Cauda equina syndrome with neurogenic bladder",
+	},
+	{
+		code: "34481  Locked-in state                    Locked-in state",
+	},
+	{
+		code: "34489  Oth spcf paralytic synd            Other specified paralytic syndrome",
+	},
+	{
+		code: "3449   Paralysis NOS                      Paralysis",
+	},
+	{
+		code: "34500  Gen noncv ep w/o intr ep           Generalized nonconvulsive epilepsy",
+	},
+	{
+		code: "34501  Gen nonconv ep w intr ep           Generalized nonconvulsive epilepsy",
+	},
+	{
+		code: "34510  Gen cnv epil w/o intr ep           Generalized convulsive epilepsy",
+	},
+	{
+		code: "34511  Gen cnv epil w intr epil           Generalized convulsive epilepsy",
+	},
+	{
+		code: "3452   Petit mal status                   Petit mal status",
+	},
+	{
+		code: "3453   Grand mal status                   Grand mal status",
+	},
+	{
+		code: "34540  Psymotr epil w/o int epi           Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures",
+	},
+	{
+		code: "34541  Psymotr epil w intr epil           Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures",
+	},
+	{
+		code: "34550  Part epil w/o intr epil            Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures",
+	},
+	{
+		code: "34551  Part epil w intr epil              Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures",
+	},
+	{
+		code: "34560  Inf spasm w/o intr epil            Infantile spasms",
+	},
+	{
+		code: "34561  Inf spasm w intract epil           Infantile spasms",
+	},
+	{
+		code: "34570  Epil par cont w/o int ep           Epilepsia partialis continua",
+	},
+	{
+		code: "34571  Epil par cont w intr epi           Epilepsia partialis continua",
+	},
+	{
+		code: "34580  Epilep NEC w/o intr epil           Other forms of epilepsy and recurrent seizures",
+	},
+	{
+		code: "34581  Epilepsy NEC w intr epil           Other forms of epilepsy and recurrent seizures",
+	},
+	{
+		code: "34590  Epilep NOS w/o intr epil           Epilepsy",
+	},
+	{
+		code: "34591  Epilepsy NOS w intr epil           Epilepsy",
+	},
+	{
+		code: "34600  Mgrn w aura wo ntrc mgrn           Migraine with aura",
+	},
+	{
+		code: "34601  Mgrn w aura w ntrc mgrn            Migraine with aura",
+	},
+	{
+		code: "34602  Mgrn w aur wo ntrc mgrn            Migraine with aura",
+	},
+	{
+		code: "34603  Mgrn w aura w ntrc mgrn            Migraine with aura",
+	},
+	{
+		code: "34610  Mgrn wo aura wo ntrc mgr           Migraine without aura",
+	},
+	{
+		code: "34611  Mgrn wo aura w ntrc mgrn           Migraine without aura",
+	},
+	{
+		code: "34612  Mgrn wo aura wo ntrc mgr           Migraine without aura",
+	},
+	{
+		code: "34613  Mgrn wo aura w ntrc mgrn           Migraine without aura",
+	},
+	{
+		code: "34620  Vrnt mgrn wo ntr mgr NEC           Variants of migraine",
+	},
+	{
+		code: "34621  Vrnt mgrn w ntrc mgr NEC           Variants of migraine",
+	},
+	{
+		code: "34622  Var mgr NEC wo ntc mgr             Variants of migraine",
+	},
+	{
+		code: "34623  Var mgrn NEC w ntrc mgr            Variants of migraine",
+	},
+	{
+		code: "34630  Hmplg mgr wo ntrc wo st            Hemiplegic migraine",
+	},
+	{
+		code: "34631  Hmplg mgrn w ntrc wo st            Hemiplegic migraine",
+	},
+	{
+		code: "34632  Hemplg mgr wo ntrc w st            Hemiplegic migraine",
+	},
+	{
+		code: "34633  Hmplg mgrn w ntrc w st             Hemiplegic migraine",
+	},
+	{
+		code: "34640  Menst mgr wo ntrc wo st            Menstrual migraine",
+	},
+	{
+		code: "34641  Menstl mgrn w ntrc wo st           Menstrual migraine",
+	},
+	{
+		code: "34642  Menstl mgr wo ntrc w st            Menstrual migraine",
+	},
+	{
+		code: "34643  Menstl mgrn w ntrc w st            Menstrual migraine",
+	},
+	{
+		code: "34650  Prst aura wo inf/ntr/st            Persistent migraine aura without cerebral infarction",
+	},
+	{
+		code: "34651  Prs ara w ntr wo inf/st            Persistent migraine aura without cerebral infarction",
+	},
+	{
+		code: "34652  Prs ara wo inf/ntr w st            Persistent migraine aura without cerebral infarction",
+	},
+	{
+		code: "34653  Prs ara wo inf w ntr/st            Persistent migraine aura without cerebral infarction",
+	},
+	{
+		code: "34660  Prs ara w inf wo ntr/st            Persistent migraine aura with cerebral infarction",
+	},
+	{
+		code: "34661  Prs ara w/inf/ntr wo st            Persistent migraine aura with cerebral infarction",
+	},
+	{
+		code: "34662  Prs ara wo ntr w inf/st            Persistent migraine aura with cerebral infarction",
+	},
+	{
+		code: "34663  Prst ara w inf w ntr/st            Persistent migraine aura with cerebral infarction",
+	},
+	{
+		code: "34670  Ch mgr wo ar wo nt wo st           Chronic migraine without aura",
+	},
+	{
+		code: "34671  Ch mgr wo ara w nt wo st           Chronic migraine without aura",
+	},
+	{
+		code: "34672  Ch mgr wo ara wo nt w st           Chronic migraine without aura",
+	},
+	{
+		code: "34673  Ch mgr wo ara w ntr w st           Chronic migraine without aura",
+	},
+	{
+		code: "34680  Othr migrne wo ntrc mgrn           Other forms of migraine",
+	},
+	{
+		code: "34681  Othr migrne w ntrc mgrne           Other forms of migraine",
+	},
+	{
+		code: "34682  Oth mgr wo ntrc w st mgr           Other forms of migraine",
+	},
+	{
+		code: "34683  Oth mgr w ntrc w st mgr            Other forms of migraine",
+	},
+	{
+		code: "34690  Migrne unsp wo ntrc mgrn           Migraine",
+	},
+	{
+		code: "34691  Mgrn unsp w ntrc mgr std           Migraine",
+	},
+	{
+		code: "34692  Mgr NOS wo ntrc w st mgr           Migraine",
+	},
+	{
+		code: "34693  Mgrn NOS w ntrc w st mgr           Migraine",
+	},
+	{
+		code: "34700  Narcolepsy w/o cataplexy           Narcolepsy",
+	},
+	{
+		code: "34701  Narcolepsy w cataplexy             Narcolepsy",
+	},
+	{
+		code: "34710  Narclpsy w/o cat oth dis           Narcolepsy in conditions classified elsewhere",
+	},
+	{
+		code: "34711  Narcolepsy w cat oth dis           Narcolepsy in conditions classified elsewhere",
+	},
+	{
+		code: "3480   Cerebral cysts                     Cerebral cysts",
+	},
+	{
+		code: "3481   Anoxic brain damage                Anoxic brain damage",
+	},
+	{
+		code: "3482   Pseudotumor cerebri                Benign intracranial hypertension",
+	},
+	{
+		code: "34830  Encephalopathy NOS                 Encephalopathy",
+	},
+	{
+		code: "34831  Metabolic encephalopathy           Metabolic encephalopathy",
+	},
+	{
+		code: "34839  Encephalopathy NEC                 Other encephalopathy",
+	},
+	{
+		code: "3484   Compression of brain               Compression of brain",
+	},
+	{
+		code: "3485   Cerebral edema                     Cerebral edema",
+	},
+	{
+		code: "3488   BRAIN CONDITIONS NEC               BRAIN CONDITIONS NEC",
+	},
+	{
+		code: "34881  Temporal sclerosis                 Temporal sclerosis",
+	},
+	{
+		code: "34882  Brain death                        Brain death",
+	},
+	{
+		code: "34889  Brain conditions NEC               Other conditions of brain",
+	},
+	{
+		code: "3489   Brain condition NOS                Unspecified condition of brain",
+	},
+	{
+		code: "3490   Lumbar puncture reaction           Reaction to spinal or lumbar puncture",
+	},
+	{
+		code: "3491   Complication cns device            Nervous system complications from surgically implanted device",
+	},
+	{
+		code: "3492   Disorder of meninges NEC           Disorders of meninges",
+	},
+	{
+		code: "34931  Accid punc/op lac dura             Accidental puncture or laceration of dura during a procedure",
+	},
+	{
+		code: "34939  Dural tear NEC                     Other dural tear",
+	},
+	{
+		code: "34981  Cerebrospinal rhinorrhea           Cerebrospinal fluid rhinorrhea",
+	},
+	{
+		code: "34982  Toxic encephalopathy               Toxic encephalopathy",
+	},
+	{
+		code: "34989  Cns disorder NEC                   Other specified disorders of nervous system",
+	},
+	{
+		code: "3499   Cns disorder NOS                   Unspecified disorders of nervous system",
+	},
+	{
+		code: "3501   Trigeminal neuralgia               Trigeminal neuralgia",
+	},
+	{
+		code: "3502   Atypical face pain                 Atypical face pain",
+	},
+	{
+		code: "3508   Trigeminal nerve dis NEC           Other specified trigeminal nerve disorders",
+	},
+	{
+		code: "3509   Trigeminal nerve dis NOS           Trigeminal nerve disorder",
+	},
+	{
+		code: "3510   Bell's palsy                       Bell's palsy",
+	},
+	{
+		code: "3511   Geniculate ganglionitis            Geniculate ganglionitis",
+	},
+	{
+		code: "3518   Facial nerve dis NEC               Other facial nerve disorders",
+	},
+	{
+		code: "3519   Facial nerve dis NOS               Facial nerve disorder",
+	},
+	{
+		code: "3520   Olfactory nerve disorder           Disorders of olfactory (1st) nerve",
+	},
+	{
+		code: "3521   Glossopharyng neuralgia            Glossopharyngeal neuralgia",
+	},
+	{
+		code: "3522   Glossophar nerve dis NEC           Other disorders of glossopharyngeal [9th] nerve",
+	},
+	{
+		code: "3523   Pneumogastric nerve dis            Disorders of pneumogastric [10th] nerve",
+	},
+	{
+		code: "3524   Accessory nerve disorder           Disorders of accessory [11th] nerve",
+	},
+	{
+		code: "3525   Hypoglossal nerve dis              Disorders of hypoglossal [12th] nerve",
+	},
+	{
+		code: "3526   Mult cranial nerve palsy           Multiple cranial nerve palsies",
+	},
+	{
+		code: "3529   Cranial nerve dis NOS              Unspecified disorder of cranial nerves",
+	},
+	{
+		code: "3530   Brachial plexus lesions            Brachial plexus lesions",
+	},
+	{
+		code: "3531   Lumbosacral plex lesion            Lumbosacral plexus lesions",
+	},
+	{
+		code: "3532   Cervical root lesion NEC           Cervical root lesions",
+	},
+	{
+		code: "3533   Thoracic root lesion NEC           Thoracic root lesions",
+	},
+	{
+		code: "3534   Lumbsacral root les NEC            Lumbosacral root lesions",
+	},
+	{
+		code: "3535   Neuralgic amyotrophy               Neuralgic amyotrophy",
+	},
+	{
+		code: "3536   Phantom limb (syndrome)            Phantom limb (syndrome)",
+	},
+	{
+		code: "3538   Nerv root/plexus dis NEC           Other nerve root and plexus disorders",
+	},
+	{
+		code: "3539   Nerv root/plexus dis NOS           Unspecified nerve root and plexus disorder",
+	},
+	{
+		code: "3540   Carpal tunnel syndrome             Carpal tunnel syndrome",
+	},
+	{
+		code: "3541   Median nerve lesion NEC            Other lesion of median nerve",
+	},
+	{
+		code: "3542   Ulnar nerve lesion                 Lesion of ulnar nerve",
+	},
+	{
+		code: "3543   Radial nerve lesion                Lesion of radial nerve",
+	},
+	{
+		code: "3544   Causalgia upper limb               Causalgia of upper limb",
+	},
+	{
+		code: "3545   Mononeuritis multiplex             Mononeuritis multiplex",
+	},
+	{
+		code: "3548   Mononeuritis arm NEC               Other mononeuritis of upper limb",
+	},
+	{
+		code: "3549   Mononeuritis arm NOS               Mononeuritis of upper limb",
+	},
+	{
+		code: "3550   Sciatic nerve lesion               Lesion of sciatic nerve",
+	},
+	{
+		code: "3551   Meralgia paresthetica              Meralgia paresthetica",
+	},
+	{
+		code: "3552   Femoral nerve lesion NEC           Other lesion of femoral nerve",
+	},
+	{
+		code: "3553   Lat popliteal nerve les            Lesion of lateral popliteal nerve",
+	},
+	{
+		code: "3554   Med popliteal nerve les            Lesion of medial popliteal nerve",
+	},
+	{
+		code: "3555   Tarsal tunnel syndrome             Tarsal tunnel syndrome",
+	},
+	{
+		code: "3556   Plantar nerve lesion               Lesion of plantar nerve",
+	},
+	{
+		code: "35571  Causalgia lower limb               Causalgia of lower limb",
+	},
+	{
+		code: "35579  Oth mononeur lower limb            Other mononeuritis of lower limb",
+	},
+	{
+		code: "3558   Mononeuritis leg NOS               Mononeuritis of lower limb",
+	},
+	{
+		code: "3559   Mononeuritis NOS                   Mononeuritis of unspecified site",
+	},
+	{
+		code: "3560   Hered periph neuropathy            Hereditary peripheral neuropathy",
+	},
+	{
+		code: "3561   Peroneal muscle atrophy            Peroneal muscular atrophy",
+	},
+	{
+		code: "3562   Hered sensory neuropathy           Hereditary sensory neuropathy",
+	},
+	{
+		code: "3563   Refsum's disease                   Refsum's disease",
+	},
+	{
+		code: "3564   Idio prog polyneuropathy           Idiopathic progressive polyneuropathy",
+	},
+	{
+		code: "3568   Idio periph neurpthy NEC           Other specified idiopathic peripheral neuropathy",
+	},
+	{
+		code: "3569   Idio periph neurpthy NOS           Unspecified hereditary and idiopathic peripheral neuropathy",
+	},
+	{
+		code: "3570   Ac infect polyneuritis             Acute infective polyneuritis",
+	},
+	{
+		code: "3571   Neurpthy in col vasc dis           Polyneuropathy in collagen vascular disease",
+	},
+	{
+		code: "3572   Neuropathy in diabetes             Polyneuropathy in diabetes",
+	},
+	{
+		code: "3573   Neuropathy in malig dis            Polyneuropathy in malignant disease",
+	},
+	{
+		code: "3574   Neuropathy in other dis            Polyneuropathy in other diseases classified elsewhere",
+	},
+	{
+		code: "3575   Alcoholic polyneuropathy           Alcoholic polyneuropathy",
+	},
+	{
+		code: "3576   Neuropathy due to drugs            Polyneuropathy due to drugs",
+	},
+	{
+		code: "3577   Neurpthy toxic agent NEC           Polyneuropathy due to other toxic agents",
+	},
+	{
+		code: "35781  Chr inflam polyneuritis            Chronic inflammatory demyelinating polyneuritis",
+	},
+	{
+		code: "35782  Crit illness neuropathy            Critical illness polyneuropathy",
+	},
+	{
+		code: "35789  Inflam/tox neuropthy NEC           Other inflammatory and toxic neuropathy",
+	},
+	{
+		code: "3579   Inflam/tox neuropthy NOS           Unspecified inflammatory and toxic neuropathy",
+	},
+	{
+		code: "35800  Mysthna grvs w/o ac exac           Myasthenia gravis without (acute) exacerbation",
+	},
+	{
+		code: "35801  Myasthna gravs w ac exac           Myasthenia gravis with (acute) exacerbation",
+	},
+	{
+		code: "3581   Myasthenia in oth dis              Myasthenic syndromes in diseases classified elsewhere",
+	},
+	{
+		code: "3582   Toxic myoneural disorder           Toxic myoneural disorders",
+	},
+	{
+		code: "35830  Lambert-Eaton synd NOS             Lambert-Eaton syndrome",
+	},
+	{
+		code: "35831  Lambert-Eaton synd neopl           Lambert-Eaton syndrome in neoplastic disease",
+	},
+	{
+		code: "35839  Lambert-Eaton syn ot dis           Lambert-Eaton syndrome in other diseases classified elsewhere",
+	},
+	{
+		code: "3588   Myoneural disorders NEC            Other specified myoneural disorders",
+	},
+	{
+		code: "3589   Myoneural disorders NOS            Myoneural disorders",
+	},
+	{
+		code: "3590   Cong hered musc dystrphy           Congenital hereditary muscular dystrophy",
+	},
+	{
+		code: "3591   Hered prog musc dystrphy           Hereditary progressive muscular dystrophy",
+	},
+	{
+		code: "35921  Myotonic musclr dystrphy           Myotonic muscular dystrophy",
+	},
+	{
+		code: "35922  Myotonia congenita                 Myotonia congenita",
+	},
+	{
+		code: "35923  Myotonic chondrodystrphy           Myotonic chondrodystrophy",
+	},
+	{
+		code: "35924  Drug induced myotonia              Drug- induced myotonia",
+	},
+	{
+		code: "35929  Myotonic disorder NEC              Other specified myotonic disorder",
+	},
+	{
+		code: "3593   Periodic paralysis                 Periodic paralysis",
+	},
+	{
+		code: "3594   Toxic myopathy                     Toxic myopathy",
+	},
+	{
+		code: "3595   Myopathy in endocrin dis           Myopathy in endocrine diseases classified elsewhere",
+	},
+	{
+		code: "3596   Infl myopathy in oth dis           Symptomatic inflammatory myopathy in diseases classified elsewhere",
+	},
+	{
+		code: "35971  Inclusion body myositis            Inclusion body myositis",
+	},
+	{
+		code: "35979  Inflm/immune myopath NEC           Other inflammatory and immune myopathies",
+	},
+	{
+		code: "35981  Critical illness myopthy           Critical illness myopathy",
+	},
+	{
+		code: "35989  Myopathies NEC                     Other myopathies",
+	},
+	{
+		code: "3599   Myopathy NOS                       Myopathy",
+	},
+	{
+		code: "36000  Purulent endophthalm NOS           Purulent endophthalmitis",
+	},
+	{
+		code: "36001  Acute endophthalmitis              Acute endophthalmitis",
+	},
+	{
+		code: "36002  Panophthalmitis                    Panophthalmitis",
+	},
+	{
+		code: "36003  Chronic endophthalmitis            Chronic endophthalmitis",
+	},
+	{
+		code: "36004  Vitreous abscess                   Vitreous abscess",
+	},
+	{
+		code: "36011  Sympathetic uveitis                Sympathetic uveitis",
+	},
+	{
+		code: "36012  Panuveitis                         Panuveitis",
+	},
+	{
+		code: "36013  Parasitic endophthal NOS           Parasitic endophthalmitis NOS",
+	},
+	{
+		code: "36014  Ophthalmia nodosa                  Ophthalmia nodosa",
+	},
+	{
+		code: "36019  Endophthalmitis NEC                Other endophthalmitis",
+	},
+	{
+		code: "36020  Degenerat globe dis NOS            Degenerative disorder of globe",
+	},
+	{
+		code: "36021  Progressive high myopia            Progressive high (degenerative) myopia",
+	},
+	{
+		code: "36023  Siderosis                          Siderosis of globe",
+	},
+	{
+		code: "36024  Other metallosis",
+	},
+	{
+		code: "36029  Degenerative globe NEC             Other degenerative disorders of globe",
+	},
+	{
+		code: "36030  Hypotony NOS",
+	},
+	{
+		code: "36031  Primary hypotony                   Primary hypotony of eye",
+	},
+	{
+		code: "36032  Hypotony due to fistula            Ocular fistula causing hypotony",
+	},
+	{
+		code: "36033  Hypotony w eye dis NEC             Hypotony associated with other ocular disorders",
+	},
+	{
+		code: "36034  Flat anterior chamber              Flat anterior chamber of eye",
+	},
+	{
+		code: "36040  Degeneration of eye NOS            Degenerated globe or eye",
+	},
+	{
+		code: "36041  Blind hypotensive eye              Blind hypotensive eye",
+	},
+	{
+		code: "36042  Blind hypertensive eye             Blind hypertensive eye",
+	},
+	{
+		code: "36043  Hemophthalmos                      Hemophthalmos",
+	},
+	{
+		code: "36044  Leucocoria                         Leucocoria",
+	},
+	{
+		code: "36050  Old magnet fb",
+	},
+	{
+		code: "36051  Old magnet fb",
+	},
+	{
+		code: "36052  Old magnet fb",
+	},
+	{
+		code: "36053  Old magnet fb",
+	},
+	{
+		code: "36054  Old magnet fb",
+	},
+	{
+		code: "36055  Old magnet fb",
+	},
+	{
+		code: "36059  Old magnet fb",
+	},
+	{
+		code: "36060  Intraocular FB NOS                 Foreign body",
+	},
+	{
+		code: "36061  FB in anterior chamber             Foreign body in anterior chamber",
+	},
+	{
+		code: "36062  FB in iris or ciliary              Foreign body in iris or ciliary body",
+	},
+	{
+		code: "36063  Foreign body in lens               Foreign body in lens",
+	},
+	{
+		code: "36064  Foreign body in vitreous           Foreign body in vitreous",
+	},
+	{
+		code: "36065  FB in posterior wall               Foreign body in posterior wall of eye",
+	},
+	{
+		code: "36069  Intraocular FB NEC                 Intraocular foreign body in other or multiple sites",
+	},
+	{
+		code: "36081  Luxation of globe                  Luxation of globe",
+	},
+	{
+		code: "36089  Disorder of globe NEC              Other disorders of globe",
+	},
+	{
+		code: "3609   Disorder of globe NOS              Unspecified disorder of globe",
+	},
+	{
+		code: "36100  Detachmnt w defect NOS             Retinal detachment with retinal defect",
+	},
+	{
+		code: "36101  Part detach-singl defec            Recent retinal detachment",
+	},
+	{
+		code: "36102  Part detach-mult defect            Recent retinal detachment",
+	},
+	{
+		code: "36103  Part detach-giant tear             Recent retinal detachment",
+	},
+	{
+		code: "36104  Part detach-dialysis               Recent retinal detachment",
+	},
+	{
+		code: "36105  Recent detachment",
+	},
+	{
+		code: "36106  Old detachment",
+	},
+	{
+		code: "36107  Old detachment",
+	},
+	{
+		code: "36110  Retinoschisis NOS                  Retinoschisis",
+	},
+	{
+		code: "36111  Flat retinoschisis                 Flat retinoschisis",
+	},
+	{
+		code: "36112  Bullous retinoschisis              Bullous retinoschisis",
+	},
+	{
+		code: "36113  Primary retinal cysts              Primary retinal cysts",
+	},
+	{
+		code: "36114  Secondary retinal cysts            Secondary retinal cysts",
+	},
+	{
+		code: "36119  Retinoshisis or cyst NEC           Other retinoschisis and retinal cysts",
+	},
+	{
+		code: "3612   Serous retina detachment           Serous retinal detachment",
+	},
+	{
+		code: "36130  Retinal defect NOS                 Retinal defect",
+	},
+	{
+		code: "36131  Round hole of retina               Round hole of retina without detachment",
+	},
+	{
+		code: "36132  Horseshoe tear of retina           Horseshoe tear of retina without detachment",
+	},
+	{
+		code: "36133  Mult defects of retina             Multiple defects of retina without detachment",
+	},
+	{
+		code: "36181  Retinal traction detach            Traction detachment of retina",
+	},
+	{
+		code: "36189  Retinal detachment NEC             Other forms of retinal detachment",
+	},
+	{
+		code: "3619   Retinal detachment NOS             Unspecified retinal detachment",
+	},
+	{
+		code: "36201  Diabetic retinopathy NOS           Background diabetic retinopathy",
+	},
+	{
+		code: "36202  Prolif diab retinopathy            Proliferative diabetic retinopathy",
+	},
+	{
+		code: "36203  Nonprolf db retnoph NOS            Nonproliferative diabetic retinopathy NOS",
+	},
+	{
+		code: "36204  Mild nonprolf db retnoph           Mild nonproliferative diabetic retinopathy",
+	},
+	{
+		code: "36205  Mod nonprolf db retinoph           Moderate nonproliferative diabetic retinopathy",
+	},
+	{
+		code: "36206  Sev nonprolf db retinoph           Severe nonproliferative diabetic retinopathy",
+	},
+	{
+		code: "36207  Diabetic macular edema             Diabetic macular edema",
+	},
+	{
+		code: "36210  Backgrnd retinopathy NOS           Background retinopathy",
+	},
+	{
+		code: "36211  Hypertensive retinopathy           Hypertensive retinopathy",
+	},
+	{
+		code: "36212  Exudative retinopathy              Exudative retinopathy",
+	},
+	{
+		code: "36213  Retinal vascular changes           Changes in vascular appearance of retina",
+	},
+	{
+		code: "36214  Retina microaneurysm NOS           Retinal microaneurysms NOS",
+	},
+	{
+		code: "36215  Retinal telangiectasia             Retinal telangiectasia",
+	},
+	{
+		code: "36216  Retinal neovascular NOS            Retinal neovascularization NOS",
+	},
+	{
+		code: "36217  Retinal varices                    Other intraretinal microvascular abnormalities",
+	},
+	{
+		code: "36218  Retinal vasculitis                 Retinal vasculitis",
+	},
+	{
+		code: "36220  Retinoph prematurity NOS           Retinopathy of prematurity",
+	},
+	{
+		code: "36221  Retrolental fibroplasia            Retrolental fibroplasia",
+	},
+	{
+		code: "36222  Retinoph prematr",
+	},
+	{
+		code: "36223  Retinoph prematr",
+	},
+	{
+		code: "36224  Retinoph prematr",
+	},
+	{
+		code: "36225  Retinoph prematr",
+	},
+	{
+		code: "36226  Retinoph prematr.stage 4           Retinopathy of prematurity",
+	},
+	{
+		code: "36227  Retinoph prematr",
+	},
+	{
+		code: "36229  Prolif retinopathy NEC             Other nondiabetic proliferative retinopathy",
+	},
+	{
+		code: "36230  Retinal vasc occlus NOS            Retinal vascular occlusion",
+	},
+	{
+		code: "36231  Cent retina artery occlu           Central retinal artery occlusion",
+	},
+	{
+		code: "36232  Arterial branch occlus             Retinal arterial branch occlusion",
+	},
+	{
+		code: "36233  Part arterial occlusion            Partial retinal arterial occlusion",
+	},
+	{
+		code: "36234  Transient arterial occlu           Transient retinal arterial occlusion",
+	},
+	{
+		code: "36235  Cent retinal vein occlus           Central retinal vein occlusion",
+	},
+	{
+		code: "36236  Venous tributary occlus            Venous tributary (branch) occlusion",
+	},
+	{
+		code: "36237  Retina venous engorgemnt           Venous engorgement",
+	},
+	{
+		code: "36240  Retina layer separat NOS           Retinal layer separation",
+	},
+	{
+		code: "36241  Cent serous retinopathy            Central serous retinopathy",
+	},
+	{
+		code: "36242  Serous detach pigm epith           Serous detachment of retinal pigment epithelium",
+	},
+	{
+		code: "36243  Hem detach pigmnt epith            Hemorrhagic detachment of retinal pigment epithelium",
+	},
+	{
+		code: "36250  Macular degeneration NOS           Macular degeneration (senile)",
+	},
+	{
+		code: "36251  Nonexudat macular degen            Nonexudative senile macular degeneration",
+	},
+	{
+		code: "36252  Exudative macular degen            Exudative senile macular degeneration",
+	},
+	{
+		code: "36253  Cystoid macular degen              Cystoid macular degeneration",
+	},
+	{
+		code: "36254  Macular cyst or hole               Macular cyst",
+	},
+	{
+		code: "36255  Toxic maculopathy                  Toxic maculopathy",
+	},
+	{
+		code: "36256  Macular puckering                  Macular puckering",
+	},
+	{
+		code: "36257  Drusen (degenerative)              Drusen (degenerative)",
+	},
+	{
+		code: "36260  Periph retina degen NOS            Peripheral retinal degeneration",
+	},
+	{
+		code: "36261  Paving stone degenerat             Paving stone degeneration",
+	},
+	{
+		code: "36262  Microcystoid degenerat             Microcystoid degeneration",
+	},
+	{
+		code: "36263  Lattice degeneration               Lattice degeneration",
+	},
+	{
+		code: "36264  Senile reticular degen             Senile reticular degeneration",
+	},
+	{
+		code: "36265  Secondry pigment degen             Secondary pigmentary degeneration",
+	},
+	{
+		code: "36266  Sec vitreoretina degen             Secondary vitreoretinal degenerations",
+	},
+	{
+		code: "36270  Hered retin dystrphy NOS           Hereditary retinal dystrophy",
+	},
+	{
+		code: "36271  Ret dystrph in lipidoses           Retinal dystrophy in systemic or cerebroretinal lipidoses",
+	},
+	{
+		code: "36272  Ret dystrph in syst dis            Retinal dystrophy in other systemic disorders and syndromes",
+	},
+	{
+		code: "36273  Vitreoretinal dystrophy            Vitreoretinal dystrophies",
+	},
+	{
+		code: "36274  Pigment retina dystrophy           Pigmentary retinal dystrophy",
+	},
+	{
+		code: "36275  Sensory retina dystrophy           Other dystrophies primarily involving the sensory retina",
+	},
+	{
+		code: "36276  Vitelliform dystrophy              Dystrophies primarily involving the retinal pigment epithelium",
+	},
+	{
+		code: "36277  Bruch membrane dystrophy           Dystrophies primarily involving Bruch's membrane",
+	},
+	{
+		code: "36281  Retinal hemorrhage                 Retinal hemorrhage",
+	},
+	{
+		code: "36282  Retina exudates/deposits           Retinal exudates and deposits",
+	},
+	{
+		code: "36283  Retinal edema                      Retinal edema",
+	},
+	{
+		code: "36284  Retinal ischemia                   Retinal ischemia",
+	},
+	{
+		code: "36285  Retinal nerv fiber defec           Retinal nerve fiber bundle defects",
+	},
+	{
+		code: "36289  Retinal disorders NEC              Other retinal disorders",
+	},
+	{
+		code: "3629   Retinal disorder NOS               Unspecified retinal disorder",
+	},
+	{
+		code: "36300  Focal chorioretinit NOS            Focal chorioretinitis",
+	},
+	{
+		code: "36301  Juxtapap foc choroiditis           Focal choroiditis and chorioretinitis",
+	},
+	{
+		code: "36303  Foc choroiditis post NEC           Focal choroiditis and chorioretinitis of other posterior pole",
+	},
+	{
+		code: "36304  Periph focal choroiditis           Focal choroiditis and chorioretinitis",
+	},
+	{
+		code: "36305  Juxtapap focal retinitis           Focal retinitis and retinochoroiditis",
+	},
+	{
+		code: "36306  Macular focal retinitis            Focal retinitis and retinochoroiditis",
+	},
+	{
+		code: "36307  Foc retinitis post NEC             Focal retinitis and retinochoroiditis of other posterior pole",
+	},
+	{
+		code: "36308  Periph focal retinitis             Focal retinitis and retinochoroiditis",
+	},
+	{
+		code: "36310  Dissem chorioretinit NOS           Disseminated chorioretinitis",
+	},
+	{
+		code: "36311  Dissem choroiditis",
+	},
+	{
+		code: "36312  Periph disem choroiditis           Disseminated choroiditis and chorioretinitis",
+	},
+	{
+		code: "36313  Gen dissem choroiditis             Disseminated choroiditis and chorioretinitis",
+	},
+	{
+		code: "36314  Metastat dissem retinit            Disseminated retinitis and retinochoroiditis",
+	},
+	{
+		code: "36315  Pigment epitheliopathy             Disseminated retinitis and retinochoroiditis",
+	},
+	{
+		code: "36320  Chorioretinitis NOS                Chorioretinitis",
+	},
+	{
+		code: "36321  Pars planitis                      Pars planitis",
+	},
+	{
+		code: "36322  Harada's disease                   Harada's disease",
+	},
+	{
+		code: "36330  Chorioretinal scar NOS             Chorioretinal scar",
+	},
+	{
+		code: "36331  Solar retinopathy                  Solar retinopathy",
+	},
+	{
+		code: "36332  Macular scars NEC                  Other macular scars",
+	},
+	{
+		code: "36333  Posterior pole scar NEC            Other scars of posterior pole",
+	},
+	{
+		code: "36334  Peripheral retinal scars           Peripheral scars",
+	},
+	{
+		code: "36335  Disseminated retina scar           Disseminated scars",
+	},
+	{
+		code: "36340  Choroidal degen NOS                Choroidal degeneration",
+	},
+	{
+		code: "36341  Senile atrophy",
+	},
+	{
+		code: "36342  Difus sec atroph choroid           Diffuse secondary atrophy of choroid",
+	},
+	{
+		code: "36343  Angioid streaks",
+	},
+	{
+		code: "36350  Hered choroid atroph NOS           Hereditary choroidal dystrophy or atrophy",
+	},
+	{
+		code: "36351  Prt circmpap choroid dys           Circumpapillary dystrophy of choroid",
+	},
+	{
+		code: "36352  Tot circmpap choroid dys           Circumpapillary dystrophy of choroid",
+	},
+	{
+		code: "36353  Part cent choroid dystr            Central dystrophy of choroid",
+	},
+	{
+		code: "36354  Tot cent choroid atrophy           Central choroidal atrophy",
+	},
+	{
+		code: "36355  Choroideremia                      Choroideremia",
+	},
+	{
+		code: "36356  Prt gen choroid dyst NEC           Other diffuse or generalized dystrophy of choroid",
+	},
+	{
+		code: "36357  Tot gen choroid dyst NEC           Other diffuse or generalized dystrophy of choroid",
+	},
+	{
+		code: "36361  Choroidal hemorrhage NOS           Choroidal hemorrhage",
+	},
+	{
+		code: "36362  Expulsive choroid hemorr           Expulsive choroidal hemorrhage",
+	},
+	{
+		code: "36363  Choroidal rupture                  Choroidal rupture",
+	},
+	{
+		code: "36370  Choroidal detachment NOS           Choroidal detachment",
+	},
+	{
+		code: "36371  Serous choroid detachmnt           Serous choroidal detachment",
+	},
+	{
+		code: "36372  Hemorr choroid detachmnt           Hemorrhagic choroidal detachment",
+	},
+	{
+		code: "3638   Disorders of choroid NEC           Other disorders of choroid",
+	},
+	{
+		code: "3639   Choroidal disorder NOS             Unspecified disorder of choroid",
+	},
+	{
+		code: "36400  Acute iridocyclitis NOS            Acute and subacute iridocyclitis",
+	},
+	{
+		code: "36401  Primary iridocyclitis              Primary iridocyclitis",
+	},
+	{
+		code: "36402  Recurrent iridocyclitis            Recurrent iridocyclitis",
+	},
+	{
+		code: "36403  Secondry iritis",
+	},
+	{
+		code: "36404  Second iritis",
+	},
+	{
+		code: "36405  Hypopyon                           Hypopyon",
+	},
+	{
+		code: "36410  Chr iridocyclitis NOS              Chronic iridocyclitis",
+	},
+	{
+		code: "36411  Chr iridocyl in oth dis            Chronic iridocyclitis in diseases classified elsewhere",
+	},
+	{
+		code: "36421  Fuch hetrochrom cyclitis           Fuchs' heterochromic cyclitis",
+	},
+	{
+		code: "36422  Glaucomatocyclit crises            Glaucomatocyclitic crises",
+	},
+	{
+		code: "36423  Lens-induced iridocyclit           Lens-induced iridocyclitis",
+	},
+	{
+		code: "36424  Vogt-koyanagi syndrome             Vogt-koyanagi syndrome",
+	},
+	{
+		code: "3643   Iridocyclitis NOS                  Unspecified iridocyclitis",
+	},
+	{
+		code: "36441  Hyphema                            Hyphema of iris and ciliary body",
+	},
+	{
+		code: "36442  Rubeosis iridis                    Rubeosis iridis",
+	},
+	{
+		code: "36451  Progressive iris atrophy           Essential or progressive iris atrophy",
+	},
+	{
+		code: "36452  Iridoschisis                       Iridoschisis",
+	},
+	{
+		code: "36453  Pigment iris degenerat             Pigmentary iris degeneration",
+	},
+	{
+		code: "36454  Pupillary margin degen             Degeneration of pupillary margin",
+	},
+	{
+		code: "36455  Miotic cyst pupil margin           Miotic cysts of pupillary margin",
+	},
+	{
+		code: "36456  Degen chamber angle                Degenerative changes of chamber angle",
+	},
+	{
+		code: "36457  Degen ciliary body                 Degenerative changes of ciliary body",
+	},
+	{
+		code: "36459  Iris atrophy NEC                   Other iris atrophy",
+	},
+	{
+		code: "36460  Idiopathic cysts                   Idiopathic cysts of iris",
+	},
+	{
+		code: "36461  Implantation cysts                 Implantation cysts of iris",
+	},
+	{
+		code: "36462  Exud cyst iris/ant chamb           Exudative cysts of iris or anterior chamber",
+	},
+	{
+		code: "36463  Primary cyst pars plana            Primary cyst of pars plana",
+	},
+	{
+		code: "36464  Exudat cyst pars plana             Exudative cyst of pars plana",
+	},
+	{
+		code: "36470  Adhesions of iris NOS              Adhesions of iris",
+	},
+	{
+		code: "36471  Posterior synechiae                Posterior synechiae of iris",
+	},
+	{
+		code: "36472  Anterior synechiae                 Anterior synechiae of iris",
+	},
+	{
+		code: "36473  Goniosynechiae                     Goniosynechiae",
+	},
+	{
+		code: "36474  Pupillary membranes                Adhesions and disruptions of pupillary membranes",
+	},
+	{
+		code: "36475  Pupillary abnormalities            Pupillary abnormalities",
+	},
+	{
+		code: "36476  Iridodialysis                      Iridodialysis",
+	},
+	{
+		code: "36477  Recession",
+	},
+	{
+		code: "36481  Floppy iris syndrome               Floppy iris syndrome",
+	},
+	{
+		code: "36482  Plateau iris syndrome              Plateau iris syndrome",
+	},
+	{
+		code: "36489  Iris/ciliary disord NEC            Other disorders of iris and ciliary body",
+	},
+	{
+		code: "3649   Iris/ciliary dis NOS               Unspecified disorder of iris and ciliary body",
+	},
+	{
+		code: "36500  Preglaucoma NOS                    Preglaucoma",
+	},
+	{
+		code: "36501  Opn angl brderln lo risk           Open angle with borderline findings",
+	},
+	{
+		code: "36502  Anatomical narrow angle            Anatomical narrow angle borderline glaucoma",
+	},
+	{
+		code: "36503  Steroid responders                 Steroid responders borderline glaucoma",
+	},
+	{
+		code: "36504  Ocular hypertension                Ocular hypertension",
+	},
+	{
+		code: "36505  Opn ang w brdrlne hi rsk           Open angle with borderline findings",
+	},
+	{
+		code: "36506  Prim angle clos w/o dmg            Primary angle closure without glaucoma damage",
+	},
+	{
+		code: "36510  Open-angle glaucoma NOS            Open-angle glaucoma",
+	},
+	{
+		code: "36511  Prim open angle glaucoma           Primary open angle glaucoma",
+	},
+	{
+		code: "36512  Low tension glaucoma               Low tension open-angle glaucoma",
+	},
+	{
+		code: "36513  Pigmentary glaucoma                Pigmentary open-angle glaucoma",
+	},
+	{
+		code: "36514  Glaucoma of childhood              Glaucoma of childhood",
+	},
+	{
+		code: "36515  Residual opn ang glaucma           Residual stage of open angle glaucoma",
+	},
+	{
+		code: "36520  Prim angl-clos glauc NOS           Primary angle-closure glaucoma",
+	},
+	{
+		code: "36521  Intermit angl-clos glauc           Intermittent angle-closure glaucoma",
+	},
+	{
+		code: "36522  Acute angl-clos glaucoma           Acute angle-closure glaucoma",
+	},
+	{
+		code: "36523  Chr angle-clos glaucoma            Chronic angle-closure glaucoma",
+	},
+	{
+		code: "36524  Residual angl-clos glauc           Residual stage of angle-closure glaucoma",
+	},
+	{
+		code: "36531  Glauc stage-ster induced           Corticosteroid-induced glaucoma",
+	},
+	{
+		code: "36532  Glauc resid-ster induced           Corticosteroid-induced glaucoma",
+	},
+	{
+		code: "36541  Glauc w chamb angle anom           Glaucoma associated with chamber angle anomalies",
+	},
+	{
+		code: "36542  Glaucoma w iris anomaly            Glaucoma associated with anomalies of iris",
+	},
+	{
+		code: "36543  Glauc w ant seg anom NEC           Glaucoma associated with other anterior segment anomalies",
+	},
+	{
+		code: "36544  Glaucoma w systemic synd           Glaucoma associated with systemic syndromes",
+	},
+	{
+		code: "36551  Phacolytic glaucoma                Phacolytic glaucoma",
+	},
+	{
+		code: "36552  Pseudoexfoliat glaucoma            Pseudoexfoliation glaucoma",
+	},
+	{
+		code: "36559  Glaucoma w lens dis NEC            Glaucoma associated with other lens disorders",
+	},
+	{
+		code: "36560  Glauc w ocular dis NOS             Glaucoma associated with unspecified ocular disorder",
+	},
+	{
+		code: "36561  Glauc w pupillary block            Glaucoma associated with pupillary block",
+	},
+	{
+		code: "36562  Glaucoma w ocular inflam           Glaucoma associated with ocular inflammations",
+	},
+	{
+		code: "36563  Glaucoma w vascular dis            Glaucoma associated with vascular disorders",
+	},
+	{
+		code: "36564  Glaucoma w tumor or cyst           Glaucoma associated with tumors or cysts",
+	},
+	{
+		code: "36565  Glaucoma w ocular trauma           Glaucoma associated with ocular trauma",
+	},
+	{
+		code: "36570  Glaucoma stage NOS                 Glaucoma stage",
+	},
+	{
+		code: "36571  Mild stage glaucoma                Mild stage glaucoma",
+	},
+	{
+		code: "36572  Moderate stage glaucoma            Moderate stage glaucoma",
+	},
+	{
+		code: "36573  Severe stage glaucoma              Severe stage glaucoma",
+	},
+	{
+		code: "36574  Indeterm stage glaucoma            Indeterminate stage glaucoma",
+	},
+	{
+		code: "36581  Hypersecretion glaucoma            Hypersecretion glaucoma",
+	},
+	{
+		code: "36582  Glauc w inc episcl press           Glaucoma with increased episcleral venous pressure",
+	},
+	{
+		code: "36583  Aqueous misdirection               Aqueous misdirection",
+	},
+	{
+		code: "36589  Glaucoma NEC                       Other specified glaucoma",
+	},
+	{
+		code: "3659   Glaucoma NOS                       Unspecified glaucoma",
+	},
+	{
+		code: "36600  Nonsenile cataract NOS             Nonsenile cataract",
+	},
+	{
+		code: "36601  Ant subcaps pol cataract           Anterior subcapsular polar cataract",
+	},
+	{
+		code: "36602  Post subcaps pol catarct           Posterior subcapsular polar cataract",
+	},
+	{
+		code: "36603  Cortical cataract                  Cortical",
+	},
+	{
+		code: "36604  Nuclear cataract                   Nuclear cataract",
+	},
+	{
+		code: "36609  Nonsenile cataract NEC             Other and combined forms of nonsenile cataract",
+	},
+	{
+		code: "36610  Senile cataract NOS                Senile cataract",
+	},
+	{
+		code: "36611  Pseudoexfol lens capsule           Pseudoexfoliation of lens capsule",
+	},
+	{
+		code: "36612  Incipient cataract                 Incipient senile cataract",
+	},
+	{
+		code: "36613  Ant subcaps senile catar           Anterior subcapsular polar senile cataract",
+	},
+	{
+		code: "36614  Post subcap senile catar           Posterior subcapsular polar senile cataract",
+	},
+	{
+		code: "36615  Cortical senile cataract           Cortical senile cataract",
+	},
+	{
+		code: "36616  Senile nuclear cataract            Senile nuclear sclerosis",
+	},
+	{
+		code: "36617  Mature cataract                    Total or mature cataract",
+	},
+	{
+		code: "36618  Hypermature cataract               Hypermature cataract",
+	},
+	{
+		code: "36619  Senile cataract NEC                Other and combined forms of senile cataract",
+	},
+	{
+		code: "36620  Traumatic cataract NOS             Traumatic cataract",
+	},
+	{
+		code: "36621  Local traumatic opacity            Localized traumatic opacities",
+	},
+	{
+		code: "36622  Total traumatic cataract           Total traumatic cataract",
+	},
+	{
+		code: "36623  Part resolv traum catar            Partially resolved traumatic cataract",
+	},
+	{
+		code: "36630  Cataracta complicata NOS           Cataracta complicata",
+	},
+	{
+		code: "36631  Glaucomatous flecks                Glaucomatous flecks (subcapsular)",
+	},
+	{
+		code: "36632  Cataract in inflam dis             Cataract in inflammatory ocular disorders",
+	},
+	{
+		code: "36633  Cataract w neovasculizat           Cataract with neovascularization",
+	},
+	{
+		code: "36634  Cataract in degen dis              Cataract in degenerative ocular disorders",
+	},
+	{
+		code: "36641  Diabetic cataract                  Diabetic cataract",
+	},
+	{
+		code: "36642  Tetanic cataract                   Tetanic cataract",
+	},
+	{
+		code: "36643  Myotonic cataract                  Myotonic cataract",
+	},
+	{
+		code: "36644  Cataract w syndrome NEC            Cataract associated with other syndromes",
+	},
+	{
+		code: "36645  Toxic cataract                     Toxic cataract",
+	},
+	{
+		code: "36646  Cataract w radiation               Cataract associated with radiation and other physical influences",
+	},
+	{
+		code: "36650  After-cataract NOS                 After-cataract",
+	},
+	{
+		code: "36651  Soemmering's ring                  Soemmering's ring",
+	},
+	{
+		code: "36652  After-cataract NEC                 Other after-cataract",
+	},
+	{
+		code: "36653  Aftr-catar obscur vision           After-cataract",
+	},
+	{
+		code: "3668   Cataract NEC                       Other cataract",
+	},
+	{
+		code: "3669   Cataract NOS                       Unspecified cataract",
+	},
+	{
+		code: "3670   Hypermetropia                      Hypermetropia",
+	},
+	{
+		code: "3671   Myopia                             Myopia",
+	},
+	{
+		code: "36720  Astigmatism NOS                    Astigmatism",
+	},
+	{
+		code: "36721  Regular astigmatism                Regular astigmatism",
+	},
+	{
+		code: "36722  Irregular astigmatism              Irregular astigmatism",
+	},
+	{
+		code: "36731  Anisometropia                      Anisometropia",
+	},
+	{
+		code: "36732  Aniseikonia                        Aniseikonia",
+	},
+	{
+		code: "3674   Presbyopia                         Presbyopia",
+	},
+	{
+		code: "36751  Paresis of accommodation           Paresis of accommodation",
+	},
+	{
+		code: "36752  Tot intern ophthalmopleg           Total or complete internal ophthalmoplegia",
+	},
+	{
+		code: "36753  Spasm of accommodation             Spasm of accommodation",
+	},
+	{
+		code: "36781  Transient refract change           Transient refractive change",
+	},
+	{
+		code: "36789  Refraction disorder NEC            Other disorders of refraction and accommodation",
+	},
+	{
+		code: "3679   Refraction disorder NOS            Unspecified disorder of refraction and accommodation",
+	},
+	{
+		code: "36800  Amblyopia NOS                      Amblyopia",
+	},
+	{
+		code: "36801  Strabismic amblyopia               Strabismic amblyopia",
+	},
+	{
+		code: "36802  Deprivation amblyopia              Deprivation amblyopia",
+	},
+	{
+		code: "36803  Refractive amblyopia               Refractive amblyopia",
+	},
+	{
+		code: "36810  Subj visual disturb NOS            Subjective visual disturbance",
+	},
+	{
+		code: "36811  Sudden visual loss                 Sudden visual loss",
+	},
+	{
+		code: "36812  Transient visual loss              Transient visual loss",
+	},
+	{
+		code: "36813  Visual discomfort                  Visual discomfort",
+	},
+	{
+		code: "36814  Distortion of shape/size           Visual distortions of shape and size",
+	},
+	{
+		code: "36815  Visual distortions NEC             Other visual distortions and entoptic phenomena",
+	},
+	{
+		code: "36816  Psychophysic visual dist           Psychophysical visual disturbances",
+	},
+	{
+		code: "3682   Diplopia                           Diplopia",
+	},
+	{
+		code: "36830  Binocular vision dis NOS           Binocular vision disorder",
+	},
+	{
+		code: "36831  Binocular vis suppress             Suppression of binocular vision",
+	},
+	{
+		code: "36832  Visual percept w/o fusn            Simultaneous visual perception without fusion",
+	},
+	{
+		code: "36833  Fusion w def stereopsis            Fusion with defective stereopsis",
+	},
+	{
+		code: "36834  Abn retina correspond              Abnormal retinal correspondence",
+	},
+	{
+		code: "36840  Visual field defect NOS            Visual field defect",
+	},
+	{
+		code: "36841  Central scotoma                    Scotoma involving central area",
+	},
+	{
+		code: "36842  Scotoma of blind spot              Scotoma of blind spot area",
+	},
+	{
+		code: "36843  Sector or arcuate defect           Sector or arcuate visual field defects",
+	},
+	{
+		code: "36844  Visual field defect NEC            Other localized visual field defect",
+	},
+	{
+		code: "36845  Gen visual contraction             Generalized visual field contraction or constriction",
+	},
+	{
+		code: "36846  Homonymous hemianopsia             Homonymous bilateral field defects",
+	},
+	{
+		code: "36847  Heteronymous hemianopsia           Heteronymous bilateral field defects",
+	},
+	{
+		code: "36851  Protan defect                      Protan defect",
+	},
+	{
+		code: "36852  Deutan defect                      Deutan defect",
+	},
+	{
+		code: "36853  Tritan defect                      Tritan defect",
+	},
+	{
+		code: "36854  Achromatopsia                      Achromatopsia",
+	},
+	{
+		code: "36855  Acq color deficiency               Acquired color vision deficiencies",
+	},
+	{
+		code: "36859  Color deficiency NEC               Other color vision deficiencies",
+	},
+	{
+		code: "36860  Night blindness NOS                Night blindness",
+	},
+	{
+		code: "36861  Congen night blindness             Congenital night blindness",
+	},
+	{
+		code: "36862  Acquired night blindness           Acquired night blindness",
+	},
+	{
+		code: "36863  Abn dark adaptat curve             Abnormal dark adaptation curve",
+	},
+	{
+		code: "36869  Night blindness NEC                Other night blindness",
+	},
+	{
+		code: "3688   Visual disturbances NEC            Other specified visual disturbances",
+	},
+	{
+		code: "3689   Visual disturbance NOS             Unspecified visual disturbance",
+	},
+	{
+		code: "36900  Both eyes blind-who def            Profound impairment",
+	},
+	{
+		code: "36901  Tot impairment-both eyes           Better eye: total vision impairment; lesser eye: total vision impairment",
+	},
+	{
+		code: "36902  One eye-near tot/oth-NOS           Better eye: near-total vision impairment; lesser eye: not further specified",
+	},
+	{
+		code: "36903  One eye-near tot/oth-tot           Better eye: near-total vision impairment; lesser eye: total vision impairment",
+	},
+	{
+		code: "36904  Near-tot impair-both eye           Better eye: near-total vision impairment; lesser eye: near-total vision impairment",
+	},
+	{
+		code: "36905  One eye-profound/oth-NOS           Better eye: profound vision impairment; lesser eye: not further specified",
+	},
+	{
+		code: "36906  One eye-profound/oth-tot           Better eye: profound vision impairment; lesser eye: total vision impairment",
+	},
+	{
+		code: "36907  One eye-prfnd/oth-nr tot           Better eye: profound vision impairment; lesser eye: near-total vision impairment",
+	},
+	{
+		code: "36908  Profound impair both eye           Better eye: profound vision impairment; lesser eye: profound vision impairment",
+	},
+	{
+		code: "36910  Blindness/low vision               Moderate or severe impairment",
+	},
+	{
+		code: "36911  1 eye-sev/oth-blind NOS            Better eye: severe vision impairment; lesser eye: blind",
+	},
+	{
+		code: "36912  One eye-severe/oth-total           Better eye: severe vision impairment; lesser eye: total vision impairment",
+	},
+	{
+		code: "36913  One eye-sev/oth-near tot           Better eye: severe vision impairment; lesser eye: near-total vision impairment",
+	},
+	{
+		code: "36914  One eye-sev/oth-prfnd              Better eye: severe vision impairment; lesser eye: profound vision impairment",
+	},
+	{
+		code: "36915  One eye-mod/oth-blind              Better eye: moderate vision impairment; lesser eye: blind",
+	},
+	{
+		code: "36916  One eye-moderate/oth-tot           Better eye: moderate vision impairment; lesser eye: total vision impairment",
+	},
+	{
+		code: "36917  One eye-mod/oth-near tot           Better eye: moderate vision impairment; lesser eye: near-total vision impairment",
+	},
+	{
+		code: "36918  One eye-mod/oth-profound           Better eye: moderate vision impairment; lesser eye: profound vision impairment",
+	},
+	{
+		code: "36920  Low vision",
+	},
+	{
+		code: "36921  One eye-severe/oth-NOS             Better eye: severe vision impairment; lesser eye; impairment not further specified",
+	},
+	{
+		code: "36922  Severe impair-both eyes            Better eye: severe vision impairment; lesser eye: severe vision impairment",
+	},
+	{
+		code: "36923  One eye-moderate/oth-NOS           Better eye: moderate vision impairment; lesser eye: impairment not further specified",
+	},
+	{
+		code: "36924  One eye-moderate/oth-sev           Better eye: moderate vision impairment; lesser eye: severe vision impairment",
+	},
+	{
+		code: "36925  Moderate impair-both eye           Better eye: moderate vision impairment; lesser eye: moderate vision impairment",
+	},
+	{
+		code: "3693   Blindness NOS",
+	},
+	{
+		code: "3694   Legal blindness-usa def            Legal blindness",
+	},
+	{
+		code: "36960  Blindness",
+	},
+	{
+		code: "36961  One eye-total/oth-unknwn           One eye: total vision impairment; other eye: not specified",
+	},
+	{
+		code: "36962  One eye-tot/oth-near nor           One eye: total vision impairment; other eye: near-normal vision",
+	},
+	{
+		code: "36963  One eye-total/oth-normal           One eye: total vision impairment; other eye: normal vision",
+	},
+	{
+		code: "36964  One eye-near tot/oth-NOS           One eye: near-total vision impairment; other eye: vision not specified",
+	},
+	{
+		code: "36965  Near-tot imp/near-normal           One eye: near-total vision impairment; other eye: near-normal vision",
+	},
+	{
+		code: "36966  Near-total impair/normal           One eye: near-total vision impairment; other eye: normal vision",
+	},
+	{
+		code: "36967  One eye-prfound/oth-unkn           One eye: profound vision impairment; other eye: vision not specified",
+	},
+	{
+		code: "36968  Profnd impair/near norm            One eye: profound vision impairment; other eye: near-normal vision",
+	},
+	{
+		code: "36969  Profound impair/normal             One eye: profound vision impairment; other eye: normal vision",
+	},
+	{
+		code: "36970  Low vision",
+	},
+	{
+		code: "36971  One eye-severe/oth-unknw           One eye: severe vision impairment; other eye: vision not specified",
+	},
+	{
+		code: "36972  One eye-sev/oth-nr norm            One eye: severe vision impairment; other eye: near-normal vision",
+	},
+	{
+		code: "36973  One eye-severe/oth-norm            One eye: severe vision impairment; other eye: normal vision",
+	},
+	{
+		code: "36974  One eye-mod/other-unknwn           One eye: moderate vision impairment; other eye: vision not specified",
+	},
+	{
+		code: "36975  One eye-mod/oth-nr norm            One eye: moderate vision impairment; other eye: near-normal vision",
+	},
+	{
+		code: "36976  One eye-mod/oth normal             One eye: moderate vision impairment; other eye: normal vision",
+	},
+	{
+		code: "3698   Visual loss",
+	},
+	{
+		code: "3699   Visual loss NOS                    Unspecified visual loss",
+	},
+	{
+		code: "37000  Corneal ulcer NOS                  Corneal ulcer",
+	},
+	{
+		code: "37001  Marginal corneal ulcer             Marginal corneal ulcer",
+	},
+	{
+		code: "37002  Ring corneal ulcer                 Ring corneal ulcer",
+	},
+	{
+		code: "37003  Central corneal ulcer              Central corneal ulcer",
+	},
+	{
+		code: "37004  Hypopyon ulcer                     Hypopyon ulcer",
+	},
+	{
+		code: "37005  Mycotic corneal ulcer              Mycotic corneal ulcer",
+	},
+	{
+		code: "37006  Perforated corneal ulcer           Perforated corneal ulcer",
+	},
+	{
+		code: "37007  Mooren's ulcer                     Mooren's ulcer",
+	},
+	{
+		code: "37020  Superfic keratitis NOS             Superficial keratitis",
+	},
+	{
+		code: "37021  Punctate keratitis                 Punctate keratitis",
+	},
+	{
+		code: "37022  Macular keratitis                  Macular keratitis",
+	},
+	{
+		code: "37023  Filamentary keratitis              Filamentary keratitis",
+	},
+	{
+		code: "37024  Photokeratitis                     Photokeratitis",
+	},
+	{
+		code: "37031  Phlycten keratoconjunct            Phlyctenular keratoconjunctivitis",
+	},
+	{
+		code: "37032  Limbar keratoconjunctiv            Limbar and corneal involvement in vernal conjunctivitis",
+	},
+	{
+		code: "37033  Keratoconjunctivit sicca           Keratoconjunctivitis sicca",
+	},
+	{
+		code: "37034  Expsure keratoconjunctiv           Exposure keratoconjunctivitis",
+	},
+	{
+		code: "37035  Neurotroph keratoconjunc           Neurotrophic keratoconjunctivitis",
+	},
+	{
+		code: "37040  Keratoconjunctivitis NOS           Keratoconjunctivitis",
+	},
+	{
+		code: "37044  Keratitis in exanthema             Keratitis or keratoconjunctivitis in exanthema",
+	},
+	{
+		code: "37049  Keratoconjunctivitis NEC           Other keratoconjunctivitis",
+	},
+	{
+		code: "37050  Interstit keratitis NOS            Interstitial keratitis",
+	},
+	{
+		code: "37052  Diffus interstit keratit           Diffuse interstitial keratitis",
+	},
+	{
+		code: "37054  Sclerosing keratitis               Sclerosing keratitis",
+	},
+	{
+		code: "37055  Corneal abscess                    Corneal abscess",
+	},
+	{
+		code: "37059  Interstit keratitis NEC            Other interstitial and deep keratitis",
+	},
+	{
+		code: "37060  Cornea neovasculariz NOS           Corneal neovascularization",
+	},
+	{
+		code: "37061  Local vasculariza cornea           Localized vascularization of cornea",
+	},
+	{
+		code: "37062  Corneal pannus                     Pannus (corneal)",
+	},
+	{
+		code: "37063  Deep vasculariza cornea            Deep vascularization of cornea",
+	},
+	{
+		code: "37064  Corneal ghost vessels              Ghost vessels (corneal)",
+	},
+	{
+		code: "3708   Keratitis NEC                      Other forms of keratitis",
+	},
+	{
+		code: "3709   Keratitis NOS                      Unspecified keratitis",
+	},
+	{
+		code: "37100  Corneal opacity NOS                Corneal opacity",
+	},
+	{
+		code: "37101  Minor opacity of cornea            Minor opacity of cornea",
+	},
+	{
+		code: "37102  Periph opacity of cornea           Peripheral opacity of cornea",
+	},
+	{
+		code: "37103  Central opacity",
+	},
+	{
+		code: "37104  Adherent leucoma                   Adherent leucoma",
+	},
+	{
+		code: "37105  Phthisical cornea                  Phthisical cornea",
+	},
+	{
+		code: "37110  Corneal deposit NOS                Corneal deposit",
+	},
+	{
+		code: "37111  Ant cornea pigmentation            Anterior corneal pigmentations",
+	},
+	{
+		code: "37112  Stromal cornea pigment             Stromal corneal pigmentations",
+	},
+	{
+		code: "37113  Post cornea pigmentation           Posterior corneal pigmentations",
+	},
+	{
+		code: "37114  Kayser-fleischer ring              Kayser-Fleischer ring",
+	},
+	{
+		code: "37115  Oth deposit w metab dis            Other corneal deposits associated with metabolic disorders",
+	},
+	{
+		code: "37116  Argentous cornea deposit           Argentous corneal deposits",
+	},
+	{
+		code: "37120  Corneal edema NOS                  Corneal edema",
+	},
+	{
+		code: "37121  Idiopathic corneal edema           Idiopathic corneal edema",
+	},
+	{
+		code: "37122  Secondary corneal edema            Secondary corneal edema",
+	},
+	{
+		code: "37123  Bullous keratopathy                Bullous keratopathy",
+	},
+	{
+		code: "37124  Edema d/t contact lens             Corneal edema due to wearing of contact lenses",
+	},
+	{
+		code: "37130  Cornea memb change NOS             Corneal membrane change",
+	},
+	{
+		code: "37131  Fold of bowman membrane            Folds and rupture of bowman's membrane",
+	},
+	{
+		code: "37132  Fold in descemet membran           Folds in descemet's membrane",
+	},
+	{
+		code: "37133  Rupture descemet membran           Rupture in descemet's membrane",
+	},
+	{
+		code: "37140  Corneal degeneration NOS           Corneal degeneration",
+	},
+	{
+		code: "37141  Senile corneal changes             Senile corneal changes",
+	},
+	{
+		code: "37142  Recurrent cornea erosion           Recurrent erosion of cornea",
+	},
+	{
+		code: "37143  Band-shaped keratopathy            Band-shaped keratopathy",
+	},
+	{
+		code: "37144  Calcer cornea degen NEC            Other calcerous degenerations of cornea",
+	},
+	{
+		code: "37145  Keratomalacia NOS                  Keratomalacia NOS",
+	},
+	{
+		code: "37146  Nodular cornea degen               Nodular degeneration of cornea",
+	},
+	{
+		code: "37148  Peripheral cornea degen            Peripheral degenerations of cornea",
+	},
+	{
+		code: "37149  Cornea degeneration NEC            Other corneal degenerations",
+	},
+	{
+		code: "37150  Corneal dystrophy NOS              Hereditary corneal dystrophy",
+	},
+	{
+		code: "37151  Juv epith cornea dystrph           Juvenile epithelial corneal dystrophy",
+	},
+	{
+		code: "37152  Ant cornea dystrophy NEC           Other anterior corneal dystrophies",
+	},
+	{
+		code: "37153  Granular cornea dystrphy           Granular corneal dystrophy",
+	},
+	{
+		code: "37154  Lattice cornea dystrophy           Lattice corneal dystrophy",
+	},
+	{
+		code: "37155  Macular cornea dystrophy           Macular corneal dystrophy",
+	},
+	{
+		code: "37156  Strom cornea dystrph NEC           Other stromal corneal dystrophies",
+	},
+	{
+		code: "37157  Endothel cornea dystrphy           Endothelial corneal dystrophy",
+	},
+	{
+		code: "37158  Post cornea dystrphy NEC           Other posterior corneal dystrophies",
+	},
+	{
+		code: "37160  Keratoconus NOS                    Keratoconus",
+	},
+	{
+		code: "37161  Keratoconus",
+	},
+	{
+		code: "37162  Keratoconus",
+	},
+	{
+		code: "37170  Corneal deformity NOS              Corneal deformity",
+	},
+	{
+		code: "37171  Corneal ectasia                    Corneal ectasia",
+	},
+	{
+		code: "37172  Descemetocele                      Descemetocele",
+	},
+	{
+		code: "37173  Corneal staphyloma                 Corneal staphyloma",
+	},
+	{
+		code: "37181  Corneal anesthesia                 Corneal anesthesia and hypoesthesia",
+	},
+	{
+		code: "37182  Corneal dsdr contct lens           Corneal disorder due to contact lens",
+	},
+	{
+		code: "37189  Corneal disorder NEC               Other corneal disorders",
+	},
+	{
+		code: "3719   Corneal disorder NOS               Unspecified corneal disorder",
+	},
+	{
+		code: "37200  Acute conjunctivitis NOS           Acute conjunctivitis",
+	},
+	{
+		code: "37201  Serous conjunctivitis              Serous conjunctivitis",
+	},
+	{
+		code: "37202  Ac follic conjunctivitis           Acute follicular conjunctivitis",
+	},
+	{
+		code: "37203  Mucopur conjunctivit NEC           Other mucopurulent conjunctivitis",
+	},
+	{
+		code: "37204  Pseudomemb conjunctivit            Pseudomembranous conjunctivitis",
+	},
+	{
+		code: "37205  Ac atopic conjunctivitis           Acute atopic conjunctivitis",
+	},
+	{
+		code: "37206  Ac chem conjunctivitis             Acute chemical conjunctivitis",
+	},
+	{
+		code: "37210  Chr conjunctivitis NOS             Chronic conjunctivitis",
+	},
+	{
+		code: "37211  Simpl chr conjunctivitis           Simple chronic conjunctivitis",
+	},
+	{
+		code: "37212  Chr follic conjunctivit            Chronic follicular conjunctivitis",
+	},
+	{
+		code: "37213  Vernal conjunctivitis              Vernal conjunctivitis",
+	},
+	{
+		code: "37214  Chr allrg conjunctiv NEC           Other chronic allergic conjunctivitis",
+	},
+	{
+		code: "37215  Parasitic conjunctivitis           Parasitic conjunctivitis",
+	},
+	{
+		code: "37220  Blepharoconjunctivit NOS           Blepharoconjunctivitis",
+	},
+	{
+		code: "37221  Angular blepharoconjunct           Angular blepharoconjunctivitis",
+	},
+	{
+		code: "37222  Contact blepharoconjunct           Contact blepharoconjunctivitis",
+	},
+	{
+		code: "37230  Conjunctivitis NOS                 Conjunctivitis",
+	},
+	{
+		code: "37231  Rosacea conjunctivitis             Rosacea conjunctivitis",
+	},
+	{
+		code: "37233  Mucocutan dis conjunctiv           Conjunctivitis in mucocutaneous disease",
+	},
+	{
+		code: "37234  Pingueculitis                      Pingueculitis",
+	},
+	{
+		code: "37239  Conjunctivitis NEC                 Other conjunctivitis",
+	},
+	{
+		code: "37240  Pterygium NOS                      Pterygium",
+	},
+	{
+		code: "37241  Periph station pterygium           Peripheral pterygium",
+	},
+	{
+		code: "37242  Periph progess pterygium           Peripheral pterygium",
+	},
+	{
+		code: "37243  Central pterygium                  Central pterygium",
+	},
+	{
+		code: "37244  Double pterygium                   Double pterygium",
+	},
+	{
+		code: "37245  Recurrent pterygium                Recurrent pterygium",
+	},
+	{
+		code: "37250  Conjunctival degen NOS             Conjunctival degeneration",
+	},
+	{
+		code: "37251  Pinguecula                         Pinguecula",
+	},
+	{
+		code: "37252  Pseudopterygium                    Pseudopterygium",
+	},
+	{
+		code: "37253  Conjunctival xerosis               Conjunctival xerosis",
+	},
+	{
+		code: "37254  Conjunctival concretions           Conjunctival concretions",
+	},
+	{
+		code: "37255  Conjunctiva pigmentation           Conjunctival pigmentations",
+	},
+	{
+		code: "37256  Conjunctival deposits              Conjunctival deposits",
+	},
+	{
+		code: "37261  Granuloma of conjunctiva           Granuloma of conjunctiva",
+	},
+	{
+		code: "37262  Local conjunctiva adhes            Localized adhesions and strands of conjunctiva",
+	},
+	{
+		code: "37263  Symblepharon                       Symblepharon",
+	},
+	{
+		code: "37264  Scarring of conjunctiva            Scarring of conjunctiva",
+	},
+	{
+		code: "37271  Hyperemia of conjunctiva           Hyperemia of conjunctiva",
+	},
+	{
+		code: "37272  Conjunctival hemorrhage            Conjunctival hemorrhage",
+	},
+	{
+		code: "37273  Conjunctival edema                 Conjunctival edema",
+	},
+	{
+		code: "37274  Conjunctiva vasc anomaly           Vascular abnormalities of conjunctiva",
+	},
+	{
+		code: "37275  Conjunctival cysts                 Conjunctival cysts",
+	},
+	{
+		code: "37281  Conjunctivochalasis                Conjunctivochalasis",
+	},
+	{
+		code: "37289  Conjunctiva disorder NEC           Other disorders of conjunctiva",
+	},
+	{
+		code: "3729   Conjunctiva disorder NOS           Unspecified disorder of conjunctiva",
+	},
+	{
+		code: "37300  Blepharitis NOS                    Blepharitis",
+	},
+	{
+		code: "37301  Ulcerative blepharitis             Ulcerative blepharitis",
+	},
+	{
+		code: "37302  Squamous blepharitis               Squamous blepharitis",
+	},
+	{
+		code: "37311  Hordeolum externum                 Hordeolum externum",
+	},
+	{
+		code: "37312  Hordeolum internum                 Hordeolum internum",
+	},
+	{
+		code: "37313  Abscess of eyelid                  Abscess of eyelid",
+	},
+	{
+		code: "3732   Chalazion                          Chalazion",
+	},
+	{
+		code: "37331  Eczem dermatitis eyelid            Eczematous dermatitis of eyelid",
+	},
+	{
+		code: "37332  Contact dermatit eyelid            Contact and allergic dermatitis of eyelid",
+	},
+	{
+		code: "37333  Xeroderma of eyelid                Xeroderma of eyelid",
+	},
+	{
+		code: "37334  Disc lup erythematos lid           Discoid lupus erythematosus of eyelid",
+	},
+	{
+		code: "3734   Infect derm lid w deform           Infective dermatitis of eyelid of types resulting in deformity",
+	},
+	{
+		code: "3735   Infec dermatitis lid NEC           Other infective dermatitis of eyelid",
+	},
+	{
+		code: "3736   Parasitic infest eyelid            Parasitic infestation of eyelid",
+	},
+	{
+		code: "3738   Inflammation eyelid NEC            Other inflammations of eyelids",
+	},
+	{
+		code: "3739   Inflammation eyelid NOS            Unspecified inflammation of eyelid",
+	},
+	{
+		code: "37400  Entropion NOS                      Entropion",
+	},
+	{
+		code: "37401  Senile entropion                   Senile entropion",
+	},
+	{
+		code: "37402  Mechanical entropion               Mechanical entropion",
+	},
+	{
+		code: "37403  Spastic entropion                  Spastic entropion",
+	},
+	{
+		code: "37404  Cicatricial entropion              Cicatricial entropion",
+	},
+	{
+		code: "37405  Trichiasis w/o entropion           Trichiasis of eyelid without entropion",
+	},
+	{
+		code: "37410  Ectropion NOS                      Ectropion",
+	},
+	{
+		code: "37411  Senile ectropion                   Senile ectropion",
+	},
+	{
+		code: "37412  Mechanical ectropion               Mechanical ectropion",
+	},
+	{
+		code: "37413  Spastic ectropion                  Spastic ectropion",
+	},
+	{
+		code: "37414  Cicatricial ectropion              Cicatricial ectropion",
+	},
+	{
+		code: "37420  Lagophthalmos NOS                  Lagophthalmos",
+	},
+	{
+		code: "37421  Paralytic lagophthalmos            Paralytic lagophthalmos",
+	},
+	{
+		code: "37422  Mechanical lagophthalmos           Mechanical lagophthalmos",
+	},
+	{
+		code: "37423  Cicatricial lagophthalm            Cicatricial lagophthalmos",
+	},
+	{
+		code: "37430  Ptosis of eyelid NOS               Ptosis of eyelid",
+	},
+	{
+		code: "37431  Paralytic ptosis                   Paralytic ptosis",
+	},
+	{
+		code: "37432  Myogenic ptosis                    Myogenic ptosis",
+	},
+	{
+		code: "37433  Mechanical ptosis                  Mechanical ptosis",
+	},
+	{
+		code: "37434  Blepharochalasis                   Blepharochalasis",
+	},
+	{
+		code: "37441  Lid retraction or lag              Lid retraction or lag",
+	},
+	{
+		code: "37443  Abnorm innervation synd            Abnormal innervation syndrome of eyelid",
+	},
+	{
+		code: "37444  Sensory disorders",
+	},
+	{
+		code: "37445  Sensormotr disor lid NEC           Other sensorimotor disorders of eyelid",
+	},
+	{
+		code: "37446  Blepharophimosis                   Blepharophimosis",
+	},
+	{
+		code: "37450  Degen disorder NOS",
+	},
+	{
+		code: "37451  Xanthelasma                        Xanthelasma of eyelid",
+	},
+	{
+		code: "37452  Hyperpigmentation lid              Hyperpigmentation of eyelid",
+	},
+	{
+		code: "37453  Hypopigmentation lid               Hypopigmentation of eyelid",
+	},
+	{
+		code: "37454  Hypertrichosis of eyelid           Hypertrichosis of eyelid",
+	},
+	{
+		code: "37455  Hypotrichosis of eyelid            Hypotrichosis of eyelid",
+	},
+	{
+		code: "37456  Degen dis eyelid NEC               Other degenerative disorders of skin affecting eyelid",
+	},
+	{
+		code: "37481  Hemorrhage of eyelid               Hemorrhage of eyelid",
+	},
+	{
+		code: "37482  Edema of eyelid                    Edema of eyelid",
+	},
+	{
+		code: "37483  Elephantiasis of eyelid            Elephantiasis of eyelid",
+	},
+	{
+		code: "37484  Cysts of eyelids                   Cysts of eyelids",
+	},
+	{
+		code: "37485  Vascular anomaly",
+	},
+	{
+		code: "37486  Old foreign body",
+	},
+	{
+		code: "37487  Dermatochalasis                    Dermatochalasis",
+	},
+	{
+		code: "37489  Disorders of eyelid NEC            Other disorders of eyelid",
+	},
+	{
+		code: "3749   Disorder of eyelid NOS             Unspecified disorder of eyelid",
+	},
+	{
+		code: "37500  Dacryoadenitis NOS                 Dacryoadenitis",
+	},
+	{
+		code: "37501  Acute dacryoadenitis               Acute dacryoadenitis",
+	},
+	{
+		code: "37502  Chronic dacryoadenitis             Chronic dacryoadenitis",
+	},
+	{
+		code: "37503  Ch enlargmnt lacrim glnd           Chronic enlargement of lacrimal gland",
+	},
+	{
+		code: "37511  Dacryops                           Dacryops",
+	},
+	{
+		code: "37512  Lacrimal gland cyst NEC            Other lacrimal cysts and cystic degeneration",
+	},
+	{
+		code: "37513  Primary lacrimal atrophy           Primary lacrimal atrophy",
+	},
+	{
+		code: "37514  Secondary lacrim atrophy           Secondary lacrimal atrophy",
+	},
+	{
+		code: "37515  Tear film insuffic NOS             Tear film insufficiency",
+	},
+	{
+		code: "37516  Lacrimal gland dislocat            Dislocation of lacrimal gland",
+	},
+	{
+		code: "37520  Epiphora NOS                       Epiphora",
+	},
+	{
+		code: "37521  Epiphora d/t excess tear           Epiphora due to excess lacrimation",
+	},
+	{
+		code: "37522  Epiphora d/t insuf drain           Epiphora due to insufficient drainage",
+	},
+	{
+		code: "37530  Dacryocystitis NOS                 Dacryocystitis",
+	},
+	{
+		code: "37531  Acute canaliculitis                Acute canaliculitis",
+	},
+	{
+		code: "37532  Acute dacryocystitis               Acute dacryocystitis",
+	},
+	{
+		code: "37533  Phlegmon dacryocystitis            Phlegmonous dacryocystitis",
+	},
+	{
+		code: "37541  Chronic canaliculitis              Chronic canaliculitis",
+	},
+	{
+		code: "37542  Chronic dacryocystitis             Chronic dacryocystitis",
+	},
+	{
+		code: "37543  Lacrimal mucocele                  Lacrimal mucocele",
+	},
+	{
+		code: "37551  Lacriml punctum eversion           Eversion of lacrimal punctum",
+	},
+	{
+		code: "37552  Lacriml punctum stenosis           Stenosis of lacrimal punctum",
+	},
+	{
+		code: "37553  Lacrim canalic stenosis            Stenosis of lacrimal canaliculi",
+	},
+	{
+		code: "37554  Lacrimal sac stenosis              Stenosis of lacrimal sac",
+	},
+	{
+		code: "37555  Neonatal nasolacrml obst           Obstruction of nasolacrimal duct",
+	},
+	{
+		code: "37556  Acq nasolacrml stenosis            Stenosis of nasolacrimal duct",
+	},
+	{
+		code: "37557  Dacryolith                         Dacryolith",
+	},
+	{
+		code: "37561  Lacrimal fistula                   Lacrimal fistula",
+	},
+	{
+		code: "37569  Lacrim passge change NEC           Other changes of lacrimal passages",
+	},
+	{
+		code: "37581  Lacrim passage granuloma           Granuloma of lacrimal passages",
+	},
+	{
+		code: "37589  Lacrimal syst dis NEC              Other disorders of lacrimal system",
+	},
+	{
+		code: "3759   Lacrimal syst dis NOS              Unspecified disorder of lacrimal system",
+	},
+	{
+		code: "37600  Acute inflam NOS",
+	},
+	{
+		code: "37601  Orbital cellulitis                 Orbital cellulitis",
+	},
+	{
+		code: "37602  Orbital periostitis                Orbital periostitis",
+	},
+	{
+		code: "37603  Orbital osteomyelitis              Orbital osteomyelitis",
+	},
+	{
+		code: "37604  Orbital tenonitis                  Orbital tenonitis",
+	},
+	{
+		code: "37610  Chr inflam NOS",
+	},
+	{
+		code: "37611  Orbital granuloma                  Orbital granuloma",
+	},
+	{
+		code: "37612  Orbital myositis                   Orbital myositis",
+	},
+	{
+		code: "37613  Parasite infest",
+	},
+	{
+		code: "37621  Thyrotoxic exophthalmos            Thyrotoxic exophthalmos",
+	},
+	{
+		code: "37622  Exophthalm ophthalmopleg           Exophthalmic ophthalmoplegia",
+	},
+	{
+		code: "37630  Exophthalmos NOS                   Exophthalmos",
+	},
+	{
+		code: "37631  Constant exophthalmos              Constant exophthalmos",
+	},
+	{
+		code: "37632  Orbital hemorrhage                 Orbital hemorrhage",
+	},
+	{
+		code: "37633  Orbital edema                      Orbital edema or congestion",
+	},
+	{
+		code: "37634  Intermittnt exophthalmos           Intermittent exophthalmos",
+	},
+	{
+		code: "37635  Pulsating exophthalmos             Pulsating exophthalmos",
+	},
+	{
+		code: "37636  Lateral globe displacmnt           Lateral displacement of globe",
+	},
+	{
+		code: "37640  Deformity of orbit NOS             Deformity of orbit",
+	},
+	{
+		code: "37641  Hypertelorism of orbit             Hypertelorism of orbit",
+	},
+	{
+		code: "37642  Exostosis of orbit                 Exostosis of orbit",
+	},
+	{
+		code: "37643  Orbt deform d/t bone dis           Local deformities of orbit due to bone disease",
+	},
+	{
+		code: "37644  Craniofacial-orbit defor           Orbital deformities associated with craniofacial deformities",
+	},
+	{
+		code: "37645  Atrophy of orbit                   Atrophy of orbit",
+	},
+	{
+		code: "37646  Enlargement of orbit               Enlargement of orbit",
+	},
+	{
+		code: "37647  Orbit deform d/t trauma            Deformity of orbit due to trauma or surgery",
+	},
+	{
+		code: "37650  Enophthalmos NOS                   Enophthalmos",
+	},
+	{
+		code: "37651  Enophth d/t orbit atrphy           Enophthalmos due to atrophy of orbital tissue",
+	},
+	{
+		code: "37652  Enophthalmos d/t trauma            Enophthalmos due to trauma or surgery",
+	},
+	{
+		code: "3766   Old foreign body",
+	},
+	{
+		code: "37681  Orbital cysts                      Orbital cysts",
+	},
+	{
+		code: "37682  Extraocul muscl myopathy           Myopathy of extraocular muscles",
+	},
+	{
+		code: "37689  Orbital disorders NEC              Other orbital disorders",
+	},
+	{
+		code: "3769   Orbital disorder NOS               Unspecified disorder of orbit",
+	},
+	{
+		code: "37700  Papilledema NOS                    Papilledema",
+	},
+	{
+		code: "37701  Papilledema w incr press           Papilledema associated with increased intracranial pressure",
+	},
+	{
+		code: "37702  Papilledema w decr press           Papilledema associated with decreased ocular pressure",
+	},
+	{
+		code: "37703  Papilledema w retina dis           Papilledema associated with retinal disorder",
+	},
+	{
+		code: "37704  Foster-kennedy syndrome            Foster-Kennedy syndrome",
+	},
+	{
+		code: "37710  Optic atrophy NOS                  Optic atrophy",
+	},
+	{
+		code: "37711  Primary optic atrophy              Primary optic atrophy",
+	},
+	{
+		code: "37712  Postinflam optic atrophy           Postinflammatory optic atrophy",
+	},
+	{
+		code: "37713  Optic atrph w retin dyst           Optic atrophy associated with retinal dystrophies",
+	},
+	{
+		code: "37714  Cupping of optic disc              Glaucomatous atrophy [cupping] of optic disc",
+	},
+	{
+		code: "37715  Partial optic atrophy              Partial optic atrophy",
+	},
+	{
+		code: "37716  Hereditary optic atrophy           Hereditary optic atrophy",
+	},
+	{
+		code: "37721  Drusen of optic disc               Drusen of optic disc",
+	},
+	{
+		code: "37722  Crater-like hole op disc           Crater-like holes of optic disc",
+	},
+	{
+		code: "37723  Coloboma of optic disc             Coloboma of optic disc",
+	},
+	{
+		code: "37724  Pseudopapilledema                  Pseudopapilledema",
+	},
+	{
+		code: "37730  Optic neuritis NOS                 Optic neuritis",
+	},
+	{
+		code: "37731  Optic papillitis                   Optic papillitis",
+	},
+	{
+		code: "37732  Retrobulbar neuritis               Retrobulbar neuritis (acute)",
+	},
+	{
+		code: "37733  Nutrition optc neuropthy           Nutritional optic neuropathy",
+	},
+	{
+		code: "37734  Toxic optic neuropathy             Toxic optic neuropathy",
+	},
+	{
+		code: "37739  Optic neuritis NEC                 Other optic neuritis",
+	},
+	{
+		code: "37741  Ischemic optic neuropthy           Ischemic optic neuropathy",
+	},
+	{
+		code: "37742  Optic nerve sheath hemor           Hemorrhage in optic nerve sheaths",
+	},
+	{
+		code: "37743  Optic nerve hypoplasia             Optic nerve hypoplasia",
+	},
+	{
+		code: "37749  Optic nerve disorder NEC           Other disorders of optic nerve",
+	},
+	{
+		code: "37751  Opt chiasm w pituit dis            Disorders of optic chiasm associated with pituitary neoplasms and disorders",
+	},
+	{
+		code: "37752  Opt chiasm dis/neopl NEC           Disorders of optic chiasm associated with other neoplasms",
+	},
+	{
+		code: "37753  Opt chiasm w vascul dis            Disorders of optic chiasm associated with vascular disorders",
+	},
+	{
+		code: "37754  Op chiasm dis w infl dis           Disorders of optic chiasm associated with inflammatory disorders",
+	},
+	{
+		code: "37761  Vis path dis w neoplasms           Disorders of other visual pathways associated with neoplasms",
+	},
+	{
+		code: "37762  Vis path dis w vasc dis            Disorders of other visual pathways associated with vascular disorders",
+	},
+	{
+		code: "37763  Vis path dis w infl dis            Disorders of other visual pathways associated with inflammatory disorders",
+	},
+	{
+		code: "37771  Vis cortx dis w neoplasm           Disorders of visual cortex associated with neoplasms",
+	},
+	{
+		code: "37772  Vis cortx dis w vasc dis           Disorders of visual cortex associated with vascular disorders",
+	},
+	{
+		code: "37773  Vis cortex dis w inflam            Disorders of visual cortex associated with inflammatory disorders",
+	},
+	{
+		code: "37775  Cortical blindness                 Cortical blindness",
+	},
+	{
+		code: "3779   Optic nerve disorder NOS           Unspecified disorder of optic nerve and visual pathways",
+	},
+	{
+		code: "37800  Esotropia NOS                      Esotropia",
+	},
+	{
+		code: "37801  Monocular esotropia                Monocular esotropia",
+	},
+	{
+		code: "37802  Monoc esotrop w a pattrn           Monocular esotropia with A pattern",
+	},
+	{
+		code: "37803  Monoc esotrop w v pattrn           Monocular esotropia with V pattern",
+	},
+	{
+		code: "37804  Monoc esotrop w x/y pat            Monocular esotropia with other noncomitancies",
+	},
+	{
+		code: "37805  Alternating esotropia              Alternating esotropia",
+	},
+	{
+		code: "37806  Alt esotropia w a pattrn           Alternating esotropia with A pattern",
+	},
+	{
+		code: "37807  Alt esotropia w v pattrn           Alternating esotropia with V pattern",
+	},
+	{
+		code: "37808  Alt esotrop w x/y pattrn           Alternating esotropia with other noncomitancies",
+	},
+	{
+		code: "37810  Exotropia NOS                      Exotropia",
+	},
+	{
+		code: "37811  Monocular exotropia                Monocular exotropia",
+	},
+	{
+		code: "37812  Monoc exotrop w a pattrn           Monocular exotropia with A pattern",
+	},
+	{
+		code: "37813  Monoc exotrop w v pattrn           Monocular exotropia with V pattern",
+	},
+	{
+		code: "37814  Monoc exotrop w x/y pat            Monocular exotropia with other noncomitancies",
+	},
+	{
+		code: "37815  Alternating exotropia              Alternating exotropia",
+	},
+	{
+		code: "37816  Alt exotropia w a pattrn           Alternating exotropia with A pattern",
+	},
+	{
+		code: "37817  Alt exotropia w v pattrn           Alternating exotropia with V pattern",
+	},
+	{
+		code: "37818  Alt exotrop w x/y pattrn           Alternating exotropia with other noncomitancies",
+	},
+	{
+		code: "37820  Intermit heterotrop NOS            Intermittent heterotropia",
+	},
+	{
+		code: "37821  Intermit monoc esotropia           Intermittent esotropia",
+	},
+	{
+		code: "37822  Intermit altrn esotropia           Intermittent esotropia",
+	},
+	{
+		code: "37823  Intermit monoc exotropia           Intermittent exotropia",
+	},
+	{
+		code: "37824  Intermit altrn exotropia           Intermittent exotropia",
+	},
+	{
+		code: "37830  Heterotropia NOS                   Heterotropia",
+	},
+	{
+		code: "37831  Hypertropia                        Hypertropia",
+	},
+	{
+		code: "37832  Hypotropia                         Hypotropia",
+	},
+	{
+		code: "37833  Cyclotropia                        Cyclotropia",
+	},
+	{
+		code: "37834  Monofixation syndrome              Monofixation syndrome",
+	},
+	{
+		code: "37835  Accommodative esotropia            Accommodative component in esotropia",
+	},
+	{
+		code: "37840  Heterophoria NOS                   Heterophoria",
+	},
+	{
+		code: "37841  Esophoria                          Esophoria",
+	},
+	{
+		code: "37842  Exophoria                          Exophoria",
+	},
+	{
+		code: "37843  Vertical heterophoria              Vertical heterophoria",
+	},
+	{
+		code: "37844  Cyclophoria                        Cyclophoria",
+	},
+	{
+		code: "37845  Alternating hyperphoria            Alternating hyperphoria",
+	},
+	{
+		code: "37850  Paralytic strabismus NOS           Paralytic strabismus",
+	},
+	{
+		code: "37851  Partial third nerv palsy           Third or oculomotor nerve palsy",
+	},
+	{
+		code: "37852  Total third nerve palsy            Third or oculomotor nerve palsy",
+	},
+	{
+		code: "37853  Fourth nerve palsy                 Fourth or trochlear nerve palsy",
+	},
+	{
+		code: "37854  Sixth nerve palsy                  Sixth or abducens nerve palsy",
+	},
+	{
+		code: "37855  External ophthalmoplegia           External ophthalmoplegia",
+	},
+	{
+		code: "37856  Total ophthalmoplegia              Total ophthalmoplegia",
+	},
+	{
+		code: "37860  Mechanical strabism NOS            Mechanical strabismus",
+	},
+	{
+		code: "37861  Brown's sheath syndrome            Brown's (tendon) sheath syndrome",
+	},
+	{
+		code: "37862  Mech strab d/t muscl dis           Mechanical strabismus from other musculofascial disorders",
+	},
+	{
+		code: "37863  Mech strab w oth conditn           Limited duction associated with other conditions",
+	},
+	{
+		code: "37871  Duane's syndrome                   Duane's syndrome",
+	},
+	{
+		code: "37872  Prog ext ophthalmoplegia           Progressive external ophthalmoplegia",
+	},
+	{
+		code: "37873  Neuromuscle dis strabism           Strabismus in other neuromuscular disorders",
+	},
+	{
+		code: "37881  Palsy of conjugate gaze            Palsy of conjugate gaze",
+	},
+	{
+		code: "37882  Spasm of conjugate gaze            Spasm of conjugate gaze",
+	},
+	{
+		code: "37883  Convergenc insufficiency           Convergence insufficiency or palsy",
+	},
+	{
+		code: "37884  Convergence excess                 Convergence excess or spasm",
+	},
+	{
+		code: "37885  Anomalies of divergence            Anomalies of divergence",
+	},
+	{
+		code: "37886  Internucl ophthalmopleg            Internuclear ophthalmoplegia",
+	},
+	{
+		code: "37887  Skew deviation",
+	},
+	{
+		code: "3789   Eye movemnt disorder NOS           Unspecified disorder of eye movements",
+	},
+	{
+		code: "37900  Scleritis NOS                      Scleritis",
+	},
+	{
+		code: "37901  Episclerit periodic fugx           Episcleritis periodica fugax",
+	},
+	{
+		code: "37902  Nodular episcleritis               Nodular episcleritis",
+	},
+	{
+		code: "37903  Anterior scleritis                 Anterior scleritis",
+	},
+	{
+		code: "37904  Scleromalacia perforans            Scleromalacia perforans",
+	},
+	{
+		code: "37905  Scleritis w cornea invol           Scleritis with corneal involvement",
+	},
+	{
+		code: "37906  Brawny scleritis                   Brawny scleritis",
+	},
+	{
+		code: "37907  Posterior scleritis                Posterior scleritis",
+	},
+	{
+		code: "37909  Scleritis NEC                      Other scleritis and episcleritis",
+	},
+	{
+		code: "37911  Scleral ectasia                    Scleral ectasia",
+	},
+	{
+		code: "37912  Staphyloma posticum                Staphyloma posticum",
+	},
+	{
+		code: "37913  Equatorial staphyloma              Equatorial staphyloma",
+	},
+	{
+		code: "37914  Local anterior staphylma           Anterior staphyloma",
+	},
+	{
+		code: "37915  Ring staphyloma                    Ring staphyloma",
+	},
+	{
+		code: "37916  Scleral degen dis NEC              Other degenerative disorders of sclera",
+	},
+	{
+		code: "37919  Disorder of sclera NEC             Other disorders of sclera",
+	},
+	{
+		code: "37921  Vitreous degeneration              Vitreous degeneration",
+	},
+	{
+		code: "37922  Crystal deposit vitreous           Crystalline deposits in vitreous",
+	},
+	{
+		code: "37923  Vitreous hemorrhage                Vitreous hemorrhage",
+	},
+	{
+		code: "37924  Vitreous opacities NEC             Other vitreous opacities",
+	},
+	{
+		code: "37925  Vitreous membranes                 Vitreous membranes and strands",
+	},
+	{
+		code: "37926  Vitreous prolapse                  Vitreous prolapse",
+	},
+	{
+		code: "37927  Vitreomacular adhesion             Vitreomacular adhesion",
+	},
+	{
+		code: "37929  Vitreous disorders NEC             Other disorders of vitreous",
+	},
+	{
+		code: "37931  Aphakia                            Aphakia",
+	},
+	{
+		code: "37932  Subluxation of lens                Subluxation of lens",
+	},
+	{
+		code: "37933  Ant dislocation of lens            Anterior dislocation of lens",
+	},
+	{
+		code: "37934  Post dislocation of lens           Posterior dislocation of lens",
+	},
+	{
+		code: "37939  Disorders of lens NEC              Other disorders of lens",
+	},
+	{
+		code: "37940  Abn pupil function NOS             Abnormal pupillary function",
+	},
+	{
+		code: "37941  Anisocoria                         Anisocoria",
+	},
+	{
+		code: "37942  Miosis not d/t miotics             Miosis (persistent)",
+	},
+	{
+		code: "37943  Mydriasis not d/t mydrtc           Mydriasis (persistent)",
+	},
+	{
+		code: "37945  Argyll robertson pupil             Argyll Robertson pupil",
+	},
+	{
+		code: "37946  Tonic pupillary reaction           Tonic pupillary reaction",
+	},
+	{
+		code: "37949  Pupil funct anomaly NEC            Other anomalies of pupillary function",
+	},
+	{
+		code: "37950  Nystagmus NOS                      Nystagmus",
+	},
+	{
+		code: "37951  Congenital nystagmus               Congenital nystagmus",
+	},
+	{
+		code: "37952  Latent nystagmus                   Latent nystagmus",
+	},
+	{
+		code: "37953  Visual deprivatn nystagm           Visual deprivation nystagmus",
+	},
+	{
+		code: "37954  Nystagms w vestibulr dis           Nystagmus associated with disorders of the vestibular system",
+	},
+	{
+		code: "37955  Dissociated nystagmus              Dissociated nystagmus",
+	},
+	{
+		code: "37956  Nystagmus NEC                      Other forms of nystagmus",
+	},
+	{
+		code: "37957  Saccadic eye movmnt def            Deficiencies of saccadic eye movements",
+	},
+	{
+		code: "37958  Smooth pursuit mvmnt def           Deficiencies of smooth pursuit movements",
+	},
+	{
+		code: "37959  Irregular eye mvmnts NEC           Other irregularities of eye movements",
+	},
+	{
+		code: "37960  Inflam postproc bleb NOS           Inflammation (infection) of postprocedural bleb",
+	},
+	{
+		code: "37961  Inflam postproc bleb",
+	},
+	{
+		code: "37962  Inflam postproc bleb",
+	},
+	{
+		code: "37963  Inflam postproc bleb",
+	},
+	{
+		code: "3798   Eye disorders NEC                  Other specified disorders of eye and adnexa",
+	},
+	{
+		code: "37990  Eye disorder NOS                   Disorder of eye",
+	},
+	{
+		code: "37991  Pain in or around eye              Pain in or around eye",
+	},
+	{
+		code: "37992  Swelling or mass of eye            Swelling or mass of eye",
+	},
+	{
+		code: "37993  Redness/discharge of eye           Redness or discharge of eye",
+	},
+	{
+		code: "37999  Ill-defined eye dis NEC            Other ill-defined disorders of eye",
+	},
+	{
+		code: "38000  Perichondritis pinna NOS           Perichondritis of pinna",
+	},
+	{
+		code: "38001  Ac perichondritis pinna            Acute perichondritis of pinna",
+	},
+	{
+		code: "38002  Chr perichondritis pinna           Chronic perichondritis of pinna",
+	},
+	{
+		code: "38003  Chondritis of pinna                Chondritis of pinna",
+	},
+	{
+		code: "38010  Infec otitis externa NOS           Infective otitis externa",
+	},
+	{
+		code: "38011  Acute infection of pinna           Acute infection of pinna",
+	},
+	{
+		code: "38012  Acute swimmers' ear                Acute swimmers' ear",
+	},
+	{
+		code: "38013  Ac infect extern ear NEC           Other acute infections of external ear",
+	},
+	{
+		code: "38014  Malignant otitis externa           Malignant otitis externa",
+	},
+	{
+		code: "38015  Chr mycot otitis externa           Chronic mycotic otitis externa",
+	},
+	{
+		code: "38016  Chr inf otit externa NEC           Other chronic infective otitis externa",
+	},
+	{
+		code: "38021  Cholesteatoma extern ear           Cholesteatoma of external ear",
+	},
+	{
+		code: "38022  Acute otitis externa NEC           Other acute otitis externa",
+	},
+	{
+		code: "38023  Chr otitis externa NEC             Other chronic otitis externa",
+	},
+	{
+		code: "38030  Disorder of pinna NOS              Disorder of pinna",
+	},
+	{
+		code: "38031  Hematoma auricle/pinna             Hematoma of auricle or pinna",
+	},
+	{
+		code: "38032  Acq deform auricle/pinna           Acquired deformities of auricle or pinna",
+	},
+	{
+		code: "38039  Noninfect dis pinna NEC            Other noninfectious disorders of pinna",
+	},
+	{
+		code: "3804   Impacted cerumen                   Impacted cerumen",
+	},
+	{
+		code: "38050  Acq stenos ear canal NOS           Acquired stenosis of external ear canal",
+	},
+	{
+		code: "38051  Stenosis ear d/t trauma            Acquired stenosis of external ear canal secondary to trauma",
+	},
+	{
+		code: "38052  Stenosis ear d/t surgery           Acquired stenosis of external ear canal secondary to surgery",
+	},
+	{
+		code: "38053  Stenosis ear d/t inflam            Acquired stenosis of external ear canal secondary to inflammation",
+	},
+	{
+		code: "38081  Exostosis ext ear canal            Exostosis of external ear canal",
+	},
+	{
+		code: "38089  Dis external ear NEC               Other disorders of external ear",
+	},
+	{
+		code: "3809   Dis external ear NOS               Unspecified disorder of external ear",
+	},
+	{
+		code: "381    NONSUPPURATIVE OTITIS MEDIA AND EUSNONSUPPURATIVE OTITIS MEDIA AND EUSTACHIAN TUBE DISORDERS",
+	},
+	{
+		code: "38100  Ac nonsup otitis med NOS           Acute nonsuppurative otitis media",
+	},
+	{
+		code: "38101  Ac serous otitis media             Acute serous otitis media",
+	},
+	{
+		code: "38102  Ac mucoid otitis media             Acute mucoid otitis media",
+	},
+	{
+		code: "38103  Ac sanguin otitis media            Acute sanguinous otitis media",
+	},
+	{
+		code: "38104  Ac allergic serous OM              Acute allergic serous otitis media",
+	},
+	{
+		code: "38105  Ac allergic mucoid OM              Acute allergic mucoid otitis media",
+	},
+	{
+		code: "38106  Ac allerg sanguinous OM            Acute allergic sanguinous otitis media",
+	},
+	{
+		code: "38110  Chr serous OM simp/NOS             Chronic serous otitis media",
+	},
+	{
+		code: "38119  Chr serous OM NEC                  Other chronic serous otitis media",
+	},
+	{
+		code: "38120  Chr mucoid OM simp/NOS             Chronic mucoid otitis media",
+	},
+	{
+		code: "38129  Chr mucoid OM NEC                  Other chronic mucoid otitis media",
+	},
+	{
+		code: "3813   Chr nonsup OM NOS/NEC              Other and unspecified chronic nonsuppurative otitis media",
+	},
+	{
+		code: "3814   Nonsupp otitis media NOS           Nonsuppurative otitis media",
+	},
+	{
+		code: "38150  Eustachian salping NOS             Eustachian salpingitis",
+	},
+	{
+		code: "38151  Ac eustachian salping              Acute Eustachian salpingitis",
+	},
+	{
+		code: "38152  Chr eustachian salping             Chronic Eustachian salpingitis",
+	},
+	{
+		code: "38160  Obstr eustach tube NOS             Obstruction of Eustachian tube",
+	},
+	{
+		code: "38161  Osseous eustachian obstr           Osseous obstruction of Eustachian tube",
+	},
+	{
+		code: "38162  Intrinsic eustach obstr            Intrinsic cartilagenous obstruction of Eustachian tube",
+	},
+	{
+		code: "38163  Extrinsic eustach obstr            Extrinsic cartilagenous obstruction of Eustachian tube",
+	},
+	{
+		code: "3817   Patulous eustachian tube           Patulous Eustachian tube",
+	},
+	{
+		code: "38181  Dysfunct eustachian tube           Dysfunction of Eustachian tube",
+	},
+	{
+		code: "38189  Eustachian tube dis NEC            Other disorders of Eustachian tube",
+	},
+	{
+		code: "3819   Eustachian tube dis NOS            Unspecified Eustachian tube disorder",
+	},
+	{
+		code: "38200  Ac supp otitis media NOS           Acute suppurative otitis media without spontaneous rupture of eardrum",
+	},
+	{
+		code: "38201  Ac supp OM w drum rupt             Acute suppurative otitis media with spontaneous rupture of eardrum",
+	},
+	{
+		code: "38202  Ac supp OM in oth dis              Acute suppurative otitis media in diseases classified elsewhere",
+	},
+	{
+		code: "3821   Chr tubotympan suppur OM           Chronic tubotympanic suppurative otitis media",
+	},
+	{
+		code: "3822   Chr atticoantral sup OM            Chronic atticoantral suppurative otitis media",
+	},
+	{
+		code: "3823   Chr sup otitis media NOS           Unspecified chronic suppurative otitis media",
+	},
+	{
+		code: "3824   Suppur otitis media NOS            Unspecified suppurative otitis media",
+	},
+	{
+		code: "3829   Otitis media NOS                   Unspecified otitis media",
+	},
+	{
+		code: "38300  Ac mastoiditis w/o compl           Acute mastoiditis without complications",
+	},
+	{
+		code: "38301  Subperi mastoid abscess            Subperiosteal abscess of mastoid",
+	},
+	{
+		code: "38302  Ac mastoiditis-compl NEC           Acute mastoiditis with other complications",
+	},
+	{
+		code: "3831   Chronic mastoiditis                Chronic mastoiditis",
+	},
+	{
+		code: "38320  Petrositis NOS                     Petrositis",
+	},
+	{
+		code: "38321  Acute petrositis                   Acute petrositis",
+	},
+	{
+		code: "38322  Chronic petrositis                 Chronic petrositis",
+	},
+	{
+		code: "38330  Postmastoid compl NOS              Postmastoidectomy complication",
+	},
+	{
+		code: "38331  Postmastoid mucosal cyst           Mucosal cyst of postmastoidectomy cavity",
+	},
+	{
+		code: "38332  Postmastoid cholesteatma           Recurrent cholesteatoma of postmastoidectomy cavity",
+	},
+	{
+		code: "38333  Postmastoid granulations           Granulations of postmastoidectomy cavity",
+	},
+	{
+		code: "38381  Postauricular fistula              Postauricular fistula",
+	},
+	{
+		code: "38389  Disorders of mastoid NEC           Other disorders of mastoid",
+	},
+	{
+		code: "3839   Mastoiditis NOS                    Unspecified mastoiditis",
+	},
+	{
+		code: "38400  Acute myringitis NOS               Acute myringitis",
+	},
+	{
+		code: "38401  Bullous myringitis                 Bullous myringitis",
+	},
+	{
+		code: "38409  Acute myringitis NEC               Other acute myringitis without mention of otitis media",
+	},
+	{
+		code: "3841   Chronic myringitis                 Chronic myringitis without mention of otitis media",
+	},
+	{
+		code: "38420  Perforat tympan memb NOS           Perforation of tympanic membrane",
+	},
+	{
+		code: "38421  Cent perf tympanic memb            Central perforation of tympanic membrane",
+	},
+	{
+		code: "38422  Attic perf tympanic memb           Attic perforation of tympanic membrane",
+	},
+	{
+		code: "38423  Marginal perf tymp NEC             Other marginal perforation of tympanic membrane",
+	},
+	{
+		code: "38424  Mult perf tympanic memb            Multiple perforations of tympanic membrane",
+	},
+	{
+		code: "38425  Total perf tympanic memb           Total perforation of tympanic membrane",
+	},
+	{
+		code: "38481  Atrophic flaccid tympan            Atrophic flaccid tympanic membrane",
+	},
+	{
+		code: "38482  Atrophic nonflaccid tymp           Atrophic nonflaccid tympanic membrane",
+	},
+	{
+		code: "3849   Dis tympanic memb NOS              Unspecified disorder of tympanic membrane",
+	},
+	{
+		code: "38500  Tympanosclerosis NOS               Tympanosclerosis",
+	},
+	{
+		code: "38501  Tympanoscl-tympanic memb           Tympanosclerosis involving tympanic membrane only",
+	},
+	{
+		code: "38502  Tympnoscler-tymp/ossicle           Tympanosclerosis involving tympanic membrane and ear ossicles",
+	},
+	{
+		code: "38503  Tympanoscler-all parts             Tympanosclerosis involving tympanic membrane",
+	},
+	{
+		code: "38509  Tympnsclr-oth site comb            Tympanosclerosis involving other combination of structures",
+	},
+	{
+		code: "38510  Adhesive mid ear dis NOS           Adhesive middle ear disease",
+	},
+	{
+		code: "38511  Adhesion tympanum-incus            Adhesions of drum head to incus",
+	},
+	{
+		code: "38512  Adhesion tympanum-stapes           Adhesions of drum head to stapes",
+	},
+	{
+		code: "38513  Adhesion tymp-promontor            Adhesions of drum head to promontorium",
+	},
+	{
+		code: "38519  Adhesive mid ear dis NEC           Other middle ear adhesions and combinations",
+	},
+	{
+		code: "38521  Ankylosis malleus                  Impaired mobility of malleus",
+	},
+	{
+		code: "38522  Ankylosis ear ossicl NEC           Impaired mobility of other ear ossicles",
+	},
+	{
+		code: "38523  Dislocation ear ossicle            Discontinuity or dislocation of ear ossicles",
+	},
+	{
+		code: "38524  Partial loss ear ossicle           Partial loss or necrosis of ear ossicles",
+	},
+	{
+		code: "38530  Cholesteatoma NOS                  Cholesteatoma",
+	},
+	{
+		code: "38531  Cholesteatoma of attic             Cholesteatoma of attic",
+	},
+	{
+		code: "38532  Cholesteatoma middle ear           Cholesteatoma of middle ear",
+	},
+	{
+		code: "38533  Cholestma mid ear/mstoid           Cholesteatoma of middle ear and mastoid",
+	},
+	{
+		code: "38535  Diffuse cholesteatosis             Diffuse cholesteatosis of middle ear and mastoid",
+	},
+	{
+		code: "38582  Cholesterin granuloma              Cholesterin granuloma of middle ear and mastoid",
+	},
+	{
+		code: "38583  Foreign body middle ear            Retained foreign body of middle ear",
+	},
+	{
+		code: "38589  Dis mid ear/mastoid NEC            Other disorders of middle ear and mastoid",
+	},
+	{
+		code: "3859   Dis mid ear/mastoid NOS            Unspecified disorder of middle ear and mastoid",
+	},
+	{
+		code: "38600  Meniere's disease NOS              Meniere's disease",
+	},
+	{
+		code: "38601  Actv Meniere",
+	},
+	{
+		code: "38602  Active Meniere",
+	},
+	{
+		code: "38603  Actv Meniere",
+	},
+	{
+		code: "38604  Inactive Meniere's dis             Inactive Meniere's disease",
+	},
+	{
+		code: "38610  Peripheral vertigo NOS             Peripheral vertigo",
+	},
+	{
+		code: "38611  Benign parxysmal vertigo           Benign paroxysmal positional vertigo",
+	},
+	{
+		code: "38612  Vestibular neuronitis              Vestibular neuronitis",
+	},
+	{
+		code: "38619  Peripheral vertigo NEC             Other peripheral vertigo",
+	},
+	{
+		code: "3862   Central origin vertigo             Vertigo of central origin",
+	},
+	{
+		code: "38630  Labyrinthitis NOS                  Labyrinthitis",
+	},
+	{
+		code: "38631  Serous labyrinthitis               Serous labyrinthitis",
+	},
+	{
+		code: "38632  Circumscri labyrinthitis           Circumscribed labyrinthitis",
+	},
+	{
+		code: "38633  Suppurativ labyrinthitis           Suppurative labyrinthitis",
+	},
+	{
+		code: "38634  Toxic labyrinthitis                Toxic labyrinthitis",
+	},
+	{
+		code: "38635  Viral labyrinthitis                Viral labyrinthitis",
+	},
+	{
+		code: "38640  Labyrinthine fistula NOS           Labyrinthine fistula",
+	},
+	{
+		code: "38641  Round window fistula               Round window fistula",
+	},
+	{
+		code: "38642  Oval window fistula                Oval window fistula",
+	},
+	{
+		code: "38643  Semicircul canal fistula           Semicircular canal fistula",
+	},
+	{
+		code: "38648  Labyrinth fistula comb             Labyrinthine fistula of combined sites",
+	},
+	{
+		code: "38650  Labyrinthine dysfunc NOS           Labyrinthine dysfunction",
+	},
+	{
+		code: "38651  Hypract labyrinth unilat           Hyperactive labyrinth",
+	},
+	{
+		code: "38652  Hyperact labyrinth bilat           Hyperactive labyrinth",
+	},
+	{
+		code: "38653  Hypoact labyrinth unilat           Hypoactive labyrinth",
+	},
+	{
+		code: "38654  Hypoact labyrinth bilat            Hypoactive labyrinth",
+	},
+	{
+		code: "38655  Loss labyrn react unilat           Loss of labyrinthine reactivity",
+	},
+	{
+		code: "38656  Loss labyrin react bilat           Loss of labyrinthine reactivity",
+	},
+	{
+		code: "38658  Labyrinthine dysfunc NEC           Other forms and combinations of labyrinthine dysfunction",
+	},
+	{
+		code: "3868   Disorders labyrinth NEC            Other disorders of labyrinth",
+	},
+	{
+		code: "3869   Vertiginous synd NOS               Unspecified vertiginous syndromes and labyrinthine disorders",
+	},
+	{
+		code: "3870   Otoscler-oval wnd nonobl           Otosclerosis involving oval window",
+	},
+	{
+		code: "3871   Otoscler-oval wndw oblit           Otosclerosis involving oval window",
+	},
+	{
+		code: "3872   Cochlear otosclerosis              Cochlear otosclerosis",
+	},
+	{
+		code: "3878   Otosclerosis NEC                   Other otosclerosis",
+	},
+	{
+		code: "3879   Otosclerosis NOS                   Otosclerosis",
+	},
+	{
+		code: "38800  Degen/vascul dis ear NOS           Degenerative and vascular disorders",
+	},
+	{
+		code: "38801  Presbyacusis                       Presbyacusis",
+	},
+	{
+		code: "38802  Trans ischemic deafness            Transient ischemic deafness",
+	},
+	{
+		code: "38810  Noise effect-ear/NOS               Noise effects on inner ear",
+	},
+	{
+		code: "38811  Acoustic trauma                    Acoustic trauma (explosive) to ear",
+	},
+	{
+		code: "38812  Hearing loss d/t noise             Noise-induced hearing loss",
+	},
+	{
+		code: "3882   Sudden hearing loss NOS            Sudden hearing loss",
+	},
+	{
+		code: "38830  Tinnitus NOS                       Tinnitus",
+	},
+	{
+		code: "38831  Subjective tinnitus                Subjective tinnitus",
+	},
+	{
+		code: "38832  Objective tinnitus                 Objective tinnitus",
+	},
+	{
+		code: "38840  Abn auditory percept NOS           Abnormal auditory perception",
+	},
+	{
+		code: "38841  Diplacusis                         Diplacusis",
+	},
+	{
+		code: "38842  Hyperacusis                        Hyperacusis",
+	},
+	{
+		code: "38843  Impairm auditory discrim           Impairment of auditory discrimination",
+	},
+	{
+		code: "38844  Auditory recruitment               Auditory recruitment",
+	},
+	{
+		code: "38845  Acq auditory process dis           Acquired auditory processing disorder",
+	},
+	{
+		code: "3885   Acoustic nerve disorders           Disorders of acoustic nerve",
+	},
+	{
+		code: "38860  Otorrhea NOS                       Otorrhea",
+	},
+	{
+		code: "38861  Cerebrosp fluid otorrhea           Cerebrospinal fluid otorrhea",
+	},
+	{
+		code: "38869  Otorrhea NEC                       Other otorrhea",
+	},
+	{
+		code: "38870  Otalgia NOS                        Otalgia",
+	},
+	{
+		code: "38871  Otogenic pain                      Otogenic pain",
+	},
+	{
+		code: "38872  Referred pain of ear               Referred otogenic pain",
+	},
+	{
+		code: "3888   Disorders of ear NEC               Other disorders of ear",
+	},
+	{
+		code: "3889   Disorder of ear NOS                Unspecified disorder of ear",
+	},
+	{
+		code: "38900  Conduct hearing loss NOS           Conductive hearing loss",
+	},
+	{
+		code: "38901  Conduc hear loss ext ear           Conductive hearing loss",
+	},
+	{
+		code: "38902  Conduct hear loss tympan           Conductive hearing loss",
+	},
+	{
+		code: "38903  Conduc hear loss mid ear           Conductive hearing loss",
+	},
+	{
+		code: "38904  Cond hear loss inner ear           Conductive hearing loss",
+	},
+	{
+		code: "38905  Condctv hear loss",
+	},
+	{
+		code: "38906  Condctv hear loss",
+	},
+	{
+		code: "38908  Cond hear loss comb type           Conductive hearing loss of combined types",
+	},
+	{
+		code: "38910  Sensorneur hear loss NOS           Sensorineural hearing loss",
+	},
+	{
+		code: "38911  Sensry hearng loss",
+	},
+	{
+		code: "38912  Neural hearng loss",
+	},
+	{
+		code: "38913  Neural hear loss",
+	},
+	{
+		code: "38914  Central hearing loss               Central hearing loss",
+	},
+	{
+		code: "38915  Sensorneur hear loss uni           Sensorineural hearing loss",
+	},
+	{
+		code: "38916  Sensoneur hear loss asym           Sensorineural hearing loss",
+	},
+	{
+		code: "38917  Sensory hear loss",
+	},
+	{
+		code: "38918  Sensonrl hear loss",
+	},
+	{
+		code: "38920  Mixed hearing loss NOS             Mixed hearing loss",
+	},
+	{
+		code: "38921  Mixed hearing loss",
+	},
+	{
+		code: "38922  Mixed hearing loss",
+	},
+	{
+		code: "3897   Deaf",
+	},
+	{
+		code: "3898   Hearing loss NEC                   Other specified forms of hearing loss",
+	},
+	{
+		code: "3899   Hearing loss NOS                   Unspecified hearing loss",
+	},
+	{
+		code: "390    Rheum fev w/o hrt involv           Rheumatic fever without mention of heart involvement",
+	},
+	{
+		code: "3910   Acute rheumatic pericard           Acute rheumatic pericarditis",
+	},
+	{
+		code: "3911   Acute rheumatic endocard           Acute rheumatic endocarditis",
+	},
+	{
+		code: "3912   Ac rheumatic myocarditis           Acute rheumatic myocarditis",
+	},
+	{
+		code: "3918   Ac rheumat hrt dis NEC             Other acute rheumatic heart disease",
+	},
+	{
+		code: "3919   Ac rheumat hrt dis NOS             Acute rheumatic heart disease",
+	},
+	{
+		code: "3920   Rheum chorea w hrt invol           Rheumatic chorea with heart involvement",
+	},
+	{
+		code: "3929   Rheumatic chorea NOS               Rheumatic chorea without mention of heart involvement",
+	},
+	{
+		code: "393    Chr rheumatic pericard             Chronic rheumatic pericarditis",
+	},
+	{
+		code: "3940   Mitral stenosis                    Mitral stenosis",
+	},
+	{
+		code: "3941   Rheumatic mitral insuff            Rheumatic mitral insufficiency",
+	},
+	{
+		code: "3942   Mitral stenosis w insuff           Mitral stenosis with insufficiency",
+	},
+	{
+		code: "3949   Mitral valve dis NEC/NOS           Other and unspecified mitral valve diseases",
+	},
+	{
+		code: "3950   Rheumat aortic stenosis            Rheumatic aortic stenosis",
+	},
+	{
+		code: "3951   Rheumatic aortic insuff            Rheumatic aortic insufficiency",
+	},
+	{
+		code: "3952   Rheum aortic sten/insuff           Rheumatic aortic stenosis with insufficiency",
+	},
+	{
+		code: "3959   Rheum aortic dis NEC/NOS           Other and unspecified rheumatic aortic diseases",
+	},
+	{
+		code: "3960   Mitral/aortic stenosis             Mitral valve stenosis and aortic valve stenosis",
+	},
+	{
+		code: "3961   Mitral stenos/aort insuf           Mitral valve stenosis and aortic valve insufficiency",
+	},
+	{
+		code: "3962   Mitral insuf/aort stenos           Mitral valve insufficiency and aortic valve stenosis",
+	},
+	{
+		code: "3963   Mitral/aortic val insuff           Mitral valve insufficiency and aortic valve insufficiency",
+	},
+	{
+		code: "3968   Mitr/aortic mult involv            Multiple involvement of mitral and aortic valves",
+	},
+	{
+		code: "3969   Mitral/aortic v dis NOS            Mitral and aortic valve diseases",
+	},
+	{
+		code: "3970   Tricuspid valve disease            Diseases of tricuspid valve",
+	},
+	{
+		code: "3971   Rheum pulmon valve dis             Rheumatic diseases of pulmonary valve",
+	},
+	{
+		code: "3979   Rheum endocarditis NOS             Rheumatic diseases of endocardium",
+	},
+	{
+		code: "3980   Rheumatic myocarditis              Rheumatic myocarditis",
+	},
+	{
+		code: "39890  Rheumatic heart dis NOS            Rheumatic heart disease",
+	},
+	{
+		code: "39891  Rheumatic heart failure            Rheumatic heart failure (congestive)",
+	},
+	{
+		code: "39899  Rheumatic heart dis NEC            Other rheumatic heart diseases",
+	},
+}

@@ -1,0 +1,3812 @@
+{
+	{
+		code: "20000  Retclsrc unsp xtrndl org           Reticulosarcoma",
+	},
+	{
+		code: "20001  Reticulosarcoma head               Reticulosarcoma",
+	},
+	{
+		code: "20002  Reticulosarcoma thorax             Reticulosarcoma",
+	},
+	{
+		code: "20003  Reticulosarcoma abdom              Reticulosarcoma",
+	},
+	{
+		code: "20004  Reticulosarcoma axilla             Reticulosarcoma",
+	},
+	{
+		code: "20005  Reticulosarcoma inguin             Reticulosarcoma",
+	},
+	{
+		code: "20006  Reticulosarcoma pelvic             Reticulosarcoma",
+	},
+	{
+		code: "20007  Reticulosarcoma spleen             Reticulosarcoma",
+	},
+	{
+		code: "20008  Reticulosarcoma mult               Reticulosarcoma",
+	},
+	{
+		code: "20010  Lymphsrc unsp xtrndl org           Lymphosarcoma",
+	},
+	{
+		code: "20011  Lymphosarcoma head                 Lymphosarcoma",
+	},
+	{
+		code: "20012  Lymphosarcoma thorax               Lymphosarcoma",
+	},
+	{
+		code: "20013  Lymphosarcoma abdom                Lymphosarcoma",
+	},
+	{
+		code: "20014  Lymphosarcoma axilla               Lymphosarcoma",
+	},
+	{
+		code: "20015  Lymphosarcoma inguin               Lymphosarcoma",
+	},
+	{
+		code: "20016  Lymphosarcoma pelvic               Lymphosarcoma",
+	},
+	{
+		code: "20017  Lymphosarcoma spleen               Lymphosarcoma",
+	},
+	{
+		code: "20018  Lymphosarcoma mult                 Lymphosarcoma",
+	},
+	{
+		code: "20020  Brkt tmr unsp xtrndl org           Burkitt's tumor or lymphoma",
+	},
+	{
+		code: "20021  Burkitt's tumor head               Burkitt's tumor or lymphoma",
+	},
+	{
+		code: "20022  Burkitt's tumor thorax             Burkitt's tumor or lymphoma",
+	},
+	{
+		code: "20023  Burkitt's tumor abdom              Burkitt's tumor or lymphoma",
+	},
+	{
+		code: "20024  Burkitt's tumor axilla             Burkitt's tumor or lymphoma",
+	},
+	{
+		code: "20025  Burkitt's tumor inguin             Burkitt's tumor or lymphoma",
+	},
+	{
+		code: "20026  Burkitt's tumor pelvic             Burkitt's tumor or lymphoma",
+	},
+	{
+		code: "20027  Burkitt's tumor spleen             Burkitt's tumor or lymphoma",
+	},
+	{
+		code: "20028  Burkitt's tumor mult               Burkitt's tumor or lymphoma",
+	},
+	{
+		code: "20030  Margnl zone lym xtrndl             Marginal zone lymphoma",
+	},
+	{
+		code: "20031  Margin zone lym head               Marginal zone lymphoma",
+	},
+	{
+		code: "20032  Margin zone lym thorax             Marginal zone lymphoma",
+	},
+	{
+		code: "20033  Margin zone lym abdom              Marginal zone lymphoma",
+	},
+	{
+		code: "20034  Margin zone lym axilla             Marginal zone lymphoma",
+	},
+	{
+		code: "20035  Margin zone lym inguin             Marginal zone lymphoma",
+	},
+	{
+		code: "20036  Margin zone lym pelvic             Marginal zone lymphoma",
+	},
+	{
+		code: "20037  Margin zone lymph spleen           Marginal zone lymphoma",
+	},
+	{
+		code: "20038  Margin zone lymph multip           Marginal zone lymphoma",
+	},
+	{
+		code: "20040  Mantle cell lym xtrrndl            Mantle cell lymphoma",
+	},
+	{
+		code: "20041  Mantle cell lymph head             Mantle cell lymphoma",
+	},
+	{
+		code: "20042  Mantle cell lymph thorax           Mantle cell lymphoma",
+	},
+	{
+		code: "20043  Mantle cell lymph abdom            Mantle cell lymphoma",
+	},
+	{
+		code: "20044  Mantle cell lymph axilla           Mantle cell lymphoma",
+	},
+	{
+		code: "20045  Mantle cell lymph inguin           Mantle cell lymphoma",
+	},
+	{
+		code: "20046  Mantle cell lymph pelvic           Mantle cell lymphoma",
+	},
+	{
+		code: "20047  Mantle cell lymph spleen           Mantle cell lymphoma",
+	},
+	{
+		code: "20048  Mantle cell lymph multip           Mantle cell lymphoma",
+	},
+	{
+		code: "20050  Primary CNS lymph xtrndl           Primary central nervous system lymphoma",
+	},
+	{
+		code: "20051  Primary CNS lymph head             Primary central nervous system lymphoma",
+	},
+	{
+		code: "20052  Primary CNS lymph thorax           Primary central nervous system lymphoma",
+	},
+	{
+		code: "20053  Primary CNS lymph abdom            Primary central nervous system lymphoma",
+	},
+	{
+		code: "20054  Primary CNS lymph axilla           Primary central nervous system lymphoma",
+	},
+	{
+		code: "20055  Primary CNS lym inguin             Primary central nervous system lymphoma",
+	},
+	{
+		code: "20056  Primary CNS lymph pelvic           Primary central nervous system lymphoma",
+	},
+	{
+		code: "20057  Primary CNS lymph spleen           Primary central nervous system lymphoma",
+	},
+	{
+		code: "20058  Primary CNS lymph multip           Primary central nervous system lymphoma",
+	},
+	{
+		code: "20060  Anaplastic lymph xtrndl            Anaplastic large cell lymphoma",
+	},
+	{
+		code: "20061  Anaplastic lymph head              Anaplastic large cell lymphoma",
+	},
+	{
+		code: "20062  Anaplastic lymph thorax            Anaplastic large cell lymphoma",
+	},
+	{
+		code: "20063  Anaplastic lymph abdom             Anaplastic large cell lymphoma",
+	},
+	{
+		code: "20064  Anaplastic lymph axilla            Anaplastic large cell lymphoma",
+	},
+	{
+		code: "20065  Anaplastic lymph inguin            Anaplastic large cell lymphoma",
+	},
+	{
+		code: "20066  Anaplastic lymph pelvic            Anaplastic large cell lymphoma",
+	},
+	{
+		code: "20067  Anaplastic lymph spleen            Anaplastic large cell lymphoma",
+	},
+	{
+		code: "20068  Anaplastic lymph multip            Anaplastic large cell lymphoma",
+	},
+	{
+		code: "20070  Large cell lymph xtrndl            Large cell lymphoma",
+	},
+	{
+		code: "20071  Large cell lymphoma head           Large cell lymphoma",
+	},
+	{
+		code: "20072  Large cell lymph thorax            Large cell lymphoma",
+	},
+	{
+		code: "20073  Large cell lymph abdom             Large cell lymphoma",
+	},
+	{
+		code: "20074  Large cell lymph axilla            Large cell lymphoma",
+	},
+	{
+		code: "20075  Large cell lymph inguin            Large cell lymphoma",
+	},
+	{
+		code: "20076  Large cell lymph pelvic            Large cell lymphoma",
+	},
+	{
+		code: "20077  Large cell lymph spleen            Large cell lymphoma",
+	},
+	{
+		code: "20078  Large cell lymph multip            Large cell lymphoma",
+	},
+	{
+		code: "20080  Oth varn unsp xtrndl org           Other named variants of lymphosarcoma and reticulosarcoma",
+	},
+	{
+		code: "20081  Mixed lymphosarc head              Other named variants of lymphosarcoma and reticulosarcoma",
+	},
+	{
+		code: "20082  Mixed lymphosarc thorax            Other named variants of lymphosarcoma and reticulosarcoma",
+	},
+	{
+		code: "20083  Mixed lymphosarc abdom             Other named variants of lymphosarcoma and reticulosarcoma",
+	},
+	{
+		code: "20084  Mixed lymphosarc axilla            Other named variants of lymphosarcoma and reticulosarcoma",
+	},
+	{
+		code: "20085  Mixed lymphosarc inguin            Other named variants of lymphosarcoma and reticulosarcoma",
+	},
+	{
+		code: "20086  Mixed lymphosarc pelvic            Other named variants of lymphosarcoma and reticulosarcoma",
+	},
+	{
+		code: "20087  Mixed lymphosarc spleen            Other named variants of lymphosarcoma and reticulosarcoma",
+	},
+	{
+		code: "20088  Mixed lymphosarc mult              Other named variants of lymphosarcoma and reticulosarcoma",
+	},
+	{
+		code: "20100  Hdgk prg unsp xtrndl org           Hodgkin's paragranuloma",
+	},
+	{
+		code: "20101  Hodgkins paragran head             Hodgkin's paragranuloma",
+	},
+	{
+		code: "20102  Hodgkins paragran thorax           Hodgkin's paragranuloma",
+	},
+	{
+		code: "20103  Hodgkins paragran abdom            Hodgkin's paragranuloma",
+	},
+	{
+		code: "20104  Hodgkins paragran axilla           Hodgkin's paragranuloma",
+	},
+	{
+		code: "20105  Hodgkins paragran inguin           Hodgkin's paragranuloma",
+	},
+	{
+		code: "20106  Hodgkins paragran pelvic           Hodgkin's paragranuloma",
+	},
+	{
+		code: "20107  Hodgkins paragran spleen           Hodgkin's paragranuloma",
+	},
+	{
+		code: "20108  Hodgkins paragran mult             Hodgkin's paragranuloma",
+	},
+	{
+		code: "20110  Hdgk grn unsp xtrndl org           Hodgkin's granuloma",
+	},
+	{
+		code: "20111  Hodgkins granulom head             Hodgkin's granuloma",
+	},
+	{
+		code: "20112  Hodgkins granulom thorax           Hodgkin's granuloma",
+	},
+	{
+		code: "20113  Hodgkins granulom abdom            Hodgkin's granuloma",
+	},
+	{
+		code: "20114  Hodgkins granulom axilla           Hodgkin's granuloma",
+	},
+	{
+		code: "20115  Hodgkins granulom inguin           Hodgkin's granuloma",
+	},
+	{
+		code: "20116  Hodgkins granulom pelvic           Hodgkin's granuloma",
+	},
+	{
+		code: "20117  Hodgkins granulom spleen           Hodgkin's granuloma",
+	},
+	{
+		code: "20118  Hodgkins granulom mult             Hodgkin's granuloma",
+	},
+	{
+		code: "20120  Hdgk src unsp xtrndl org           Hodgkin's sarcoma",
+	},
+	{
+		code: "20121  Hodgkins sarcoma head              Hodgkin's sarcoma",
+	},
+	{
+		code: "20122  Hodgkins sarcoma thorax            Hodgkin's sarcoma",
+	},
+	{
+		code: "20123  Hodgkins sarcoma abdom             Hodgkin's sarcoma",
+	},
+	{
+		code: "20124  Hodgkins sarcoma axilla            Hodgkin's sarcoma",
+	},
+	{
+		code: "20125  Hodgkins sarcoma inguin            Hodgkin's sarcoma",
+	},
+	{
+		code: "20126  Hodgkins sarcoma pelvic            Hodgkin's sarcoma",
+	},
+	{
+		code: "20127  Hodgkins sarcoma spleen            Hodgkin's sarcoma",
+	},
+	{
+		code: "20128  Hodgkins sarcoma mult              Hodgkin's sarcoma",
+	},
+	{
+		code: "20140  Lym-hst unsp xtrndl orgn           Hodgkin's disease",
+	},
+	{
+		code: "20141  Hodg lymph-histio head             Hodgkin's disease",
+	},
+	{
+		code: "20142  Hodg lymph-histio thorax           Hodgkin's disease",
+	},
+	{
+		code: "20143  Hodg lymph-histio abdom            Hodgkin's disease",
+	},
+	{
+		code: "20144  Hodg lymph-histio axilla           Hodgkin's disease",
+	},
+	{
+		code: "20145  Hodg lymph-histio inguin           Hodgkin's disease",
+	},
+	{
+		code: "20146  Hodg lymph-histio pelvic           Hodgkin's disease",
+	},
+	{
+		code: "20147  Hodg lymph-histio spleen           Hodgkin's disease",
+	},
+	{
+		code: "20148  Hodg lymph-histio mult             Hodgkin's disease",
+	},
+	{
+		code: "20150  Ndr sclr unsp xtrndl org           Hodgkin's disease",
+	},
+	{
+		code: "20151  Hodg nodul sclero head             Hodgkin's disease",
+	},
+	{
+		code: "20152  Hodg nodul sclero thorax           Hodgkin's disease",
+	},
+	{
+		code: "20153  Hodg nodul sclero abdom            Hodgkin's disease",
+	},
+	{
+		code: "20154  Hodg nodul sclero axilla           Hodgkin's disease",
+	},
+	{
+		code: "20155  Hodg nodul sclero inguin           Hodgkin's disease",
+	},
+	{
+		code: "20156  Hodg nodul sclero pelvic           Hodgkin's disease",
+	},
+	{
+		code: "20157  Hodg nodul sclero spleen           Hodgkin's disease",
+	},
+	{
+		code: "20158  Hodg nodul sclero mult             Hodgkin's disease",
+	},
+	{
+		code: "20160  Mxd celr unsp xtrndl org           Hodgkin's disease",
+	},
+	{
+		code: "20161  Hodgkins mix cell head             Hodgkin's disease",
+	},
+	{
+		code: "20162  Hodgkins mix cell thorax           Hodgkin's disease",
+	},
+	{
+		code: "20163  Hodgkins mix cell abdom            Hodgkin's disease",
+	},
+	{
+		code: "20164  Hodgkins mix cell axilla           Hodgkin's disease",
+	},
+	{
+		code: "20165  Hodgkins mix cell inguin           Hodgkin's disease",
+	},
+	{
+		code: "20166  Hodgkins mix cell pelvic           Hodgkin's disease",
+	},
+	{
+		code: "20167  Hodgkins mix cell spleen           Hodgkin's disease",
+	},
+	{
+		code: "20168  Hodgkins mix cell mult             Hodgkin's disease",
+	},
+	{
+		code: "20170  Lym dplt unsp xtrndl org           Hodgkin's disease",
+	},
+	{
+		code: "20171  Hodg lymph deplet head             Hodgkin's disease",
+	},
+	{
+		code: "20172  Hodg lymph deplet thorax           Hodgkin's disease",
+	},
+	{
+		code: "20173  Hodg lymph deplet abdom            Hodgkin's disease",
+	},
+	{
+		code: "20174  Hodg lymph deplet axilla           Hodgkin's disease",
+	},
+	{
+		code: "20175  Hodg lymph deplet inguin           Hodgkin's disease",
+	},
+	{
+		code: "20176  Hodg lymph deplet pelvic           Hodgkin's disease",
+	},
+	{
+		code: "20177  Hodg lymph deplet spleen           Hodgkin's disease",
+	},
+	{
+		code: "20178  Hodg lymph deplet mult             Hodgkin's disease",
+	},
+	{
+		code: "20190  Hdgk dis unsp xtrndl org           Hodgkin's disease",
+	},
+	{
+		code: "20191  Hodgkins dis NOS head              Hodgkin's disease",
+	},
+	{
+		code: "20192  Hodgkins dis NOS thorax            Hodgkin's disease",
+	},
+	{
+		code: "20193  Hodgkins dis NOS abdom             Hodgkin's disease",
+	},
+	{
+		code: "20194  Hodgkins dis NOS axilla            Hodgkin's disease",
+	},
+	{
+		code: "20195  Hodgkins dis NOS inguin            Hodgkin's disease",
+	},
+	{
+		code: "20196  Hodgkins dis NOS pelvic            Hodgkin's disease",
+	},
+	{
+		code: "20197  Hodgkins dis NOS spleen            Hodgkin's disease",
+	},
+	{
+		code: "20198  Hodgkins dis NOS mult              Hodgkin's disease",
+	},
+	{
+		code: "20200  Ndlr lym unsp xtrndl org           Nodular lymphoma",
+	},
+	{
+		code: "20201  Nodular lymphoma head              Nodular lymphoma",
+	},
+	{
+		code: "20202  Nodular lymphoma thorax            Nodular lymphoma",
+	},
+	{
+		code: "20203  Nodular lymphoma abdom             Nodular lymphoma",
+	},
+	{
+		code: "20204  Nodular lymphoma axilla            Nodular lymphoma",
+	},
+	{
+		code: "20205  Nodular lymphoma inguin            Nodular lymphoma",
+	},
+	{
+		code: "20206  Nodular lymphoma pelvic            Nodular lymphoma",
+	},
+	{
+		code: "20207  Nodular lymphoma spleen            Nodular lymphoma",
+	},
+	{
+		code: "20208  Nodular lymphoma mult              Nodular lymphoma",
+	},
+	{
+		code: "20210  Mycs fng unsp xtrndl org           Mycosis fungoides",
+	},
+	{
+		code: "20211  Mycosis fungoides head             Mycosis fungoides",
+	},
+	{
+		code: "20212  Mycosis fungoides thorax           Mycosis fungoides",
+	},
+	{
+		code: "20213  Mycosis fungoides abdom            Mycosis fungoides",
+	},
+	{
+		code: "20214  Mycosis fungoides axilla           Mycosis fungoides",
+	},
+	{
+		code: "20215  Mycosis fungoides inguin           Mycosis fungoides",
+	},
+	{
+		code: "20216  Mycosis fungoides pelvic           Mycosis fungoides",
+	},
+	{
+		code: "20217  Mycosis fungoides spleen           Mycosis fungoides",
+	},
+	{
+		code: "20218  Mycosis fungoides mult             Mycosis fungoides",
+	},
+	{
+		code: "20220  Szry dis unsp xtrndl org           Sezary's disease",
+	},
+	{
+		code: "20221  Sezary's disease head              Sezary's disease",
+	},
+	{
+		code: "20222  Sezary's disease thorax            Sezary's disease",
+	},
+	{
+		code: "20223  Sezary's disease abdom             Sezary's disease",
+	},
+	{
+		code: "20224  Sezary's disease axilla            Sezary's disease",
+	},
+	{
+		code: "20225  Sezary's disease inguin            Sezary's disease",
+	},
+	{
+		code: "20226  Sezary's disease pelvic            Sezary's disease",
+	},
+	{
+		code: "20227  Sezary's disease spleen            Sezary's disease",
+	},
+	{
+		code: "20228  Sezary's disease mult              Sezary's disease",
+	},
+	{
+		code: "20230  Mlg hist unsp xtrndl org           Malignant histiocytosis",
+	},
+	{
+		code: "20231  Mal histiocytosis head             Malignant histiocytosis",
+	},
+	{
+		code: "20232  Mal histiocytosis thorax           Malignant histiocytosis",
+	},
+	{
+		code: "20233  Mal histiocytosis abdom            Malignant histiocytosis",
+	},
+	{
+		code: "20234  Mal histiocytosis axilla           Malignant histiocytosis",
+	},
+	{
+		code: "20235  Mal histiocytosis inguin           Malignant histiocytosis",
+	},
+	{
+		code: "20236  Mal histiocytosis pelvic           Malignant histiocytosis",
+	},
+	{
+		code: "20237  Mal histiocytosis spleen           Malignant histiocytosis",
+	},
+	{
+		code: "20238  Mal histiocytosis mult             Malignant histiocytosis",
+	},
+	{
+		code: "20240  Lk rtctl unsp xtrndl org           Leukemic reticuloendotheliosis",
+	},
+	{
+		code: "20241  Hairy-cell leukem head             Leukemic reticuloendotheliosis",
+	},
+	{
+		code: "20242  Hairy-cell leukem thorax           Leukemic reticuloendotheliosis",
+	},
+	{
+		code: "20243  Hairy-cell leukem abdom            Leukemic reticuloendotheliosis",
+	},
+	{
+		code: "20244  Hairy-cell leukem axilla           Leukemic reticuloendotheliosis",
+	},
+	{
+		code: "20245  Hairy-cell leukem inguin           Leukemic reticuloendotheliosis",
+	},
+	{
+		code: "20246  Hairy-cell leukem pelvic           Leukemic reticuloendotheliosis",
+	},
+	{
+		code: "20247  Hairy-cell leukem spleen           Leukemic reticuloendotheliosis",
+	},
+	{
+		code: "20248  Hairy-cell leukem mult             Leukemic reticuloendotheliosis",
+	},
+	{
+		code: "20250  Ltr-siwe unsp xtrndl org           Letterer-siwe disease",
+	},
+	{
+		code: "20251  Letterer-siwe dis head             Letterer-siwe disease",
+	},
+	{
+		code: "20252  Letterer-siwe dis thorax           Letterer-siwe disease",
+	},
+	{
+		code: "20253  Letterer-siwe dis abdom            Letterer-siwe disease",
+	},
+	{
+		code: "20254  Letterer-siwe dis axilla           Letterer-siwe disease",
+	},
+	{
+		code: "20255  Letterer-siwe dis inguin           Letterer-siwe disease",
+	},
+	{
+		code: "20256  Letterer-siwe dis pelvic           Letterer-siwe disease",
+	},
+	{
+		code: "20257  Letterer-siwe dis spleen           Letterer-siwe disease",
+	},
+	{
+		code: "20258  Letterer-siwe dis mult             Letterer-siwe disease",
+	},
+	{
+		code: "20260  Mlg mast unsp xtrndl org           Malignant mast cell tumors",
+	},
+	{
+		code: "20261  Mal mastocytosis head              Malignant mast cell tumors",
+	},
+	{
+		code: "20262  Mal mastocytosis thorax            Malignant mast cell tumors",
+	},
+	{
+		code: "20263  Mal mastocytosis abdom             Malignant mast cell tumors",
+	},
+	{
+		code: "20264  Mal mastocytosis axilla            Malignant mast cell tumors",
+	},
+	{
+		code: "20265  Mal mastocytosis inguin            Malignant mast cell tumors",
+	},
+	{
+		code: "20266  Mal mastocytosis pelvic            Malignant mast cell tumors",
+	},
+	{
+		code: "20267  Mal mastocytosis spleen            Malignant mast cell tumors",
+	},
+	{
+		code: "20268  Mal mastocytosis mult              Malignant mast cell tumors",
+	},
+	{
+		code: "20270  Periph T cell lym xtrndl           Peripheral T cell lymphoma",
+	},
+	{
+		code: "20271  Periph T cell lymph head           Peripheral T cell lymphoma",
+	},
+	{
+		code: "20272  Periph T cell lym thorax           Peripheral T cell lymphoma",
+	},
+	{
+		code: "20273  Periph T cell lym abdom            Peripheral T cell lymphoma",
+	},
+	{
+		code: "20274  Periph T cell lym axilla           Peripheral T cell lymphoma",
+	},
+	{
+		code: "20275  Periph T cell lym inguin           Peripheral T cell lymphoma",
+	},
+	{
+		code: "20276  Periph T cell lym pelvic           Peripheral T cell lymphoma",
+	},
+	{
+		code: "20277  Periph T cell lym spleen           Peripheral T cell lymphoma",
+	},
+	{
+		code: "20278  Periph T cell lym multip           Peripheral T cell lymphoma",
+	},
+	{
+		code: "20280  Oth lymp unsp xtrndl org           Other malignant lymphomas",
+	},
+	{
+		code: "20281  Lymphomas NEC head                 Other malignant lymphomas",
+	},
+	{
+		code: "20282  Lymphomas NEC thorax               Other malignant lymphomas",
+	},
+	{
+		code: "20283  Lymphomas NEC abdom                Other malignant lymphomas",
+	},
+	{
+		code: "20284  Lymphomas NEC axilla               Other malignant lymphomas",
+	},
+	{
+		code: "20285  Lymphomas NEC inguin               Other malignant lymphomas",
+	},
+	{
+		code: "20286  Lymphomas NEC pelvic               Other malignant lymphomas",
+	},
+	{
+		code: "20287  Lymphomas NEC spleen               Other malignant lymphomas",
+	},
+	{
+		code: "20288  Lymphomas NEC mult                 Other malignant lymphomas",
+	},
+	{
+		code: "20290  Unsp lym unsp xtrndl org           Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue",
+	},
+	{
+		code: "20291  Lymphoid mal NEC head              Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue",
+	},
+	{
+		code: "20292  Lymphoid mal NEC thorax            Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue",
+	},
+	{
+		code: "20293  Lymphoid mal NEC abdom             Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue",
+	},
+	{
+		code: "20294  Lymphoid mal NEC axilla            Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue",
+	},
+	{
+		code: "20295  Lymphoid mal NEC inguin            Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue",
+	},
+	{
+		code: "20296  Lymphoid mal NEC pelvic            Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue",
+	},
+	{
+		code: "20297  Lymphoid mal NEC spleen            Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue",
+	},
+	{
+		code: "20298  Lymphoid mal NEC mult              Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue",
+	},
+	{
+		code: "20300  Mult mye w/o achv rmson            Multiple myeloma",
+	},
+	{
+		code: "20301  Mult myelm w remission             Multiple myeloma",
+	},
+	{
+		code: "20302  Mult myeloma in relapse            Multiple myeloma",
+	},
+	{
+		code: "20310  Pls cl leu w/o achv rmsn           Plasma cell leukemia",
+	},
+	{
+		code: "20311  Plsm cell leuk w rmson             Plasma cell leukemia",
+	},
+	{
+		code: "20312  Plsm cel leuk in relapse           Plasma cell leukemia",
+	},
+	{
+		code: "20380  Oth imno npl wo ach rmsn           Other immunoproliferative neoplasms",
+	},
+	{
+		code: "20381  Oth imnprfl npl w rmsn             Other immunoproliferative neoplasms",
+	},
+	{
+		code: "20382  Oth imnprlf neo-relapse            Other immunoproliferative neoplasms",
+	},
+	{
+		code: "20400  Ac lym leuk wo achv rmsn           Acute lymphoid leukemia",
+	},
+	{
+		code: "20401  Act lym leuk w rmsion              Acute lymphoid leukemia",
+	},
+	{
+		code: "20402  Act lymp leuk in relapse           Acute lymphoid leukemia",
+	},
+	{
+		code: "20410  Ch lym leuk wo achv rmsn           Chronic lymphoid leukemia",
+	},
+	{
+		code: "20411  Chr lym leuk w rmsion              Chronic lymphoid leukemia",
+	},
+	{
+		code: "20412  Chr lymp leuk in relapse           Chronic lymphoid leukemia",
+	},
+	{
+		code: "20420  Sbac lym leu wo ach rmsn           Subacute lymphoid leukemia",
+	},
+	{
+		code: "20421  Sbac lym leuk w rmsion             Subacute lymphoid leukemia",
+	},
+	{
+		code: "20422  Sbac lym leuk in relapse           Subacute lymphoid leukemia",
+	},
+	{
+		code: "20480  Oth lym leu wo achv rmsn           Other lymphoid leukemia",
+	},
+	{
+		code: "20481  Oth lym leuk w rmsion              Other lymphoid leukemia",
+	},
+	{
+		code: "20482  Oth lym leuk in relapse            Other lymphoid leukemia",
+	},
+	{
+		code: "20490  Uns lym leu wo ach rmsn            Unspecified lymphoid leukemia",
+	},
+	{
+		code: "20491  Uns lym leuk w rmsion              Unspecified lymphoid leukemia",
+	},
+	{
+		code: "20492  Lymp leuk NOS relapse              Unspecified lymphoid leukemia",
+	},
+	{
+		code: "20500  Ac myl leuk wo achv rmsn           Acute myeloid leukemia",
+	},
+	{
+		code: "20501  Act myl leuk w rmsion              Acute myeloid leukemia",
+	},
+	{
+		code: "20502  Act myel leuk in relapse           Acute myeloid leukemia",
+	},
+	{
+		code: "20510  Ch myl leuk wo achv rmsn           Chronic myeloid leukemia",
+	},
+	{
+		code: "20511  Chr myl leuk w rmsion              Chronic myeloid leukemia",
+	},
+	{
+		code: "20512  Chr myel leuk in relapse           Chronic myeloid leukemia",
+	},
+	{
+		code: "20520  Sbac myl leu wo ach rmsn           Subacute myeloid leukemia",
+	},
+	{
+		code: "20521  Sbac myl leuk w rmsion             Subacute myeloid leukemia",
+	},
+	{
+		code: "20522  Sbac myl leuk in relapse           Subacute myeloid leukemia",
+	},
+	{
+		code: "20530  Myl sarcoma wo achv rmsn           Myeloid sarcoma",
+	},
+	{
+		code: "20531  Myl srcoma w rmsion                Myeloid sarcoma",
+	},
+	{
+		code: "20532  Myel sarcoma in relapse            Myeloid sarcoma",
+	},
+	{
+		code: "20580  Oth my leuk wo achv rmsn           Other myeloid leukemia",
+	},
+	{
+		code: "20581  Oth myl leuk w rmsion              Other myeloid leukemia",
+	},
+	{
+		code: "20582  Oth myel leuk in relapse           Other myeloid leukemia",
+	},
+	{
+		code: "20590  Uns my leu wo ach rmsn             Unspecified myeloid leukemia",
+	},
+	{
+		code: "20591  Uns myl leuk w rmsion              Unspecified myeloid leukemia",
+	},
+	{
+		code: "20592  Myel leuk NOS in relapse           Unspecified myeloid leukemia",
+	},
+	{
+		code: "20600  Ac mono leu wo achv rmsn           Acute monocytic leukemia",
+	},
+	{
+		code: "20601  Act mono leuk w rmsion             Acute monocytic leukemia",
+	},
+	{
+		code: "20602  Act mono leuk in relapse           Acute monocytic leukemia",
+	},
+	{
+		code: "20610  Ch mono leu wo achv rmsn           Chronic monocytic leukemia",
+	},
+	{
+		code: "20611  Chr mono leuk w rmsion             Chronic monocytic leukemia",
+	},
+	{
+		code: "20612  Chr mono leuk in relapse           Chronic monocytic leukemia",
+	},
+	{
+		code: "20620  Sbac mno leu wo ach rmsn           Subacute monocytic leukemia",
+	},
+	{
+		code: "20621  Sbac mono leuk w rmsion            Subacute monocytic leukemia",
+	},
+	{
+		code: "20622  Sbac mono leu in relapse           Subacute monocytic leukemia",
+	},
+	{
+		code: "20680  Ot mono leu wo achv rmsn           Other monocytic leukemia",
+	},
+	{
+		code: "20681  Oth mono leuk w rmsion             Other monocytic leukemia",
+	},
+	{
+		code: "20682  Oth mono leuk in relapse           Other monocytic leukemia",
+	},
+	{
+		code: "20690  Uns mno leu wo ach rmsn            Unspecified monocytic leukemia",
+	},
+	{
+		code: "20691  Uns mono leuk w rmsion             Unspecified monocytic leukemia",
+	},
+	{
+		code: "20692  Mono leuk NOS relapse              Unspecified monocytic leukemia",
+	},
+	{
+		code: "20700  Ac erth/erlk wo ach rmsn           Acute erythremia and erythroleukemia",
+	},
+	{
+		code: "20701  Act erth/erylk w rmson             Acute erythremia and erythroleukemia",
+	},
+	{
+		code: "20702  Ac erth/erylk in relapse           Acute erythremia and erythroleukemia",
+	},
+	{
+		code: "20710  Chr erythrm w/o ach rmsn           Chronic erythremia",
+	},
+	{
+		code: "20711  Chr erythrm w remision             Chronic erythremia",
+	},
+	{
+		code: "20712  Chr erythrmia in relapse           Chronic erythremia",
+	},
+	{
+		code: "20720  Mgkrcyt leuk wo ach rmsn           Megakaryocytic leukemia",
+	},
+	{
+		code: "20721  Mgkrycyt leuk w rmsion             Megakaryocytic leukemia",
+	},
+	{
+		code: "20722  Mgkrycyt leuk in relapse           Megakaryocytic leukemia",
+	},
+	{
+		code: "20780  Oth leuk w/o achv rmsn             Other specified leukemia",
+	},
+	{
+		code: "20781  Oth spf leuk w remsion             Other specified leukemia",
+	},
+	{
+		code: "20782  Oth spf leuk in relapse            Other specified leukemia",
+	},
+	{
+		code: "20800  Ac leu un cl wo ach rmsn           Acute leukemia of unspecified cell type",
+	},
+	{
+		code: "20801  Act leuk uns cl w rmson            Acute leukemia of unspecified cell type",
+	},
+	{
+		code: "20802  Ac leuk uns cl relapse             Acute leukemia of unspecified cell type",
+	},
+	{
+		code: "20810  Ch leu un cl wo ach rmsn           Chronic leukemia of unspecified cell type",
+	},
+	{
+		code: "20811  Chr leuk uns cl w rmson            Chronic leukemia of unspecified cell type",
+	},
+	{
+		code: "20812  Ch leu uns cl in relapse           Chronic leukemia of unspecified cell type",
+	},
+	{
+		code: "20820  Sbc leu un cl wo ah rmsn           Subacute leukemia of unspecified cell type",
+	},
+	{
+		code: "20821  Sbac leuk uns cl w rmson           Subacute leukemia of unspecified cell type",
+	},
+	{
+		code: "20822  Sbac leu uns cl-relapse            Subacute leukemia of unspecified cell type",
+	},
+	{
+		code: "20880  Ot leu un cl wo ach rmsn           Other leukemia of unspecified cell type",
+	},
+	{
+		code: "20881  Oth leuk uns cl w rmson            Other leukemia of unspecified cell type",
+	},
+	{
+		code: "20882  Oth leuk uns cl-relapse            Other leukemia of unspecified cell type",
+	},
+	{
+		code: "20890  Leuk NOS w/o achv rmsn             Unspecified leukemia",
+	},
+	{
+		code: "20891  Leukemia NOS w remission           Unspecified leukemia",
+	},
+	{
+		code: "20892  Leukemia NOS in relapse            Unspecified leukemia",
+	},
+	{
+		code: "20900  Mal crcnoid sm intst NOS           Malignant carcinoid tumor of the small intestine",
+	},
+	{
+		code: "20901  Malig carcinoid duodenum           Malignant carcinoid tumor of the duodenum",
+	},
+	{
+		code: "20902  Malig carcinoid jejunum            Malignant carcinoid tumor of the jejunum",
+	},
+	{
+		code: "20903  Malig carcinoid ileum              Malignant carcinoid tumor of the ileum",
+	},
+	{
+		code: "20910  Mal crcnoid lg intst NOS           Malignant carcinoid tumor of the large intestine",
+	},
+	{
+		code: "20911  Malig carcinoid appendix           Malignant carcinoid tumor of the appendix",
+	},
+	{
+		code: "20912  Malig carcinoid cecum              Malignant carcinoid tumor of the cecum",
+	},
+	{
+		code: "20913  Mal crcnoid ascend colon           Malignant carcinoid tumor of the ascending colon",
+	},
+	{
+		code: "20914  Mal crcnoid transv colon           Malignant carcinoid tumor of the transverse colon",
+	},
+	{
+		code: "20915  Mal carcinoid desc colon           Malignant carcinoid tumor of the descending colon",
+	},
+	{
+		code: "20916  Mal carcinoid sig colon            Malignant carcinoid tumor of the sigmoid colon",
+	},
+	{
+		code: "20917  Malig carcinoid rectum             Malignant carcinoid tumor of the rectum",
+	},
+	{
+		code: "20920  Mal crcnd prim site unkn           Malignant carcinoid tumor of unknown primary site",
+	},
+	{
+		code: "20921  Mal carcinoid bronc/lung           Malignant carcinoid tumor of the bronchus and lung",
+	},
+	{
+		code: "20922  Malig carcinoid thymus             Malignant carcinoid tumor of the thymus",
+	},
+	{
+		code: "20923  Malig carcinoid stomach            Malignant carcinoid tumor of the stomach",
+	},
+	{
+		code: "20924  Malig carcinoid kidney             Malignant carcinoid tumor of the kidney",
+	},
+	{
+		code: "20925  Mal carcnoid foregut NOS           Malignant carcinoid tumor of foregut",
+	},
+	{
+		code: "20926  Mal carcinoid midgut NOS           Malignant carcinoid tumor of midgut",
+	},
+	{
+		code: "20927  Mal carcnoid hindgut NOS           Malignant carcinoid tumor of hindgut",
+	},
+	{
+		code: "20929  Malig carcinoid oth site           Malignant carcinoid tumor of other sites",
+	},
+	{
+		code: "20930  Malig neuroendo ca NOS             Malignant poorly differentiated neuroendocrine carcinoma",
+	},
+	{
+		code: "20931  Merkel cell ca-face                Merkel cell carcinoma of the face",
+	},
+	{
+		code: "20932  Merkel cell ca-sclp/neck           Merkel cell carcinoma of the scalp and neck",
+	},
+	{
+		code: "20933  Merkel cell ca-up limb             Merkel cell carcinoma of the upper limb",
+	},
+	{
+		code: "20934  Merkel cell ca-low limb            Merkel cell carcinoma of the lower limb",
+	},
+	{
+		code: "20935  Merkel cell ca-trunk               Merkel cell carcinoma of the trunk",
+	},
+	{
+		code: "20936  Merkel cell ca-oth sites           Merkel cell carcinoma of other sites",
+	},
+	{
+		code: "20940  Ben crcnoid sm intst NOS           Benign carcinoid tumor of the small intestine",
+	},
+	{
+		code: "20941  Ben carcinoid duodenum             Benign carcinoid tumor of the duodenum",
+	},
+	{
+		code: "20942  Benign carcinoid jejunum           Benign carcinoid tumor of the jejunum",
+	},
+	{
+		code: "20943  Benign carcinoid ileum             Benign carcinoid tumor of the ileum",
+	},
+	{
+		code: "20950  Ben crcnoid lg intst NOS           Benign carcinoid tumor of the large intestine",
+	},
+	{
+		code: "20951  Ben carcinoid appendix             Benign carcinoid tumor of the appendix",
+	},
+	{
+		code: "20952  Benign carcinoid cecum             Benign carcinoid tumor of the cecum",
+	},
+	{
+		code: "20953  Ben carcinoid asc colon            Benign carcinoid tumor of the ascending colon",
+	},
+	{
+		code: "20954  Ben crcinoid trans colon           Benign carcinoid tumor of the transverse colon",
+	},
+	{
+		code: "20955  Ben carcinoid desc colon           Benign carcinoid tumor of the descending colon",
+	},
+	{
+		code: "20956  Ben carcinoid sig colon            Benign carcinoid tumor of the sigmoid colon",
+	},
+	{
+		code: "20957  Benign carcinoid rectum            Benign carcinoid tumor of the rectum",
+	},
+	{
+		code: "20960  Ben crcnd prim site unkn           Benign carcinoid tumor of unknown primary site",
+	},
+	{
+		code: "20961  Ben carcinoid bronc/lung           Benign carcinoid tumor of the bronchus and lung",
+	},
+	{
+		code: "20962  Benign carcinoid thymus            Benign carcinoid tumor of the thymus",
+	},
+	{
+		code: "20963  Benign carcinoid stomach           Benign carcinoid tumor of the stomach",
+	},
+	{
+		code: "20964  Benign carcinoid kidney            Benign carcinoid tumor of the kidney",
+	},
+	{
+		code: "20965  Ben crcinoid foregut NOS           Benign carcinoid tumor of foregut",
+	},
+	{
+		code: "20966  Ben crcinoid midgut NOS            Benign carcinoid tumor of midgut",
+	},
+	{
+		code: "20967  Ben crcnoid hindgut NOS            Benign carcinoid tumor of hindgut",
+	},
+	{
+		code: "20969  Bengn carcinoid oth site           Benign carcinoid tumor of other sites",
+	},
+	{
+		code: "20970  Sec neuroendo tumor NOS            Secondary neuroendocrine tumor",
+	},
+	{
+		code: "20971  Sec neuroend tu dist lym           Secondary neuroendocrine tumor of distant lymph nodes",
+	},
+	{
+		code: "20972  Sec neuroend tumor-liver           Secondary neuroendocrine tumor of liver",
+	},
+	{
+		code: "20973  Sec neuroendo tumor-bone           Secondary neuroendocrine tumor of bone",
+	},
+	{
+		code: "20974  Sec neuroendo tu-periton           Secondary neuroendocrine tumor of peritoneum",
+	},
+	{
+		code: "20975  Secondary Merkel cell ca           Secondary Merkel cell carcinoma",
+	},
+	{
+		code: "20979  Sec neuroend tu oth site           Secondary neuroendocrine tumor of other sites",
+	},
+	{
+		code: "2100   Benign neoplasm lip                Benign neoplasm of lip",
+	},
+	{
+		code: "2101   Benign neoplasm tongue             Benign neoplasm of tongue",
+	},
+	{
+		code: "2102   Ben neo major salivary             Benign neoplasm of major salivary glands",
+	},
+	{
+		code: "2103   Benign neo mouth floor             Benign neoplasm of floor of mouth",
+	},
+	{
+		code: "2104   Benign neo mouth NEC/NOS           Benign neoplasm of other and unspecified parts of mouth",
+	},
+	{
+		code: "2105   Benign neoplasm tonsil             Benign neoplasm of tonsil",
+	},
+	{
+		code: "2106   Benign neo oropharyn NEC           Benign neoplasm of other parts of oropharynx",
+	},
+	{
+		code: "2107   Benign neo nasopharynx             Benign neoplasm of nasopharynx",
+	},
+	{
+		code: "2108   Benign neo hypopharynx             Benign neoplasm of hypopharynx",
+	},
+	{
+		code: "2109   Benign neo pharynx NOS             Benign neoplasm of pharynx",
+	},
+	{
+		code: "2110   Benign neo esophagus               Benign neoplasm of esophagus",
+	},
+	{
+		code: "2111   Benign neoplasm stomach            Benign neoplasm of stomach",
+	},
+	{
+		code: "2112   Benign neoplasm sm bowel           Benign neoplasm of duodenum",
+	},
+	{
+		code: "2113   Benign neoplasm lg bowel           Benign neoplasm of colon",
+	},
+	{
+		code: "2114   Benign neopl rectum/anus           Benign neoplasm of rectum and anal canal",
+	},
+	{
+		code: "2115   Ben neo liver/bile ducts           Benign neoplasm of liver and biliary passages",
+	},
+	{
+		code: "2116   Benign neoplasm pancreas           Benign neoplasm of pancreas",
+	},
+	{
+		code: "2117   Ben neo islets langerhan           Benign neoplasm of islets of Langerhans",
+	},
+	{
+		code: "2118   Ben neo peritoneum                 Benign neoplasm of retroperitoneum and peritoneum",
+	},
+	{
+		code: "2119   Ben neo GI tract NEC/NOS           Benign neoplasm of other and unspecified site in the digestive system",
+	},
+	{
+		code: "2120   Ben neo nasal cav/sinus            Benign neoplasm of nasal cavities",
+	},
+	{
+		code: "2121   Benign neo larynx                  Benign neoplasm of larynx",
+	},
+	{
+		code: "2122   Benign neo trachea                 Benign neoplasm of trachea",
+	},
+	{
+		code: "2123   Benign neo bronchus/lung           Benign neoplasm of bronchus and lung",
+	},
+	{
+		code: "2124   Benign neoplasm pleura             Benign neoplasm of pleura",
+	},
+	{
+		code: "2125   Benign neo mediastinum             Benign neoplasm of mediastinum",
+	},
+	{
+		code: "2126   Benign neoplasm thymus             Benign neoplasm of thymus",
+	},
+	{
+		code: "2127   Benign neoplasm heart              Benign neoplasm of heart",
+	},
+	{
+		code: "2128   Benign neo resp sys NEC            Benign neoplasm of other specified sites of respiratory and intrathoracic organs",
+	},
+	{
+		code: "2129   Benign neo resp sys NOS            Benign neoplasm of respiratory and intrathoracic organs",
+	},
+	{
+		code: "2130   Ben neo skull/face bone            Benign neoplasm of bones of skull and face",
+	},
+	{
+		code: "2131   Ben neo lower jaw bone             Benign neoplasm of lower jaw bone",
+	},
+	{
+		code: "2132   Benign neo vertebrae               Benign neoplasm of vertebral column",
+	},
+	{
+		code: "2133   Ben neo ribs/stern/clav            Benign neoplasm of ribs",
+	},
+	{
+		code: "2134   Ben neo long bones arm             Benign neoplasm of scapula and long bones of upper limb",
+	},
+	{
+		code: "2135   Ben neo bones wrist/hand           Benign neoplasm of short bones of upper limb",
+	},
+	{
+		code: "2136   Benign neo pelvic girdle           Benign neoplasm of pelvic bones",
+	},
+	{
+		code: "2137   Ben neo long bones leg             Benign neoplasm of long bones of lower limb",
+	},
+	{
+		code: "2138   Ben neo bones ankle/foot           Benign neoplasm of short bones of lower limb",
+	},
+	{
+		code: "2139   Benign neo bone NOS                Benign neoplasm of bone and articular cartilage",
+	},
+	{
+		code: "2140   Lipoma skin face                   Lipoma of skin and subcutaneous tissue of face",
+	},
+	{
+		code: "2141   Lipoma skin NEC                    Lipoma of other skin and subcutaneous tissue",
+	},
+	{
+		code: "2142   Lipoma intrathoracic               Lipoma of intrathoracic organs",
+	},
+	{
+		code: "2143   Lipoma intra-abdominal             Lipoma of intra-abdominal organs",
+	},
+	{
+		code: "2144   Lipoma spermatic cord              Lipoma of spermatic cord",
+	},
+	{
+		code: "2148   Lipoma NEC                         Lipoma of other specified sites",
+	},
+	{
+		code: "2149   Lipoma NOS                         Lipoma",
+	},
+	{
+		code: "2150   Ben neo soft tissue head           Other benign neoplasm of connective and other soft tissue of head",
+	},
+	{
+		code: "2152   Ben neo soft tissue arm            Other benign neoplasm of connective and other soft tissue of upper limb",
+	},
+	{
+		code: "2153   Ben neo soft tissue leg            Other benign neoplasm of connective and other soft tissue of lower limb",
+	},
+	{
+		code: "2154   Ben neo soft tis thorax            Other benign neoplasm of connective and other soft tissue of thorax",
+	},
+	{
+		code: "2155   Ben neo soft tis abdomen           Other benign neoplasm of connective and other soft tissue of abdomen",
+	},
+	{
+		code: "2156   Ben neo soft tis pelvis            Other benign neoplasm of connective and other soft tissue of pelvis",
+	},
+	{
+		code: "2157   Benign neo trunk NOS               Other benign neoplasm of connective and other soft tissue of trunk",
+	},
+	{
+		code: "2158   Ben neo soft tissue NEC            Other benign neoplasm of connective and other soft tissue of other specified sites",
+	},
+	{
+		code: "2159   Ben neo soft tissue NOS            Other benign neoplasm of connective and other soft tissue",
+	},
+	{
+		code: "2160   Benign neo skin lip                Benign neoplasm of skin of lip",
+	},
+	{
+		code: "2161   Benign neo skin eyelid             Benign neoplasm of eyelid",
+	},
+	{
+		code: "2162   Benign neo skin ear                Benign neoplasm of ear and external auditory canal",
+	},
+	{
+		code: "2163   Benign neo skin face NEC           Benign neoplasm of skin of other and unspecified parts of face",
+	},
+	{
+		code: "2164   Ben neo scalp/skin neck            Benign neoplasm of scalp and skin of neck",
+	},
+	{
+		code: "2165   Benign neo skin trunk              Benign neoplasm of skin of trunk",
+	},
+	{
+		code: "2166   Benign neo skin arm                Benign neoplasm of skin of upper limb",
+	},
+	{
+		code: "2167   Benign neo skin leg                Benign neoplasm of skin of lower limb",
+	},
+	{
+		code: "2168   Benign neoplasm skin NEC           Benign neoplasm of other specified sites of skin",
+	},
+	{
+		code: "2169   Benign neoplasm skin NOS           Benign neoplasm of skin",
+	},
+	{
+		code: "217    Benign neoplasm breast             Benign neoplasm of breast",
+	},
+	{
+		code: "2180   Submucous leiomyoma                Submucous leiomyoma of uterus",
+	},
+	{
+		code: "2181   Intramural leiomyoma               Intramural leiomyoma of uterus",
+	},
+	{
+		code: "2182   Subserous leiomyoma                Subserous leiomyoma of uterus",
+	},
+	{
+		code: "2189   Uterine leiomyoma NOS              Leiomyoma of uterus",
+	},
+	{
+		code: "2190   Benign neo cervix uteri            Benign neoplasm of cervix uteri",
+	},
+	{
+		code: "2191   Benign neo corpus uteri            Benign neoplasm of corpus uteri",
+	},
+	{
+		code: "2198   Benign neo uterus NEC              Benign neoplasm of other specified parts of uterus",
+	},
+	{
+		code: "2199   Benign neo uterus NOS              Benign neoplasm of uterus",
+	},
+	{
+		code: "220    Benign neoplasm ovary              Benign neoplasm of ovary",
+	},
+	{
+		code: "2210   Ben neo fallopian tube             Benign neoplasm of fallopian tube and uterine ligaments",
+	},
+	{
+		code: "2211   Benign neoplasm vagina             Benign neoplasm of vagina",
+	},
+	{
+		code: "2212   Benign neoplasm vulva              Benign neoplasm of vulva",
+	},
+	{
+		code: "2218   Ben neo fem genital NEC            Benign neoplasm of other specified sites of female genital organs",
+	},
+	{
+		code: "2219   Ben neo fem genital NOS            Benign neoplasm of female genital organ",
+	},
+	{
+		code: "2220   Benign neoplasm testis             Benign neoplasm of testis",
+	},
+	{
+		code: "2221   Benign neoplasm penis              Benign neoplasm of penis",
+	},
+	{
+		code: "2222   Benign neoplasm prostate           Benign neoplasm of prostate",
+	},
+	{
+		code: "2223   Benign neo epididymis              Benign neoplasm of epididymis",
+	},
+	{
+		code: "2224   Benign neoplasm scrotum            Benign neoplasm of scrotum",
+	},
+	{
+		code: "2228   Ben neo male genital NEC           Benign neoplasm of other specified sites of male genital organs",
+	},
+	{
+		code: "2229   Ben neo male genital NOS           Benign neoplasm of male genital organ",
+	},
+	{
+		code: "2230   Benign neoplasm kidney             Benign neoplasm of kidney",
+	},
+	{
+		code: "2231   Benign neo renal pelvis            Benign neoplasm of renal pelvis",
+	},
+	{
+		code: "2232   Benign neoplasm ureter             Benign neoplasm of ureter",
+	},
+	{
+		code: "2233   Benign neoplasm bladder            Benign neoplasm of bladder",
+	},
+	{
+		code: "22381  Benign neoplasm urethra            Benign neoplasm of urethra",
+	},
+	{
+		code: "22389  Benign neo urinary NEC             Benign neoplasm of other specified sites of urinary organs",
+	},
+	{
+		code: "2239   Benign neo urinary NOS             Benign neoplasm of urinary organ",
+	},
+	{
+		code: "2240   Benign neoplasm eyeball            Benign neoplasm of eyeball",
+	},
+	{
+		code: "2241   Benign neoplasm orbit              Benign neoplasm of orbit",
+	},
+	{
+		code: "2242   Ben neo lacrimal gland             Benign neoplasm of lacrimal gland",
+	},
+	{
+		code: "2243   Benign neo conjunctiva             Benign neoplasm of conjunctiva",
+	},
+	{
+		code: "2244   Benign neoplasm cornea             Benign neoplasm of cornea",
+	},
+	{
+		code: "2245   Benign neoplasm retina             Benign neoplasm of retina",
+	},
+	{
+		code: "2246   Benign neoplasm choroid            Benign neoplasm of choroid",
+	},
+	{
+		code: "2247   Ben neo lacrimal duct              Benign neoplasm of lacrimal duct",
+	},
+	{
+		code: "2248   Benign neoplasm eye NEC            Benign neoplasm of other specified parts of eye",
+	},
+	{
+		code: "2249   Benign neoplasm eye NOS            Benign neoplasm of eye",
+	},
+	{
+		code: "2250   Benign neoplasm brain              Benign neoplasm of brain",
+	},
+	{
+		code: "2251   Benign neo cranial nerve           Benign neoplasm of cranial nerves",
+	},
+	{
+		code: "2252   Ben neo cerebr meninges            Benign neoplasm of cerebral meninges",
+	},
+	{
+		code: "2253   Benign neo spinal cord             Benign neoplasm of spinal cord",
+	},
+	{
+		code: "2254   Ben neo spinal meninges            Benign neoplasm of spinal meninges",
+	},
+	{
+		code: "2258   Benign neo nerv sys NEC            Benign neoplasm of other specified sites of nervous system",
+	},
+	{
+		code: "2259   Benign neo nerv sys NOS            Benign neoplasm of nervous system",
+	},
+	{
+		code: "226    Benign neoplasm thyroid            Benign neoplasm of thyroid glands",
+	},
+	{
+		code: "2270   Benign neoplasm adrenal            Benign neoplasm of adrenal gland",
+	},
+	{
+		code: "2271   Benign neo parathyroid             Benign neoplasm of parathyroid gland",
+	},
+	{
+		code: "2273   Benign neo pituitary               Benign neoplasm of pituitary gland and craniopharyngeal duct",
+	},
+	{
+		code: "2274   Ben neopl pineal gland             Benign neoplasm of pineal gland",
+	},
+	{
+		code: "2275   Benign neo carotid body            Benign neoplasm of carotid body",
+	},
+	{
+		code: "2276   Ben neo paraganglia NEC            Benign neoplasm of aortic body and other paraganglia",
+	},
+	{
+		code: "2278   Benign neo endocrine NEC           Benign neoplasm of other endocrine glands and related structures",
+	},
+	{
+		code: "2279   Benign neo endocrine NOS           Benign neoplasm of endocrine gland",
+	},
+	{
+		code: "22800  Hemangioma NOS                     Hemangioma of unspecified site",
+	},
+	{
+		code: "22801  Hemangioma skin                    Hemangioma of skin and subcutaneous tissue",
+	},
+	{
+		code: "22802  Hemangioma intracranial            Hemangioma of intracranial structures",
+	},
+	{
+		code: "22803  Hemangioma retina                  Hemangioma of retina",
+	},
+	{
+		code: "22804  Hemangioma intra-abdom             Hemangioma of intra-abdominal structures",
+	},
+	{
+		code: "22809  Hemangioma NEC                     Hemangioma of other sites",
+	},
+	{
+		code: "2281   Lymphangioma",
+	},
+	{
+		code: "2290   Benign neo lymph nodes             Benign neoplasm of lymph nodes",
+	},
+	{
+		code: "2298   Benign neoplasm NEC                Benign neoplasm of other specified sites",
+	},
+	{
+		code: "2299   Benign neoplasm NOS                Benign neoplasm of unspecified site",
+	},
+	{
+		code: "2300   Ca in situ oral cav/phar           Carcinoma in situ of lip",
+	},
+	{
+		code: "2301   Ca in situ esophagus               Carcinoma in situ of esophagus",
+	},
+	{
+		code: "2302   Ca in situ stomach                 Carcinoma in situ of stomach",
+	},
+	{
+		code: "2303   Ca in situ colon                   Carcinoma in situ of colon",
+	},
+	{
+		code: "2304   Ca in situ rectum                  Carcinoma in situ of rectum",
+	},
+	{
+		code: "2305   Ca in situ anal canal              Carcinoma in situ of anal canal",
+	},
+	{
+		code: "2306   Ca in situ anus NOS                Carcinoma in situ of anus",
+	},
+	{
+		code: "2307   Ca in situ bowel NEC/NOS           Carcinoma in situ of other and unspecified parts of intestine",
+	},
+	{
+		code: "2308   Ca in situ liver/biliary           Carcinoma in situ of liver and biliary system",
+	},
+	{
+		code: "2309   Ca in situ GI NEC/NOS              Carcinoma in situ of other and unspecified digestive organs",
+	},
+	{
+		code: "2310   Ca in situ larynx                  Carcinoma in situ of larynx",
+	},
+	{
+		code: "2311   Ca in situ trachea                 Carcinoma in situ of trachea",
+	},
+	{
+		code: "2312   Ca in situ bronchus/lung           Carcinoma in situ of bronchus and lung",
+	},
+	{
+		code: "2318   Ca in situ resp sys NEC            Carcinoma in situ of other specified parts of respiratory system",
+	},
+	{
+		code: "2319   Ca in situ resp sys NOS            Carcinoma in situ of respiratory system",
+	},
+	{
+		code: "2320   Ca in situ skin lip                Carcinoma in situ of skin of lip",
+	},
+	{
+		code: "2321   Ca in situ eyelid                  Carcinoma in situ of eyelid",
+	},
+	{
+		code: "2322   Ca in situ skin ear                Carcinoma in situ of skin of ear and external auditory canal",
+	},
+	{
+		code: "2323   Ca in situ skin face NEC           Carcinoma in situ of skin of other and unspecified parts of face",
+	},
+	{
+		code: "2324   Ca in situ scalp                   Carcinoma in situ of scalp and skin of neck",
+	},
+	{
+		code: "2325   Ca in situ skin trunk              Carcinoma in situ of skin of trunk",
+	},
+	{
+		code: "2326   Ca in situ skin arm                Carcinoma in situ of skin of upper limb",
+	},
+	{
+		code: "2327   Ca in situ skin leg                Carcinoma in situ of skin of lower limb",
+	},
+	{
+		code: "2328   Ca in situ skin NEC                Carcinoma in situ of other specified sites of skin",
+	},
+	{
+		code: "2329   Ca in situ skin NOS                Carcinoma in situ of skin",
+	},
+	{
+		code: "2330   Ca in situ breast                  Carcinoma in situ of breast",
+	},
+	{
+		code: "2331   Ca in situ cervix uteri            Carcinoma in situ of cervix uteri",
+	},
+	{
+		code: "2332   Ca in situ uterus NEC              Carcinoma in situ of other and unspecified parts of uterus",
+	},
+	{
+		code: "23330  Ca in situ fem gen NOS             Carcinoma in situ",
+	},
+	{
+		code: "23331  Carcinoma in situ vagina           Carcinoma in situ",
+	},
+	{
+		code: "23332  Carcinoma in situ vulva            Carcinoma in situ",
+	},
+	{
+		code: "23339  Ca in situ fem gen NEC             Carcinoma in situ",
+	},
+	{
+		code: "2334   Ca in situ prostate                Carcinoma in situ of prostate",
+	},
+	{
+		code: "2335   Ca in situ penis                   Carcinoma in situ of penis",
+	},
+	{
+		code: "2336   Ca in situ male gen NEC            Carcinoma in situ of other and unspecified male genital organs",
+	},
+	{
+		code: "2337   Ca in situ bladder                 Carcinoma in situ of bladder",
+	},
+	{
+		code: "2339   Ca in situ urinary NEC             Carcinoma in situ of other and unspecified urinary organs",
+	},
+	{
+		code: "2340   Ca in situ eye                     Carcinoma in situ of eye",
+	},
+	{
+		code: "2348   Ca in situ NEC                     Carcinoma in situ of other specified sites",
+	},
+	{
+		code: "2349   Ca in situ NOS                     Carcinoma in situ",
+	},
+	{
+		code: "2350   Unc behav neo salivary             Neoplasm of uncertain behavior of major salivary glands",
+	},
+	{
+		code: "2351   Unc behav neo oral/phar            Neoplasm of uncertain behavior of lip",
+	},
+	{
+		code: "2352   Unc behav neo intestine            Neoplasm of uncertain behavior of stomach",
+	},
+	{
+		code: "2353   Unc behav neo liver                Neoplasm of uncertain behavior of liver and biliary passages",
+	},
+	{
+		code: "2354   Unc behav neo peritoneum           Neoplasm of uncertain behavior of retroperitoneum and peritoneum",
+	},
+	{
+		code: "2355   Unc behav neo GI NEC               Neoplasm of uncertain behavior of other and unspecified digestive organs",
+	},
+	{
+		code: "2356   Unc behav neo larynx               Neoplasm of uncertain behavior of larynx",
+	},
+	{
+		code: "2357   Unc behav neo lung                 Neoplasm of uncertain behavior of trachea",
+	},
+	{
+		code: "2358   Unc behav neo pleura               Neoplasm of uncertain behavior of pleura",
+	},
+	{
+		code: "2359   Unc behav neo resp NEC             Neoplasm of uncertain behavior of other and unspecified respiratory organs",
+	},
+	{
+		code: "2360   Uncert behav neo uterus            Neoplasm of uncertain behavior of uterus",
+	},
+	{
+		code: "2361   Unc behav neo placenta             Neoplasm of uncertain behavior of placenta",
+	},
+	{
+		code: "2362   Unc behav neo ovary                Neoplasm of uncertain behavior of ovary",
+	},
+	{
+		code: "2363   Unc behav neo female NEC           Neoplasm of uncertain behavior of other and unspecified female genital organs",
+	},
+	{
+		code: "2364   Unc behav neo testis               Neoplasm of uncertain behavior of testis",
+	},
+	{
+		code: "2365   Unc behav neo prostate             Neoplasm of uncertain behavior of prostate",
+	},
+	{
+		code: "2366   Unc behav neo male NEC             Neoplasm of uncertain behavior of other and unspecified male genital organs",
+	},
+	{
+		code: "2367   Unc behav neo bladder              Neoplasm of uncertain behavior of bladder",
+	},
+	{
+		code: "23690  Unc behav neo urinar NOS           Neoplasm of uncertain behavior of urinary organ",
+	},
+	{
+		code: "23691  Unc behav neo kidney               Neoplasm of uncertain behavior of kidney and ureter",
+	},
+	{
+		code: "23699  Unc behav neo urinar NEC           Neoplasm of uncertain behavior of other and unspecified urinary organs",
+	},
+	{
+		code: "2370   Unc behav neo pituitary            Neoplasm of uncertain behavior of pituitary gland and craniopharyngeal duct",
+	},
+	{
+		code: "2371   Unc behav neo pineal               Neoplasm of uncertain behavior of pineal gland",
+	},
+	{
+		code: "2372   Unc behav neo adrenal              Neoplasm of uncertain behavior of adrenal gland",
+	},
+	{
+		code: "2373   Unc behav neo paragang             Neoplasm of uncertain behavior of paraganglia",
+	},
+	{
+		code: "2374   Uncer neo endocrine NEC            Neoplasm of uncertain behavior of other and unspecified endocrine glands",
+	},
+	{
+		code: "2375   Unc beh neo brain/spinal           Neoplasm of uncertain behavior of brain and spinal cord",
+	},
+	{
+		code: "2376   Unc behav neo meninges             Neoplasm of uncertain behavior of meninges",
+	},
+	{
+		code: "23770  Neurofibromatosis NOS              Neurofibromatosis",
+	},
+	{
+		code: "23771  Neurofibromatosis type I           Neurofibromatosis",
+	},
+	{
+		code: "23772  Neurofibromatosis typ II           Neurofibromatosis",
+	},
+	{
+		code: "23773  Schwannomatosis                    Schwannomatosis",
+	},
+	{
+		code: "23779  Neurofibromatosis NEC              Other neurofibromatosis",
+	},
+	{
+		code: "2379   Unc beh neo nerv sys NEC           Neoplasm of uncertain behavior of other and unspecified parts of nervous system",
+	},
+	{
+		code: "2380   Unc behav neo bone                 Neoplasm of uncertain behavior of bone and articular cartilage",
+	},
+	{
+		code: "2381   Unc behav neo soft tissu           Neoplasm of uncertain behavior of connective and other soft tissue",
+	},
+	{
+		code: "2382   Unc behav neo skin                 Neoplasm of uncertain behavior of skin",
+	},
+	{
+		code: "2383   Unc behav neo breast               Neoplasm of uncertain behavior of breast",
+	},
+	{
+		code: "2384   Polycythemia vera                  Polycythemia vera",
+	},
+	{
+		code: "2385   Mastocytoma NOS                    Neoplasm of uncertain behavior of histiocytic and mast cells",
+	},
+	{
+		code: "2386   Plasmacytoma NOS                   Neoplasm of uncertain behavior of plasma cells",
+	},
+	{
+		code: "23871  Essntial thrombocythemia           Essential thrombocythemia",
+	},
+	{
+		code: "23872  Low grde myelody syn les           Low grade myelodysplastic syndrome lesions",
+	},
+	{
+		code: "23873  Hi grde myelodys syn les           High grade myelodysplastic syndrome lesions",
+	},
+	{
+		code: "23874  Myelodyspls syn w 5q del           Myelodysplastic syndrome with 5q deletion",
+	},
+	{
+		code: "23875  Myelodysplastic synd NOS           Myelodysplastic syndrome",
+	},
+	{
+		code: "23876  Myelofi w myelo metaplas           Myelofibrosis with myeloid metaplasia",
+	},
+	{
+		code: "23877  Post tp lymphprolif dis            Post-transplant lymphoproliferative disorder (PTLD)",
+	},
+	{
+		code: "23879  Lymph/hematpoitc tis NEC           Other lymphatic and hematopoietic tissues",
+	},
+	{
+		code: "2388   Uncert behavior neo NEC            Neoplasm of uncertain behavior of other specified sites",
+	},
+	{
+		code: "2389   Uncert behavior neo NOS            Neoplasm of uncertain behavior",
+	},
+	{
+		code: "2390   Digestive neoplasm NOS             Neoplasm of unspecified nature of digestive system",
+	},
+	{
+		code: "2391   Respiratory neoplasm NOS           Neoplasm of unspecified nature of respiratory system",
+	},
+	{
+		code: "2392   Bone/skin neoplasm NOS             Neoplasm of unspecified nature of bone",
+	},
+	{
+		code: "2393   Breast neoplasm NOS                Neoplasm of unspecified nature of breast",
+	},
+	{
+		code: "2394   Bladder neoplasm NOS               Neoplasm of unspecified nature of bladder",
+	},
+	{
+		code: "2395   Other gu neoplasm NOS              Neoplasm of unspecified nature of other genitourinary organs",
+	},
+	{
+		code: "2396   Brain neoplasm NOS                 Neoplasm of unspecified nature of brain",
+	},
+	{
+		code: "2397   Endocrine/nerv neo NOS             Neoplasm of unspecified nature of endocrine glands and other parts of nervous system",
+	},
+	{
+		code: "2398   NEOPLASM NOS",
+	},
+	{
+		code: "23981  Neo retina/choroid NOS             Neoplasms of unspecified nature",
+	},
+	{
+		code: "23989  Neoplasm other sites NOS           Neoplasms of unspecified nature",
+	},
+	{
+		code: "2399   Neoplasm NOS                       Neoplasm of unspecified nature",
+	},
+	{
+		code: "2400   Simple goiter                      Goiter",
+	},
+	{
+		code: "2409   Goiter NOS                         Goiter",
+	},
+	{
+		code: "2410   Nontox uninodular goiter           Nontoxic uninodular goiter",
+	},
+	{
+		code: "2411   Nontox multinodul goiter           Nontoxic multinodular goiter",
+	},
+	{
+		code: "2419   Nontox nodul goiter NOS            Unspecified nontoxic nodular goiter",
+	},
+	{
+		code: "24200  Tox dif goiter no crisis           Toxic diffuse goiter without mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24201  Tox dif goiter w crisis            Toxic diffuse goiter with mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24210  Tox uninod goit no cris            Toxic uninodular goiter without mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24211  Tox uninod goit w crisis           Toxic uninodular goiter with mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24220  Tox multnod goit no cris           Toxic multinodular goiter without mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24221  Tox multnod goit w cris            Toxic multinodular goiter with mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24230  Tox nod goiter no crisis           Toxic nodular goiter",
+	},
+	{
+		code: "24231  Tox nod goiter w crisis            Toxic nodular goiter",
+	},
+	{
+		code: "24240  Thyrotox-ect nod no cris           Thyrotoxicosis from ectopic thyroid nodule without mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24241  Thyrotox-ect nod w cris            Thyrotoxicosis from ectopic thyroid nodule with mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24280  Thyrtox orig NEC no cris           Thyrotoxicosis of other specified origin without mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24281  Thyrotox orig NEC w cris           Thyrotoxicosis of other specified origin with mention of thyrotoxic crisis or storm",
+	},
+	{
+		code: "24290  Thyrotox NOS no crisis             Thyrotoxicosis without mention of goiter or other cause",
+	},
+	{
+		code: "24291  Thyrotox NOS w crisis              Thyrotoxicosis without mention of goiter or other cause",
+	},
+	{
+		code: "243    Congenital hypothyroidsm           Congenital hypothyroidism",
+	},
+	{
+		code: "2440   Postsurgical hypothyroid           Postsurgical hypothyroidism                                                                                                                                                                Y",
+	},
+	{
+		code: "2441   Postablat hypothyr NEC             Other postablative hypothyroidism                                                                                                                                                          Y",
+	},
+	{
+		code: "2442   Iodine hypothyroidism              Iodine hypothyroidism                                                                                                                                                                      Y",
+	},
+	{
+		code: "2443   Iatrogen hypothyroid NEC           Other iatrogenic hypothyroidism                                                                                                                                                            Y",
+	},
+	{
+		code: "2448   Acquired hypothyroid NEC           Other specified acquired hypothyroidism                                                                                                                                                    Y",
+	},
+	{
+		code: "2449   Hypothyroidism NOS                 Unspecified acquired hypothyroidism                                                                                                                                                        Y",
+	},
+	{
+		code: "2450   Acute thyroiditis                  Acute thyroiditis",
+	},
+	{
+		code: "2451   Subacute thyroiditis               Subacute thyroiditis",
+	},
+	{
+		code: "2452   Chr lymphocyt thyroidit            Chronic lymphocytic thyroiditis",
+	},
+	{
+		code: "2453   Chr fibrous thyroiditis            Chronic fibrous thyroiditis",
+	},
+	{
+		code: "2454   Iatrogenic thyroiditis             Iatrogenic thyroiditis",
+	},
+	{
+		code: "2458   Chr thyroiditis NEC/NOS            Other and unspecified chronic thyroiditis",
+	},
+	{
+		code: "2459   Thyroiditis NOS                    Thyroiditis",
+	},
+	{
+		code: "2460   Dis thyrocalciton secret           Disorders of thyrocalcitonin secretion",
+	},
+	{
+		code: "2461   Dyshormonogenic goiter             Dyshormonogenic goiter",
+	},
+	{
+		code: "2462   Cyst of thyroid                    Cyst of thyroid",
+	},
+	{
+		code: "2463   Hemorr/infarc thyroid              Hemorrhage and infarction of thyroid",
+	},
+	{
+		code: "2468   Disorders of thyroid NEC           Other specified disorders of thyroid",
+	},
+	{
+		code: "2469   Disorder of thyroid NOS            Unspecified disorder of thyroid",
+	},
+	{
+		code: "24900  Sec DM wo cmp nt st uncn           Secondary diabetes mellitus without mention of complication",
+	},
+	{
+		code: "24901  Sec DM wo comp uncontrld           Secondary diabetes mellitus without mention of complication",
+	},
+	{
+		code: "24910  Sec DM keto nt st uncntr           Secondary diabetes mellitus with ketoacidosis",
+	},
+	{
+		code: "24911  Sec DM ketoacd uncntrld            Secondary diabetes mellitus with ketoacidosis",
+	},
+	{
+		code: "24920  Sec DM hpros nt st uncnr           Secondary diabetes mellitus with hyperosmolarity",
+	},
+	{
+		code: "24921  Sec DM hprosmlr uncntrld           Secondary diabetes mellitus with hyperosmolarity",
+	},
+	{
+		code: "24930  Sec DM ot cma nt st uncn           Secondary diabetes mellitus with other coma",
+	},
+	{
+		code: "24931  Sec DM oth coma uncntrld           Secondary diabetes mellitus with other coma",
+	},
+	{
+		code: "24940  Sec DM renl nt st uncntr           Secondary diabetes mellitus with renal manifestations",
+	},
+	{
+		code: "24941  Sec DM renal uncontrld             Secondary diabetes mellitus with renal manifestations",
+	},
+	{
+		code: "24950  Sec DM ophth nt st uncn            Secondary diabetes mellitus with ophthalmic manifestations",
+	},
+	{
+		code: "24951  Sec DM ophth uncontrld             Secondary diabetes mellitus with ophthalmic manifestations",
+	},
+	{
+		code: "24960  Sec DM neuro nt st uncn            Secondary diabetes mellitus with neurological manifestations",
+	},
+	{
+		code: "24961  Sec DM neuro uncontrld             Secondary diabetes mellitus with neurological manifestations",
+	},
+	{
+		code: "24970  Sec DM circ nt st uncntr           Secondary diabetes mellitus with peripheral circulatory disorders",
+	},
+	{
+		code: "24971  Sec DM circ uncontrld              Secondary diabetes mellitus with peripheral circulatory disorders",
+	},
+	{
+		code: "24980  Sec DM oth nt st uncontr           Secondary diabetes mellitus with other specified manifestations",
+	},
+	{
+		code: "24981  Sec DM other uncontrld             Secondary diabetes mellitus with other specified manifestations",
+	},
+	{
+		code: "24990  Sec DM unsp nt st uncon            Secondary diabetes mellitus with unspecified complication",
+	},
+	{
+		code: "24991  Sec DM unsp uncontrold             Secondary diabetes mellitus with unspecified complication",
+	},
+	{
+		code: "25000  DMII wo cmp nt st uncntr           Diabetes mellitus without mention of complication",
+	},
+	{
+		code: "25001  DMI wo cmp nt st uncntrl           Diabetes mellitus without mention of complication",
+	},
+	{
+		code: "25002  DMII wo cmp uncntrld               Diabetes mellitus without mention of complication",
+	},
+	{
+		code: "25003  DMI wo cmp uncntrld                Diabetes mellitus without mention of complication",
+	},
+	{
+		code: "25010  DMII keto nt st uncntrld           Diabetes with ketoacidosis",
+	},
+	{
+		code: "25011  DMI keto nt st uncntrld            Diabetes with ketoacidosis",
+	},
+	{
+		code: "25012  DMII ketoacd uncontrold            Diabetes with ketoacidosis",
+	},
+	{
+		code: "25013  DMI ketoacd uncontrold             Diabetes with ketoacidosis",
+	},
+	{
+		code: "25020  DMII hprsm nt st uncntrl           Diabetes with hyperosmolarity",
+	},
+	{
+		code: "25021  DMI hprsm nt st uncntrld           Diabetes with hyperosmolarity",
+	},
+	{
+		code: "25022  DMII hprosmlr uncontrold           Diabetes with hyperosmolarity",
+	},
+	{
+		code: "25023  DMI hprosmlr uncontrold            Diabetes with hyperosmolarity",
+	},
+	{
+		code: "25030  DMII o cm nt st uncntrld           Diabetes with other coma",
+	},
+	{
+		code: "25031  DMI o cm nt st uncntrld            Diabetes with other coma",
+	},
+	{
+		code: "25032  DMII oth coma uncontrold           Diabetes with other coma",
+	},
+	{
+		code: "25033  DMI oth coma uncontrold            Diabetes with other coma",
+	},
+	{
+		code: "25040  DMII renl nt st uncntrld           Diabetes with renal manifestations",
+	},
+	{
+		code: "25041  DMI renl nt st uncntrld            Diabetes with renal manifestations",
+	},
+	{
+		code: "25042  DMII renal uncntrld                Diabetes with renal manifestations",
+	},
+	{
+		code: "25043  DMI renal uncntrld                 Diabetes with renal manifestations",
+	},
+	{
+		code: "25050  DMII ophth nt st uncntrl           Diabetes with ophthalmic manifestations",
+	},
+	{
+		code: "25051  DMI ophth nt st uncntrld           Diabetes with ophthalmic manifestations",
+	},
+	{
+		code: "25052  DMII ophth uncntrld                Diabetes with ophthalmic manifestations",
+	},
+	{
+		code: "25053  DMI ophth uncntrld                 Diabetes with ophthalmic manifestations",
+	},
+	{
+		code: "25060  DMII neuro nt st uncntrl           Diabetes with neurological manifestations",
+	},
+	{
+		code: "25061  DMI neuro nt st uncntrld           Diabetes with neurological manifestations",
+	},
+	{
+		code: "25062  DMII neuro uncntrld                Diabetes with neurological manifestations",
+	},
+	{
+		code: "25063  DMI neuro uncntrld                 Diabetes with neurological manifestations",
+	},
+	{
+		code: "25070  DMII circ nt st uncntrld           Diabetes with peripheral circulatory disorders",
+	},
+	{
+		code: "25071  DMI circ nt st uncntrld            Diabetes with peripheral circulatory disorders",
+	},
+	{
+		code: "25072  DMII circ uncntrld                 Diabetes with peripheral circulatory disorders",
+	},
+	{
+		code: "25073  DMI circ uncntrld                  Diabetes with peripheral circulatory disorders",
+	},
+	{
+		code: "25080  DMII oth nt st uncntrld            Diabetes with other specified manifestations",
+	},
+	{
+		code: "25081  DMI oth nt st uncntrld             Diabetes with other specified manifestations",
+	},
+	{
+		code: "25082  DMII oth uncntrld                  Diabetes with other specified manifestations",
+	},
+	{
+		code: "25083  DMI oth uncntrld                   Diabetes with other specified manifestations",
+	},
+	{
+		code: "25090  DMII unspf nt st uncntrl           Diabetes with unspecified complication",
+	},
+	{
+		code: "25091  DMI unspf nt st uncntrld           Diabetes with unspecified complication",
+	},
+	{
+		code: "25092  DMII unspf uncntrld                Diabetes with unspecified complication",
+	},
+	{
+		code: "25093  DMI unspf uncntrld                 Diabetes with unspecified complication",
+	},
+	{
+		code: "2510   Hypoglycemic coma                  Hypoglycemic coma",
+	},
+	{
+		code: "2511   Oth spcf hypoglycemia              Other specified hypoglycemia",
+	},
+	{
+		code: "2512   Hypoglycemia NOS                   Hypoglycemia",
+	},
+	{
+		code: "2513   Postsurg hypoinsulinemia           Postsurgical hypoinsulinemia",
+	},
+	{
+		code: "2514   Abn secretion glucagon             Abnormality of secretion of glucagon",
+	},
+	{
+		code: "2515   Abnorm secretion gastrin           Abnormality of secretion of gastrin",
+	},
+	{
+		code: "2518   Pancreatic disorder NEC            Other specified disorders of pancreatic internal secretion",
+	},
+	{
+		code: "2519   Pancreatic disorder NOS            Unspecified disorder of pancreatic internal secretion",
+	},
+	{
+		code: "25200  Hyperparathyroidism NOS            Hyperparathyroidism",
+	},
+	{
+		code: "25201  Primary hyperparathyroid           Primary hyperparathyroidism",
+	},
+	{
+		code: "25202  Sec hyprprthyrd nonrenal           Secondary hyperparathyroidism",
+	},
+	{
+		code: "25208  Hyperparathyroidism NEC            Other hyperparathyroidism",
+	},
+	{
+		code: "2521   Hypoparathyroidism                 Hypoparathyroidism",
+	},
+	{
+		code: "2528   Parathyroid disorder NEC           Other specified disorders of parathyroid gland",
+	},
+	{
+		code: "2529   Parathyroid disorder NOS           Unspecified disorder of parathyroid gland",
+	},
+	{
+		code: "2530   Acromegaly and gigantism           Acromegaly and gigantism",
+	},
+	{
+		code: "2531   Ant pituit hyperfunc NEC           Other and unspecified anterior pituitary hyperfunction",
+	},
+	{
+		code: "2532   Panhypopituitarism                 Panhypopituitarism",
+	},
+	{
+		code: "2533   Pituitary dwarfism                 Pituitary dwarfism",
+	},
+	{
+		code: "2534   Anter pituitary dis NEC            Other anterior pituitary disorders",
+	},
+	{
+		code: "2535   Diabetes insipidus                 Diabetes insipidus",
+	},
+	{
+		code: "2536   Neurohypophysis dis NEC            Other disorders of neurohypophysis",
+	},
+	{
+		code: "2537   Iatrogenic pituitary dis           Iatrogenic pituitary disorders",
+	},
+	{
+		code: "2538   Pituitary disorder NEC             Other disorders of the pituitary and other syndromes of diencephalohypophyseal origin",
+	},
+	{
+		code: "2539   Pituitary disorder NOS             Unspecified disorder of the pituitary gland and its hypothalamic control",
+	},
+	{
+		code: "2540   Persist hyperplas thymus           Persistent hyperplasia of thymus",
+	},
+	{
+		code: "2541   Abscess of thymus                  Abscess of thymus",
+	},
+	{
+		code: "2548   Diseases of thymus NEC             Other specified diseases of thymus gland",
+	},
+	{
+		code: "2549   Disease of thymus NOS              Unspecified disease of thymus gland",
+	},
+	{
+		code: "2550   Cushing's syndrome                 Cushing's syndrome",
+	},
+	{
+		code: "25510  Hyperaldosteronism NOS             Hyperaldosteronism",
+	},
+	{
+		code: "25511  Glucrtcod-rem aldsternsm           Glucocorticoid-remediable aldosteronism",
+	},
+	{
+		code: "25512  Conn's syndrome                    Conn's syndrome",
+	},
+	{
+		code: "25513  Bartter's syndrome                 Bartter's syndrome",
+	},
+	{
+		code: "25514  Secondry aldosternsm NEC           Other secondary aldosteronism",
+	},
+	{
+		code: "2552   Adrenogenital disorders            Adrenogenital disorders",
+	},
+	{
+		code: "2553   Corticoadren overact NEC           Other corticoadrenal overactivity",
+	},
+	{
+		code: "25541  Glucocorticoid deficient           Glucocorticoid deficiency",
+	},
+	{
+		code: "25542  Mineralcorticoid defcnt            Mineralocorticoid deficiency",
+	},
+	{
+		code: "2555   Adrenal hypofunction NEC           Other adrenal hypofunction",
+	},
+	{
+		code: "2556   Medulloadrenal hyperfunc           Medulloadrenal hyperfunction",
+	},
+	{
+		code: "2558   Adrenal disorder NEC               Other specified disorders of adrenal glands",
+	},
+	{
+		code: "2559   Adrenal disorder NOS               Unspecified disorder of adrenal glands",
+	},
+	{
+		code: "2560   Hyperestrogenism                   Hyperestrogenism",
+	},
+	{
+		code: "2561   Ovarian hyperfunc NEC              Other ovarian hyperfunction",
+	},
+	{
+		code: "2562   Postablativ ovarian fail           Postablative ovarian failure",
+	},
+	{
+		code: "25631  Premature menopause                Premature menopause",
+	},
+	{
+		code: "25639  Ovarian failure NEC                Other ovarian failure",
+	},
+	{
+		code: "2564   Polycystic ovaries                 Polycystic ovaries",
+	},
+	{
+		code: "2568   Ovarian dysfunction NEC            Other ovarian dysfunction",
+	},
+	{
+		code: "2569   Ovarian dysfunction NOS            Unspecified ovarian dysfunction",
+	},
+	{
+		code: "2570   Testicular hyperfunction           Testicular hyperfunction",
+	},
+	{
+		code: "2571   Postablat testic hypofun           Postablative testicular hypofunction",
+	},
+	{
+		code: "2572   Testicular hypofunc NEC            Other testicular hypofunction",
+	},
+	{
+		code: "2578   Testicular dysfunct NEC            Other testicular dysfunction",
+	},
+	{
+		code: "2579   Testicular dysfunct NOS            Unspecified testicular dysfunction",
+	},
+	{
+		code: "25801  Mult endo neoplas type I           Multiple endocrine neoplasia [MEN] type I",
+	},
+	{
+		code: "25802  Mult endo neop type IIA            Multiple endocrine neoplasia [MEN] type IIA",
+	},
+	{
+		code: "25803  Mult endo neop type IIB            Multiple endocrine neoplasia [MEN] type IIB",
+	},
+	{
+		code: "2581   Comb endocr dysfunct NEC           Other combinations of endocrine dysfunction",
+	},
+	{
+		code: "2588   Polyglandul dysfunc NEC            Other specified polyglandular dysfunction",
+	},
+	{
+		code: "2589   Polyglandul dysfunc NOS            Polyglandular dysfunction",
+	},
+	{
+		code: "2590   Delay sexual develop NEC           Delay in sexual development and puberty",
+	},
+	{
+		code: "2591   Sexual precocity NEC               Precocious sexual development and puberty",
+	},
+	{
+		code: "2592   Carcinoid syndrome                 Carcinoid syndrome",
+	},
+	{
+		code: "2593   Ectopic hormone secr NEC           Ectopic hormone secretion",
+	},
+	{
+		code: "2594   Dwarfism NEC                       Dwarfism",
+	},
+	{
+		code: "2595   ANDROGEN INSENSITVTY SYN           ANDROGEN INSENSITVTY SYN",
+	},
+	{
+		code: "25950  Androgen insensitvty NOS           Androgen insensitivity",
+	},
+	{
+		code: "25951  Androgen insensitvty syn           Androgen insensitivity syndrome",
+	},
+	{
+		code: "25952  Part androgen insnsitvty           Partial androgen insensitivity",
+	},
+	{
+		code: "2598   Endocrine disorders NEC            Other specified endocrine disorders",
+	},
+	{
+		code: "2599   Endocrine disorder NOS             Unspecified endocrine disorder",
+	},
+	{
+		code: "260    Kwashiorkor                        Kwashiorkor",
+	},
+	{
+		code: "261    Nutritional marasmus               Nutritional marasmus",
+	},
+	{
+		code: "262    Oth severe malnutrition            Other severe protein-calorie malnutrition",
+	},
+	{
+		code: "2630   Malnutrition mod degree            Malnutrition of moderate degree",
+	},
+	{
+		code: "2631   Malnutrition mild degree           Malnutrition of mild degree",
+	},
+	{
+		code: "2632   Arrest devel d/t malnutr           Arrested development following protein-calorie malnutrition",
+	},
+	{
+		code: "2638   Protein-cal malnutr NEC            Other protein-calorie malnutrition",
+	},
+	{
+		code: "2639   Protein-cal malnutr NOS            Unspecified protein-calorie malnutrition",
+	},
+	{
+		code: "2640   Vit A conjunctiv xerosis           Vitamin A deficiency with conjunctival xerosis",
+	},
+	{
+		code: "2641   Vit A bitot's spot                 Vitamin A deficiency with conjunctival xerosis and Bitot's spot",
+	},
+	{
+		code: "2642   Vit A corneal xerosis              Vitamin A deficiency with corneal xerosis",
+	},
+	{
+		code: "2643   Vit A cornea ulcer/xeros           Vitamin A deficiency with corneal ulceration and xerosis",
+	},
+	{
+		code: "2644   Vit A keratomalacia                Vitamin A deficiency with keratomalacia",
+	},
+	{
+		code: "2645   Vit A night blindness              Vitamin A deficiency with night blindness",
+	},
+	{
+		code: "2646   Vit A def w corneal scar           Vitamin A deficiency with xerophthalmic scars of cornea",
+	},
+	{
+		code: "2647   Vit A ocular defic NEC             Other ocular manifestations of vitamin A deficiency",
+	},
+	{
+		code: "2648   Vitamin A deficiency NEC           Other manifestations of vitamin A deficiency",
+	},
+	{
+		code: "2649   Vitamin A deficiency NOS           Unspecified vitamin A deficiency",
+	},
+	{
+		code: "2650   Beriberi                           Beriberi",
+	},
+	{
+		code: "2651   Thiamine defic NEC/NOS             Other and unspecified manifestations of thiamine deficiency",
+	},
+	{
+		code: "2652   Pellagra                           Pellagra",
+	},
+	{
+		code: "2660   Ariboflavinosis                    Ariboflavinosis",
+	},
+	{
+		code: "2661   Vitamin b6 deficiency              Vitamin B6 deficiency",
+	},
+	{
+		code: "2662   B-complex defic NEC                Other B-complex deficiencies",
+	},
+	{
+		code: "2669   Vitamin b deficiency NOS           Unspecified vitamin B deficiency",
+	},
+	{
+		code: "267    Ascorbic acid deficiency           Ascorbic acid deficiency",
+	},
+	{
+		code: "2680   Rickets",
+	},
+	{
+		code: "2681   Rickets",
+	},
+	{
+		code: "2682   Osteomalacia NOS                   Osteomalacia",
+	},
+	{
+		code: "2689   Vitamin D deficiency NOS           Unspecified vitamin D deficiency",
+	},
+	{
+		code: "2690   Deficiency of vitamin k            Deficiency of vitamin K",
+	},
+	{
+		code: "2691   Vitamin Deficiency NEC             Deficiency of other vitamins",
+	},
+	{
+		code: "2692   Vitamin Deficiency NOS             Unspecified vitamin deficiency",
+	},
+	{
+		code: "2693   Mineral deficiency NEC             Mineral deficiency",
+	},
+	{
+		code: "2698   Nutrition deficiency NEC           Other nutritional deficiency",
+	},
+	{
+		code: "2699   Nutrition deficiency NOS           Unspecified nutritional deficiency",
+	},
+	{
+		code: "2700   Amino-acid transport dis           Disturbances of amino-acid transport",
+	},
+	{
+		code: "2701   Phenylketonuria - pku              Phenylketonuria [PKU]",
+	},
+	{
+		code: "2702   Arom amin-acid metab NEC           Other disturbances of aromatic amino-acid metabolism",
+	},
+	{
+		code: "2703   Bran-chain amin-acid dis           Disturbances of branched-chain amino-acid metabolism",
+	},
+	{
+		code: "2704   Sulph amino-acid met dis           Disturbances of sulphur-bearing amino-acid metabolism",
+	},
+	{
+		code: "2705   Dis histidine metabolism           Disturbances of histidine metabolism",
+	},
+	{
+		code: "2706   Dis urea cycle metabol             Disorders of urea cycle metabolism",
+	},
+	{
+		code: "2707   Straig amin-acid met NEC           Other disturbances of straight-chain amino-acid metabolism",
+	},
+	{
+		code: "2708   Dis amino-acid metab NEC           Other specified disorders of amino-acid metabolism",
+	},
+	{
+		code: "2709   Dis amino-acid metab NOS           Unspecified disorder of amino-acid metabolism",
+	},
+	{
+		code: "2710   Glycogenosis                       Glycogenosis",
+	},
+	{
+		code: "2711   Galactosemia                       Galactosemia",
+	},
+	{
+		code: "2712   Hered fructose intoleran           Hereditary fructose intolerance",
+	},
+	{
+		code: "2713   Disaccharidase def/malab           Intestinal disaccharidase deficiencies and disaccharide malabsorption",
+	},
+	{
+		code: "2714   Renal glycosuria                   Renal glycosuria",
+	},
+	{
+		code: "2718   Dis carbohydr metab NEC            Other specified disorders of carbohydrate transport and metabolism",
+	},
+	{
+		code: "2719   Dis carbohydr metab NOS            Unspecified disorder of carbohydrate transport and metabolism",
+	},
+	{
+		code: "2720   Pure hypercholesterolem            Pure hypercholesterolemia                                                                                                                                                                  Y",
+	},
+	{
+		code: "2721   Pure hyperglyceridemia             Pure hyperglyceridemia                                                                                                                                                                     Y",
+	},
+	{
+		code: "2722   Mixed hyperlipidemia               Mixed hyperlipidemia                                                                                                                                                                       Y",
+	},
+	{
+		code: "2723   Hyperchylomicronemia               Hyperchylomicronemia                                                                                                                                                                       Y",
+	},
+	{
+		code: "2724   Hyperlipidemia NEC/NOS             Other and unspecified hyperlipidemia                                                                                                                                                       Y",
+	},
+	{
+		code: "2725   Lipoprotein deficiencies           Lipoprotein deficiencies                                                                                                                                                                   Y",
+	},
+	{
+		code: "2726   Lipodystrophy                      Lipodystrophy                                                                                                                                                                              Y",
+	},
+	{
+		code: "2727   Lipidoses                          Lipidoses                                                                                                                                                                                  Y",
+	},
+	{
+		code: "2728   Lipoid metabol dis NEC             Other disorders of lipoid metabolism                                                                                                                                                       Y",
+	},
+	{
+		code: "2729   Lipoid metabol dis NOS             Unspecified disorder of lipoid metabolism                                                                                                                                                  Y",
+	},
+	{
+		code: "2730   Polyclon hypergammaglobu           Polyclonal hypergammaglobulinemia",
+	},
+	{
+		code: "2731   Monoclon paraproteinemia           Monoclonal paraproteinemia",
+	},
+	{
+		code: "2732   Paraproteinemia NEC                Other paraproteinemias",
+	},
+	{
+		code: "2733   Macroglobulinemia                  Macroglobulinemia",
+	},
+	{
+		code: "2734   Alpha-1-antitrypsin def            Alpha-1-antitrypsin deficiency",
+	},
+	{
+		code: "2738   Dis plas protein met NEC           Other disorders of plasma protein metabolism",
+	},
+	{
+		code: "2739   Dis plas protein met NOS           Unspecified disorder of plasma protein metabolism",
+	},
+	{
+		code: "2740   GOUTY ARTHROPATHY                  GOUTY ARTHROPATHY",
+	},
+	{
+		code: "27400  Gouty arthropathy NOS              Gouty arthropathy",
+	},
+	{
+		code: "27401  Acute gouty arthropathy            Acute gouty arthropathy",
+	},
+	{
+		code: "27402  Chr gouty atrph wo tophi           Chronic gouty arthropathy without mention of tophus (tophi)",
+	},
+	{
+		code: "27403  Chr gouty atroph w tophi           Chronic gouty arthropathy with tophus (tophi)",
+	},
+	{
+		code: "27410  Gouty nephropathy NOS              Gouty nephropathy",
+	},
+	{
+		code: "27411  Uric acid nephrolithias            Uric acid nephrolithiasis",
+	},
+	{
+		code: "27419  Gouty nephropathy NEC              Other gouty nephropathy",
+	},
+	{
+		code: "27481  Gouty tophi of ear                 Gouty tophi of ear",
+	},
+	{
+		code: "27482  Gouty tophi site NEC               Gouty tophi of other sites",
+	},
+	{
+		code: "27489  Gout w manifestation NEC           Gout with other specified manifestations",
+	},
+	{
+		code: "2749   Gout NOS                           Gout",
+	},
+	{
+		code: "2750   Dis iron metabolism                Dis iron metabolism",
+	},
+	{
+		code: "27501  Heredit hemochromatosis            Hereditary hemochromatosis",
+	},
+	{
+		code: "27502  Hemochromatos-rbc trans            Hemochromatosis due to repeated red blood cell transfusions",
+	},
+	{
+		code: "27503  Hemochromatosis NEC                Other hemochromatosis",
+	},
+	{
+		code: "27509  Disord iron metablsm NEC           Other disorders of iron metabolism",
+	},
+	{
+		code: "2751   Dis copper metabolism              Disorders of copper metabolism",
+	},
+	{
+		code: "2752   Dis magnesium metabolism           Disorders of magnesium metabolism",
+	},
+	{
+		code: "2753   Dis phosphorus metabol             Disorders of phosphorus metabolism",
+	},
+	{
+		code: "27540  Dis calcium metablsm NOS           Unspecified disorder of calcium metabolism",
+	},
+	{
+		code: "27541  Hypocalcemia                       Hypocalcemia",
+	},
+	{
+		code: "27542  Hypercalcemia                      Hypercalcemia",
+	},
+	{
+		code: "27549  Dis calcium metablsm NEC           Other disorders of calcium metabolism",
+	},
+	{
+		code: "2755   Hungry bone syndrome               Hungry bone syndrome",
+	},
+	{
+		code: "2758   Dis mineral metabol NEC            Other specified disorders of mineral metabolism",
+	},
+	{
+		code: "2759   Dis mineral metabol NOS            Unspecified disorder of mineral metabolism",
+	},
+	{
+		code: "2760   Hyperosmolality                    Hyperosmolality and/or hypernatremia",
+	},
+	{
+		code: "2761   Hyposmolality                      Hyposmolality and/or hyponatremia",
+	},
+	{
+		code: "2762   Acidosis                           Acidosis",
+	},
+	{
+		code: "2763   Alkalosis                          Alkalosis",
+	},
+	{
+		code: "2764   Mixed acid-base bal dis            Mixed acid-base balance disorder",
+	},
+	{
+		code: "27650  Volume depletion NOS               Volume depletion",
+	},
+	{
+		code: "27651  Dehydration                        Dehydration",
+	},
+	{
+		code: "27652  Hypovolemia                        Hypovolemia",
+	},
+	{
+		code: "2766   Fluid overload                     Fluid overload",
+	},
+	{
+		code: "27661  Transfsn w circ overload           Transfusion associated circulatory overload",
+	},
+	{
+		code: "27669  Fluid overload NEC                 Other fluid overload",
+	},
+	{
+		code: "2767   Hyperpotassemia                    Hyperpotassemia",
+	},
+	{
+		code: "2768   Hypopotassemia                     Hypopotassemia",
+	},
+	{
+		code: "2769   Electrolyt/fluid dis NEC           Electrolyte and fluid disorders not elsewhere classified",
+	},
+	{
+		code: "27700  Cystic fibros w/o ileus            Cystic fibrosis without mention of meconium ileus",
+	},
+	{
+		code: "27701  Cystic fibrosis w ileus            Cystic fibrosis with meconium ileus",
+	},
+	{
+		code: "27702  Cystic fibros w pul man            Cystic fibrosis with pulmonary manifestations",
+	},
+	{
+		code: "27703  Cystic fibrosis w GI man           Cystic fibrosis with gastrointestinal manifestations",
+	},
+	{
+		code: "27709  Cystic fibrosis NEC                Cystic fibrosis with other manifestations",
+	},
+	{
+		code: "2771   Dis porphyrin metabolism           Disorders of porphyrin metabolism",
+	},
+	{
+		code: "2772   Purine/pyrimid dis NEC             Other disorders of purine and pyrimidine metabolism",
+	},
+	{
+		code: "27730  Amyloidosis NOS                    Amyloidosis",
+	},
+	{
+		code: "27731  Fam Mediterranean fever            Familial Mediterranean fever",
+	},
+	{
+		code: "27739  Amyloidosis NEC                    Other amyloidosis",
+	},
+	{
+		code: "2774   Dis bilirubin excretion            Disorders of bilirubin excretion",
+	},
+	{
+		code: "2775   Mucopolysaccharidosis              Mucopolysaccharidosis",
+	},
+	{
+		code: "2776   Defic circul enzyme NEC            Other deficiencies of circulating enzymes",
+	},
+	{
+		code: "2777   Dysmetabolic syndrome x            Dysmetabolic syndrome X",
+	},
+	{
+		code: "27781  Primary carnitine defncy           Primary carnitine deficiency",
+	},
+	{
+		code: "27782  Crnitne def d/t nb met             Carnitine deficiency due to inborn errors of metabolism",
+	},
+	{
+		code: "27783  Iatrogenic carnitine def           Iatrogenic carnitine deficiency",
+	},
+	{
+		code: "27784  Sec carnitine defncy NEC           Other secondary carnitine deficiency",
+	},
+	{
+		code: "27785  Disorders acid oxidation           Disorders of fatty acid oxidation",
+	},
+	{
+		code: "27786  Peroxisomal disorders              Peroxisomal disorders",
+	},
+	{
+		code: "27787  Dis mitochondrial metab            Disorders of mitochondrial metabolism",
+	},
+	{
+		code: "27788  Tumor lysis syndrome               Tumor lysis syndrome",
+	},
+	{
+		code: "27789  Metabolism disorder NEC            Other specified disorders of metabolism",
+	},
+	{
+		code: "2779   Metabolism disorder NOS            Unspecified disorder of metabolism",
+	},
+	{
+		code: "27800  Obesity NOS                        Obesity",
+	},
+	{
+		code: "27801  Morbid obesity                     Morbid obesity",
+	},
+	{
+		code: "27802  Overweight                         Overweight",
+	},
+	{
+		code: "27803  Obesity hypovent synd              Obesity hypoventilation syndrome",
+	},
+	{
+		code: "2781   Localized adiposity                Localized adiposity",
+	},
+	{
+		code: "2782   Hypervitaminosis a                 Hypervitaminosis A",
+	},
+	{
+		code: "2783   Hypercarotinemia                   Hypercarotinemia",
+	},
+	{
+		code: "2784   Hypervitaminosis d                 Hypervitaminosis D",
+	},
+	{
+		code: "2788   Other hyperalimentation            Other hyperalimentation",
+	},
+	{
+		code: "27900  Hypogammaglobulinem NOS            Hypogammaglobulinemia",
+	},
+	{
+		code: "27901  Selective iga immunodef            Selective IgA immunodeficiency",
+	},
+	{
+		code: "27902  Selective IgM immunodef            Selective IgM immunodeficiency",
+	},
+	{
+		code: "27903  Selective ig defic NEC             Other selective immunoglobulin deficiencies",
+	},
+	{
+		code: "27904  Cong hypogammaglobulinem           Congenital hypogammaglobulinemia",
+	},
+	{
+		code: "27905  Immunodefic w hyper-igm            Immunodeficiency with increased IgM",
+	},
+	{
+		code: "27906  Common variabl immunodef           Common variable immunodeficiency",
+	},
+	{
+		code: "27909  Humoral immunity def NEC           Other deficiency of humoral immunity",
+	},
+	{
+		code: "27910  Immundef t-cell def NOS            Immunodeficiency with predominant T-cell defect",
+	},
+	{
+		code: "27911  Digeorge's syndrome                Digeorge's syndrome",
+	},
+	{
+		code: "27912  Wiskott-aldrich syndrome           Wiskott-aldrich syndrome",
+	},
+	{
+		code: "27913  Nezelof's syndrome                 Nezelof's syndrome",
+	},
+	{
+		code: "27919  Defic cell immunity NOS            Other deficiency of cell-mediated immunity",
+	},
+	{
+		code: "2792   Combined immunity defic            Combined immunity deficiency",
+	},
+	{
+		code: "2793   Immunity deficiency NOS            Unspecified immunity deficiency",
+	},
+	{
+		code: "2794   AUTOIMMUNE DISEASE NEC             AUTOIMMUNE DISEASE NEC",
+	},
+	{
+		code: "27941  Autoimmun lymphprof synd           Autoimmune lymphoproliferative syndrome",
+	},
+	{
+		code: "27949  Autoimmune disease NEC             Autoimmune disease",
+	},
+	{
+		code: "27950  Graft-versus-host NOS              Graft-versus-host disease",
+	},
+	{
+		code: "27951  Ac graft-versus-host dis           Acute graft-versus-host disease",
+	},
+	{
+		code: "27952  Chronc graft-vs-host dis           Chronic graft-versus-host disease",
+	},
+	{
+		code: "27953  Ac on chrn grft-vs-host            Acute on chronic graft-versus-host disease",
+	},
+	{
+		code: "2798   Immune mechanism dis NEC           Other specified disorders involving the immune mechanism",
+	},
+	{
+		code: "2799   Immune mechanism dis NOS           Unspecified disorder of immune mechanism",
+	},
+	{
+		code: "2800   Chr blood loss anemia              Iron deficiency anemia secondary to blood loss (chronic)",
+	},
+	{
+		code: "2801   Iron def anemia dietary            Iron deficiency anemia secondary to inadequate dietary iron intake",
+	},
+	{
+		code: "2808   Iron defic anemia NEC              Other specified iron deficiency anemias",
+	},
+	{
+		code: "2809   Iron defic anemia NOS              Iron deficiency anemia",
+	},
+	{
+		code: "2810   Pernicious anemia                  Pernicious anemia",
+	},
+	{
+		code: "2811   B12 defic anemia NEC               Other vitamin B12 deficiency anemia",
+	},
+	{
+		code: "2812   Folate-deficiency anemia           Folate-deficiency anemia",
+	},
+	{
+		code: "2813   Megaloblastic anemia NEC           Other specified megaloblastic anemias not elsewhere classified",
+	},
+	{
+		code: "2814   Protein defic anemia               Protein-deficiency anemia",
+	},
+	{
+		code: "2818   Nutritional anemia NEC             Anemia associated with other specified nutritional deficiency",
+	},
+	{
+		code: "2819   Deficiency anemia NOS              Unspecified deficiency anemia",
+	},
+	{
+		code: "2820   Hereditary spherocytosis           Hereditary spherocytosis",
+	},
+	{
+		code: "2821   Heredit elliptocytosis             Hereditary elliptocytosis",
+	},
+	{
+		code: "2822   Glutathione dis anemia             Anemias due to disorders of glutathione metabolism",
+	},
+	{
+		code: "2823   Enzyme defic anemia NEC            Other hemolytic anemias due to enzyme deficiency",
+	},
+	{
+		code: "28240  Thalassemia",
+	},
+	{
+		code: "28241  Thlasema Hb-S w/o crisis           Sickle-cell thalassemia without crisis",
+	},
+	{
+		code: "28242  Thlassemia Hb-S w crisis           Sickle-cell thalassemia with crisis",
+	},
+	{
+		code: "28243  Alpha thalassemia                  Alpha thalassemia",
+	},
+	{
+		code: "28244  Beta thalassemia                   Beta thalassemia",
+	},
+	{
+		code: "28245  Delta-beta thalassemia             Delta-beta thalassemia",
+	},
+	{
+		code: "28246  Thalassemia minor                  Thalassemia minor",
+	},
+	{
+		code: "28247  Hgb E-beta thalassemia             Hemoglobin E-beta thalassemia",
+	},
+	{
+		code: "28249  Thalassemia NEC                    Other thalassemia",
+	},
+	{
+		code: "2825   Sickle-cell trait                  Sickle-cell trait",
+	},
+	{
+		code: "28260  Sickle cell disease NOS            Sickle-cell disease",
+	},
+	{
+		code: "28261  Hb-SS disease w/o crisis           Hb-SS disease without crisis",
+	},
+	{
+		code: "28262  Hb-SS disease w crisis             Hb-SS disease with crisis",
+	},
+	{
+		code: "28263  Hb-SS/hb-C dis w/o crsis           Sickle-cell/Hb-C disease without crisis",
+	},
+	{
+		code: "28264  Hb-S/Hb-C dis w crisis             Sickle-cell/Hb-C disease with crisis",
+	},
+	{
+		code: "28268  Hb-S dis w/o crisis NEC            Other sickle-cell disease without crisis",
+	},
+	{
+		code: "28269  Hb-SS dis NEC w crisis             Other sickle-cell disease with crisis",
+	},
+	{
+		code: "2827   Hemoglobinopathies NEC             Other hemoglobinopathies",
+	},
+	{
+		code: "2828   Hered hemolytic anem NEC           Other specified hereditary hemolytic anemias",
+	},
+	{
+		code: "2829   Hered hemolytic anem NOS           Hereditary hemolytic anemia",
+	},
+	{
+		code: "2830   Autoimmun hemolytic anem           Autoimmune hemolytic anemias",
+	},
+	{
+		code: "28310  Nonauto hem anemia NOS             Non-autoimmune hemolytic anemia",
+	},
+	{
+		code: "28311  Hemolytic uremic synd              Hemolytic-uremic syndrome",
+	},
+	{
+		code: "28319  Oth nonauto hem anemia             Other non-autoimmune hemolytic anemias",
+	},
+	{
+		code: "2832   Hemolytic hemoglobinuria           Hemoglobinuria due to hemolysis from external causes",
+	},
+	{
+		code: "2839   Acq hemolytic anemia NOS           Acquired hemolytic anemia",
+	},
+	{
+		code: "28401  Constitution RBC aplasia           Constitutional red blood cell aplasia",
+	},
+	{
+		code: "28409  Const aplastc anemia NEC           Other constitutional aplastic anemia",
+	},
+	{
+		code: "2841   Pancytopenia                       Pancytopenia",
+	},
+	{
+		code: "28411  Antin chemo indcd pancyt           Antineoplastic chemotherapy induced pancytopenia",
+	},
+	{
+		code: "28412  Oth drg indcd pancytopna           Other drug-induced pancytopenia",
+	},
+	{
+		code: "28419  Other pancytopenia                 Other pancytopenia",
+	},
+	{
+		code: "2842   Myelophthisis                      Myelophthisis",
+	},
+	{
+		code: "28481  Red cell aplasia                   Red cell aplasia (acquired)(adult)(with thymoma)",
+	},
+	{
+		code: "28489  Aplastic anemias NEC               Other specified aplastic anemias",
+	},
+	{
+		code: "2849   Aplastic anemia NOS                Aplastic anemia",
+	},
+	{
+		code: "2850   Sideroblastic anemia               Sideroblastic anemia                                                                                                                                                                       Y",
+	},
+	{
+		code: "2851   Ac posthemorrhag anemia            Acute posthemorrhagic anemia                                                                                                                                                               Y",
+	},
+	{
+		code: "28521  Anemia in chr kidney dis           Anemia in chronic kidney disease                                                                                                                                                           Y",
+	},
+	{
+		code: "28522  Anemia in neoplastic dis           Anemia in neoplastic disease                                                                                                                                                               Y",
+	},
+	{
+		code: "28529  Anemia-other chronic dis           Anemia of other chronic disease                                                                                                                                                            Y",
+	},
+	{
+		code: "2853   Anemia d/t antineo chemo           Antineoplastic chemotherapy induced anemia                                                                                                                                                 Y",
+	},
+	{
+		code: "2858   Anemia NEC                         Other specified anemias                                                                                                                                                                    Y",
+	},
+	{
+		code: "2859   Anemia NOS                         Anemia",
+	},
+	{
+		code: "2860   Cong factor viii diord             Congenital factor VIII disorder",
+	},
+	{
+		code: "2861   Cong factor IX disorder            Congenital factor IX disorder",
+	},
+	{
+		code: "2862   Cong factor xi disorder            Congenital factor XI deficiency",
+	},
+	{
+		code: "2863   Cong def clot factor NEC           Congenital deficiency of other clotting factors",
+	},
+	{
+		code: "2864   Von willebrand's disease           Von Willebrand's disease",
+	},
+	{
+		code: "2865   Intr circul anticoag dis           Intr circul anticoag dis",
+	},
+	{
+		code: "28652  Acquired hemophilia                Acquired hemophilia",
+	},
+	{
+		code: "28653  Antiphospholipid w hemor           Antiphospholipid antibody with hemorrhagic disorder",
+	},
+	{
+		code: "28659  Ot hem d/t circ anticoag           Other hemorrhagic disorder due to intrinsic circulating anticoagulants",
+	},
+	{
+		code: "2866   Defibrination syndrome             Defibrination syndrome",
+	},
+	{
+		code: "2867   Acq coagul factor defic            Acquired coagulation factor deficiency",
+	},
+	{
+		code: "2869   Coagulat defect NEC/NOS            Other and unspecified coagulation defects",
+	},
+	{
+		code: "2870   Allergic purpura                   Allergic purpura",
+	},
+	{
+		code: "2871   Thrombocytopathy                   Qualitative platelet defects",
+	},
+	{
+		code: "2872   Purpura NOS                        Other nonthrombocytopenic purpuras",
+	},
+	{
+		code: "28730  Prim thrombocytopen NOS            Primary thrombocytopenia",
+	},
+	{
+		code: "28731  Immune thrombocyt purpra           Immune thrombocytopenic purpura",
+	},
+	{
+		code: "28732  Evans' syndrome                    Evans' syndrome",
+	},
+	{
+		code: "28733  Cong/herid thromb purpra           Congenital and hereditary thrombocytopenic purpura",
+	},
+	{
+		code: "28739  Prim thrombocytopen NEC            Other primary thrombocytopenia",
+	},
+	{
+		code: "2874   Second thrombocytopenia            Second thrombocytopenia",
+	},
+	{
+		code: "28741  Posttransfusion purpura            Posttransfusion purpura",
+	},
+	{
+		code: "28749  Sec thrombocytpenia NEC            Other secondary thrombocytopenia",
+	},
+	{
+		code: "2875   Thrombocytopenia NOS               Thrombocytopenia",
+	},
+	{
+		code: "2878   Hemorrhagic cond NEC               Other specified hemorrhagic conditions",
+	},
+	{
+		code: "2879   Hemorrhagic cond NOS               Unspecified hemorrhagic conditions",
+	},
+	{
+		code: "28800  Neutropenia NOS                    Neutropenia",
+	},
+	{
+		code: "28801  Congenital neutropenia             Congenital neutropenia",
+	},
+	{
+		code: "28802  Cyclic neutropenia                 Cyclic neutropenia",
+	},
+	{
+		code: "28803  Drug induced neutropenia           Drug induced neutropenia",
+	},
+	{
+		code: "28804  Neutropenia d/t infectn            Neutropenia due to infection",
+	},
+	{
+		code: "28809  Neutropenia NEC                    Other neutropenia",
+	},
+	{
+		code: "2881   Function dis neutrophils           Functional disorders of polymorphonuclear neutrophils",
+	},
+	{
+		code: "2882   Genetic anomaly leukocyt           Genetic anomalies of leukocytes",
+	},
+	{
+		code: "2883   Eosinophilia                       Eosinophilia",
+	},
+	{
+		code: "2884   Hemophagocytic syndromes           Hemophagocytic syndromes",
+	},
+	{
+		code: "28850  Leukocytopenia NOS                 Leukocytopenia",
+	},
+	{
+		code: "28851  Lymphocytopenia                    Lymphocytopenia",
+	},
+	{
+		code: "28859  Decreased WBC count NEC            Other decreased white blood cell count",
+	},
+	{
+		code: "28860  Leukocytosis NOS                   Leukocytosis",
+	},
+	{
+		code: "28861  Lymphocytosis-symptomatc           Lymphocytosis (symptomatic)",
+	},
+	{
+		code: "28862  Leukemoid reaction                 Leukemoid reaction",
+	},
+	{
+		code: "28863  Monocytosis-symptomatic            Monocytosis (symptomatic)",
+	},
+	{
+		code: "28864  Plasmacytosis                      Plasmacytosis",
+	},
+	{
+		code: "28865  Basophilia                         Basophilia",
+	},
+	{
+		code: "28866  Bandemia                           Bandemia",
+	},
+	{
+		code: "28869  Elevated WBC count NEC             Other elevated white blood cell count",
+	},
+	{
+		code: "2888   Wbc disease NEC                    Other specified disease of white blood cells",
+	},
+	{
+		code: "2889   Wbc disease NOS                    Unspecified disease of white blood cells",
+	},
+	{
+		code: "2890   Secondary polycythemia             Polycythemia",
+	},
+	{
+		code: "2891   Chronic lymphadenitis              Chronic lymphadenitis",
+	},
+	{
+		code: "2892   Mesenteric lymphadenitis           Nonspecific mesenteric lymphadenitis",
+	},
+	{
+		code: "2893   Lymphadenitis NOS                  Lymphadenitis",
+	},
+	{
+		code: "2894   Hypersplenism                      Hypersplenism",
+	},
+	{
+		code: "28950  Spleen disease NOS                 Disease of spleen",
+	},
+	{
+		code: "28951  Chr congest splenomegaly           Chronic congestive splenomegaly",
+	},
+	{
+		code: "28952  Splenic sequestration              Splenic sequestration",
+	},
+	{
+		code: "28953  Neutropenic splenomegaly           Neutropenic splenomegaly",
+	},
+	{
+		code: "28959  Spleen disease NEC                 Other diseases of spleen",
+	},
+	{
+		code: "2896   Familial polycythemia              Familial polycythemia",
+	},
+	{
+		code: "2897   Methemoglobinemia                  Methemoglobinemia",
+	},
+	{
+		code: "28981  Prim hypercoagulable st            Primary hypercoagulable state",
+	},
+	{
+		code: "28982  Sec hypercoagulable st             Secondary hypercoagulable state",
+	},
+	{
+		code: "28983  Myelofibrosis                      Myelofibrosis",
+	},
+	{
+		code: "28984  Heparin-indu thrombocyto           Heparin-induced thrombocytopenia (HIT)",
+	},
+	{
+		code: "28989  Blood diseases NEC                 Other specified diseases of blood and blood-forming organs",
+	},
+	{
+		code: "2899   Blood disease NOS                  Unspecified diseases of blood and blood-forming organs",
+	},
+	{
+		code: "2900   Senile dementia uncomp             Senile dementia",
+	},
+	{
+		code: "29010  Presenile dementia                 Presenile dementia",
+	},
+	{
+		code: "29011  Presenile delirium                 Presenile dementia with delirium",
+	},
+	{
+		code: "29012  Presenile delusion                 Presenile dementia with delusional features",
+	},
+	{
+		code: "29013  Presenile depression               Presenile dementia with depressive features",
+	},
+	{
+		code: "29020  Senile delusion                    Senile dementia with delusional features",
+	},
+	{
+		code: "29021  Senile depressive                  Senile dementia with depressive features",
+	},
+	{
+		code: "2903   Senile delirium                    Senile dementia with delirium",
+	},
+	{
+		code: "29040  Vascular dementia",
+	},
+	{
+		code: "29041  Vasc dementia w delirium           Vascular dementia",
+	},
+	{
+		code: "29042  Vasc dementia w delusion           Vascular dementia",
+	},
+	{
+		code: "29043  Vasc dementia w depressn           Vascular dementia",
+	},
+	{
+		code: "2908   Senile psychosis NEC               Other specified senile psychotic conditions",
+	},
+	{
+		code: "2909   Senile psychot cond NOS            Unspecified senile psychotic condition",
+	},
+	{
+		code: "2910   Delirium tremens                   Alcohol withdrawal delirium",
+	},
+	{
+		code: "2911   Alcohol amnestic disordr           Alcohol-induced persisting amnestic disorder",
+	},
+	{
+		code: "2912   Alcohol persist dementia           Alcohol-induced persisting dementia",
+	},
+	{
+		code: "2913   Alcoh psy dis w hallucin           Alcohol-induced psychotic disorder with hallucinations",
+	},
+	{
+		code: "2914   Pathologic alcohol intox           Idiosyncratic alcohol intoxication",
+	},
+	{
+		code: "2915   Alcoh psych dis w delus            Alcohol-induced psychotic disorder with delusions",
+	},
+	{
+		code: "29181  Alcohol withdrawal                 Alcohol withdrawal",
+	},
+	{
+		code: "29182  Alcoh induce sleep disor           Alcohol induced sleep disorders",
+	},
+	{
+		code: "29189  Alcohol mental disor NEC           Other alcohol-induced mental disorders",
+	},
+	{
+		code: "2919   Alcohol mental disor NOS           Unspecified alcohol-induced mental disorders",
+	},
+	{
+		code: "2920   Drug withdrawal                    Drug withdrawal",
+	},
+	{
+		code: "29211  Drug psych disor w delus           Drug-induced psychotic disorder with delusions",
+	},
+	{
+		code: "29212  Drug psy dis w hallucin            Drug-induced psychotic disorder with hallucinations",
+	},
+	{
+		code: "2922   Pathologic drug intox              Pathological drug intoxication",
+	},
+	{
+		code: "29281  Drug-induced delirium              Drug-induced delirium",
+	},
+	{
+		code: "29282  Drug persisting dementia           Drug-induced persisting dementia",
+	},
+	{
+		code: "29283  Drug persist amnestc dis           Drug-induced persisting amnestic disorder",
+	},
+	{
+		code: "29284  Drug-induced mood disord           Drug-induced mood disorder",
+	},
+	{
+		code: "29285  Drug induced sleep disor           Drug induced sleep disorders",
+	},
+	{
+		code: "29289  Drug mental disorder NEC           Other specified drug-induced mental disorders",
+	},
+	{
+		code: "2929   Drug mental disorder NOS           Unspecified drug-induced mental disorder",
+	},
+	{
+		code: "2930   Delirium d/t other cond            Delirium due to conditions classified elsewhere",
+	},
+	{
+		code: "2931   Subacute delirium                  Subacute delirium",
+	},
+	{
+		code: "29381  Psy dis w delus oth dis            Psychotic disorder with delusions in conditions classified elsewhere",
+	},
+	{
+		code: "29382  Psy dis w halluc oth dis           Psychotic disorder with hallucinations in conditions classified elsewhere",
+	},
+	{
+		code: "29383  Mood disorder other dis            Mood disorder in conditions classified elsewhere",
+	},
+	{
+		code: "29384  Anxiety disorder oth dis           Anxiety disorder in conditions classified elsewhere",
+	},
+	{
+		code: "29389  Transient mental dis NEC           Other specified transient mental disorders due to conditions classified elsewhere",
+	},
+	{
+		code: "2939   Transient mental dis NOS           Unspecified transient mental disorder in conditions classified elsewhere",
+	},
+	{
+		code: "2940   Amnestic disord oth dis            Amnestic disorder in conditions classified elsewhere",
+	},
+	{
+		code: "29410  Dementia w/o behav dist            Dementia in conditions classified elsewhere without behavioral disturbance",
+	},
+	{
+		code: "29411  Dementia w behavior dist           Dementia in conditions classified elsewhere with behavioral disturbance",
+	},
+	{
+		code: "29420  Demen NOS w/o behv dstrb           Dementia",
+	},
+	{
+		code: "29421  Demen NOS w behav distrb           Dementia",
+	},
+	{
+		code: "2948   Mental disor NEC oth dis           Other persistent mental disorders due to conditions classified elsewhere",
+	},
+	{
+		code: "2949   Mental disor NOS oth dis           Unspecified persistent mental disorders due to conditions classified elsewhere",
+	},
+	{
+		code: "29500  Simpl schizophren-unspec           Simple type schizophrenia",
+	},
+	{
+		code: "29501  Simpl schizophren-subchr           Simple type schizophrenia",
+	},
+	{
+		code: "29502  Simple schizophren-chr             Simple type schizophrenia",
+	},
+	{
+		code: "29503  Simp schiz-subchr/exacer           Simple type schizophrenia",
+	},
+	{
+		code: "29504  Simpl schizo-chr/exacerb           Simple type schizophrenia",
+	},
+	{
+		code: "29505  Simpl schizophren-remiss           Simple type schizophrenia",
+	},
+	{
+		code: "29510  Hebephrenia-unspec                 Disorganized type schizophrenia",
+	},
+	{
+		code: "29511  Hebephrenia-subchronic             Disorganized type schizophrenia",
+	},
+	{
+		code: "29512  Hebephrenia-chronic                Disorganized type schizophrenia",
+	},
+	{
+		code: "29513  Hebephren-subchr/exacerb           Disorganized type schizophrenia",
+	},
+	{
+		code: "29514  Hebephrenia-chr/exacerb            Disorganized type schizophrenia",
+	},
+	{
+		code: "29515  Hebephrenia-remission              Disorganized type schizophrenia",
+	},
+	{
+		code: "29520  Catatonia-unspec                   Catatonic type schizophrenia",
+	},
+	{
+		code: "29521  Catatonia-subchronic               Catatonic type schizophrenia",
+	},
+	{
+		code: "29522  Catatonia-chronic                  Catatonic type schizophrenia",
+	},
+	{
+		code: "29523  Catatonia-subchr/exacerb           Catatonic type schizophrenia",
+	},
+	{
+		code: "29524  Catatonia-chr/exacerb              Catatonic type schizophrenia",
+	},
+	{
+		code: "29525  Catatonia-remission                Catatonic type schizophrenia",
+	},
+	{
+		code: "29530  Paranoid schizo-unspec             Paranoid type schizophrenia",
+	},
+	{
+		code: "29531  Paranoid schizo-subchr             Paranoid type schizophrenia",
+	},
+	{
+		code: "29532  Paranoid schizo-chronic            Paranoid type schizophrenia",
+	},
+	{
+		code: "29533  Paran schizo-subchr/exac           Paranoid type schizophrenia",
+	},
+	{
+		code: "29534  Paran schizo-chr/exacerb           Paranoid type schizophrenia",
+	},
+	{
+		code: "29535  Paranoid schizo-remiss             Paranoid type schizophrenia",
+	},
+	{
+		code: "29540  Schizophreniform dis NOS           Schizophreniform disorder",
+	},
+	{
+		code: "29541  Schizophrenic dis-subchr           Schizophreniform disorder",
+	},
+	{
+		code: "29542  Schizophren dis-chronic            Schizophreniform disorder",
+	},
+	{
+		code: "29543  Schizo dis-subchr/exacer           Schizophreniform disorder",
+	},
+	{
+		code: "29544  Schizophr dis-chr/exacer           Schizophreniform disorder",
+	},
+	{
+		code: "29545  Schizophrenic dis-remiss           Schizophreniform disorder",
+	},
+	{
+		code: "29550  Latent schizophren-unsp            Latent schizophrenia",
+	},
+	{
+		code: "29551  Lat schizophren-subchr             Latent schizophrenia",
+	},
+	{
+		code: "29552  Latent schizophren-chr             Latent schizophrenia",
+	},
+	{
+		code: "29553  Lat schizo-subchr/exacer           Latent schizophrenia",
+	},
+	{
+		code: "29554  Latent schizo-chr/exacer           Latent schizophrenia",
+	},
+	{
+		code: "29555  Lat schizophren-remiss             Latent schizophrenia",
+	},
+	{
+		code: "29560  Schizophr dis resid NOS            Schizophrenic disorders",
+	},
+	{
+		code: "29561  Schizoph dis resid-subch           Schizophrenic disorders",
+	},
+	{
+		code: "29562  Schizophr dis resid-chr            Schizophrenic disorders",
+	},
+	{
+		code: "29563  Schizo resid subchr/exac           Schizophrenic disorders",
+	},
+	{
+		code: "29564  Schizoph resid-chro/exac           Schizophrenic disorders",
+	},
+	{
+		code: "29565  Schizoph dis resid-remis           Schizophrenic disorders",
+	},
+	{
+		code: "29570  Schizoaffective dis NOS            Schizoaffective disorder",
+	},
+	{
+		code: "29571  Schizoaffectv dis-subchr           Schizoaffective disorder",
+	},
+	{
+		code: "29572  Schizoaffective dis-chr            Schizoaffective disorder",
+	},
+	{
+		code: "29573  Schizoaff dis-subch/exac           Schizoaffective disorder",
+	},
+	{
+		code: "29574  Schizoafftv dis-chr/exac           Schizoaffective disorder",
+	},
+	{
+		code: "29575  Schizoaffectve dis-remis           Schizoaffective disorder",
+	},
+	{
+		code: "29580  Schizophrenia NEC-unspec           Other specified types of schizophrenia",
+	},
+	{
+		code: "29581  Schizophrenia NEC-subchr           Other specified types of schizophrenia",
+	},
+	{
+		code: "29582  Schizophrenia NEC-chr              Other specified types of schizophrenia",
+	},
+	{
+		code: "29583  Schizo NEC-subchr/exacer           Other specified types of schizophrenia",
+	},
+	{
+		code: "29584  Schizo NEC-chr/exacerb             Other specified types of schizophrenia",
+	},
+	{
+		code: "29585  Schizophrenia NEC-remiss           Other specified types of schizophrenia",
+	},
+	{
+		code: "29590  Schizophrenia NOS-unspec           Unspecified schizophrenia",
+	},
+	{
+		code: "29591  Schizophrenia NOS-subchr           Unspecified schizophrenia",
+	},
+	{
+		code: "29592  Schizophrenia NOS-chr              Unspecified schizophrenia",
+	},
+	{
+		code: "29593  Schizo NOS-subchr/exacer           Unspecified schizophrenia",
+	},
+	{
+		code: "29594  Schizo NOS-chr/exacerb             Unspecified schizophrenia",
+	},
+	{
+		code: "29595  Schizophrenia NOS-remiss           Unspecified schizophrenia",
+	},
+	{
+		code: "29600  Bipol I single manic NOS           Bipolar I disorder",
+	},
+	{
+		code: "29601  Bipol I single manc-mild           Bipolar I disorder",
+	},
+	{
+		code: "29602  Bipol I single manic-mod           Bipolar I disorder",
+	},
+	{
+		code: "29603  Bipol I sing-sev w/o psy           Bipolar I disorder",
+	},
+	{
+		code: "29604  Bipo I sin man-sev w psy           Bipolar I disorder",
+	},
+	{
+		code: "29605  Bipol I sing man rem NOS           Bipolar I disorder",
+	},
+	{
+		code: "29606  Bipol I single manic rem           Bipolar I disorder",
+	},
+	{
+		code: "29610  Recur manic dis-unspec             Manic affective disorder",
+	},
+	{
+		code: "29611  Recur manic dis-mild               Manic affective disorder",
+	},
+	{
+		code: "29612  Recur manic dis-mod                Manic affective disorder",
+	},
+	{
+		code: "29613  Recur manic dis-severe             Manic affective disorder",
+	},
+	{
+		code: "29614  Recur manic-sev w psycho           Manic affective disorder",
+	},
+	{
+		code: "29615  Recur manic-part remiss            Manic affective disorder",
+	},
+	{
+		code: "29616  Recur manic-full remiss            Manic affective disorder",
+	},
+	{
+		code: "29620  Depress psychosis-unspec           Major depressive affective disorder",
+	},
+	{
+		code: "29621  Depress psychosis-mild             Major depressive affective disorder",
+	},
+	{
+		code: "29622  Depressive psychosis-mod           Major depressive affective disorder",
+	},
+	{
+		code: "29623  Depress psychosis-severe           Major depressive affective disorder",
+	},
+	{
+		code: "29624  Depr psychos-sev w psych           Major depressive affective disorder",
+	},
+	{
+		code: "29625  Depr psychos-part remiss           Major depressive affective disorder",
+	},
+	{
+		code: "29626  Depr psychos-full remiss           Major depressive affective disorder",
+	},
+	{
+		code: "29630  Recurr depr psychos-unsp           Major depressive affective disorder",
+	},
+	{
+		code: "29631  Recurr depr psychos-mild           Major depressive affective disorder",
+	},
+	{
+		code: "29632  Recurr depr psychos-mod            Major depressive affective disorder",
+	},
+	{
+		code: "29633  Recur depr psych-severe            Major depressive affective disorder",
+	},
+	{
+		code: "29634  Rec depr psych-psychotic           Major depressive affective disorder",
+	},
+	{
+		code: "29635  Recur depr psyc-part rem           Major depressive affective disorder",
+	},
+	{
+		code: "29636  Recur depr psyc-full rem           Major depressive affective disorder",
+	},
+	{
+		code: "29640  Bipol I currnt manic NOS           Bipolar I disorder",
+	},
+	{
+		code: "29641  Bipol I curnt manic-mild           Bipolar I disorder",
+	},
+	{
+		code: "29642  Bipol I currnt manic-mod           Bipolar I disorder",
+	},
+	{
+		code: "29643  Bipol I manc-sev w/o psy           Bipolar I disorder",
+	},
+	{
+		code: "29644  Bipol I manic-sev w psy            Bipolar I disorder",
+	},
+	{
+		code: "29645  Bipol I cur man part rem           Bipolar I disorder",
+	},
+	{
+		code: "29646  Bipol I cur man full rem           Bipolar I disorder",
+	},
+	{
+		code: "29650  Bipol I cur depres NOS             Bipolar I disorder",
+	},
+	{
+		code: "29651  Bipol I cur depress-mild           Bipolar I disorder",
+	},
+	{
+		code: "29652  Bipol I cur depress-mod            Bipolar I disorder",
+	},
+	{
+		code: "29653  Bipol I curr dep w/o psy           Bipolar I disorder",
+	},
+	{
+		code: "29654  Bipol I currnt dep w psy           Bipolar I disorder",
+	},
+	{
+		code: "29655  Bipol I cur dep rem NOS            Bipolar I disorder",
+	},
+	{
+		code: "29656  Bipol I currnt dep remis           Bipolar I disorder",
+	},
+	{
+		code: "29660  Bipol I currnt mixed NOS           Bipolar I disorder",
+	},
+	{
+		code: "29661  Bipol I currnt mix-mild            Bipolar I disorder",
+	},
+	{
+		code: "29662  Bipol I currnt mixed-mod           Bipolar I disorder",
+	},
+	{
+		code: "29663  Bipol I cur mix w/o psy            Bipolar I disorder",
+	},
+	{
+		code: "29664  Bipol I cur mixed w psy            Bipolar I disorder",
+	},
+	{
+		code: "29665  Bipol I cur mix-part rem           Bipolar I disorder",
+	},
+	{
+		code: "29666  Bipol I cur mixed remiss           Bipolar I disorder",
+	},
+	{
+		code: "2967   Bipolor I current NOS              Bipolar I disorder",
+	},
+	{
+		code: "29680  Bipolar disorder NOS               Bipolar disorder",
+	},
+	{
+		code: "29681  Atypical manic disorder            Atypical manic disorder",
+	},
+	{
+		code: "29682  Atypical depressive dis            Atypical depressive disorder",
+	},
+	{
+		code: "29689  Bipolar disorder NEC               Other bipolar disorders",
+	},
+	{
+		code: "29690  Episodic mood disord NOS           Unspecified episodic mood disorder",
+	},
+	{
+		code: "29699  Episodic mood disord NEC           Other specified episodic mood disorder",
+	},
+	{
+		code: "2970   Paranoid state",
+	},
+	{
+		code: "2971   Delusional disorder                Delusional disorder",
+	},
+	{
+		code: "2972   Paraphrenia                        Paraphrenia",
+	},
+	{
+		code: "2973   Shared psychotic disord            Shared psychotic disorder",
+	},
+	{
+		code: "2978   Paranoid states NEC                Other specified paranoid states",
+	},
+	{
+		code: "2979   Paranoid state NOS                 Unspecified paranoid state",
+	},
+	{
+		code: "2980   React depress psychosis            Depressive type psychosis",
+	},
+	{
+		code: "2981   Excitativ type psychosis           Excitative type psychosis",
+	},
+	{
+		code: "2982   Reactive confusion                 Reactive confusion",
+	},
+	{
+		code: "2983   Acute paranoid reaction            Acute paranoid reaction",
+	},
+	{
+		code: "2984   Psychogen paranoid psych           Psychogenic paranoid psychosis",
+	},
+	{
+		code: "2988   React psychosis NEC/NOS            Other and unspecified reactive psychosis",
+	},
+	{
+		code: "2989   Psychosis NOS                      Unspecified psychosis",
+	},
+	{
+		code: "29900  Autistic disord-current            Autistic disorder",
+	},
+	{
+		code: "29901  Autistic disord-residual           Autistic disorder",
+	},
+	{
+		code: "29910  Childhd disintegr-active           Childhood disintegrative disorder",
+	},
+	{
+		code: "29911  Childhd disintegr-resid            Childhood disintegrative disorder",
+	},
+	{
+		code: "29980  Pervasv dev dis-cur NEC            Other specified pervasive developmental disorders",
+	},
+	{
+		code: "29981  Pervasv dev dis-res NEC            Other specified pervasive developmental disorders",
+	},
+	{
+		code: "29990  Pervasv dev dis-cur NOS            Unspecified pervasive developmental disorder",
+	},
+	{
+		code: "29991  Pervasv dev dis-res NOS            Unspecified pervasive developmental disorder",
+	},
+}

@@ -1,0 +1,20093 @@
+{
+	{
+		code: "V0001XA",
+	},
+	{
+		code: "V0001XD",
+	},
+	{
+		code: "V0001XS",
+	},
+	{
+		code: "V0002XA",
+	},
+	{
+		code: "V0002XD",
+	},
+	{
+		code: "V0002XS",
+	},
+	{
+		code: "V0009XA",
+	},
+	{
+		code: "V0009XD",
+	},
+	{
+		code: "V0009XS",
+	},
+	{
+		code: "V00111A",
+	},
+	{
+		code: "V00111D",
+	},
+	{
+		code: "V00111S",
+	},
+	{
+		code: "V00112A",
+	},
+	{
+		code: "V00112D",
+	},
+	{
+		code: "V00112S",
+	},
+	{
+		code: "V00118A",
+	},
+	{
+		code: "V00118D",
+	},
+	{
+		code: "V00118S",
+	},
+	{
+		code: "V00121A",
+	},
+	{
+		code: "V00121D",
+	},
+	{
+		code: "V00121S",
+	},
+	{
+		code: "V00122A",
+	},
+	{
+		code: "V00122D",
+	},
+	{
+		code: "V00122S",
+	},
+	{
+		code: "V00128A",
+	},
+	{
+		code: "V00128D",
+	},
+	{
+		code: "V00128S",
+	},
+	{
+		code: "V00131A",
+	},
+	{
+		code: "V00131D",
+	},
+	{
+		code: "V00131S",
+	},
+	{
+		code: "V00132A",
+	},
+	{
+		code: "V00132D",
+	},
+	{
+		code: "V00132S",
+	},
+	{
+		code: "V00138A",
+	},
+	{
+		code: "V00138D",
+	},
+	{
+		code: "V00138S",
+	},
+	{
+		code: "V00141A",
+	},
+	{
+		code: "V00141D",
+	},
+	{
+		code: "V00141S",
+	},
+	{
+		code: "V00142A",
+	},
+	{
+		code: "V00142D",
+	},
+	{
+		code: "V00142S",
+	},
+	{
+		code: "V00148A",
+	},
+	{
+		code: "V00148D",
+	},
+	{
+		code: "V00148S",
+	},
+	{
+		code: "V00151A",
+	},
+	{
+		code: "V00151D",
+	},
+	{
+		code: "V00151S",
+	},
+	{
+		code: "V00152A",
+	},
+	{
+		code: "V00152D",
+	},
+	{
+		code: "V00152S",
+	},
+	{
+		code: "V00158A",
+	},
+	{
+		code: "V00158D",
+	},
+	{
+		code: "V00158S",
+	},
+	{
+		code: "V00181A",
+	},
+	{
+		code: "V00181D",
+	},
+	{
+		code: "V00181S",
+	},
+	{
+		code: "V00182A",
+	},
+	{
+		code: "V00182D",
+	},
+	{
+		code: "V00182S",
+	},
+	{
+		code: "V00188A",
+	},
+	{
+		code: "V00188D",
+	},
+	{
+		code: "V00188S",
+	},
+	{
+		code: "V00211A",
+	},
+	{
+		code: "V00211D",
+	},
+	{
+		code: "V00211S",
+	},
+	{
+		code: "V00212A",
+	},
+	{
+		code: "V00212D",
+	},
+	{
+		code: "V00212S",
+	},
+	{
+		code: "V00218A",
+	},
+	{
+		code: "V00218D",
+	},
+	{
+		code: "V00218S",
+	},
+	{
+		code: "V00221A",
+	},
+	{
+		code: "V00221D",
+	},
+	{
+		code: "V00221S",
+	},
+	{
+		code: "V00222A",
+	},
+	{
+		code: "V00222D",
+	},
+	{
+		code: "V00222S",
+	},
+	{
+		code: "V00228A",
+	},
+	{
+		code: "V00228D",
+	},
+	{
+		code: "V00228S",
+	},
+	{
+		code: "V00281A",
+	},
+	{
+		code: "V00281D",
+	},
+	{
+		code: "V00281S",
+	},
+	{
+		code: "V00282A",
+	},
+	{
+		code: "V00282D",
+	},
+	{
+		code: "V00282S",
+	},
+	{
+		code: "V00288A",
+	},
+	{
+		code: "V00288D",
+	},
+	{
+		code: "V00288S",
+	},
+	{
+		code: "V00311A",
+	},
+	{
+		code: "V00311D",
+	},
+	{
+		code: "V00311S",
+	},
+	{
+		code: "V00312A",
+	},
+	{
+		code: "V00312D",
+	},
+	{
+		code: "V00312S",
+	},
+	{
+		code: "V00318A",
+	},
+	{
+		code: "V00318D",
+	},
+	{
+		code: "V00318S",
+	},
+	{
+		code: "V00321A",
+	},
+	{
+		code: "V00321D",
+	},
+	{
+		code: "V00321S",
+	},
+	{
+		code: "V00322A",
+	},
+	{
+		code: "V00322D",
+	},
+	{
+		code: "V00322S",
+	},
+	{
+		code: "V00328A",
+	},
+	{
+		code: "V00328D",
+	},
+	{
+		code: "V00328S",
+	},
+	{
+		code: "V00381A",
+	},
+	{
+		code: "V00381D",
+	},
+	{
+		code: "V00381S",
+	},
+	{
+		code: "V00382A",
+	},
+	{
+		code: "V00382D",
+	},
+	{
+		code: "V00382S",
+	},
+	{
+		code: "V00388A",
+	},
+	{
+		code: "V00388D",
+	},
+	{
+		code: "V00388S",
+	},
+	{
+		code: "V00811A",
+	},
+	{
+		code: "V00811D",
+	},
+	{
+		code: "V00811S",
+	},
+	{
+		code: "V00812A",
+	},
+	{
+		code: "V00812D",
+	},
+	{
+		code: "V00812S",
+	},
+	{
+		code: "V00818A",
+	},
+	{
+		code: "V00818D",
+	},
+	{
+		code: "V00818S",
+	},
+	{
+		code: "V00821A",
+	},
+	{
+		code: "V00821D",
+	},
+	{
+		code: "V00821S",
+	},
+	{
+		code: "V00822A",
+	},
+	{
+		code: "V00822D",
+	},
+	{
+		code: "V00822S",
+	},
+	{
+		code: "V00828A",
+	},
+	{
+		code: "V00828D",
+	},
+	{
+		code: "V00828S",
+	},
+	{
+		code: "V00831A",
+	},
+	{
+		code: "V00831D",
+	},
+	{
+		code: "V00831S",
+	},
+	{
+		code: "V00832A",
+	},
+	{
+		code: "V00832D",
+	},
+	{
+		code: "V00832S",
+	},
+	{
+		code: "V00838A",
+	},
+	{
+		code: "V00838D",
+	},
+	{
+		code: "V00838S",
+	},
+	{
+		code: "V00891A",
+	},
+	{
+		code: "V00891D",
+	},
+	{
+		code: "V00891S",
+	},
+	{
+		code: "V00892A",
+	},
+	{
+		code: "V00892D",
+	},
+	{
+		code: "V00892S",
+	},
+	{
+		code: "V00898A",
+	},
+	{
+		code: "V00898D",
+	},
+	{
+		code: "V00898S",
+	},
+	{
+		code: "V0100XA",
+	},
+	{
+		code: "V0100XD",
+	},
+	{
+		code: "V0100XS",
+	},
+	{
+		code: "V0101XA",
+	},
+	{
+		code: "V0101XD",
+	},
+	{
+		code: "V0101XS",
+	},
+	{
+		code: "V0102XA",
+	},
+	{
+		code: "V0102XD",
+	},
+	{
+		code: "V0102XS",
+	},
+	{
+		code: "V0109XA",
+	},
+	{
+		code: "V0109XD",
+	},
+	{
+		code: "V0109XS",
+	},
+	{
+		code: "V0110XA",
+	},
+	{
+		code: "V0110XD",
+	},
+	{
+		code: "V0110XS",
+	},
+	{
+		code: "V0111XA",
+	},
+	{
+		code: "V0111XD",
+	},
+	{
+		code: "V0111XS",
+	},
+	{
+		code: "V0112XA",
+	},
+	{
+		code: "V0112XD",
+	},
+	{
+		code: "V0112XS",
+	},
+	{
+		code: "V0119XA",
+	},
+	{
+		code: "V0119XD",
+	},
+	{
+		code: "V0119XS",
+	},
+	{
+		code: "V0190XA",
+	},
+	{
+		code: "V0190XD",
+	},
+	{
+		code: "V0190XS",
+	},
+	{
+		code: "V0191XA",
+	},
+	{
+		code: "V0191XD",
+	},
+	{
+		code: "V0191XS",
+	},
+	{
+		code: "V0192XA",
+	},
+	{
+		code: "V0192XD",
+	},
+	{
+		code: "V0192XS",
+	},
+	{
+		code: "V0199XA",
+	},
+	{
+		code: "V0199XD",
+	},
+	{
+		code: "V0199XS",
+	},
+	{
+		code: "V0200XA",
+	},
+	{
+		code: "V0200XD",
+	},
+	{
+		code: "V0200XS",
+	},
+	{
+		code: "V0201XA",
+	},
+	{
+		code: "V0201XD",
+	},
+	{
+		code: "V0201XS",
+	},
+	{
+		code: "V0202XA",
+	},
+	{
+		code: "V0202XD",
+	},
+	{
+		code: "V0202XS",
+	},
+	{
+		code: "V0209XA",
+	},
+	{
+		code: "V0209XD",
+	},
+	{
+		code: "V0209XS",
+	},
+	{
+		code: "V0210XA",
+	},
+	{
+		code: "V0210XD",
+	},
+	{
+		code: "V0210XS",
+	},
+	{
+		code: "V0211XA",
+	},
+	{
+		code: "V0211XD",
+	},
+	{
+		code: "V0211XS",
+	},
+	{
+		code: "V0212XA",
+	},
+	{
+		code: "V0212XD",
+	},
+	{
+		code: "V0212XS",
+	},
+	{
+		code: "V0219XA",
+	},
+	{
+		code: "V0219XD",
+	},
+	{
+		code: "V0219XS",
+	},
+	{
+		code: "V0290XA",
+	},
+	{
+		code: "V0290XD",
+	},
+	{
+		code: "V0290XS",
+	},
+	{
+		code: "V0291XA",
+	},
+	{
+		code: "V0291XD",
+	},
+	{
+		code: "V0291XS",
+	},
+	{
+		code: "V0292XA",
+	},
+	{
+		code: "V0292XD",
+	},
+	{
+		code: "V0292XS",
+	},
+	{
+		code: "V0299XA",
+	},
+	{
+		code: "V0299XD",
+	},
+	{
+		code: "V0299XS",
+	},
+	{
+		code: "V0300XA",
+	},
+	{
+		code: "V0300XD",
+	},
+	{
+		code: "V0300XS",
+	},
+	{
+		code: "V0301XA",
+	},
+	{
+		code: "V0301XD",
+	},
+	{
+		code: "V0301XS",
+	},
+	{
+		code: "V0302XA",
+	},
+	{
+		code: "V0302XD",
+	},
+	{
+		code: "V0302XS",
+	},
+	{
+		code: "V0309XA",
+	},
+	{
+		code: "V0309XD",
+	},
+	{
+		code: "V0309XS",
+	},
+	{
+		code: "V0310XA",
+	},
+	{
+		code: "V0310XD",
+	},
+	{
+		code: "V0310XS",
+	},
+	{
+		code: "V0311XA",
+	},
+	{
+		code: "V0311XD",
+	},
+	{
+		code: "V0311XS",
+	},
+	{
+		code: "V0312XA",
+	},
+	{
+		code: "V0312XD",
+	},
+	{
+		code: "V0312XS",
+	},
+	{
+		code: "V0319XA",
+	},
+	{
+		code: "V0319XD",
+	},
+	{
+		code: "V0319XS",
+	},
+	{
+		code: "V0390XA",
+	},
+	{
+		code: "V0390XD",
+	},
+	{
+		code: "V0390XS",
+	},
+	{
+		code: "V0391XA",
+	},
+	{
+		code: "V0391XD",
+	},
+	{
+		code: "V0391XS",
+	},
+	{
+		code: "V0392XA",
+	},
+	{
+		code: "V0392XD",
+	},
+	{
+		code: "V0392XS",
+	},
+	{
+		code: "V0399XA",
+	},
+	{
+		code: "V0399XD",
+	},
+	{
+		code: "V0399XS",
+	},
+	{
+		code: "V0400XA",
+	},
+	{
+		code: "V0400XD",
+	},
+	{
+		code: "V0400XS",
+	},
+	{
+		code: "V0401XA",
+	},
+	{
+		code: "V0401XD",
+	},
+	{
+		code: "V0401XS",
+	},
+	{
+		code: "V0402XA",
+	},
+	{
+		code: "V0402XD",
+	},
+	{
+		code: "V0402XS",
+	},
+	{
+		code: "V0409XA",
+	},
+	{
+		code: "V0409XD",
+	},
+	{
+		code: "V0409XS",
+	},
+	{
+		code: "V0410XA",
+	},
+	{
+		code: "V0410XD",
+	},
+	{
+		code: "V0410XS",
+	},
+	{
+		code: "V0411XA",
+	},
+	{
+		code: "V0411XD",
+	},
+	{
+		code: "V0411XS",
+	},
+	{
+		code: "V0412XA",
+	},
+	{
+		code: "V0412XD",
+	},
+	{
+		code: "V0412XS",
+	},
+	{
+		code: "V0419XA",
+	},
+	{
+		code: "V0419XD",
+	},
+	{
+		code: "V0419XS",
+	},
+	{
+		code: "V0490XA",
+	},
+	{
+		code: "V0490XD",
+	},
+	{
+		code: "V0490XS",
+	},
+	{
+		code: "V0491XA",
+	},
+	{
+		code: "V0491XD",
+	},
+	{
+		code: "V0491XS",
+	},
+	{
+		code: "V0492XA",
+	},
+	{
+		code: "V0492XD",
+	},
+	{
+		code: "V0492XS",
+	},
+	{
+		code: "V0499XA",
+	},
+	{
+		code: "V0499XD",
+	},
+	{
+		code: "V0499XS",
+	},
+	{
+		code: "V0500XA",
+	},
+	{
+		code: "V0500XD",
+	},
+	{
+		code: "V0500XS",
+	},
+	{
+		code: "V0501XA",
+	},
+	{
+		code: "V0501XD",
+	},
+	{
+		code: "V0501XS",
+	},
+	{
+		code: "V0502XA",
+	},
+	{
+		code: "V0502XD",
+	},
+	{
+		code: "V0502XS",
+	},
+	{
+		code: "V0509XA",
+	},
+	{
+		code: "V0509XD",
+	},
+	{
+		code: "V0509XS",
+	},
+	{
+		code: "V0510XA",
+	},
+	{
+		code: "V0510XD",
+	},
+	{
+		code: "V0510XS",
+	},
+	{
+		code: "V0511XA",
+	},
+	{
+		code: "V0511XD",
+	},
+	{
+		code: "V0511XS",
+	},
+	{
+		code: "V0512XA",
+	},
+	{
+		code: "V0512XD",
+	},
+	{
+		code: "V0512XS",
+	},
+	{
+		code: "V0519XA",
+	},
+	{
+		code: "V0519XD",
+	},
+	{
+		code: "V0519XS",
+	},
+	{
+		code: "V0590XA",
+	},
+	{
+		code: "V0590XD",
+	},
+	{
+		code: "V0590XS",
+	},
+	{
+		code: "V0591XA",
+	},
+	{
+		code: "V0591XD",
+	},
+	{
+		code: "V0591XS",
+	},
+	{
+		code: "V0592XA",
+	},
+	{
+		code: "V0592XD",
+	},
+	{
+		code: "V0592XS",
+	},
+	{
+		code: "V0599XA",
+	},
+	{
+		code: "V0599XD",
+	},
+	{
+		code: "V0599XS",
+	},
+	{
+		code: "V0600XA",
+	},
+	{
+		code: "V0600XD",
+	},
+	{
+		code: "V0600XS",
+	},
+	{
+		code: "V0601XA",
+	},
+	{
+		code: "V0601XD",
+	},
+	{
+		code: "V0601XS",
+	},
+	{
+		code: "V0602XA",
+	},
+	{
+		code: "V0602XD",
+	},
+	{
+		code: "V0602XS",
+	},
+	{
+		code: "V0609XA",
+	},
+	{
+		code: "V0609XD",
+	},
+	{
+		code: "V0609XS",
+	},
+	{
+		code: "V0610XA",
+	},
+	{
+		code: "V0610XD",
+	},
+	{
+		code: "V0610XS",
+	},
+	{
+		code: "V0611XA",
+	},
+	{
+		code: "V0611XD",
+	},
+	{
+		code: "V0611XS",
+	},
+	{
+		code: "V0612XA",
+	},
+	{
+		code: "V0612XD",
+	},
+	{
+		code: "V0612XS",
+	},
+	{
+		code: "V0619XA",
+	},
+	{
+		code: "V0619XD",
+	},
+	{
+		code: "V0619XS",
+	},
+	{
+		code: "V0690XA",
+	},
+	{
+		code: "V0690XD",
+	},
+	{
+		code: "V0690XS",
+	},
+	{
+		code: "V0691XA",
+	},
+	{
+		code: "V0691XD",
+	},
+	{
+		code: "V0691XS",
+	},
+	{
+		code: "V0692XA",
+	},
+	{
+		code: "V0692XD",
+	},
+	{
+		code: "V0692XS",
+	},
+	{
+		code: "V0699XA",
+	},
+	{
+		code: "V0699XD",
+	},
+	{
+		code: "V0699XS",
+	},
+	{
+		code: "V0900XA",
+	},
+	{
+		code: "V0900XD",
+	},
+	{
+		code: "V0900XS",
+	},
+	{
+		code: "V0901XA",
+	},
+	{
+		code: "V0901XD",
+	},
+	{
+		code: "V0901XS",
+	},
+	{
+		code: "V0909XA",
+	},
+	{
+		code: "V0909XD",
+	},
+	{
+		code: "V0909XS",
+	},
+	{
+		code: "V091XXA",
+	},
+	{
+		code: "V091XXD",
+	},
+	{
+		code: "V091XXS",
+	},
+	{
+		code: "V0920XA",
+	},
+	{
+		code: "V0920XD",
+	},
+	{
+		code: "V0920XS",
+	},
+	{
+		code: "V0921XA",
+	},
+	{
+		code: "V0921XD",
+	},
+	{
+		code: "V0921XS",
+	},
+	{
+		code: "V0929XA",
+	},
+	{
+		code: "V0929XD",
+	},
+	{
+		code: "V0929XS",
+	},
+	{
+		code: "V093XXA",
+	},
+	{
+		code: "V093XXD",
+	},
+	{
+		code: "V093XXS",
+	},
+	{
+		code: "V099XXA",
+	},
+	{
+		code: "V099XXD",
+	},
+	{
+		code: "V099XXS",
+	},
+	{
+		code: "V8605XA",
+	},
+	{
+		code: "V8605XD",
+	},
+	{
+		code: "V8605XS",
+	},
+	{
+		code: "V8606XA",
+	},
+	{
+		code: "V8606XD",
+	},
+	{
+		code: "V8606XS",
+	},
+	{
+		code: "V8615XA",
+	},
+	{
+		code: "V8615XD",
+	},
+	{
+		code: "V8615XS",
+	},
+	{
+		code: "V8616XA",
+	},
+	{
+		code: "V8616XD",
+	},
+	{
+		code: "V8616XS",
+	},
+	{
+		code: "V8625XA",
+	},
+	{
+		code: "V8625XD",
+	},
+	{
+		code: "V8625XS",
+	},
+	{
+		code: "V8626XA",
+	},
+	{
+		code: "V8626XD",
+	},
+	{
+		code: "V8626XS",
+	},
+	{
+		code: "V8635XA",
+	},
+	{
+		code: "V8635XD",
+	},
+	{
+		code: "V8635XS",
+	},
+	{
+		code: "V8636XA",
+	},
+	{
+		code: "V8636XD",
+	},
+	{
+		code: "V8636XS",
+	},
+	{
+		code: "V8645XA",
+	},
+	{
+		code: "V8645XD",
+	},
+	{
+		code: "V8645XS",
+	},
+	{
+		code: "V8646XA",
+	},
+	{
+		code: "V8646XD",
+	},
+	{
+		code: "V8646XS",
+	},
+	{
+		code: "V8655XA",
+	},
+	{
+		code: "V8655XD",
+	},
+	{
+		code: "V8655XS",
+	},
+	{
+		code: "V8656XA",
+	},
+	{
+		code: "V8656XD",
+	},
+	{
+		code: "V8656XS",
+	},
+	{
+		code: "V8665XA",
+	},
+	{
+		code: "V8665XD",
+	},
+	{
+		code: "V8665XS",
+	},
+	{
+		code: "V8666XA",
+	},
+	{
+		code: "V8666XD",
+	},
+	{
+		code: "V8666XS",
+	},
+	{
+		code: "V8675XA",
+	},
+	{
+		code: "V8675XD",
+	},
+	{
+		code: "V8675XS",
+	},
+	{
+		code: "V8676XA",
+	},
+	{
+		code: "V8676XD",
+	},
+	{
+		code: "V8676XS",
+	},
+	{
+		code: "V8695XA",
+	},
+	{
+		code: "V8695XD",
+	},
+	{
+		code: "V8695XS",
+	},
+	{
+		code: "V8696XA",
+	},
+	{
+		code: "V8696XD",
+	},
+	{
+		code: "V8696XS",
+	},
+	{
+		code: "V100XXA",
+	},
+	{
+		code: "V100XXD",
+	},
+	{
+		code: "V100XXS",
+	},
+	{
+		code: "V101XXA",
+	},
+	{
+		code: "V101XXD",
+	},
+	{
+		code: "V101XXS",
+	},
+	{
+		code: "V102XXA",
+	},
+	{
+		code: "V102XXD",
+	},
+	{
+		code: "V102XXS",
+	},
+	{
+		code: "V103XXA",
+	},
+	{
+		code: "V103XXD",
+	},
+	{
+		code: "V103XXS",
+	},
+	{
+		code: "V104XXA",
+	},
+	{
+		code: "V104XXD",
+	},
+	{
+		code: "V104XXS",
+	},
+	{
+		code: "V105XXA",
+	},
+	{
+		code: "V105XXD",
+	},
+	{
+		code: "V105XXS",
+	},
+	{
+		code: "V109XXA",
+	},
+	{
+		code: "V109XXD",
+	},
+	{
+		code: "V109XXS",
+	},
+	{
+		code: "V110XXA",
+	},
+	{
+		code: "V110XXD",
+	},
+	{
+		code: "V110XXS",
+	},
+	{
+		code: "V111XXA",
+	},
+	{
+		code: "V111XXD",
+	},
+	{
+		code: "V111XXS",
+	},
+	{
+		code: "V112XXA",
+	},
+	{
+		code: "V112XXD",
+	},
+	{
+		code: "V112XXS",
+	},
+	{
+		code: "V113XXA",
+	},
+	{
+		code: "V113XXD",
+	},
+	{
+		code: "V113XXS",
+	},
+	{
+		code: "V114XXA",
+	},
+	{
+		code: "V114XXD",
+	},
+	{
+		code: "V114XXS",
+	},
+	{
+		code: "V115XXA",
+	},
+	{
+		code: "V115XXD",
+	},
+	{
+		code: "V115XXS",
+	},
+	{
+		code: "V119XXA",
+	},
+	{
+		code: "V119XXD",
+	},
+	{
+		code: "V119XXS",
+	},
+	{
+		code: "V120XXA",
+	},
+	{
+		code: "V120XXD",
+	},
+	{
+		code: "V120XXS",
+	},
+	{
+		code: "V121XXA",
+	},
+	{
+		code: "V121XXD",
+	},
+	{
+		code: "V121XXS",
+	},
+	{
+		code: "V122XXA",
+	},
+	{
+		code: "V122XXD",
+	},
+	{
+		code: "V122XXS",
+	},
+	{
+		code: "V123XXA",
+	},
+	{
+		code: "V123XXD",
+	},
+	{
+		code: "V123XXS",
+	},
+	{
+		code: "V124XXA",
+	},
+	{
+		code: "V124XXD",
+	},
+	{
+		code: "V124XXS",
+	},
+	{
+		code: "V125XXA",
+	},
+	{
+		code: "V125XXD",
+	},
+	{
+		code: "V125XXS",
+	},
+	{
+		code: "V129XXA",
+	},
+	{
+		code: "V129XXD",
+	},
+	{
+		code: "V129XXS",
+	},
+	{
+		code: "V130XXA",
+	},
+	{
+		code: "V130XXD",
+	},
+	{
+		code: "V130XXS",
+	},
+	{
+		code: "V131XXA",
+	},
+	{
+		code: "V131XXD",
+	},
+	{
+		code: "V131XXS",
+	},
+	{
+		code: "V132XXA",
+	},
+	{
+		code: "V132XXD",
+	},
+	{
+		code: "V132XXS",
+	},
+	{
+		code: "V133XXA",
+	},
+	{
+		code: "V133XXD",
+	},
+	{
+		code: "V133XXS",
+	},
+	{
+		code: "V134XXA",
+	},
+	{
+		code: "V134XXD",
+	},
+	{
+		code: "V134XXS",
+	},
+	{
+		code: "V135XXA",
+	},
+	{
+		code: "V135XXD",
+	},
+	{
+		code: "V135XXS",
+	},
+	{
+		code: "V139XXA",
+	},
+	{
+		code: "V139XXD",
+	},
+	{
+		code: "V139XXS",
+	},
+	{
+		code: "V140XXA",
+	},
+	{
+		code: "V140XXD",
+	},
+	{
+		code: "V140XXS",
+	},
+	{
+		code: "V141XXA",
+	},
+	{
+		code: "V141XXD",
+	},
+	{
+		code: "V141XXS",
+	},
+	{
+		code: "V142XXA",
+	},
+	{
+		code: "V142XXD",
+	},
+	{
+		code: "V142XXS",
+	},
+	{
+		code: "V143XXA",
+	},
+	{
+		code: "V143XXD",
+	},
+	{
+		code: "V143XXS",
+	},
+	{
+		code: "V144XXA",
+	},
+	{
+		code: "V144XXD",
+	},
+	{
+		code: "V144XXS",
+	},
+	{
+		code: "V145XXA",
+	},
+	{
+		code: "V145XXD",
+	},
+	{
+		code: "V145XXS",
+	},
+	{
+		code: "V149XXA",
+	},
+	{
+		code: "V149XXD",
+	},
+	{
+		code: "V149XXS",
+	},
+	{
+		code: "V150XXA",
+	},
+	{
+		code: "V150XXD",
+	},
+	{
+		code: "V150XXS",
+	},
+	{
+		code: "V151XXA",
+	},
+	{
+		code: "V151XXD",
+	},
+	{
+		code: "V151XXS",
+	},
+	{
+		code: "V152XXA",
+	},
+	{
+		code: "V152XXD",
+	},
+	{
+		code: "V152XXS",
+	},
+	{
+		code: "V153XXA",
+	},
+	{
+		code: "V153XXD",
+	},
+	{
+		code: "V153XXS",
+	},
+	{
+		code: "V154XXA",
+	},
+	{
+		code: "V154XXD",
+	},
+	{
+		code: "V154XXS",
+	},
+	{
+		code: "V155XXA",
+	},
+	{
+		code: "V155XXD",
+	},
+	{
+		code: "V155XXS",
+	},
+	{
+		code: "V159XXA",
+	},
+	{
+		code: "V159XXD",
+	},
+	{
+		code: "V159XXS",
+	},
+	{
+		code: "V160XXA",
+	},
+	{
+		code: "V160XXD",
+	},
+	{
+		code: "V160XXS",
+	},
+	{
+		code: "V161XXA",
+	},
+	{
+		code: "V161XXD",
+	},
+	{
+		code: "V161XXS",
+	},
+	{
+		code: "V162XXA",
+	},
+	{
+		code: "V162XXD",
+	},
+	{
+		code: "V162XXS",
+	},
+	{
+		code: "V163XXA",
+	},
+	{
+		code: "V163XXD",
+	},
+	{
+		code: "V163XXS",
+	},
+	{
+		code: "V164XXA",
+	},
+	{
+		code: "V164XXD",
+	},
+	{
+		code: "V164XXS",
+	},
+	{
+		code: "V165XXA",
+	},
+	{
+		code: "V165XXD",
+	},
+	{
+		code: "V165XXS",
+	},
+	{
+		code: "V169XXA",
+	},
+	{
+		code: "V169XXD",
+	},
+	{
+		code: "V169XXS",
+	},
+	{
+		code: "V170XXA",
+	},
+	{
+		code: "V170XXD",
+	},
+	{
+		code: "V170XXS",
+	},
+	{
+		code: "V171XXA",
+	},
+	{
+		code: "V171XXD",
+	},
+	{
+		code: "V171XXS",
+	},
+	{
+		code: "V172XXA",
+	},
+	{
+		code: "V172XXD",
+	},
+	{
+		code: "V172XXS",
+	},
+	{
+		code: "V173XXA",
+	},
+	{
+		code: "V173XXD",
+	},
+	{
+		code: "V173XXS",
+	},
+	{
+		code: "V174XXA",
+	},
+	{
+		code: "V174XXD",
+	},
+	{
+		code: "V174XXS",
+	},
+	{
+		code: "V175XXA",
+	},
+	{
+		code: "V175XXD",
+	},
+	{
+		code: "V175XXS",
+	},
+	{
+		code: "V179XXA",
+	},
+	{
+		code: "V179XXD",
+	},
+	{
+		code: "V179XXS",
+	},
+	{
+		code: "V180XXA",
+	},
+	{
+		code: "V180XXD",
+	},
+	{
+		code: "V180XXS",
+	},
+	{
+		code: "V181XXA",
+	},
+	{
+		code: "V181XXD",
+	},
+	{
+		code: "V181XXS",
+	},
+	{
+		code: "V182XXA",
+	},
+	{
+		code: "V182XXD",
+	},
+	{
+		code: "V182XXS",
+	},
+	{
+		code: "V183XXA",
+	},
+	{
+		code: "V183XXD",
+	},
+	{
+		code: "V183XXS",
+	},
+	{
+		code: "V184XXA",
+	},
+	{
+		code: "V184XXD",
+	},
+	{
+		code: "V184XXS",
+	},
+	{
+		code: "V185XXA",
+	},
+	{
+		code: "V185XXD",
+	},
+	{
+		code: "V185XXS",
+	},
+	{
+		code: "V189XXA",
+	},
+	{
+		code: "V189XXD",
+	},
+	{
+		code: "V189XXS",
+	},
+	{
+		code: "V1900XA",
+	},
+	{
+		code: "V1900XD",
+	},
+	{
+		code: "V1900XS",
+	},
+	{
+		code: "V1909XA",
+	},
+	{
+		code: "V1909XD",
+	},
+	{
+		code: "V1909XS",
+	},
+	{
+		code: "V1910XA",
+	},
+	{
+		code: "V1910XD",
+	},
+	{
+		code: "V1910XS",
+	},
+	{
+		code: "V1919XA",
+	},
+	{
+		code: "V1919XD",
+	},
+	{
+		code: "V1919XS",
+	},
+	{
+		code: "V1920XA",
+	},
+	{
+		code: "V1920XD",
+	},
+	{
+		code: "V1920XS",
+	},
+	{
+		code: "V1929XA",
+	},
+	{
+		code: "V1929XD",
+	},
+	{
+		code: "V1929XS",
+	},
+	{
+		code: "V193XXA",
+	},
+	{
+		code: "V193XXD",
+	},
+	{
+		code: "V193XXS",
+	},
+	{
+		code: "V1940XA",
+	},
+	{
+		code: "V1940XD",
+	},
+	{
+		code: "V1940XS",
+	},
+	{
+		code: "V1949XA",
+	},
+	{
+		code: "V1949XD",
+	},
+	{
+		code: "V1949XS",
+	},
+	{
+		code: "V1950XA",
+	},
+	{
+		code: "V1950XD",
+	},
+	{
+		code: "V1950XS",
+	},
+	{
+		code: "V1959XA",
+	},
+	{
+		code: "V1959XD",
+	},
+	{
+		code: "V1959XS",
+	},
+	{
+		code: "V1960XA",
+	},
+	{
+		code: "V1960XD",
+	},
+	{
+		code: "V1960XS",
+	},
+	{
+		code: "V1969XA",
+	},
+	{
+		code: "V1969XD",
+	},
+	{
+		code: "V1969XS",
+	},
+	{
+		code: "V1981XA",
+	},
+	{
+		code: "V1981XD",
+	},
+	{
+		code: "V1981XS",
+	},
+	{
+		code: "V1988XA",
+	},
+	{
+		code: "V1988XD",
+	},
+	{
+		code: "V1988XS",
+	},
+	{
+		code: "V199XXA",
+	},
+	{
+		code: "V199XXD",
+	},
+	{
+		code: "V199XXS",
+	},
+	{
+		code: "V200XXA",
+	},
+	{
+		code: "V200XXD",
+	},
+	{
+		code: "V200XXS",
+	},
+	{
+		code: "V201XXA",
+	},
+	{
+		code: "V201XXD",
+	},
+	{
+		code: "V201XXS",
+	},
+	{
+		code: "V202XXA",
+	},
+	{
+		code: "V202XXD",
+	},
+	{
+		code: "V202XXS",
+	},
+	{
+		code: "V203XXA",
+	},
+	{
+		code: "V203XXD",
+	},
+	{
+		code: "V203XXS",
+	},
+	{
+		code: "V204XXA",
+	},
+	{
+		code: "V204XXD",
+	},
+	{
+		code: "V204XXS",
+	},
+	{
+		code: "V205XXA",
+	},
+	{
+		code: "V205XXD",
+	},
+	{
+		code: "V205XXS",
+	},
+	{
+		code: "V209XXA",
+	},
+	{
+		code: "V209XXD",
+	},
+	{
+		code: "V209XXS",
+	},
+	{
+		code: "V210XXA",
+	},
+	{
+		code: "V210XXD",
+	},
+	{
+		code: "V210XXS",
+	},
+	{
+		code: "V211XXA",
+	},
+	{
+		code: "V211XXD",
+	},
+	{
+		code: "V211XXS",
+	},
+	{
+		code: "V212XXA",
+	},
+	{
+		code: "V212XXD",
+	},
+	{
+		code: "V212XXS",
+	},
+	{
+		code: "V213XXA",
+	},
+	{
+		code: "V213XXD",
+	},
+	{
+		code: "V213XXS",
+	},
+	{
+		code: "V214XXA",
+	},
+	{
+		code: "V214XXD",
+	},
+	{
+		code: "V214XXS",
+	},
+	{
+		code: "V215XXA",
+	},
+	{
+		code: "V215XXD",
+	},
+	{
+		code: "V215XXS",
+	},
+	{
+		code: "V219XXA",
+	},
+	{
+		code: "V219XXD",
+	},
+	{
+		code: "V219XXS",
+	},
+	{
+		code: "V220XXA",
+	},
+	{
+		code: "V220XXD",
+	},
+	{
+		code: "V220XXS",
+	},
+	{
+		code: "V221XXA",
+	},
+	{
+		code: "V221XXD",
+	},
+	{
+		code: "V221XXS",
+	},
+	{
+		code: "V222XXA",
+	},
+	{
+		code: "V222XXD",
+	},
+	{
+		code: "V222XXS",
+	},
+	{
+		code: "V223XXA",
+	},
+	{
+		code: "V223XXD",
+	},
+	{
+		code: "V223XXS",
+	},
+	{
+		code: "V224XXA",
+	},
+	{
+		code: "V224XXD",
+	},
+	{
+		code: "V224XXS",
+	},
+	{
+		code: "V225XXA",
+	},
+	{
+		code: "V225XXD",
+	},
+	{
+		code: "V225XXS",
+	},
+	{
+		code: "V229XXA",
+	},
+	{
+		code: "V229XXD",
+	},
+	{
+		code: "V229XXS",
+	},
+	{
+		code: "V230XXA",
+	},
+	{
+		code: "V230XXD",
+	},
+	{
+		code: "V230XXS",
+	},
+	{
+		code: "V231XXA",
+	},
+	{
+		code: "V231XXD",
+	},
+	{
+		code: "V231XXS",
+	},
+	{
+		code: "V232XXA",
+	},
+	{
+		code: "V232XXD",
+	},
+	{
+		code: "V232XXS",
+	},
+	{
+		code: "V233XXA",
+	},
+	{
+		code: "V233XXD",
+	},
+	{
+		code: "V233XXS",
+	},
+	{
+		code: "V234XXA",
+	},
+	{
+		code: "V234XXD",
+	},
+	{
+		code: "V234XXS",
+	},
+	{
+		code: "V235XXA",
+	},
+	{
+		code: "V235XXD",
+	},
+	{
+		code: "V235XXS",
+	},
+	{
+		code: "V239XXA",
+	},
+	{
+		code: "V239XXD",
+	},
+	{
+		code: "V239XXS",
+	},
+	{
+		code: "V240XXA",
+	},
+	{
+		code: "V240XXD",
+	},
+	{
+		code: "V240XXS",
+	},
+	{
+		code: "V241XXA",
+	},
+	{
+		code: "V241XXD",
+	},
+	{
+		code: "V241XXS",
+	},
+	{
+		code: "V242XXA",
+	},
+	{
+		code: "V242XXD",
+	},
+	{
+		code: "V242XXS",
+	},
+	{
+		code: "V243XXA",
+	},
+	{
+		code: "V243XXD",
+	},
+	{
+		code: "V243XXS",
+	},
+	{
+		code: "V244XXA",
+	},
+	{
+		code: "V244XXD",
+	},
+	{
+		code: "V244XXS",
+	},
+	{
+		code: "V245XXA",
+	},
+	{
+		code: "V245XXD",
+	},
+	{
+		code: "V245XXS",
+	},
+	{
+		code: "V249XXA",
+	},
+	{
+		code: "V249XXD",
+	},
+	{
+		code: "V249XXS",
+	},
+	{
+		code: "V250XXA",
+	},
+	{
+		code: "V250XXD",
+	},
+	{
+		code: "V250XXS",
+	},
+	{
+		code: "V251XXA",
+	},
+	{
+		code: "V251XXD",
+	},
+	{
+		code: "V251XXS",
+	},
+	{
+		code: "V252XXA",
+	},
+	{
+		code: "V252XXD",
+	},
+	{
+		code: "V252XXS",
+	},
+	{
+		code: "V253XXA",
+	},
+	{
+		code: "V253XXD",
+	},
+	{
+		code: "V253XXS",
+	},
+	{
+		code: "V254XXA",
+	},
+	{
+		code: "V254XXD",
+	},
+	{
+		code: "V254XXS",
+	},
+	{
+		code: "V255XXA",
+	},
+	{
+		code: "V255XXD",
+	},
+	{
+		code: "V255XXS",
+	},
+	{
+		code: "V259XXA",
+	},
+	{
+		code: "V259XXD",
+	},
+	{
+		code: "V259XXS",
+	},
+	{
+		code: "V260XXA",
+	},
+	{
+		code: "V260XXD",
+	},
+	{
+		code: "V260XXS",
+	},
+	{
+		code: "V261XXA",
+	},
+	{
+		code: "V261XXD",
+	},
+	{
+		code: "V261XXS",
+	},
+	{
+		code: "V262XXA",
+	},
+	{
+		code: "V262XXD",
+	},
+	{
+		code: "V262XXS",
+	},
+	{
+		code: "V263XXA",
+	},
+	{
+		code: "V263XXD",
+	},
+	{
+		code: "V263XXS",
+	},
+	{
+		code: "V264XXA",
+	},
+	{
+		code: "V264XXD",
+	},
+	{
+		code: "V264XXS",
+	},
+	{
+		code: "V265XXA",
+	},
+	{
+		code: "V265XXD",
+	},
+	{
+		code: "V265XXS",
+	},
+	{
+		code: "V269XXA",
+	},
+	{
+		code: "V269XXD",
+	},
+	{
+		code: "V269XXS",
+	},
+	{
+		code: "V270XXA",
+	},
+	{
+		code: "V270XXD",
+	},
+	{
+		code: "V270XXS",
+	},
+	{
+		code: "V271XXA",
+	},
+	{
+		code: "V271XXD",
+	},
+	{
+		code: "V271XXS",
+	},
+	{
+		code: "V272XXA",
+	},
+	{
+		code: "V272XXD",
+	},
+	{
+		code: "V272XXS",
+	},
+	{
+		code: "V273XXA",
+	},
+	{
+		code: "V273XXD",
+	},
+	{
+		code: "V273XXS",
+	},
+	{
+		code: "V274XXA",
+	},
+	{
+		code: "V274XXD",
+	},
+	{
+		code: "V274XXS",
+	},
+	{
+		code: "V275XXA",
+	},
+	{
+		code: "V275XXD",
+	},
+	{
+		code: "V275XXS",
+	},
+	{
+		code: "V279XXA",
+	},
+	{
+		code: "V279XXD",
+	},
+	{
+		code: "V279XXS",
+	},
+	{
+		code: "V280XXA",
+	},
+	{
+		code: "V280XXD",
+	},
+	{
+		code: "V280XXS",
+	},
+	{
+		code: "V281XXA",
+	},
+	{
+		code: "V281XXD",
+	},
+	{
+		code: "V281XXS",
+	},
+	{
+		code: "V282XXA",
+	},
+	{
+		code: "V282XXD",
+	},
+	{
+		code: "V282XXS",
+	},
+	{
+		code: "V283XXA",
+	},
+	{
+		code: "V283XXD",
+	},
+	{
+		code: "V283XXS",
+	},
+	{
+		code: "V284XXA",
+	},
+	{
+		code: "V284XXD",
+	},
+	{
+		code: "V284XXS",
+	},
+	{
+		code: "V285XXA",
+	},
+	{
+		code: "V285XXD",
+	},
+	{
+		code: "V285XXS",
+	},
+	{
+		code: "V289XXA",
+	},
+	{
+		code: "V289XXD",
+	},
+	{
+		code: "V289XXS",
+	},
+	{
+		code: "V2900XA",
+	},
+	{
+		code: "V2900XD",
+	},
+	{
+		code: "V2900XS",
+	},
+	{
+		code: "V2909XA",
+	},
+	{
+		code: "V2909XD",
+	},
+	{
+		code: "V2909XS",
+	},
+	{
+		code: "V2910XA",
+	},
+	{
+		code: "V2910XD",
+	},
+	{
+		code: "V2910XS",
+	},
+	{
+		code: "V2919XA",
+	},
+	{
+		code: "V2919XD",
+	},
+	{
+		code: "V2919XS",
+	},
+	{
+		code: "V2920XA",
+	},
+	{
+		code: "V2920XD",
+	},
+	{
+		code: "V2920XS",
+	},
+	{
+		code: "V2929XA",
+	},
+	{
+		code: "V2929XD",
+	},
+	{
+		code: "V2929XS",
+	},
+	{
+		code: "V293XXA",
+	},
+	{
+		code: "V293XXD",
+	},
+	{
+		code: "V293XXS",
+	},
+	{
+		code: "V2940XA",
+	},
+	{
+		code: "V2940XD",
+	},
+	{
+		code: "V2940XS",
+	},
+	{
+		code: "V2949XA",
+	},
+	{
+		code: "V2949XD",
+	},
+	{
+		code: "V2949XS",
+	},
+	{
+		code: "V2950XA",
+	},
+	{
+		code: "V2950XD",
+	},
+	{
+		code: "V2950XS",
+	},
+	{
+		code: "V2959XA",
+	},
+	{
+		code: "V2959XD",
+	},
+	{
+		code: "V2959XS",
+	},
+	{
+		code: "V2960XA",
+	},
+	{
+		code: "V2960XD",
+	},
+	{
+		code: "V2960XS",
+	},
+	{
+		code: "V2969XA",
+	},
+	{
+		code: "V2969XD",
+	},
+	{
+		code: "V2969XS",
+	},
+	{
+		code: "V2981XA",
+	},
+	{
+		code: "V2981XD",
+	},
+	{
+		code: "V2981XS",
+	},
+	{
+		code: "V2988XA",
+	},
+	{
+		code: "V2988XD",
+	},
+	{
+		code: "V2988XS",
+	},
+	{
+		code: "V299XXA",
+	},
+	{
+		code: "V299XXD",
+	},
+	{
+		code: "V299XXS",
+	},
+	{
+		code: "V300XXA",
+	},
+	{
+		code: "V300XXD",
+	},
+	{
+		code: "V300XXS",
+	},
+	{
+		code: "V301XXA",
+	},
+	{
+		code: "V301XXD",
+	},
+	{
+		code: "V301XXS",
+	},
+	{
+		code: "V302XXA",
+	},
+	{
+		code: "V302XXD",
+	},
+	{
+		code: "V302XXS",
+	},
+	{
+		code: "V303XXA",
+	},
+	{
+		code: "V303XXD",
+	},
+	{
+		code: "V303XXS",
+	},
+	{
+		code: "V304XXA",
+	},
+	{
+		code: "V304XXD",
+	},
+	{
+		code: "V304XXS",
+	},
+	{
+		code: "V305XXA",
+	},
+	{
+		code: "V305XXD",
+	},
+	{
+		code: "V305XXS",
+	},
+	{
+		code: "V306XXA",
+	},
+	{
+		code: "V306XXD",
+	},
+	{
+		code: "V306XXS",
+	},
+	{
+		code: "V307XXA",
+	},
+	{
+		code: "V307XXD",
+	},
+	{
+		code: "V307XXS",
+	},
+	{
+		code: "V309XXA",
+	},
+	{
+		code: "V309XXD",
+	},
+	{
+		code: "V309XXS",
+	},
+	{
+		code: "V310XXA",
+	},
+	{
+		code: "V310XXD",
+	},
+	{
+		code: "V310XXS",
+	},
+	{
+		code: "V311XXA",
+	},
+	{
+		code: "V311XXD",
+	},
+	{
+		code: "V311XXS",
+	},
+	{
+		code: "V312XXA",
+	},
+	{
+		code: "V312XXD",
+	},
+	{
+		code: "V312XXS",
+	},
+	{
+		code: "V313XXA",
+	},
+	{
+		code: "V313XXD",
+	},
+	{
+		code: "V313XXS",
+	},
+	{
+		code: "V314XXA",
+	},
+	{
+		code: "V314XXD",
+	},
+	{
+		code: "V314XXS",
+	},
+	{
+		code: "V315XXA",
+	},
+	{
+		code: "V315XXD",
+	},
+	{
+		code: "V315XXS",
+	},
+	{
+		code: "V316XXA",
+	},
+	{
+		code: "V316XXD",
+	},
+	{
+		code: "V316XXS",
+	},
+	{
+		code: "V317XXA",
+	},
+	{
+		code: "V317XXD",
+	},
+	{
+		code: "V317XXS",
+	},
+	{
+		code: "V319XXA",
+	},
+	{
+		code: "V319XXD",
+	},
+	{
+		code: "V319XXS",
+	},
+	{
+		code: "V320XXA",
+	},
+	{
+		code: "V320XXD",
+	},
+	{
+		code: "V320XXS",
+	},
+	{
+		code: "V321XXA",
+	},
+	{
+		code: "V321XXD",
+	},
+	{
+		code: "V321XXS",
+	},
+	{
+		code: "V322XXA",
+	},
+	{
+		code: "V322XXD",
+	},
+	{
+		code: "V322XXS",
+	},
+	{
+		code: "V323XXA",
+	},
+	{
+		code: "V323XXD",
+	},
+	{
+		code: "V323XXS",
+	},
+	{
+		code: "V324XXA",
+	},
+	{
+		code: "V324XXD",
+	},
+	{
+		code: "V324XXS",
+	},
+	{
+		code: "V325XXA",
+	},
+	{
+		code: "V325XXD",
+	},
+	{
+		code: "V325XXS",
+	},
+	{
+		code: "V326XXA",
+	},
+	{
+		code: "V326XXD",
+	},
+	{
+		code: "V326XXS",
+	},
+	{
+		code: "V327XXA",
+	},
+	{
+		code: "V327XXD",
+	},
+	{
+		code: "V327XXS",
+	},
+	{
+		code: "V329XXA",
+	},
+	{
+		code: "V329XXD",
+	},
+	{
+		code: "V329XXS",
+	},
+	{
+		code: "V330XXA",
+	},
+	{
+		code: "V330XXD",
+	},
+	{
+		code: "V330XXS",
+	},
+	{
+		code: "V331XXA",
+	},
+	{
+		code: "V331XXD",
+	},
+	{
+		code: "V331XXS",
+	},
+	{
+		code: "V332XXA",
+	},
+	{
+		code: "V332XXD",
+	},
+	{
+		code: "V332XXS",
+	},
+	{
+		code: "V333XXA",
+	},
+	{
+		code: "V333XXD",
+	},
+	{
+		code: "V333XXS",
+	},
+	{
+		code: "V334XXA",
+	},
+	{
+		code: "V334XXD",
+	},
+	{
+		code: "V334XXS",
+	},
+	{
+		code: "V335XXA",
+	},
+	{
+		code: "V335XXD",
+	},
+	{
+		code: "V335XXS",
+	},
+	{
+		code: "V336XXA",
+	},
+	{
+		code: "V336XXD",
+	},
+	{
+		code: "V336XXS",
+	},
+	{
+		code: "V337XXA",
+	},
+	{
+		code: "V337XXD",
+	},
+	{
+		code: "V337XXS",
+	},
+	{
+		code: "V339XXA",
+	},
+	{
+		code: "V339XXD",
+	},
+	{
+		code: "V339XXS",
+	},
+	{
+		code: "V340XXA",
+	},
+	{
+		code: "V340XXD",
+	},
+	{
+		code: "V340XXS",
+	},
+	{
+		code: "V341XXA",
+	},
+	{
+		code: "V341XXD",
+	},
+	{
+		code: "V341XXS",
+	},
+	{
+		code: "V342XXA",
+	},
+	{
+		code: "V342XXD",
+	},
+	{
+		code: "V342XXS",
+	},
+	{
+		code: "V343XXA",
+	},
+	{
+		code: "V343XXD",
+	},
+	{
+		code: "V343XXS",
+	},
+	{
+		code: "V344XXA",
+	},
+	{
+		code: "V344XXD",
+	},
+	{
+		code: "V344XXS",
+	},
+	{
+		code: "V345XXA",
+	},
+	{
+		code: "V345XXD",
+	},
+	{
+		code: "V345XXS",
+	},
+	{
+		code: "V346XXA",
+	},
+	{
+		code: "V346XXD",
+	},
+	{
+		code: "V346XXS",
+	},
+	{
+		code: "V347XXA",
+	},
+	{
+		code: "V347XXD",
+	},
+	{
+		code: "V347XXS",
+	},
+	{
+		code: "V349XXA",
+	},
+	{
+		code: "V349XXD",
+	},
+	{
+		code: "V349XXS",
+	},
+	{
+		code: "V350XXA",
+	},
+	{
+		code: "V350XXD",
+	},
+	{
+		code: "V350XXS",
+	},
+	{
+		code: "V351XXA",
+	},
+	{
+		code: "V351XXD",
+	},
+	{
+		code: "V351XXS",
+	},
+	{
+		code: "V352XXA",
+	},
+	{
+		code: "V352XXD",
+	},
+	{
+		code: "V352XXS",
+	},
+	{
+		code: "V353XXA",
+	},
+	{
+		code: "V353XXD",
+	},
+	{
+		code: "V353XXS",
+	},
+	{
+		code: "V354XXA",
+	},
+	{
+		code: "V354XXD",
+	},
+	{
+		code: "V354XXS",
+	},
+	{
+		code: "V355XXA",
+	},
+	{
+		code: "V355XXD",
+	},
+	{
+		code: "V355XXS",
+	},
+	{
+		code: "V356XXA",
+	},
+	{
+		code: "V356XXD",
+	},
+	{
+		code: "V356XXS",
+	},
+	{
+		code: "V357XXA",
+	},
+	{
+		code: "V357XXD",
+	},
+	{
+		code: "V357XXS",
+	},
+	{
+		code: "V359XXA",
+	},
+	{
+		code: "V359XXD",
+	},
+	{
+		code: "V359XXS",
+	},
+	{
+		code: "V360XXA",
+	},
+	{
+		code: "V360XXD",
+	},
+	{
+		code: "V360XXS",
+	},
+	{
+		code: "V361XXA",
+	},
+	{
+		code: "V361XXD",
+	},
+	{
+		code: "V361XXS",
+	},
+	{
+		code: "V362XXA",
+	},
+	{
+		code: "V362XXD",
+	},
+	{
+		code: "V362XXS",
+	},
+	{
+		code: "V363XXA",
+	},
+	{
+		code: "V363XXD",
+	},
+	{
+		code: "V363XXS",
+	},
+	{
+		code: "V364XXA",
+	},
+	{
+		code: "V364XXD",
+	},
+	{
+		code: "V364XXS",
+	},
+	{
+		code: "V365XXA",
+	},
+	{
+		code: "V365XXD",
+	},
+	{
+		code: "V365XXS",
+	},
+	{
+		code: "V366XXA",
+	},
+	{
+		code: "V366XXD",
+	},
+	{
+		code: "V366XXS",
+	},
+	{
+		code: "V367XXA",
+	},
+	{
+		code: "V367XXD",
+	},
+	{
+		code: "V367XXS",
+	},
+	{
+		code: "V369XXA",
+	},
+	{
+		code: "V369XXD",
+	},
+	{
+		code: "V369XXS",
+	},
+	{
+		code: "V370XXA",
+	},
+	{
+		code: "V370XXD",
+	},
+	{
+		code: "V370XXS",
+	},
+	{
+		code: "V371XXA",
+	},
+	{
+		code: "V371XXD",
+	},
+	{
+		code: "V371XXS",
+	},
+	{
+		code: "V372XXA",
+	},
+	{
+		code: "V372XXD",
+	},
+	{
+		code: "V372XXS",
+	},
+	{
+		code: "V373XXA",
+	},
+	{
+		code: "V373XXD",
+	},
+	{
+		code: "V373XXS",
+	},
+	{
+		code: "V374XXA",
+	},
+	{
+		code: "V374XXD",
+	},
+	{
+		code: "V374XXS",
+	},
+	{
+		code: "V375XXA",
+	},
+	{
+		code: "V375XXD",
+	},
+	{
+		code: "V375XXS",
+	},
+	{
+		code: "V376XXA",
+	},
+	{
+		code: "V376XXD",
+	},
+	{
+		code: "V376XXS",
+	},
+	{
+		code: "V377XXA",
+	},
+	{
+		code: "V377XXD",
+	},
+	{
+		code: "V377XXS",
+	},
+	{
+		code: "V379XXA",
+	},
+	{
+		code: "V379XXD",
+	},
+	{
+		code: "V379XXS",
+	},
+	{
+		code: "V380XXA",
+	},
+	{
+		code: "V380XXD",
+	},
+	{
+		code: "V380XXS",
+	},
+	{
+		code: "V381XXA",
+	},
+	{
+		code: "V381XXD",
+	},
+	{
+		code: "V381XXS",
+	},
+	{
+		code: "V382XXA",
+	},
+	{
+		code: "V382XXD",
+	},
+	{
+		code: "V382XXS",
+	},
+	{
+		code: "V383XXA",
+	},
+	{
+		code: "V383XXD",
+	},
+	{
+		code: "V383XXS",
+	},
+	{
+		code: "V384XXA",
+	},
+	{
+		code: "V384XXD",
+	},
+	{
+		code: "V384XXS",
+	},
+	{
+		code: "V385XXA",
+	},
+	{
+		code: "V385XXD",
+	},
+	{
+		code: "V385XXS",
+	},
+	{
+		code: "V386XXA",
+	},
+	{
+		code: "V386XXD",
+	},
+	{
+		code: "V386XXS",
+	},
+	{
+		code: "V387XXA",
+	},
+	{
+		code: "V387XXD",
+	},
+	{
+		code: "V387XXS",
+	},
+	{
+		code: "V389XXA",
+	},
+	{
+		code: "V389XXD",
+	},
+	{
+		code: "V389XXS",
+	},
+	{
+		code: "V3900XA",
+	},
+	{
+		code: "V3900XD",
+	},
+	{
+		code: "V3900XS",
+	},
+	{
+		code: "V3909XA",
+	},
+	{
+		code: "V3909XD",
+	},
+	{
+		code: "V3909XS",
+	},
+	{
+		code: "V3910XA",
+	},
+	{
+		code: "V3910XD",
+	},
+	{
+		code: "V3910XS",
+	},
+	{
+		code: "V3919XA",
+	},
+	{
+		code: "V3919XD",
+	},
+	{
+		code: "V3919XS",
+	},
+	{
+		code: "V3920XA",
+	},
+	{
+		code: "V3920XD",
+	},
+	{
+		code: "V3920XS",
+	},
+	{
+		code: "V3929XA",
+	},
+	{
+		code: "V3929XD",
+	},
+	{
+		code: "V3929XS",
+	},
+	{
+		code: "V393XXA",
+	},
+	{
+		code: "V393XXD",
+	},
+	{
+		code: "V393XXS",
+	},
+	{
+		code: "V3940XA",
+	},
+	{
+		code: "V3940XD",
+	},
+	{
+		code: "V3940XS",
+	},
+	{
+		code: "V3949XA",
+	},
+	{
+		code: "V3949XD",
+	},
+	{
+		code: "V3949XS",
+	},
+	{
+		code: "V3950XA",
+	},
+	{
+		code: "V3950XD",
+	},
+	{
+		code: "V3950XS",
+	},
+	{
+		code: "V3959XA",
+	},
+	{
+		code: "V3959XD",
+	},
+	{
+		code: "V3959XS",
+	},
+	{
+		code: "V3960XA",
+	},
+	{
+		code: "V3960XD",
+	},
+	{
+		code: "V3960XS",
+	},
+	{
+		code: "V3969XA",
+	},
+	{
+		code: "V3969XD",
+	},
+	{
+		code: "V3969XS",
+	},
+	{
+		code: "V3981XA",
+	},
+	{
+		code: "V3981XD",
+	},
+	{
+		code: "V3981XS",
+	},
+	{
+		code: "V3989XA",
+	},
+	{
+		code: "V3989XD",
+	},
+	{
+		code: "V3989XS",
+	},
+	{
+		code: "V399XXA",
+	},
+	{
+		code: "V399XXD",
+	},
+	{
+		code: "V399XXS",
+	},
+	{
+		code: "V400XXA",
+	},
+	{
+		code: "V400XXD",
+	},
+	{
+		code: "V400XXS",
+	},
+	{
+		code: "V401XXA",
+	},
+	{
+		code: "V401XXD",
+	},
+	{
+		code: "V401XXS",
+	},
+	{
+		code: "V402XXA",
+	},
+	{
+		code: "V402XXD",
+	},
+	{
+		code: "V402XXS",
+	},
+	{
+		code: "V403XXA",
+	},
+	{
+		code: "V403XXD",
+	},
+	{
+		code: "V403XXS",
+	},
+	{
+		code: "V404XXA",
+	},
+	{
+		code: "V404XXD",
+	},
+	{
+		code: "V404XXS",
+	},
+	{
+		code: "V405XXA",
+	},
+	{
+		code: "V405XXD",
+	},
+	{
+		code: "V405XXS",
+	},
+	{
+		code: "V406XXA",
+	},
+	{
+		code: "V406XXD",
+	},
+	{
+		code: "V406XXS",
+	},
+	{
+		code: "V407XXA",
+	},
+	{
+		code: "V407XXD",
+	},
+	{
+		code: "V407XXS",
+	},
+	{
+		code: "V409XXA",
+	},
+	{
+		code: "V409XXD",
+	},
+	{
+		code: "V409XXS",
+	},
+	{
+		code: "V410XXA",
+	},
+	{
+		code: "V410XXD",
+	},
+	{
+		code: "V410XXS",
+	},
+	{
+		code: "V411XXA",
+	},
+	{
+		code: "V411XXD",
+	},
+	{
+		code: "V411XXS",
+	},
+	{
+		code: "V412XXA",
+	},
+	{
+		code: "V412XXD",
+	},
+	{
+		code: "V412XXS",
+	},
+	{
+		code: "V413XXA",
+	},
+	{
+		code: "V413XXD",
+	},
+	{
+		code: "V413XXS",
+	},
+	{
+		code: "V414XXA",
+	},
+	{
+		code: "V414XXD",
+	},
+	{
+		code: "V414XXS",
+	},
+	{
+		code: "V415XXA",
+	},
+	{
+		code: "V415XXD",
+	},
+	{
+		code: "V415XXS",
+	},
+	{
+		code: "V416XXA",
+	},
+	{
+		code: "V416XXD",
+	},
+	{
+		code: "V416XXS",
+	},
+	{
+		code: "V417XXA",
+	},
+	{
+		code: "V417XXD",
+	},
+	{
+		code: "V417XXS",
+	},
+	{
+		code: "V419XXA",
+	},
+	{
+		code: "V419XXD",
+	},
+	{
+		code: "V419XXS",
+	},
+	{
+		code: "V420XXA",
+	},
+	{
+		code: "V420XXD",
+	},
+	{
+		code: "V420XXS",
+	},
+	{
+		code: "V421XXA",
+	},
+	{
+		code: "V421XXD",
+	},
+	{
+		code: "V421XXS",
+	},
+	{
+		code: "V422XXA",
+	},
+	{
+		code: "V422XXD",
+	},
+	{
+		code: "V422XXS",
+	},
+	{
+		code: "V423XXA",
+	},
+	{
+		code: "V423XXD",
+	},
+	{
+		code: "V423XXS",
+	},
+	{
+		code: "V424XXA",
+	},
+	{
+		code: "V424XXD",
+	},
+	{
+		code: "V424XXS",
+	},
+	{
+		code: "V425XXA",
+	},
+	{
+		code: "V425XXD",
+	},
+	{
+		code: "V425XXS",
+	},
+	{
+		code: "V426XXA",
+	},
+	{
+		code: "V426XXD",
+	},
+	{
+		code: "V426XXS",
+	},
+	{
+		code: "V427XXA",
+	},
+	{
+		code: "V427XXD",
+	},
+	{
+		code: "V427XXS",
+	},
+	{
+		code: "V429XXA",
+	},
+	{
+		code: "V429XXD",
+	},
+	{
+		code: "V429XXS",
+	},
+	{
+		code: "V4301XA",
+	},
+	{
+		code: "V4301XD",
+	},
+	{
+		code: "V4301XS",
+	},
+	{
+		code: "V4302XA",
+	},
+	{
+		code: "V4302XD",
+	},
+	{
+		code: "V4302XS",
+	},
+	{
+		code: "V4303XA",
+	},
+	{
+		code: "V4303XD",
+	},
+	{
+		code: "V4303XS",
+	},
+	{
+		code: "V4304XA",
+	},
+	{
+		code: "V4304XD",
+	},
+	{
+		code: "V4304XS",
+	},
+	{
+		code: "V4311XA",
+	},
+	{
+		code: "V4311XD",
+	},
+	{
+		code: "V4311XS",
+	},
+	{
+		code: "V4312XA",
+	},
+	{
+		code: "V4312XD",
+	},
+	{
+		code: "V4312XS",
+	},
+	{
+		code: "V4313XA",
+	},
+	{
+		code: "V4313XD",
+	},
+	{
+		code: "V4313XS",
+	},
+	{
+		code: "V4314XA",
+	},
+	{
+		code: "V4314XD",
+	},
+	{
+		code: "V4314XS",
+	},
+	{
+		code: "V4321XA",
+	},
+	{
+		code: "V4321XD",
+	},
+	{
+		code: "V4321XS",
+	},
+	{
+		code: "V4322XA",
+	},
+	{
+		code: "V4322XD",
+	},
+	{
+		code: "V4322XS",
+	},
+	{
+		code: "V4323XA",
+	},
+	{
+		code: "V4323XD",
+	},
+	{
+		code: "V4323XS",
+	},
+	{
+		code: "V4324XA",
+	},
+	{
+		code: "V4324XD",
+	},
+	{
+		code: "V4324XS",
+	},
+	{
+		code: "V4331XA",
+	},
+	{
+		code: "V4331XD",
+	},
+	{
+		code: "V4331XS",
+	},
+	{
+		code: "V4332XA",
+	},
+	{
+		code: "V4332XD",
+	},
+	{
+		code: "V4332XS",
+	},
+	{
+		code: "V4333XA",
+	},
+	{
+		code: "V4333XD",
+	},
+	{
+		code: "V4333XS",
+	},
+	{
+		code: "V4334XA",
+	},
+	{
+		code: "V4334XD",
+	},
+	{
+		code: "V4334XS",
+	},
+	{
+		code: "V4341XA",
+	},
+	{
+		code: "V4341XD",
+	},
+	{
+		code: "V4341XS",
+	},
+	{
+		code: "V4342XA",
+	},
+	{
+		code: "V4342XD",
+	},
+	{
+		code: "V4342XS",
+	},
+	{
+		code: "V4343XA",
+	},
+	{
+		code: "V4343XD",
+	},
+	{
+		code: "V4343XS",
+	},
+	{
+		code: "V4344XA",
+	},
+	{
+		code: "V4344XD",
+	},
+	{
+		code: "V4344XS",
+	},
+	{
+		code: "V4351XA",
+	},
+	{
+		code: "V4351XD",
+	},
+	{
+		code: "V4351XS",
+	},
+	{
+		code: "V4352XA",
+	},
+	{
+		code: "V4352XD",
+	},
+	{
+		code: "V4352XS",
+	},
+	{
+		code: "V4353XA",
+	},
+	{
+		code: "V4353XD",
+	},
+	{
+		code: "V4353XS",
+	},
+	{
+		code: "V4354XA",
+	},
+	{
+		code: "V4354XD",
+	},
+	{
+		code: "V4354XS",
+	},
+	{
+		code: "V4361XA",
+	},
+	{
+		code: "V4361XD",
+	},
+	{
+		code: "V4361XS",
+	},
+	{
+		code: "V4362XA",
+	},
+	{
+		code: "V4362XD",
+	},
+	{
+		code: "V4362XS",
+	},
+	{
+		code: "V4363XA",
+	},
+	{
+		code: "V4363XD",
+	},
+	{
+		code: "V4363XS",
+	},
+	{
+		code: "V4364XA",
+	},
+	{
+		code: "V4364XD",
+	},
+	{
+		code: "V4364XS",
+	},
+	{
+		code: "V4371XA",
+	},
+	{
+		code: "V4371XD",
+	},
+	{
+		code: "V4371XS",
+	},
+	{
+		code: "V4372XA",
+	},
+	{
+		code: "V4372XD",
+	},
+	{
+		code: "V4372XS",
+	},
+	{
+		code: "V4373XA",
+	},
+	{
+		code: "V4373XD",
+	},
+	{
+		code: "V4373XS",
+	},
+	{
+		code: "V4374XA",
+	},
+	{
+		code: "V4374XD",
+	},
+	{
+		code: "V4374XS",
+	},
+	{
+		code: "V4391XA",
+	},
+	{
+		code: "V4391XD",
+	},
+	{
+		code: "V4391XS",
+	},
+	{
+		code: "V4392XA",
+	},
+	{
+		code: "V4392XD",
+	},
+	{
+		code: "V4392XS",
+	},
+	{
+		code: "V4393XA",
+	},
+	{
+		code: "V4393XD",
+	},
+	{
+		code: "V4393XS",
+	},
+	{
+		code: "V4394XA",
+	},
+	{
+		code: "V4394XD",
+	},
+	{
+		code: "V4394XS",
+	},
+	{
+		code: "V440XXA",
+	},
+	{
+		code: "V440XXD",
+	},
+	{
+		code: "V440XXS",
+	},
+	{
+		code: "V441XXA",
+	},
+	{
+		code: "V441XXD",
+	},
+	{
+		code: "V441XXS",
+	},
+	{
+		code: "V442XXA",
+	},
+	{
+		code: "V442XXD",
+	},
+	{
+		code: "V442XXS",
+	},
+	{
+		code: "V443XXA",
+	},
+	{
+		code: "V443XXD",
+	},
+	{
+		code: "V443XXS",
+	},
+	{
+		code: "V444XXA",
+	},
+	{
+		code: "V444XXD",
+	},
+	{
+		code: "V444XXS",
+	},
+	{
+		code: "V445XXA",
+	},
+	{
+		code: "V445XXD",
+	},
+	{
+		code: "V445XXS",
+	},
+	{
+		code: "V446XXA",
+	},
+	{
+		code: "V446XXD",
+	},
+	{
+		code: "V446XXS",
+	},
+	{
+		code: "V447XXA",
+	},
+	{
+		code: "V447XXD",
+	},
+	{
+		code: "V447XXS",
+	},
+	{
+		code: "V449XXA",
+	},
+	{
+		code: "V449XXD",
+	},
+	{
+		code: "V449XXS",
+	},
+	{
+		code: "V450XXA",
+	},
+	{
+		code: "V450XXD",
+	},
+	{
+		code: "V450XXS",
+	},
+	{
+		code: "V451XXA",
+	},
+	{
+		code: "V451XXD",
+	},
+	{
+		code: "V451XXS",
+	},
+	{
+		code: "V452XXA",
+	},
+	{
+		code: "V452XXD",
+	},
+	{
+		code: "V452XXS",
+	},
+	{
+		code: "V453XXA",
+	},
+	{
+		code: "V453XXD",
+	},
+	{
+		code: "V453XXS",
+	},
+	{
+		code: "V454XXA",
+	},
+	{
+		code: "V454XXD",
+	},
+	{
+		code: "V454XXS",
+	},
+	{
+		code: "V455XXA",
+	},
+	{
+		code: "V455XXD",
+	},
+	{
+		code: "V455XXS",
+	},
+	{
+		code: "V456XXA",
+	},
+	{
+		code: "V456XXD",
+	},
+	{
+		code: "V456XXS",
+	},
+	{
+		code: "V457XXA",
+	},
+	{
+		code: "V457XXD",
+	},
+	{
+		code: "V457XXS",
+	},
+	{
+		code: "V459XXA",
+	},
+	{
+		code: "V459XXD",
+	},
+	{
+		code: "V459XXS",
+	},
+	{
+		code: "V460XXA",
+	},
+	{
+		code: "V460XXD",
+	},
+	{
+		code: "V460XXS",
+	},
+	{
+		code: "V461XXA",
+	},
+	{
+		code: "V461XXD",
+	},
+	{
+		code: "V461XXS",
+	},
+	{
+		code: "V462XXA",
+	},
+	{
+		code: "V462XXD",
+	},
+	{
+		code: "V462XXS",
+	},
+	{
+		code: "V463XXA",
+	},
+	{
+		code: "V463XXD",
+	},
+	{
+		code: "V463XXS",
+	},
+	{
+		code: "V464XXA",
+	},
+	{
+		code: "V464XXD",
+	},
+	{
+		code: "V464XXS",
+	},
+	{
+		code: "V465XXA",
+	},
+	{
+		code: "V465XXD",
+	},
+	{
+		code: "V465XXS",
+	},
+	{
+		code: "V466XXA",
+	},
+	{
+		code: "V466XXD",
+	},
+	{
+		code: "V466XXS",
+	},
+	{
+		code: "V467XXA",
+	},
+	{
+		code: "V467XXD",
+	},
+	{
+		code: "V467XXS",
+	},
+	{
+		code: "V469XXA",
+	},
+	{
+		code: "V469XXD",
+	},
+	{
+		code: "V469XXS",
+	},
+	{
+		code: "V4701XA",
+	},
+	{
+		code: "V4701XD",
+	},
+	{
+		code: "V4701XS",
+	},
+	{
+		code: "V4702XA",
+	},
+	{
+		code: "V4702XD",
+	},
+	{
+		code: "V4702XS",
+	},
+	{
+		code: "V470XXA",
+	},
+	{
+		code: "V470XXD",
+	},
+	{
+		code: "V470XXS",
+	},
+	{
+		code: "V4711XA",
+	},
+	{
+		code: "V4711XD",
+	},
+	{
+		code: "V4711XS",
+	},
+	{
+		code: "V4712XA",
+	},
+	{
+		code: "V4712XD",
+	},
+	{
+		code: "V4712XS",
+	},
+	{
+		code: "V471XXA",
+	},
+	{
+		code: "V471XXD",
+	},
+	{
+		code: "V471XXS",
+	},
+	{
+		code: "V472XXA",
+	},
+	{
+		code: "V472XXD",
+	},
+	{
+		code: "V472XXS",
+	},
+	{
+		code: "V4731XA",
+	},
+	{
+		code: "V4731XD",
+	},
+	{
+		code: "V4731XS",
+	},
+	{
+		code: "V4732XA",
+	},
+	{
+		code: "V4732XD",
+	},
+	{
+		code: "V4732XS",
+	},
+	{
+		code: "V473XXA",
+	},
+	{
+		code: "V473XXD",
+	},
+	{
+		code: "V473XXS",
+	},
+	{
+		code: "V474XXA",
+	},
+	{
+		code: "V474XXD",
+	},
+	{
+		code: "V474XXS",
+	},
+	{
+		code: "V4751XA",
+	},
+	{
+		code: "V4751XD",
+	},
+	{
+		code: "V4751XS",
+	},
+	{
+		code: "V4752XA",
+	},
+	{
+		code: "V4752XD",
+	},
+	{
+		code: "V4752XS",
+	},
+	{
+		code: "V475XXA",
+	},
+	{
+		code: "V475XXD",
+	},
+	{
+		code: "V475XXS",
+	},
+	{
+		code: "V4761XA",
+	},
+	{
+		code: "V4761XD",
+	},
+	{
+		code: "V4761XS",
+	},
+	{
+		code: "V4762XA",
+	},
+	{
+		code: "V4762XD",
+	},
+	{
+		code: "V4762XS",
+	},
+	{
+		code: "V476XXA",
+	},
+	{
+		code: "V476XXD",
+	},
+	{
+		code: "V476XXS",
+	},
+	{
+		code: "V477XXA",
+	},
+	{
+		code: "V477XXD",
+	},
+	{
+		code: "V477XXS",
+	},
+	{
+		code: "V4791XA",
+	},
+	{
+		code: "V4791XD",
+	},
+	{
+		code: "V4791XS",
+	},
+	{
+		code: "V4792XA",
+	},
+	{
+		code: "V4792XD",
+	},
+	{
+		code: "V4792XS",
+	},
+	{
+		code: "V479XXA",
+	},
+	{
+		code: "V479XXD",
+	},
+	{
+		code: "V479XXS",
+	},
+	{
+		code: "V480XXA",
+	},
+	{
+		code: "V480XXD",
+	},
+	{
+		code: "V480XXS",
+	},
+	{
+		code: "V481XXA",
+	},
+	{
+		code: "V481XXD",
+	},
+	{
+		code: "V481XXS",
+	},
+	{
+		code: "V482XXA",
+	},
+	{
+		code: "V482XXD",
+	},
+	{
+		code: "V482XXS",
+	},
+	{
+		code: "V483XXA",
+	},
+	{
+		code: "V483XXD",
+	},
+	{
+		code: "V483XXS",
+	},
+	{
+		code: "V484XXA",
+	},
+	{
+		code: "V484XXD",
+	},
+	{
+		code: "V484XXS",
+	},
+	{
+		code: "V485XXA",
+	},
+	{
+		code: "V485XXD",
+	},
+	{
+		code: "V485XXS",
+	},
+	{
+		code: "V486XXA",
+	},
+	{
+		code: "V486XXD",
+	},
+	{
+		code: "V486XXS",
+	},
+	{
+		code: "V487XXA",
+	},
+	{
+		code: "V487XXD",
+	},
+	{
+		code: "V487XXS",
+	},
+	{
+		code: "V489XXA",
+	},
+	{
+		code: "V489XXD",
+	},
+	{
+		code: "V489XXS",
+	},
+	{
+		code: "V4900XA",
+	},
+	{
+		code: "V4900XD",
+	},
+	{
+		code: "V4900XS",
+	},
+	{
+		code: "V4909XA",
+	},
+	{
+		code: "V4909XD",
+	},
+	{
+		code: "V4909XS",
+	},
+	{
+		code: "V4910XA",
+	},
+	{
+		code: "V4910XD",
+	},
+	{
+		code: "V4910XS",
+	},
+	{
+		code: "V4919XA",
+	},
+	{
+		code: "V4919XD",
+	},
+	{
+		code: "V4919XS",
+	},
+	{
+		code: "V4920XA",
+	},
+	{
+		code: "V4920XD",
+	},
+	{
+		code: "V4920XS",
+	},
+	{
+		code: "V4929XA",
+	},
+	{
+		code: "V4929XD",
+	},
+	{
+		code: "V4929XS",
+	},
+	{
+		code: "V493XXA",
+	},
+	{
+		code: "V493XXD",
+	},
+	{
+		code: "V493XXS",
+	},
+	{
+		code: "V4940XA",
+	},
+	{
+		code: "V4940XD",
+	},
+	{
+		code: "V4940XS",
+	},
+	{
+		code: "V4949XA",
+	},
+	{
+		code: "V4949XD",
+	},
+	{
+		code: "V4949XS",
+	},
+	{
+		code: "V4950XA",
+	},
+	{
+		code: "V4950XD",
+	},
+	{
+		code: "V4950XS",
+	},
+	{
+		code: "V4959XA",
+	},
+	{
+		code: "V4959XD",
+	},
+	{
+		code: "V4959XS",
+	},
+	{
+		code: "V4960XA",
+	},
+	{
+		code: "V4960XD",
+	},
+	{
+		code: "V4960XS",
+	},
+	{
+		code: "V4969XA",
+	},
+	{
+		code: "V4969XD",
+	},
+	{
+		code: "V4969XS",
+	},
+	{
+		code: "V4981XA",
+	},
+	{
+		code: "V4981XD",
+	},
+	{
+		code: "V4981XS",
+	},
+	{
+		code: "V4988XA",
+	},
+	{
+		code: "V4988XD",
+	},
+	{
+		code: "V4988XS",
+	},
+	{
+		code: "V499XXA",
+	},
+	{
+		code: "V499XXD",
+	},
+	{
+		code: "V499XXS",
+	},
+	{
+		code: "V500XXA",
+	},
+	{
+		code: "V500XXD",
+	},
+	{
+		code: "V500XXS",
+	},
+	{
+		code: "V501XXA",
+	},
+	{
+		code: "V501XXD",
+	},
+	{
+		code: "V501XXS",
+	},
+	{
+		code: "V502XXA",
+	},
+	{
+		code: "V502XXD",
+	},
+	{
+		code: "V502XXS",
+	},
+	{
+		code: "V503XXA",
+	},
+	{
+		code: "V503XXD",
+	},
+	{
+		code: "V503XXS",
+	},
+	{
+		code: "V504XXA",
+	},
+	{
+		code: "V504XXD",
+	},
+	{
+		code: "V504XXS",
+	},
+	{
+		code: "V505XXA",
+	},
+	{
+		code: "V505XXD",
+	},
+	{
+		code: "V505XXS",
+	},
+	{
+		code: "V506XXA",
+	},
+	{
+		code: "V506XXD",
+	},
+	{
+		code: "V506XXS",
+	},
+	{
+		code: "V507XXA",
+	},
+	{
+		code: "V507XXD",
+	},
+	{
+		code: "V507XXS",
+	},
+	{
+		code: "V509XXA",
+	},
+	{
+		code: "V509XXD",
+	},
+	{
+		code: "V509XXS",
+	},
+	{
+		code: "V510XXA",
+	},
+	{
+		code: "V510XXD",
+	},
+	{
+		code: "V510XXS",
+	},
+	{
+		code: "V511XXA",
+	},
+	{
+		code: "V511XXD",
+	},
+	{
+		code: "V511XXS",
+	},
+	{
+		code: "V512XXA",
+	},
+	{
+		code: "V512XXD",
+	},
+	{
+		code: "V512XXS",
+	},
+	{
+		code: "V513XXA",
+	},
+	{
+		code: "V513XXD",
+	},
+	{
+		code: "V513XXS",
+	},
+	{
+		code: "V514XXA",
+	},
+	{
+		code: "V514XXD",
+	},
+	{
+		code: "V514XXS",
+	},
+	{
+		code: "V515XXA",
+	},
+	{
+		code: "V515XXD",
+	},
+	{
+		code: "V515XXS",
+	},
+	{
+		code: "V516XXA",
+	},
+	{
+		code: "V516XXD",
+	},
+	{
+		code: "V516XXS",
+	},
+	{
+		code: "V517XXA",
+	},
+	{
+		code: "V517XXD",
+	},
+	{
+		code: "V517XXS",
+	},
+	{
+		code: "V519XXA",
+	},
+	{
+		code: "V519XXD",
+	},
+	{
+		code: "V519XXS",
+	},
+	{
+		code: "V520XXA",
+	},
+	{
+		code: "V520XXD",
+	},
+	{
+		code: "V520XXS",
+	},
+	{
+		code: "V521XXA",
+	},
+	{
+		code: "V521XXD",
+	},
+	{
+		code: "V521XXS",
+	},
+	{
+		code: "V522XXA",
+	},
+	{
+		code: "V522XXD",
+	},
+	{
+		code: "V522XXS",
+	},
+	{
+		code: "V523XXA",
+	},
+	{
+		code: "V523XXD",
+	},
+	{
+		code: "V523XXS",
+	},
+	{
+		code: "V524XXA",
+	},
+	{
+		code: "V524XXD",
+	},
+	{
+		code: "V524XXS",
+	},
+	{
+		code: "V525XXA",
+	},
+	{
+		code: "V525XXD",
+	},
+	{
+		code: "V525XXS",
+	},
+	{
+		code: "V526XXA",
+	},
+	{
+		code: "V526XXD",
+	},
+	{
+		code: "V526XXS",
+	},
+	{
+		code: "V527XXA",
+	},
+	{
+		code: "V527XXD",
+	},
+	{
+		code: "V527XXS",
+	},
+	{
+		code: "V529XXA",
+	},
+	{
+		code: "V529XXD",
+	},
+	{
+		code: "V529XXS",
+	},
+	{
+		code: "V530XXA",
+	},
+	{
+		code: "V530XXD",
+	},
+	{
+		code: "V530XXS",
+	},
+	{
+		code: "V531XXA",
+	},
+	{
+		code: "V531XXD",
+	},
+	{
+		code: "V531XXS",
+	},
+	{
+		code: "V532XXA",
+	},
+	{
+		code: "V532XXD",
+	},
+	{
+		code: "V532XXS",
+	},
+	{
+		code: "V533XXA",
+	},
+	{
+		code: "V533XXD",
+	},
+	{
+		code: "V533XXS",
+	},
+	{
+		code: "V534XXA",
+	},
+	{
+		code: "V534XXD",
+	},
+	{
+		code: "V534XXS",
+	},
+	{
+		code: "V535XXA",
+	},
+	{
+		code: "V535XXD",
+	},
+	{
+		code: "V535XXS",
+	},
+	{
+		code: "V536XXA",
+	},
+	{
+		code: "V536XXD",
+	},
+	{
+		code: "V536XXS",
+	},
+	{
+		code: "V537XXA",
+	},
+	{
+		code: "V537XXD",
+	},
+	{
+		code: "V537XXS",
+	},
+	{
+		code: "V539XXA",
+	},
+	{
+		code: "V539XXD",
+	},
+	{
+		code: "V539XXS",
+	},
+	{
+		code: "V540XXA",
+	},
+	{
+		code: "V540XXD",
+	},
+	{
+		code: "V540XXS",
+	},
+	{
+		code: "V541XXA",
+	},
+	{
+		code: "V541XXD",
+	},
+	{
+		code: "V541XXS",
+	},
+	{
+		code: "V542XXA",
+	},
+	{
+		code: "V542XXD",
+	},
+	{
+		code: "V542XXS",
+	},
+	{
+		code: "V543XXA",
+	},
+	{
+		code: "V543XXD",
+	},
+	{
+		code: "V543XXS",
+	},
+	{
+		code: "V544XXA",
+	},
+	{
+		code: "V544XXD",
+	},
+	{
+		code: "V544XXS",
+	},
+	{
+		code: "V545XXA",
+	},
+	{
+		code: "V545XXD",
+	},
+	{
+		code: "V545XXS",
+	},
+	{
+		code: "V546XXA",
+	},
+	{
+		code: "V546XXD",
+	},
+	{
+		code: "V546XXS",
+	},
+	{
+		code: "V547XXA",
+	},
+	{
+		code: "V547XXD",
+	},
+	{
+		code: "V547XXS",
+	},
+	{
+		code: "V549XXA",
+	},
+	{
+		code: "V549XXD",
+	},
+	{
+		code: "V549XXS",
+	},
+	{
+		code: "V550XXA",
+	},
+	{
+		code: "V550XXD",
+	},
+	{
+		code: "V550XXS",
+	},
+	{
+		code: "V551XXA",
+	},
+	{
+		code: "V551XXD",
+	},
+	{
+		code: "V551XXS",
+	},
+	{
+		code: "V552XXA",
+	},
+	{
+		code: "V552XXD",
+	},
+	{
+		code: "V552XXS",
+	},
+	{
+		code: "V553XXA",
+	},
+	{
+		code: "V553XXD",
+	},
+	{
+		code: "V553XXS",
+	},
+	{
+		code: "V554XXA",
+	},
+	{
+		code: "V554XXD",
+	},
+	{
+		code: "V554XXS",
+	},
+	{
+		code: "V555XXA",
+	},
+	{
+		code: "V555XXD",
+	},
+	{
+		code: "V555XXS",
+	},
+	{
+		code: "V556XXA",
+	},
+	{
+		code: "V556XXD",
+	},
+	{
+		code: "V556XXS",
+	},
+	{
+		code: "V557XXA",
+	},
+	{
+		code: "V557XXD",
+	},
+	{
+		code: "V557XXS",
+	},
+	{
+		code: "V559XXA",
+	},
+	{
+		code: "V559XXD",
+	},
+	{
+		code: "V559XXS",
+	},
+	{
+		code: "V560XXA",
+	},
+	{
+		code: "V560XXD",
+	},
+	{
+		code: "V560XXS",
+	},
+	{
+		code: "V561XXA",
+	},
+	{
+		code: "V561XXD",
+	},
+	{
+		code: "V561XXS",
+	},
+	{
+		code: "V562XXA",
+	},
+	{
+		code: "V562XXD",
+	},
+	{
+		code: "V562XXS",
+	},
+	{
+		code: "V563XXA",
+	},
+	{
+		code: "V563XXD",
+	},
+	{
+		code: "V563XXS",
+	},
+	{
+		code: "V564XXA",
+	},
+	{
+		code: "V564XXD",
+	},
+	{
+		code: "V564XXS",
+	},
+	{
+		code: "V565XXA",
+	},
+	{
+		code: "V565XXD",
+	},
+	{
+		code: "V565XXS",
+	},
+	{
+		code: "V566XXA",
+	},
+	{
+		code: "V566XXD",
+	},
+	{
+		code: "V566XXS",
+	},
+	{
+		code: "V567XXA",
+	},
+	{
+		code: "V567XXD",
+	},
+	{
+		code: "V567XXS",
+	},
+	{
+		code: "V569XXA",
+	},
+	{
+		code: "V569XXD",
+	},
+	{
+		code: "V569XXS",
+	},
+	{
+		code: "V570XXA",
+	},
+	{
+		code: "V570XXD",
+	},
+	{
+		code: "V570XXS",
+	},
+	{
+		code: "V571XXA",
+	},
+	{
+		code: "V571XXD",
+	},
+	{
+		code: "V571XXS",
+	},
+	{
+		code: "V572XXA",
+	},
+	{
+		code: "V572XXD",
+	},
+	{
+		code: "V572XXS",
+	},
+	{
+		code: "V573XXA",
+	},
+	{
+		code: "V573XXD",
+	},
+	{
+		code: "V573XXS",
+	},
+	{
+		code: "V574XXA",
+	},
+	{
+		code: "V574XXD",
+	},
+	{
+		code: "V574XXS",
+	},
+	{
+		code: "V575XXA",
+	},
+	{
+		code: "V575XXD",
+	},
+	{
+		code: "V575XXS",
+	},
+	{
+		code: "V576XXA",
+	},
+	{
+		code: "V576XXD",
+	},
+	{
+		code: "V576XXS",
+	},
+	{
+		code: "V577XXA",
+	},
+	{
+		code: "V577XXD",
+	},
+	{
+		code: "V577XXS",
+	},
+	{
+		code: "V579XXA",
+	},
+	{
+		code: "V579XXD",
+	},
+	{
+		code: "V579XXS",
+	},
+	{
+		code: "V580XXA",
+	},
+	{
+		code: "V580XXD",
+	},
+	{
+		code: "V580XXS",
+	},
+	{
+		code: "V581XXA",
+	},
+	{
+		code: "V581XXD",
+	},
+	{
+		code: "V581XXS",
+	},
+	{
+		code: "V582XXA",
+	},
+	{
+		code: "V582XXD",
+	},
+	{
+		code: "V582XXS",
+	},
+	{
+		code: "V583XXA",
+	},
+	{
+		code: "V583XXD",
+	},
+	{
+		code: "V583XXS",
+	},
+	{
+		code: "V584XXA",
+	},
+	{
+		code: "V584XXD",
+	},
+	{
+		code: "V584XXS",
+	},
+	{
+		code: "V585XXA",
+	},
+	{
+		code: "V585XXD",
+	},
+	{
+		code: "V585XXS",
+	},
+	{
+		code: "V586XXA",
+	},
+	{
+		code: "V586XXD",
+	},
+	{
+		code: "V586XXS",
+	},
+	{
+		code: "V587XXA",
+	},
+	{
+		code: "V587XXD",
+	},
+	{
+		code: "V587XXS",
+	},
+	{
+		code: "V589XXA",
+	},
+	{
+		code: "V589XXD",
+	},
+	{
+		code: "V589XXS",
+	},
+	{
+		code: "V5900XA",
+	},
+	{
+		code: "V5900XD",
+	},
+	{
+		code: "V5900XS",
+	},
+	{
+		code: "V5909XA",
+	},
+	{
+		code: "V5909XD",
+	},
+	{
+		code: "V5909XS",
+	},
+	{
+		code: "V5910XA",
+	},
+	{
+		code: "V5910XD",
+	},
+	{
+		code: "V5910XS",
+	},
+	{
+		code: "V5919XA",
+	},
+	{
+		code: "V5919XD",
+	},
+	{
+		code: "V5919XS",
+	},
+	{
+		code: "V5920XA",
+	},
+	{
+		code: "V5920XD",
+	},
+	{
+		code: "V5920XS",
+	},
+	{
+		code: "V5929XA",
+	},
+	{
+		code: "V5929XD",
+	},
+	{
+		code: "V5929XS",
+	},
+	{
+		code: "V593XXA",
+	},
+	{
+		code: "V593XXD",
+	},
+	{
+		code: "V593XXS",
+	},
+	{
+		code: "V5940XA",
+	},
+	{
+		code: "V5940XD",
+	},
+	{
+		code: "V5940XS",
+	},
+	{
+		code: "V5949XA",
+	},
+	{
+		code: "V5949XD",
+	},
+	{
+		code: "V5949XS",
+	},
+	{
+		code: "V5950XA",
+	},
+	{
+		code: "V5950XD",
+	},
+	{
+		code: "V5950XS",
+	},
+	{
+		code: "V5959XA",
+	},
+	{
+		code: "V5959XD",
+	},
+	{
+		code: "V5959XS",
+	},
+	{
+		code: "V5960XA",
+	},
+	{
+		code: "V5960XD",
+	},
+	{
+		code: "V5960XS",
+	},
+	{
+		code: "V5969XA",
+	},
+	{
+		code: "V5969XD",
+	},
+	{
+		code: "V5969XS",
+	},
+	{
+		code: "V5981XA",
+	},
+	{
+		code: "V5981XD",
+	},
+	{
+		code: "V5981XS",
+	},
+	{
+		code: "V5988XA",
+	},
+	{
+		code: "V5988XD",
+	},
+	{
+		code: "V5988XS",
+	},
+	{
+		code: "V599XXA",
+	},
+	{
+		code: "V599XXD",
+	},
+	{
+		code: "V599XXS",
+	},
+	{
+		code: "V600XXA",
+	},
+	{
+		code: "V600XXD",
+	},
+	{
+		code: "V600XXS",
+	},
+	{
+		code: "V601XXA",
+	},
+	{
+		code: "V601XXD",
+	},
+	{
+		code: "V601XXS",
+	},
+	{
+		code: "V602XXA",
+	},
+	{
+		code: "V602XXD",
+	},
+	{
+		code: "V602XXS",
+	},
+	{
+		code: "V603XXA",
+	},
+	{
+		code: "V603XXD",
+	},
+	{
+		code: "V603XXS",
+	},
+	{
+		code: "V604XXA",
+	},
+	{
+		code: "V604XXD",
+	},
+	{
+		code: "V604XXS",
+	},
+	{
+		code: "V605XXA",
+	},
+	{
+		code: "V605XXD",
+	},
+	{
+		code: "V605XXS",
+	},
+	{
+		code: "V606XXA",
+	},
+	{
+		code: "V606XXD",
+	},
+	{
+		code: "V606XXS",
+	},
+	{
+		code: "V607XXA",
+	},
+	{
+		code: "V607XXD",
+	},
+	{
+		code: "V607XXS",
+	},
+	{
+		code: "V609XXA",
+	},
+	{
+		code: "V609XXD",
+	},
+	{
+		code: "V609XXS",
+	},
+	{
+		code: "V610XXA",
+	},
+	{
+		code: "V610XXD",
+	},
+	{
+		code: "V610XXS",
+	},
+	{
+		code: "V611XXA",
+	},
+	{
+		code: "V611XXD",
+	},
+	{
+		code: "V611XXS",
+	},
+	{
+		code: "V612XXA",
+	},
+	{
+		code: "V612XXD",
+	},
+	{
+		code: "V612XXS",
+	},
+	{
+		code: "V613XXA",
+	},
+	{
+		code: "V613XXD",
+	},
+	{
+		code: "V613XXS",
+	},
+	{
+		code: "V614XXA",
+	},
+	{
+		code: "V614XXD",
+	},
+	{
+		code: "V614XXS",
+	},
+	{
+		code: "V615XXA",
+	},
+	{
+		code: "V615XXD",
+	},
+	{
+		code: "V615XXS",
+	},
+	{
+		code: "V616XXA",
+	},
+	{
+		code: "V616XXD",
+	},
+	{
+		code: "V616XXS",
+	},
+	{
+		code: "V617XXA",
+	},
+	{
+		code: "V617XXD",
+	},
+	{
+		code: "V617XXS",
+	},
+	{
+		code: "V619XXA",
+	},
+	{
+		code: "V619XXD",
+	},
+	{
+		code: "V619XXS",
+	},
+	{
+		code: "V620XXA",
+	},
+	{
+		code: "V620XXD",
+	},
+	{
+		code: "V620XXS",
+	},
+	{
+		code: "V621XXA",
+	},
+	{
+		code: "V621XXD",
+	},
+	{
+		code: "V621XXS",
+	},
+	{
+		code: "V622XXA",
+	},
+	{
+		code: "V622XXD",
+	},
+	{
+		code: "V622XXS",
+	},
+	{
+		code: "V623XXA",
+	},
+	{
+		code: "V623XXD",
+	},
+	{
+		code: "V623XXS",
+	},
+	{
+		code: "V624XXA",
+	},
+	{
+		code: "V624XXD",
+	},
+	{
+		code: "V624XXS",
+	},
+	{
+		code: "V625XXA",
+	},
+	{
+		code: "V625XXD",
+	},
+	{
+		code: "V625XXS",
+	},
+	{
+		code: "V626XXA",
+	},
+	{
+		code: "V626XXD",
+	},
+	{
+		code: "V626XXS",
+	},
+	{
+		code: "V627XXA",
+	},
+	{
+		code: "V627XXD",
+	},
+	{
+		code: "V627XXS",
+	},
+	{
+		code: "V629XXA",
+	},
+	{
+		code: "V629XXD",
+	},
+	{
+		code: "V629XXS",
+	},
+	{
+		code: "V630XXA",
+	},
+	{
+		code: "V630XXD",
+	},
+	{
+		code: "V630XXS",
+	},
+	{
+		code: "V631XXA",
+	},
+	{
+		code: "V631XXD",
+	},
+	{
+		code: "V631XXS",
+	},
+	{
+		code: "V632XXA",
+	},
+	{
+		code: "V632XXD",
+	},
+	{
+		code: "V632XXS",
+	},
+	{
+		code: "V633XXA",
+	},
+	{
+		code: "V633XXD",
+	},
+	{
+		code: "V633XXS",
+	},
+	{
+		code: "V634XXA",
+	},
+	{
+		code: "V634XXD",
+	},
+	{
+		code: "V634XXS",
+	},
+	{
+		code: "V635XXA",
+	},
+	{
+		code: "V635XXD",
+	},
+	{
+		code: "V635XXS",
+	},
+	{
+		code: "V636XXA",
+	},
+	{
+		code: "V636XXD",
+	},
+	{
+		code: "V636XXS",
+	},
+	{
+		code: "V637XXA",
+	},
+	{
+		code: "V637XXD",
+	},
+	{
+		code: "V637XXS",
+	},
+	{
+		code: "V639XXA",
+	},
+	{
+		code: "V639XXD",
+	},
+	{
+		code: "V639XXS",
+	},
+	{
+		code: "V640XXA",
+	},
+	{
+		code: "V640XXD",
+	},
+	{
+		code: "V640XXS",
+	},
+	{
+		code: "V641XXA",
+	},
+	{
+		code: "V641XXD",
+	},
+	{
+		code: "V641XXS",
+	},
+	{
+		code: "V642XXA",
+	},
+	{
+		code: "V642XXD",
+	},
+	{
+		code: "V642XXS",
+	},
+	{
+		code: "V643XXA",
+	},
+	{
+		code: "V643XXD",
+	},
+	{
+		code: "V643XXS",
+	},
+	{
+		code: "V644XXA",
+	},
+	{
+		code: "V644XXD",
+	},
+	{
+		code: "V644XXS",
+	},
+	{
+		code: "V645XXA",
+	},
+	{
+		code: "V645XXD",
+	},
+	{
+		code: "V645XXS",
+	},
+	{
+		code: "V646XXA",
+	},
+	{
+		code: "V646XXD",
+	},
+	{
+		code: "V646XXS",
+	},
+	{
+		code: "V647XXA",
+	},
+	{
+		code: "V647XXD",
+	},
+	{
+		code: "V647XXS",
+	},
+	{
+		code: "V649XXA",
+	},
+	{
+		code: "V649XXD",
+	},
+	{
+		code: "V649XXS",
+	},
+	{
+		code: "V650XXA",
+	},
+	{
+		code: "V650XXD",
+	},
+	{
+		code: "V650XXS",
+	},
+	{
+		code: "V651XXA",
+	},
+	{
+		code: "V651XXD",
+	},
+	{
+		code: "V651XXS",
+	},
+	{
+		code: "V652XXA",
+	},
+	{
+		code: "V652XXD",
+	},
+	{
+		code: "V652XXS",
+	},
+	{
+		code: "V653XXA",
+	},
+	{
+		code: "V653XXD",
+	},
+	{
+		code: "V653XXS",
+	},
+	{
+		code: "V654XXA",
+	},
+	{
+		code: "V654XXD",
+	},
+	{
+		code: "V654XXS",
+	},
+	{
+		code: "V655XXA",
+	},
+	{
+		code: "V655XXD",
+	},
+	{
+		code: "V655XXS",
+	},
+	{
+		code: "V656XXA",
+	},
+	{
+		code: "V656XXD",
+	},
+	{
+		code: "V656XXS",
+	},
+	{
+		code: "V657XXA",
+	},
+	{
+		code: "V657XXD",
+	},
+	{
+		code: "V657XXS",
+	},
+	{
+		code: "V659XXA",
+	},
+	{
+		code: "V659XXD",
+	},
+	{
+		code: "V659XXS",
+	},
+	{
+		code: "V660XXA",
+	},
+	{
+		code: "V660XXD",
+	},
+	{
+		code: "V660XXS",
+	},
+	{
+		code: "V661XXA",
+	},
+	{
+		code: "V661XXD",
+	},
+	{
+		code: "V661XXS",
+	},
+	{
+		code: "V662XXA",
+	},
+	{
+		code: "V662XXD",
+	},
+	{
+		code: "V662XXS",
+	},
+	{
+		code: "V663XXA",
+	},
+	{
+		code: "V663XXD",
+	},
+	{
+		code: "V663XXS",
+	},
+	{
+		code: "V664XXA",
+	},
+	{
+		code: "V664XXD",
+	},
+	{
+		code: "V664XXS",
+	},
+	{
+		code: "V665XXA",
+	},
+	{
+		code: "V665XXD",
+	},
+	{
+		code: "V665XXS",
+	},
+	{
+		code: "V666XXA",
+	},
+	{
+		code: "V666XXD",
+	},
+	{
+		code: "V666XXS",
+	},
+	{
+		code: "V667XXA",
+	},
+	{
+		code: "V667XXD",
+	},
+	{
+		code: "V667XXS",
+	},
+	{
+		code: "V669XXA",
+	},
+	{
+		code: "V669XXD",
+	},
+	{
+		code: "V669XXS",
+	},
+	{
+		code: "V670XXA",
+	},
+	{
+		code: "V670XXD",
+	},
+	{
+		code: "V670XXS",
+	},
+	{
+		code: "V671XXA",
+	},
+	{
+		code: "V671XXD",
+	},
+	{
+		code: "V671XXS",
+	},
+	{
+		code: "V672XXA",
+	},
+	{
+		code: "V672XXD",
+	},
+	{
+		code: "V672XXS",
+	},
+	{
+		code: "V673XXA",
+	},
+	{
+		code: "V673XXD",
+	},
+	{
+		code: "V673XXS",
+	},
+	{
+		code: "V674XXA",
+	},
+	{
+		code: "V674XXD",
+	},
+	{
+		code: "V674XXS",
+	},
+	{
+		code: "V675XXA",
+	},
+	{
+		code: "V675XXD",
+	},
+	{
+		code: "V675XXS",
+	},
+	{
+		code: "V676XXA",
+	},
+	{
+		code: "V676XXD",
+	},
+	{
+		code: "V676XXS",
+	},
+	{
+		code: "V677XXA",
+	},
+	{
+		code: "V677XXD",
+	},
+	{
+		code: "V677XXS",
+	},
+	{
+		code: "V679XXA",
+	},
+	{
+		code: "V679XXD",
+	},
+	{
+		code: "V679XXS",
+	},
+	{
+		code: "V680XXA",
+	},
+	{
+		code: "V680XXD",
+	},
+	{
+		code: "V680XXS",
+	},
+	{
+		code: "V681XXA",
+	},
+	{
+		code: "V681XXD",
+	},
+	{
+		code: "V681XXS",
+	},
+	{
+		code: "V682XXA",
+	},
+	{
+		code: "V682XXD",
+	},
+	{
+		code: "V682XXS",
+	},
+	{
+		code: "V683XXA",
+	},
+	{
+		code: "V683XXD",
+	},
+	{
+		code: "V683XXS",
+	},
+	{
+		code: "V684XXA",
+	},
+	{
+		code: "V684XXD",
+	},
+	{
+		code: "V684XXS",
+	},
+	{
+		code: "V685XXA",
+	},
+	{
+		code: "V685XXD",
+	},
+	{
+		code: "V685XXS",
+	},
+	{
+		code: "V686XXA",
+	},
+	{
+		code: "V686XXD",
+	},
+	{
+		code: "V686XXS",
+	},
+	{
+		code: "V687XXA",
+	},
+	{
+		code: "V687XXD",
+	},
+	{
+		code: "V687XXS",
+	},
+	{
+		code: "V689XXA",
+	},
+	{
+		code: "V689XXD",
+	},
+	{
+		code: "V689XXS",
+	},
+	{
+		code: "V6900XA",
+	},
+	{
+		code: "V6900XD",
+	},
+	{
+		code: "V6900XS",
+	},
+	{
+		code: "V6909XA",
+	},
+	{
+		code: "V6909XD",
+	},
+	{
+		code: "V6909XS",
+	},
+	{
+		code: "V6910XA",
+	},
+	{
+		code: "V6910XD",
+	},
+	{
+		code: "V6910XS",
+	},
+	{
+		code: "V6919XA",
+	},
+	{
+		code: "V6919XD",
+	},
+	{
+		code: "V6919XS",
+	},
+	{
+		code: "V6920XA",
+	},
+	{
+		code: "V6920XD",
+	},
+	{
+		code: "V6920XS",
+	},
+	{
+		code: "V6929XA",
+	},
+	{
+		code: "V6929XD",
+	},
+	{
+		code: "V6929XS",
+	},
+	{
+		code: "V693XXA",
+	},
+	{
+		code: "V693XXD",
+	},
+	{
+		code: "V693XXS",
+	},
+	{
+		code: "V6940XA",
+	},
+	{
+		code: "V6940XD",
+	},
+	{
+		code: "V6940XS",
+	},
+	{
+		code: "V6949XA",
+	},
+	{
+		code: "V6949XD",
+	},
+	{
+		code: "V6949XS",
+	},
+	{
+		code: "V6950XA",
+	},
+	{
+		code: "V6950XD",
+	},
+	{
+		code: "V6950XS",
+	},
+	{
+		code: "V6959XA",
+	},
+	{
+		code: "V6959XD",
+	},
+	{
+		code: "V6959XS",
+	},
+	{
+		code: "V6960XA",
+	},
+	{
+		code: "V6960XD",
+	},
+	{
+		code: "V6960XS",
+	},
+	{
+		code: "V6969XA",
+	},
+	{
+		code: "V6969XD",
+	},
+	{
+		code: "V6969XS",
+	},
+	{
+		code: "V6981XA",
+	},
+	{
+		code: "V6981XD",
+	},
+	{
+		code: "V6981XS",
+	},
+	{
+		code: "V6988XA",
+	},
+	{
+		code: "V6988XD",
+	},
+	{
+		code: "V6988XS",
+	},
+	{
+		code: "V699XXA",
+	},
+	{
+		code: "V699XXD",
+	},
+	{
+		code: "V699XXS",
+	},
+	{
+		code: "V700XXA",
+	},
+	{
+		code: "V700XXD",
+	},
+	{
+		code: "V700XXS",
+	},
+	{
+		code: "V701XXA",
+	},
+	{
+		code: "V701XXD",
+	},
+	{
+		code: "V701XXS",
+	},
+	{
+		code: "V702XXA",
+	},
+	{
+		code: "V702XXD",
+	},
+	{
+		code: "V702XXS",
+	},
+	{
+		code: "V703XXA",
+	},
+	{
+		code: "V703XXD",
+	},
+	{
+		code: "V703XXS",
+	},
+	{
+		code: "V704XXA",
+	},
+	{
+		code: "V704XXD",
+	},
+	{
+		code: "V704XXS",
+	},
+	{
+		code: "V705XXA",
+	},
+	{
+		code: "V705XXD",
+	},
+	{
+		code: "V705XXS",
+	},
+	{
+		code: "V706XXA",
+	},
+	{
+		code: "V706XXD",
+	},
+	{
+		code: "V706XXS",
+	},
+	{
+		code: "V707XXA",
+	},
+	{
+		code: "V707XXD",
+	},
+	{
+		code: "V707XXS",
+	},
+	{
+		code: "V709XXA",
+	},
+	{
+		code: "V709XXD",
+	},
+	{
+		code: "V709XXS",
+	},
+	{
+		code: "V710XXA",
+	},
+	{
+		code: "V710XXD",
+	},
+	{
+		code: "V710XXS",
+	},
+	{
+		code: "V711XXA",
+	},
+	{
+		code: "V711XXD",
+	},
+	{
+		code: "V711XXS",
+	},
+	{
+		code: "V712XXA",
+	},
+	{
+		code: "V712XXD",
+	},
+	{
+		code: "V712XXS",
+	},
+	{
+		code: "V713XXA",
+	},
+	{
+		code: "V713XXD",
+	},
+	{
+		code: "V713XXS",
+	},
+	{
+		code: "V714XXA",
+	},
+	{
+		code: "V714XXD",
+	},
+	{
+		code: "V714XXS",
+	},
+	{
+		code: "V715XXA",
+	},
+	{
+		code: "V715XXD",
+	},
+	{
+		code: "V715XXS",
+	},
+	{
+		code: "V716XXA",
+	},
+	{
+		code: "V716XXD",
+	},
+	{
+		code: "V716XXS",
+	},
+	{
+		code: "V717XXA",
+	},
+	{
+		code: "V717XXD",
+	},
+	{
+		code: "V717XXS",
+	},
+	{
+		code: "V719XXA",
+	},
+	{
+		code: "V719XXD",
+	},
+	{
+		code: "V719XXS",
+	},
+	{
+		code: "V720XXA",
+	},
+	{
+		code: "V720XXD",
+	},
+	{
+		code: "V720XXS",
+	},
+	{
+		code: "V721XXA",
+	},
+	{
+		code: "V721XXD",
+	},
+	{
+		code: "V721XXS",
+	},
+	{
+		code: "V722XXA",
+	},
+	{
+		code: "V722XXD",
+	},
+	{
+		code: "V722XXS",
+	},
+	{
+		code: "V723XXA",
+	},
+	{
+		code: "V723XXD",
+	},
+	{
+		code: "V723XXS",
+	},
+	{
+		code: "V724XXA",
+	},
+	{
+		code: "V724XXD",
+	},
+	{
+		code: "V724XXS",
+	},
+	{
+		code: "V725XXA",
+	},
+	{
+		code: "V725XXD",
+	},
+	{
+		code: "V725XXS",
+	},
+	{
+		code: "V726XXA",
+	},
+	{
+		code: "V726XXD",
+	},
+	{
+		code: "V726XXS",
+	},
+	{
+		code: "V727XXA",
+	},
+	{
+		code: "V727XXD",
+	},
+	{
+		code: "V727XXS",
+	},
+	{
+		code: "V729XXA",
+	},
+	{
+		code: "V729XXD",
+	},
+	{
+		code: "V729XXS",
+	},
+	{
+		code: "V730XXA",
+	},
+	{
+		code: "V730XXD",
+	},
+	{
+		code: "V730XXS",
+	},
+	{
+		code: "V731XXA",
+	},
+	{
+		code: "V731XXD",
+	},
+	{
+		code: "V731XXS",
+	},
+	{
+		code: "V732XXA",
+	},
+	{
+		code: "V732XXD",
+	},
+	{
+		code: "V732XXS",
+	},
+	{
+		code: "V733XXA",
+	},
+	{
+		code: "V733XXD",
+	},
+	{
+		code: "V733XXS",
+	},
+	{
+		code: "V734XXA",
+	},
+	{
+		code: "V734XXD",
+	},
+	{
+		code: "V734XXS",
+	},
+	{
+		code: "V735XXA",
+	},
+	{
+		code: "V735XXD",
+	},
+	{
+		code: "V735XXS",
+	},
+	{
+		code: "V736XXA",
+	},
+	{
+		code: "V736XXD",
+	},
+	{
+		code: "V736XXS",
+	},
+	{
+		code: "V737XXA",
+	},
+	{
+		code: "V737XXD",
+	},
+	{
+		code: "V737XXS",
+	},
+	{
+		code: "V739XXA",
+	},
+	{
+		code: "V739XXD",
+	},
+	{
+		code: "V739XXS",
+	},
+	{
+		code: "V740XXA",
+	},
+	{
+		code: "V740XXD",
+	},
+	{
+		code: "V740XXS",
+	},
+	{
+		code: "V741XXA",
+	},
+	{
+		code: "V741XXD",
+	},
+	{
+		code: "V741XXS",
+	},
+	{
+		code: "V742XXA",
+	},
+	{
+		code: "V742XXD",
+	},
+	{
+		code: "V742XXS",
+	},
+	{
+		code: "V743XXA",
+	},
+	{
+		code: "V743XXD",
+	},
+	{
+		code: "V743XXS",
+	},
+	{
+		code: "V744XXA",
+	},
+	{
+		code: "V744XXD",
+	},
+	{
+		code: "V744XXS",
+	},
+	{
+		code: "V745XXA",
+	},
+	{
+		code: "V745XXD",
+	},
+	{
+		code: "V745XXS",
+	},
+	{
+		code: "V746XXA",
+	},
+	{
+		code: "V746XXD",
+	},
+	{
+		code: "V746XXS",
+	},
+	{
+		code: "V747XXA",
+	},
+	{
+		code: "V747XXD",
+	},
+	{
+		code: "V747XXS",
+	},
+	{
+		code: "V749XXA",
+	},
+	{
+		code: "V749XXD",
+	},
+	{
+		code: "V749XXS",
+	},
+	{
+		code: "V750XXA",
+	},
+	{
+		code: "V750XXD",
+	},
+	{
+		code: "V750XXS",
+	},
+	{
+		code: "V751XXA",
+	},
+	{
+		code: "V751XXD",
+	},
+	{
+		code: "V751XXS",
+	},
+	{
+		code: "V752XXA",
+	},
+	{
+		code: "V752XXD",
+	},
+	{
+		code: "V752XXS",
+	},
+	{
+		code: "V753XXA",
+	},
+	{
+		code: "V753XXD",
+	},
+	{
+		code: "V753XXS",
+	},
+	{
+		code: "V754XXA",
+	},
+	{
+		code: "V754XXD",
+	},
+	{
+		code: "V754XXS",
+	},
+	{
+		code: "V755XXA",
+	},
+	{
+		code: "V755XXD",
+	},
+	{
+		code: "V755XXS",
+	},
+	{
+		code: "V756XXA",
+	},
+	{
+		code: "V756XXD",
+	},
+	{
+		code: "V756XXS",
+	},
+	{
+		code: "V757XXA",
+	},
+	{
+		code: "V757XXD",
+	},
+	{
+		code: "V757XXS",
+	},
+	{
+		code: "V759XXA",
+	},
+	{
+		code: "V759XXD",
+	},
+	{
+		code: "V759XXS",
+	},
+	{
+		code: "V760XXA",
+	},
+	{
+		code: "V760XXD",
+	},
+	{
+		code: "V760XXS",
+	},
+	{
+		code: "V761XXA",
+	},
+	{
+		code: "V761XXD",
+	},
+	{
+		code: "V761XXS",
+	},
+	{
+		code: "V762XXA",
+	},
+	{
+		code: "V762XXD",
+	},
+	{
+		code: "V762XXS",
+	},
+	{
+		code: "V763XXA",
+	},
+	{
+		code: "V763XXD",
+	},
+	{
+		code: "V763XXS",
+	},
+	{
+		code: "V764XXA",
+	},
+	{
+		code: "V764XXD",
+	},
+	{
+		code: "V764XXS",
+	},
+	{
+		code: "V765XXA",
+	},
+	{
+		code: "V765XXD",
+	},
+	{
+		code: "V765XXS",
+	},
+	{
+		code: "V766XXA",
+	},
+	{
+		code: "V766XXD",
+	},
+	{
+		code: "V766XXS",
+	},
+	{
+		code: "V767XXA",
+	},
+	{
+		code: "V767XXD",
+	},
+	{
+		code: "V767XXS",
+	},
+	{
+		code: "V769XXA",
+	},
+	{
+		code: "V769XXD",
+	},
+	{
+		code: "V769XXS",
+	},
+	{
+		code: "V770XXA",
+	},
+	{
+		code: "V770XXD",
+	},
+	{
+		code: "V770XXS",
+	},
+	{
+		code: "V771XXA",
+	},
+	{
+		code: "V771XXD",
+	},
+	{
+		code: "V771XXS",
+	},
+	{
+		code: "V772XXA",
+	},
+	{
+		code: "V772XXD",
+	},
+	{
+		code: "V772XXS",
+	},
+	{
+		code: "V773XXA",
+	},
+	{
+		code: "V773XXD",
+	},
+	{
+		code: "V773XXS",
+	},
+	{
+		code: "V774XXA",
+	},
+	{
+		code: "V774XXD",
+	},
+	{
+		code: "V774XXS",
+	},
+	{
+		code: "V775XXA",
+	},
+	{
+		code: "V775XXD",
+	},
+	{
+		code: "V775XXS",
+	},
+	{
+		code: "V776XXA",
+	},
+	{
+		code: "V776XXD",
+	},
+	{
+		code: "V776XXS",
+	},
+	{
+		code: "V777XXA",
+	},
+	{
+		code: "V777XXD",
+	},
+	{
+		code: "V777XXS",
+	},
+	{
+		code: "V779XXA",
+	},
+	{
+		code: "V779XXD",
+	},
+	{
+		code: "V779XXS",
+	},
+	{
+		code: "V780XXA",
+	},
+	{
+		code: "V780XXD",
+	},
+	{
+		code: "V780XXS",
+	},
+	{
+		code: "V781XXA",
+	},
+	{
+		code: "V781XXD",
+	},
+	{
+		code: "V781XXS",
+	},
+	{
+		code: "V782XXA",
+	},
+	{
+		code: "V782XXD",
+	},
+	{
+		code: "V782XXS",
+	},
+	{
+		code: "V783XXA",
+	},
+	{
+		code: "V783XXD",
+	},
+	{
+		code: "V783XXS",
+	},
+	{
+		code: "V784XXA",
+	},
+	{
+		code: "V784XXD",
+	},
+	{
+		code: "V784XXS",
+	},
+	{
+		code: "V785XXA",
+	},
+	{
+		code: "V785XXD",
+	},
+	{
+		code: "V785XXS",
+	},
+	{
+		code: "V786XXA",
+	},
+	{
+		code: "V786XXD",
+	},
+	{
+		code: "V786XXS",
+	},
+	{
+		code: "V787XXA",
+	},
+	{
+		code: "V787XXD",
+	},
+	{
+		code: "V787XXS",
+	},
+	{
+		code: "V789XXA",
+	},
+	{
+		code: "V789XXD",
+	},
+	{
+		code: "V789XXS",
+	},
+	{
+		code: "V7900XA",
+	},
+	{
+		code: "V7900XD",
+	},
+	{
+		code: "V7900XS",
+	},
+	{
+		code: "V7909XA",
+	},
+	{
+		code: "V7909XD",
+	},
+	{
+		code: "V7909XS",
+	},
+	{
+		code: "V7910XA",
+	},
+	{
+		code: "V7910XD",
+	},
+	{
+		code: "V7910XS",
+	},
+	{
+		code: "V7919XA",
+	},
+	{
+		code: "V7919XD",
+	},
+	{
+		code: "V7919XS",
+	},
+	{
+		code: "V7920XA",
+	},
+	{
+		code: "V7920XD",
+	},
+	{
+		code: "V7920XS",
+	},
+	{
+		code: "V7929XA",
+	},
+	{
+		code: "V7929XD",
+	},
+	{
+		code: "V7929XS",
+	},
+	{
+		code: "V793XXA",
+	},
+	{
+		code: "V793XXD",
+	},
+	{
+		code: "V793XXS",
+	},
+	{
+		code: "V7940XA",
+	},
+	{
+		code: "V7940XD",
+	},
+	{
+		code: "V7940XS",
+	},
+	{
+		code: "V7949XA",
+	},
+	{
+		code: "V7949XD",
+	},
+	{
+		code: "V7949XS",
+	},
+	{
+		code: "V7950XA",
+	},
+	{
+		code: "V7950XD",
+	},
+	{
+		code: "V7950XS",
+	},
+	{
+		code: "V7959XA",
+	},
+	{
+		code: "V7959XD",
+	},
+	{
+		code: "V7959XS",
+	},
+	{
+		code: "V7960XA",
+	},
+	{
+		code: "V7960XD",
+	},
+	{
+		code: "V7960XS",
+	},
+	{
+		code: "V7969XA",
+	},
+	{
+		code: "V7969XD",
+	},
+	{
+		code: "V7969XS",
+	},
+	{
+		code: "V7981XA",
+	},
+	{
+		code: "V7981XD",
+	},
+	{
+		code: "V7981XS",
+	},
+	{
+		code: "V7988XA",
+	},
+	{
+		code: "V7988XD",
+	},
+	{
+		code: "V7988XS",
+	},
+	{
+		code: "V799XXA",
+	},
+	{
+		code: "V799XXD",
+	},
+	{
+		code: "V799XXS",
+	},
+	{
+		code: "V80010A",
+	},
+	{
+		code: "V80010D",
+	},
+	{
+		code: "V80010S",
+	},
+	{
+		code: "V80018A",
+	},
+	{
+		code: "V80018D",
+	},
+	{
+		code: "V80018S",
+	},
+	{
+		code: "V8002XA",
+	},
+	{
+		code: "V8002XD",
+	},
+	{
+		code: "V8002XS",
+	},
+	{
+		code: "V8011XA",
+	},
+	{
+		code: "V8011XD",
+	},
+	{
+		code: "V8011XS",
+	},
+	{
+		code: "V8012XA",
+	},
+	{
+		code: "V8012XD",
+	},
+	{
+		code: "V8012XS",
+	},
+	{
+		code: "V8021XA",
+	},
+	{
+		code: "V8021XD",
+	},
+	{
+		code: "V8021XS",
+	},
+	{
+		code: "V8022XA",
+	},
+	{
+		code: "V8022XD",
+	},
+	{
+		code: "V8022XS",
+	},
+	{
+		code: "V8031XA",
+	},
+	{
+		code: "V8031XD",
+	},
+	{
+		code: "V8031XS",
+	},
+	{
+		code: "V8032XA",
+	},
+	{
+		code: "V8032XD",
+	},
+	{
+		code: "V8032XS",
+	},
+	{
+		code: "V8041XA",
+	},
+	{
+		code: "V8041XD",
+	},
+	{
+		code: "V8041XS",
+	},
+	{
+		code: "V8042XA",
+	},
+	{
+		code: "V8042XD",
+	},
+	{
+		code: "V8042XS",
+	},
+	{
+		code: "V8051XA",
+	},
+	{
+		code: "V8051XD",
+	},
+	{
+		code: "V8051XS",
+	},
+	{
+		code: "V8052XA",
+	},
+	{
+		code: "V8052XD",
+	},
+	{
+		code: "V8052XS",
+	},
+	{
+		code: "V8061XA",
+	},
+	{
+		code: "V8061XD",
+	},
+	{
+		code: "V8061XS",
+	},
+	{
+		code: "V8062XA",
+	},
+	{
+		code: "V8062XD",
+	},
+	{
+		code: "V8062XS",
+	},
+	{
+		code: "V80710A",
+	},
+	{
+		code: "V80710D",
+	},
+	{
+		code: "V80710S",
+	},
+	{
+		code: "V80711A",
+	},
+	{
+		code: "V80711D",
+	},
+	{
+		code: "V80711S",
+	},
+	{
+		code: "V80720A",
+	},
+	{
+		code: "V80720D",
+	},
+	{
+		code: "V80720S",
+	},
+	{
+		code: "V80721A",
+	},
+	{
+		code: "V80721D",
+	},
+	{
+		code: "V80721S",
+	},
+	{
+		code: "V80730A",
+	},
+	{
+		code: "V80730D",
+	},
+	{
+		code: "V80730S",
+	},
+	{
+		code: "V80731A",
+	},
+	{
+		code: "V80731D",
+	},
+	{
+		code: "V80731S",
+	},
+	{
+		code: "V80790A",
+	},
+	{
+		code: "V80790D",
+	},
+	{
+		code: "V80790S",
+	},
+	{
+		code: "V80791A",
+	},
+	{
+		code: "V80791D",
+	},
+	{
+		code: "V80791S",
+	},
+	{
+		code: "V8081XA",
+	},
+	{
+		code: "V8081XD",
+	},
+	{
+		code: "V8081XS",
+	},
+	{
+		code: "V8082XA",
+	},
+	{
+		code: "V8082XD",
+	},
+	{
+		code: "V8082XS",
+	},
+	{
+		code: "V80910A",
+	},
+	{
+		code: "V80910D",
+	},
+	{
+		code: "V80910S",
+	},
+	{
+		code: "V80918A",
+	},
+	{
+		code: "V80918D",
+	},
+	{
+		code: "V80918S",
+	},
+	{
+		code: "V80919A",
+	},
+	{
+		code: "V80919D",
+	},
+	{
+		code: "V80919S",
+	},
+	{
+		code: "V80920A",
+	},
+	{
+		code: "V80920D",
+	},
+	{
+		code: "V80920S",
+	},
+	{
+		code: "V80928A",
+	},
+	{
+		code: "V80928D",
+	},
+	{
+		code: "V80928S",
+	},
+	{
+		code: "V80929A",
+	},
+	{
+		code: "V80929D",
+	},
+	{
+		code: "V80929S",
+	},
+	{
+		code: "V810XXA",
+	},
+	{
+		code: "V810XXD",
+	},
+	{
+		code: "V810XXS",
+	},
+	{
+		code: "V811XXA",
+	},
+	{
+		code: "V811XXD",
+	},
+	{
+		code: "V811XXS",
+	},
+	{
+		code: "V812XXA",
+	},
+	{
+		code: "V812XXD",
+	},
+	{
+		code: "V812XXS",
+	},
+	{
+		code: "V813XXA",
+	},
+	{
+		code: "V813XXD",
+	},
+	{
+		code: "V813XXS",
+	},
+	{
+		code: "V814XXA",
+	},
+	{
+		code: "V814XXD",
+	},
+	{
+		code: "V814XXS",
+	},
+	{
+		code: "V815XXA",
+	},
+	{
+		code: "V815XXD",
+	},
+	{
+		code: "V815XXS",
+	},
+	{
+		code: "V816XXA",
+	},
+	{
+		code: "V816XXD",
+	},
+	{
+		code: "V816XXS",
+	},
+	{
+		code: "V817XXA",
+	},
+	{
+		code: "V817XXD",
+	},
+	{
+		code: "V817XXS",
+	},
+	{
+		code: "V8181XA",
+	},
+	{
+		code: "V8181XD",
+	},
+	{
+		code: "V8181XS",
+	},
+	{
+		code: "V8182XA",
+	},
+	{
+		code: "V8182XD",
+	},
+	{
+		code: "V8182XS",
+	},
+	{
+		code: "V8183XA",
+	},
+	{
+		code: "V8183XD",
+	},
+	{
+		code: "V8183XS",
+	},
+	{
+		code: "V8189XA",
+	},
+	{
+		code: "V8189XD",
+	},
+	{
+		code: "V8189XS",
+	},
+	{
+		code: "V819XXA",
+	},
+	{
+		code: "V819XXD",
+	},
+	{
+		code: "V819XXS",
+	},
+	{
+		code: "V820XXA",
+	},
+	{
+		code: "V820XXD",
+	},
+	{
+		code: "V820XXS",
+	},
+	{
+		code: "V821XXA",
+	},
+	{
+		code: "V821XXD",
+	},
+	{
+		code: "V821XXS",
+	},
+	{
+		code: "V822XXA",
+	},
+	{
+		code: "V822XXD",
+	},
+	{
+		code: "V822XXS",
+	},
+	{
+		code: "V823XXA",
+	},
+	{
+		code: "V823XXD",
+	},
+	{
+		code: "V823XXS",
+	},
+	{
+		code: "V824XXA",
+	},
+	{
+		code: "V824XXD",
+	},
+	{
+		code: "V824XXS",
+	},
+	{
+		code: "V825XXA",
+	},
+	{
+		code: "V825XXD",
+	},
+	{
+		code: "V825XXS",
+	},
+	{
+		code: "V826XXA",
+	},
+	{
+		code: "V826XXD",
+	},
+	{
+		code: "V826XXS",
+	},
+	{
+		code: "V827XXA",
+	},
+	{
+		code: "V827XXD",
+	},
+	{
+		code: "V827XXS",
+	},
+	{
+		code: "V828XXA",
+	},
+	{
+		code: "V828XXD",
+	},
+	{
+		code: "V828XXS",
+	},
+	{
+		code: "V829XXA",
+	},
+	{
+		code: "V829XXD",
+	},
+	{
+		code: "V829XXS",
+	},
+	{
+		code: "V830XXA",
+	},
+	{
+		code: "V830XXD",
+	},
+	{
+		code: "V830XXS",
+	},
+	{
+		code: "V831XXA",
+	},
+	{
+		code: "V831XXD",
+	},
+	{
+		code: "V831XXS",
+	},
+	{
+		code: "V832XXA",
+	},
+	{
+		code: "V832XXD",
+	},
+	{
+		code: "V832XXS",
+	},
+	{
+		code: "V833XXA",
+	},
+	{
+		code: "V833XXD",
+	},
+	{
+		code: "V833XXS",
+	},
+	{
+		code: "V834XXA",
+	},
+	{
+		code: "V834XXD",
+	},
+	{
+		code: "V834XXS",
+	},
+	{
+		code: "V835XXA",
+	},
+	{
+		code: "V835XXD",
+	},
+	{
+		code: "V835XXS",
+	},
+	{
+		code: "V836XXA",
+	},
+	{
+		code: "V836XXD",
+	},
+	{
+		code: "V836XXS",
+	},
+	{
+		code: "V837XXA",
+	},
+	{
+		code: "V837XXD",
+	},
+	{
+		code: "V837XXS",
+	},
+	{
+		code: "V839XXA",
+	},
+	{
+		code: "V839XXD",
+	},
+	{
+		code: "V839XXS",
+	},
+	{
+		code: "V840XXA",
+	},
+	{
+		code: "V840XXD",
+	},
+	{
+		code: "V840XXS",
+	},
+	{
+		code: "V841XXA",
+	},
+	{
+		code: "V841XXD",
+	},
+	{
+		code: "V841XXS",
+	},
+	{
+		code: "V842XXA",
+	},
+	{
+		code: "V842XXD",
+	},
+	{
+		code: "V842XXS",
+	},
+	{
+		code: "V843XXA",
+	},
+	{
+		code: "V843XXD",
+	},
+	{
+		code: "V843XXS",
+	},
+	{
+		code: "V844XXA",
+	},
+	{
+		code: "V844XXD",
+	},
+	{
+		code: "V844XXS",
+	},
+	{
+		code: "V845XXA",
+	},
+	{
+		code: "V845XXD",
+	},
+	{
+		code: "V845XXS",
+	},
+	{
+		code: "V846XXA",
+	},
+	{
+		code: "V846XXD",
+	},
+	{
+		code: "V846XXS",
+	},
+	{
+		code: "V847XXA",
+	},
+	{
+		code: "V847XXD",
+	},
+	{
+		code: "V847XXS",
+	},
+	{
+		code: "V849XXA",
+	},
+	{
+		code: "V849XXD",
+	},
+	{
+		code: "V849XXS",
+	},
+	{
+		code: "V850XXA",
+	},
+	{
+		code: "V850XXD",
+	},
+	{
+		code: "V850XXS",
+	},
+	{
+		code: "V851XXA",
+	},
+	{
+		code: "V851XXD",
+	},
+	{
+		code: "V851XXS",
+	},
+	{
+		code: "V852XXA",
+	},
+	{
+		code: "V852XXD",
+	},
+	{
+		code: "V852XXS",
+	},
+	{
+		code: "V853XXA",
+	},
+	{
+		code: "V853XXD",
+	},
+	{
+		code: "V853XXS",
+	},
+	{
+		code: "V854XXA",
+	},
+	{
+		code: "V854XXD",
+	},
+	{
+		code: "V854XXS",
+	},
+	{
+		code: "V855XXA",
+	},
+	{
+		code: "V855XXD",
+	},
+	{
+		code: "V855XXS",
+	},
+	{
+		code: "V856XXA",
+	},
+	{
+		code: "V856XXD",
+	},
+	{
+		code: "V856XXS",
+	},
+	{
+		code: "V857XXA",
+	},
+	{
+		code: "V857XXD",
+	},
+	{
+		code: "V857XXS",
+	},
+	{
+		code: "V859XXA",
+	},
+	{
+		code: "V859XXD",
+	},
+	{
+		code: "V859XXS",
+	},
+	{
+		code: "V8601XA",
+	},
+	{
+		code: "V8601XD",
+	},
+	{
+		code: "V8601XS",
+	},
+	{
+		code: "V8602XA",
+	},
+	{
+		code: "V8602XD",
+	},
+	{
+		code: "V8602XS",
+	},
+	{
+		code: "V8603XA",
+	},
+	{
+		code: "V8603XD",
+	},
+	{
+		code: "V8603XS",
+	},
+	{
+		code: "V8604XA",
+	},
+	{
+		code: "V8604XD",
+	},
+	{
+		code: "V8604XS",
+	},
+	{
+		code: "V8609XA",
+	},
+	{
+		code: "V8609XD",
+	},
+	{
+		code: "V8609XS",
+	},
+	{
+		code: "V8611XA",
+	},
+	{
+		code: "V8611XD",
+	},
+	{
+		code: "V8611XS",
+	},
+	{
+		code: "V8612XA",
+	},
+	{
+		code: "V8612XD",
+	},
+	{
+		code: "V8612XS",
+	},
+	{
+		code: "V8613XA",
+	},
+	{
+		code: "V8613XD",
+	},
+	{
+		code: "V8613XS",
+	},
+	{
+		code: "V8614XA",
+	},
+	{
+		code: "V8614XD",
+	},
+	{
+		code: "V8614XS",
+	},
+	{
+		code: "V8619XA",
+	},
+	{
+		code: "V8619XD",
+	},
+	{
+		code: "V8619XS",
+	},
+	{
+		code: "V8621XA",
+	},
+	{
+		code: "V8621XD",
+	},
+	{
+		code: "V8621XS",
+	},
+	{
+		code: "V8622XA",
+	},
+	{
+		code: "V8622XD",
+	},
+	{
+		code: "V8622XS",
+	},
+	{
+		code: "V8623XA",
+	},
+	{
+		code: "V8623XD",
+	},
+	{
+		code: "V8623XS",
+	},
+	{
+		code: "V8624XA",
+	},
+	{
+		code: "V8624XD",
+	},
+	{
+		code: "V8624XS",
+	},
+	{
+		code: "V8629XA",
+	},
+	{
+		code: "V8629XD",
+	},
+	{
+		code: "V8629XS",
+	},
+	{
+		code: "V8631XA",
+	},
+	{
+		code: "V8631XD",
+	},
+	{
+		code: "V8631XS",
+	},
+	{
+		code: "V8632XA",
+	},
+	{
+		code: "V8632XD",
+	},
+	{
+		code: "V8632XS",
+	},
+	{
+		code: "V8633XA",
+	},
+	{
+		code: "V8633XD",
+	},
+	{
+		code: "V8633XS",
+	},
+	{
+		code: "V8634XA",
+	},
+	{
+		code: "V8634XD",
+	},
+	{
+		code: "V8634XS",
+	},
+	{
+		code: "V8639XA",
+	},
+	{
+		code: "V8639XD",
+	},
+	{
+		code: "V8639XS",
+	},
+	{
+		code: "V8641XA",
+	},
+	{
+		code: "V8641XD",
+	},
+	{
+		code: "V8641XS",
+	},
+	{
+		code: "V8642XA",
+	},
+	{
+		code: "V8642XD",
+	},
+	{
+		code: "V8642XS",
+	},
+	{
+		code: "V8643XA",
+	},
+	{
+		code: "V8643XD",
+	},
+	{
+		code: "V8643XS",
+	},
+	{
+		code: "V8644XA",
+	},
+	{
+		code: "V8644XD",
+	},
+	{
+		code: "V8644XS",
+	},
+	{
+		code: "V8649XA",
+	},
+	{
+		code: "V8649XD",
+	},
+	{
+		code: "V8649XS",
+	},
+	{
+		code: "V8651XA",
+	},
+	{
+		code: "V8651XD",
+	},
+	{
+		code: "V8651XS",
+	},
+	{
+		code: "V8652XA",
+	},
+	{
+		code: "V8652XD",
+	},
+	{
+		code: "V8652XS",
+	},
+	{
+		code: "V8653XA",
+	},
+	{
+		code: "V8653XD",
+	},
+	{
+		code: "V8653XS",
+	},
+	{
+		code: "V8654XA",
+	},
+	{
+		code: "V8654XD",
+	},
+	{
+		code: "V8654XS",
+	},
+	{
+		code: "V8659XA",
+	},
+	{
+		code: "V8659XD",
+	},
+	{
+		code: "V8659XS",
+	},
+	{
+		code: "V8661XA",
+	},
+	{
+		code: "V8661XD",
+	},
+	{
+		code: "V8661XS",
+	},
+	{
+		code: "V8662XA",
+	},
+	{
+		code: "V8662XD",
+	},
+	{
+		code: "V8662XS",
+	},
+	{
+		code: "V8663XA",
+	},
+	{
+		code: "V8663XD",
+	},
+	{
+		code: "V8663XS",
+	},
+	{
+		code: "V8664XA",
+	},
+	{
+		code: "V8664XD",
+	},
+	{
+		code: "V8664XS",
+	},
+	{
+		code: "V8669XA",
+	},
+	{
+		code: "V8669XD",
+	},
+	{
+		code: "V8669XS",
+	},
+	{
+		code: "V8671XA",
+	},
+	{
+		code: "V8671XD",
+	},
+	{
+		code: "V8671XS",
+	},
+	{
+		code: "V8672XA",
+	},
+	{
+		code: "V8672XD",
+	},
+	{
+		code: "V8672XS",
+	},
+	{
+		code: "V8673XA",
+	},
+	{
+		code: "V8673XD",
+	},
+	{
+		code: "V8673XS",
+	},
+	{
+		code: "V8674XA",
+	},
+	{
+		code: "V8674XD",
+	},
+	{
+		code: "V8674XS",
+	},
+	{
+		code: "V8679XA",
+	},
+	{
+		code: "V8679XD",
+	},
+	{
+		code: "V8679XS",
+	},
+	{
+		code: "V8691XA",
+	},
+	{
+		code: "V8691XD",
+	},
+	{
+		code: "V8691XS",
+	},
+	{
+		code: "V8692XA",
+	},
+	{
+		code: "V8692XD",
+	},
+	{
+		code: "V8692XS",
+	},
+	{
+		code: "V8693XA",
+	},
+	{
+		code: "V8693XD",
+	},
+	{
+		code: "V8693XS",
+	},
+	{
+		code: "V8694XA",
+	},
+	{
+		code: "V8694XD",
+	},
+	{
+		code: "V8694XS",
+	},
+	{
+		code: "V8699XA",
+	},
+	{
+		code: "V8699XD",
+	},
+	{
+		code: "V8699XS",
+	},
+	{
+		code: "V870XXA",
+	},
+	{
+		code: "V870XXD",
+	},
+	{
+		code: "V870XXS",
+	},
+	{
+		code: "V871XXA",
+	},
+	{
+		code: "V871XXD",
+	},
+	{
+		code: "V871XXS",
+	},
+	{
+		code: "V872XXA",
+	},
+	{
+		code: "V872XXD",
+	},
+	{
+		code: "V872XXS",
+	},
+	{
+		code: "V873XXA",
+	},
+	{
+		code: "V873XXD",
+	},
+	{
+		code: "V873XXS",
+	},
+	{
+		code: "V874XXA",
+	},
+	{
+		code: "V874XXD",
+	},
+	{
+		code: "V874XXS",
+	},
+	{
+		code: "V875XXA",
+	},
+	{
+		code: "V875XXD",
+	},
+	{
+		code: "V875XXS",
+	},
+	{
+		code: "V876XXA",
+	},
+	{
+		code: "V876XXD",
+	},
+	{
+		code: "V876XXS",
+	},
+	{
+		code: "V877XXA",
+	},
+	{
+		code: "V877XXD",
+	},
+	{
+		code: "V877XXS",
+	},
+	{
+		code: "V878XXA",
+	},
+	{
+		code: "V878XXD",
+	},
+	{
+		code: "V878XXS",
+	},
+	{
+		code: "V879XXA",
+	},
+	{
+		code: "V879XXD",
+	},
+	{
+		code: "V879XXS",
+	},
+	{
+		code: "V880XXA",
+	},
+	{
+		code: "V880XXD",
+	},
+	{
+		code: "V880XXS",
+	},
+	{
+		code: "V881XXA",
+	},
+	{
+		code: "V881XXD",
+	},
+	{
+		code: "V881XXS",
+	},
+	{
+		code: "V882XXA",
+	},
+	{
+		code: "V882XXD",
+	},
+	{
+		code: "V882XXS",
+	},
+	{
+		code: "V883XXA",
+	},
+	{
+		code: "V883XXD",
+	},
+	{
+		code: "V883XXS",
+	},
+	{
+		code: "V884XXA",
+	},
+	{
+		code: "V884XXD",
+	},
+	{
+		code: "V884XXS",
+	},
+	{
+		code: "V885XXA",
+	},
+	{
+		code: "V885XXD",
+	},
+	{
+		code: "V885XXS",
+	},
+	{
+		code: "V886XXA",
+	},
+	{
+		code: "V886XXD",
+	},
+	{
+		code: "V886XXS",
+	},
+	{
+		code: "V887XXA",
+	},
+	{
+		code: "V887XXD",
+	},
+	{
+		code: "V887XXS",
+	},
+	{
+		code: "V888XXA",
+	},
+	{
+		code: "V888XXD",
+	},
+	{
+		code: "V888XXS",
+	},
+	{
+		code: "V889XXA",
+	},
+	{
+		code: "V889XXD",
+	},
+	{
+		code: "V889XXS",
+	},
+	{
+		code: "V890XXA",
+	},
+	{
+		code: "V890XXD",
+	},
+	{
+		code: "V890XXS",
+	},
+	{
+		code: "V891XXA",
+	},
+	{
+		code: "V891XXD",
+	},
+	{
+		code: "V891XXS",
+	},
+	{
+		code: "V892XXA",
+	},
+	{
+		code: "V892XXD",
+	},
+	{
+		code: "V892XXS",
+	},
+	{
+		code: "V893XXA",
+	},
+	{
+		code: "V893XXD",
+	},
+	{
+		code: "V893XXS",
+	},
+	{
+		code: "V899XXA",
+	},
+	{
+		code: "V899XXD",
+	},
+	{
+		code: "V899XXS",
+	},
+	{
+		code: "V9000XA",
+	},
+	{
+		code: "V9000XD",
+	},
+	{
+		code: "V9000XS",
+	},
+	{
+		code: "V9001XA",
+	},
+	{
+		code: "V9001XD",
+	},
+	{
+		code: "V9001XS",
+	},
+	{
+		code: "V9002XA",
+	},
+	{
+		code: "V9002XD",
+	},
+	{
+		code: "V9002XS",
+	},
+	{
+		code: "V9003XA",
+	},
+	{
+		code: "V9003XD",
+	},
+	{
+		code: "V9003XS",
+	},
+	{
+		code: "V9004XA",
+	},
+	{
+		code: "V9004XD",
+	},
+	{
+		code: "V9004XS",
+	},
+	{
+		code: "V9005XA",
+	},
+	{
+		code: "V9005XD",
+	},
+	{
+		code: "V9005XS",
+	},
+	{
+		code: "V9006XA",
+	},
+	{
+		code: "V9006XD",
+	},
+	{
+		code: "V9006XS",
+	},
+	{
+		code: "V9008XA",
+	},
+	{
+		code: "V9008XD",
+	},
+	{
+		code: "V9008XS",
+	},
+	{
+		code: "V9009XA",
+	},
+	{
+		code: "V9009XD",
+	},
+	{
+		code: "V9009XS",
+	},
+	{
+		code: "V9010XA",
+	},
+	{
+		code: "V9010XD",
+	},
+	{
+		code: "V9010XS",
+	},
+	{
+		code: "V9011XA",
+	},
+	{
+		code: "V9011XD",
+	},
+	{
+		code: "V9011XS",
+	},
+	{
+		code: "V9012XA",
+	},
+	{
+		code: "V9012XD",
+	},
+	{
+		code: "V9012XS",
+	},
+	{
+		code: "V9013XA",
+	},
+	{
+		code: "V9013XD",
+	},
+	{
+		code: "V9013XS",
+	},
+	{
+		code: "V9014XA",
+	},
+	{
+		code: "V9014XD",
+	},
+	{
+		code: "V9014XS",
+	},
+	{
+		code: "V9015XA",
+	},
+	{
+		code: "V9015XD",
+	},
+	{
+		code: "V9015XS",
+	},
+	{
+		code: "V9016XA",
+	},
+	{
+		code: "V9016XD",
+	},
+	{
+		code: "V9016XS",
+	},
+	{
+		code: "V9018XA",
+	},
+	{
+		code: "V9018XD",
+	},
+	{
+		code: "V9018XS",
+	},
+	{
+		code: "V9019XA",
+	},
+	{
+		code: "V9019XD",
+	},
+	{
+		code: "V9019XS",
+	},
+	{
+		code: "V9020XA",
+	},
+	{
+		code: "V9020XD",
+	},
+	{
+		code: "V9020XS",
+	},
+	{
+		code: "V9021XA",
+	},
+	{
+		code: "V9021XD",
+	},
+	{
+		code: "V9021XS",
+	},
+	{
+		code: "V9022XA",
+	},
+	{
+		code: "V9022XD",
+	},
+	{
+		code: "V9022XS",
+	},
+	{
+		code: "V9023XA",
+	},
+	{
+		code: "V9023XD",
+	},
+	{
+		code: "V9023XS",
+	},
+	{
+		code: "V9024XA",
+	},
+	{
+		code: "V9024XD",
+	},
+	{
+		code: "V9024XS",
+	},
+	{
+		code: "V9025XA",
+	},
+	{
+		code: "V9025XD",
+	},
+	{
+		code: "V9025XS",
+	},
+	{
+		code: "V9026XA",
+	},
+	{
+		code: "V9026XD",
+	},
+	{
+		code: "V9026XS",
+	},
+	{
+		code: "V9027XA",
+	},
+	{
+		code: "V9027XD",
+	},
+	{
+		code: "V9027XS",
+	},
+	{
+		code: "V9028XA",
+	},
+	{
+		code: "V9028XD",
+	},
+	{
+		code: "V9028XS",
+	},
+	{
+		code: "V9029XA",
+	},
+	{
+		code: "V9029XD",
+	},
+	{
+		code: "V9029XS",
+	},
+	{
+		code: "V9030XA",
+	},
+	{
+		code: "V9030XD",
+	},
+	{
+		code: "V9030XS",
+	},
+	{
+		code: "V9031XA",
+	},
+	{
+		code: "V9031XD",
+	},
+	{
+		code: "V9031XS",
+	},
+	{
+		code: "V9032XA",
+	},
+	{
+		code: "V9032XD",
+	},
+	{
+		code: "V9032XS",
+	},
+	{
+		code: "V9033XA",
+	},
+	{
+		code: "V9033XD",
+	},
+	{
+		code: "V9033XS",
+	},
+	{
+		code: "V9034XA",
+	},
+	{
+		code: "V9034XD",
+	},
+	{
+		code: "V9034XS",
+	},
+	{
+		code: "V9035XA",
+	},
+	{
+		code: "V9035XD",
+	},
+	{
+		code: "V9035XS",
+	},
+	{
+		code: "V9036XA",
+	},
+	{
+		code: "V9036XD",
+	},
+	{
+		code: "V9036XS",
+	},
+	{
+		code: "V9037XA",
+	},
+	{
+		code: "V9037XD",
+	},
+	{
+		code: "V9037XS",
+	},
+	{
+		code: "V9038XA",
+	},
+	{
+		code: "V9038XD",
+	},
+	{
+		code: "V9038XS",
+	},
+	{
+		code: "V9039XA",
+	},
+	{
+		code: "V9039XD",
+	},
+	{
+		code: "V9039XS",
+	},
+	{
+		code: "V9080XA",
+	},
+	{
+		code: "V9080XD",
+	},
+	{
+		code: "V9080XS",
+	},
+	{
+		code: "V9081XA",
+	},
+	{
+		code: "V9081XD",
+	},
+	{
+		code: "V9081XS",
+	},
+	{
+		code: "V9082XA",
+	},
+	{
+		code: "V9082XD",
+	},
+	{
+		code: "V9082XS",
+	},
+	{
+		code: "V9083XA",
+	},
+	{
+		code: "V9083XD",
+	},
+	{
+		code: "V9083XS",
+	},
+	{
+		code: "V9084XA",
+	},
+	{
+		code: "V9084XD",
+	},
+	{
+		code: "V9084XS",
+	},
+	{
+		code: "V9085XA",
+	},
+	{
+		code: "V9085XD",
+	},
+	{
+		code: "V9085XS",
+	},
+	{
+		code: "V9086XA",
+	},
+	{
+		code: "V9086XD",
+	},
+	{
+		code: "V9086XS",
+	},
+	{
+		code: "V9087XA",
+	},
+	{
+		code: "V9087XD",
+	},
+	{
+		code: "V9087XS",
+	},
+	{
+		code: "V9088XA",
+	},
+	{
+		code: "V9088XD",
+	},
+	{
+		code: "V9088XS",
+	},
+	{
+		code: "V9089XA",
+	},
+	{
+		code: "V9089XD",
+	},
+	{
+		code: "V9089XS",
+	},
+	{
+		code: "V9100XA",
+	},
+	{
+		code: "V9100XD",
+	},
+	{
+		code: "V9100XS",
+	},
+	{
+		code: "V9101XA",
+	},
+	{
+		code: "V9101XD",
+	},
+	{
+		code: "V9101XS",
+	},
+	{
+		code: "V9102XA",
+	},
+	{
+		code: "V9102XD",
+	},
+	{
+		code: "V9102XS",
+	},
+	{
+		code: "V9103XA",
+	},
+	{
+		code: "V9103XD",
+	},
+	{
+		code: "V9103XS",
+	},
+	{
+		code: "V9104XA",
+	},
+	{
+		code: "V9104XD",
+	},
+	{
+		code: "V9104XS",
+	},
+	{
+		code: "V9105XA",
+	},
+	{
+		code: "V9105XD",
+	},
+	{
+		code: "V9105XS",
+	},
+	{
+		code: "V9106XA",
+	},
+	{
+		code: "V9106XD",
+	},
+	{
+		code: "V9106XS",
+	},
+	{
+		code: "V9107XA",
+	},
+	{
+		code: "V9107XD",
+	},
+	{
+		code: "V9107XS",
+	},
+	{
+		code: "V9108XA",
+	},
+	{
+		code: "V9108XD",
+	},
+	{
+		code: "V9108XS",
+	},
+	{
+		code: "V9109XA",
+	},
+	{
+		code: "V9109XD",
+	},
+	{
+		code: "V9109XS",
+	},
+	{
+		code: "V9110XA",
+	},
+	{
+		code: "V9110XD",
+	},
+	{
+		code: "V9110XS",
+	},
+	{
+		code: "V9111XA",
+	},
+	{
+		code: "V9111XD",
+	},
+	{
+		code: "V9111XS",
+	},
+	{
+		code: "V9112XA",
+	},
+	{
+		code: "V9112XD",
+	},
+	{
+		code: "V9112XS",
+	},
+	{
+		code: "V9113XA",
+	},
+	{
+		code: "V9113XD",
+	},
+	{
+		code: "V9113XS",
+	},
+	{
+		code: "V9114XA",
+	},
+	{
+		code: "V9114XD",
+	},
+	{
+		code: "V9114XS",
+	},
+	{
+		code: "V9115XA",
+	},
+	{
+		code: "V9115XD",
+	},
+	{
+		code: "V9115XS",
+	},
+	{
+		code: "V9116XA",
+	},
+	{
+		code: "V9116XD",
+	},
+	{
+		code: "V9116XS",
+	},
+	{
+		code: "V9118XA",
+	},
+	{
+		code: "V9118XD",
+	},
+	{
+		code: "V9118XS",
+	},
+	{
+		code: "V9119XA",
+	},
+	{
+		code: "V9119XD",
+	},
+	{
+		code: "V9119XS",
+	},
+	{
+		code: "V9120XA",
+	},
+	{
+		code: "V9120XD",
+	},
+	{
+		code: "V9120XS",
+	},
+	{
+		code: "V9121XA",
+	},
+	{
+		code: "V9121XD",
+	},
+	{
+		code: "V9121XS",
+	},
+	{
+		code: "V9122XA",
+	},
+	{
+		code: "V9122XD",
+	},
+	{
+		code: "V9122XS",
+	},
+	{
+		code: "V9123XA",
+	},
+	{
+		code: "V9123XD",
+	},
+	{
+		code: "V9123XS",
+	},
+	{
+		code: "V9124XA",
+	},
+	{
+		code: "V9124XD",
+	},
+	{
+		code: "V9124XS",
+	},
+	{
+		code: "V9125XA",
+	},
+	{
+		code: "V9125XD",
+	},
+	{
+		code: "V9125XS",
+	},
+	{
+		code: "V9126XA",
+	},
+	{
+		code: "V9126XD",
+	},
+	{
+		code: "V9126XS",
+	},
+	{
+		code: "V9129XA",
+	},
+	{
+		code: "V9129XD",
+	},
+	{
+		code: "V9129XS",
+	},
+	{
+		code: "V9130XA",
+	},
+	{
+		code: "V9130XD",
+	},
+	{
+		code: "V9130XS",
+	},
+	{
+		code: "V9131XA",
+	},
+	{
+		code: "V9131XD",
+	},
+	{
+		code: "V9131XS",
+	},
+	{
+		code: "V9132XA",
+	},
+	{
+		code: "V9132XD",
+	},
+	{
+		code: "V9132XS",
+	},
+	{
+		code: "V9133XA",
+	},
+	{
+		code: "V9133XD",
+	},
+	{
+		code: "V9133XS",
+	},
+	{
+		code: "V9134XA",
+	},
+	{
+		code: "V9134XD",
+	},
+	{
+		code: "V9134XS",
+	},
+	{
+		code: "V9135XA",
+	},
+	{
+		code: "V9135XD",
+	},
+	{
+		code: "V9135XS",
+	},
+	{
+		code: "V9136XA",
+	},
+	{
+		code: "V9136XD",
+	},
+	{
+		code: "V9136XS",
+	},
+	{
+		code: "V9137XA",
+	},
+	{
+		code: "V9137XD",
+	},
+	{
+		code: "V9137XS",
+	},
+	{
+		code: "V9138XA",
+	},
+	{
+		code: "V9138XD",
+	},
+	{
+		code: "V9138XS",
+	},
+	{
+		code: "V9139XA",
+	},
+	{
+		code: "V9139XD",
+	},
+	{
+		code: "V9139XS",
+	},
+	{
+		code: "V9180XA",
+	},
+	{
+		code: "V9180XD",
+	},
+	{
+		code: "V9180XS",
+	},
+	{
+		code: "V9181XA",
+	},
+	{
+		code: "V9181XD",
+	},
+	{
+		code: "V9181XS",
+	},
+	{
+		code: "V9182XA",
+	},
+	{
+		code: "V9182XD",
+	},
+	{
+		code: "V9182XS",
+	},
+	{
+		code: "V9183XA",
+	},
+	{
+		code: "V9183XD",
+	},
+	{
+		code: "V9183XS",
+	},
+	{
+		code: "V9184XA",
+	},
+	{
+		code: "V9184XD",
+	},
+	{
+		code: "V9184XS",
+	},
+	{
+		code: "V9185XA",
+	},
+	{
+		code: "V9185XD",
+	},
+	{
+		code: "V9185XS",
+	},
+	{
+		code: "V9186XA",
+	},
+	{
+		code: "V9186XD",
+	},
+	{
+		code: "V9186XS",
+	},
+	{
+		code: "V9187XA",
+	},
+	{
+		code: "V9187XD",
+	},
+	{
+		code: "V9187XS",
+	},
+	{
+		code: "V9188XA",
+	},
+	{
+		code: "V9188XD",
+	},
+	{
+		code: "V9188XS",
+	},
+	{
+		code: "V9189XA",
+	},
+	{
+		code: "V9189XD",
+	},
+	{
+		code: "V9189XS",
+	},
+	{
+		code: "V9200XA",
+	},
+	{
+		code: "V9200XD",
+	},
+	{
+		code: "V9200XS",
+	},
+	{
+		code: "V9201XA",
+	},
+	{
+		code: "V9201XD",
+	},
+	{
+		code: "V9201XS",
+	},
+	{
+		code: "V9202XA",
+	},
+	{
+		code: "V9202XD",
+	},
+	{
+		code: "V9202XS",
+	},
+	{
+		code: "V9203XA",
+	},
+	{
+		code: "V9203XD",
+	},
+	{
+		code: "V9203XS",
+	},
+	{
+		code: "V9204XA",
+	},
+	{
+		code: "V9204XD",
+	},
+	{
+		code: "V9204XS",
+	},
+	{
+		code: "V9205XA",
+	},
+	{
+		code: "V9205XD",
+	},
+	{
+		code: "V9205XS",
+	},
+	{
+		code: "V9206XA",
+	},
+	{
+		code: "V9206XD",
+	},
+	{
+		code: "V9206XS",
+	},
+	{
+		code: "V9207XA",
+	},
+	{
+		code: "V9207XD",
+	},
+	{
+		code: "V9207XS",
+	},
+	{
+		code: "V9208XA",
+	},
+	{
+		code: "V9208XD",
+	},
+	{
+		code: "V9208XS",
+	},
+	{
+		code: "V9209XA",
+	},
+	{
+		code: "V9209XD",
+	},
+	{
+		code: "V9209XS",
+	},
+	{
+		code: "V9210XA",
+	},
+	{
+		code: "V9210XD",
+	},
+	{
+		code: "V9210XS",
+	},
+	{
+		code: "V9211XA",
+	},
+	{
+		code: "V9211XD",
+	},
+	{
+		code: "V9211XS",
+	},
+	{
+		code: "V9212XA",
+	},
+	{
+		code: "V9212XD",
+	},
+	{
+		code: "V9212XS",
+	},
+	{
+		code: "V9213XA",
+	},
+	{
+		code: "V9213XD",
+	},
+	{
+		code: "V9213XS",
+	},
+	{
+		code: "V9214XA",
+	},
+	{
+		code: "V9214XD",
+	},
+	{
+		code: "V9214XS",
+	},
+	{
+		code: "V9215XA",
+	},
+	{
+		code: "V9215XD",
+	},
+	{
+		code: "V9215XS",
+	},
+	{
+		code: "V9216XA",
+	},
+	{
+		code: "V9216XD",
+	},
+	{
+		code: "V9216XS",
+	},
+	{
+		code: "V9219XA",
+	},
+	{
+		code: "V9219XD",
+	},
+	{
+		code: "V9219XS",
+	},
+	{
+		code: "V9220XA",
+	},
+	{
+		code: "V9220XD",
+	},
+	{
+		code: "V9220XS",
+	},
+	{
+		code: "V9221XA",
+	},
+	{
+		code: "V9221XD",
+	},
+	{
+		code: "V9221XS",
+	},
+	{
+		code: "V9222XA",
+	},
+	{
+		code: "V9222XD",
+	},
+	{
+		code: "V9222XS",
+	},
+	{
+		code: "V9223XA",
+	},
+	{
+		code: "V9223XD",
+	},
+	{
+		code: "V9223XS",
+	},
+	{
+		code: "V9224XA",
+	},
+	{
+		code: "V9224XD",
+	},
+	{
+		code: "V9224XS",
+	},
+	{
+		code: "V9225XA",
+	},
+	{
+		code: "V9225XD",
+	},
+	{
+		code: "V9225XS",
+	},
+	{
+		code: "V9226XA",
+	},
+	{
+		code: "V9226XD",
+	},
+	{
+		code: "V9226XS",
+	},
+	{
+		code: "V9227XA",
+	},
+	{
+		code: "V9227XD",
+	},
+	{
+		code: "V9227XS",
+	},
+	{
+		code: "V9228XA",
+	},
+	{
+		code: "V9228XD",
+	},
+	{
+		code: "V9228XS",
+	},
+	{
+		code: "V9229XA",
+	},
+	{
+		code: "V9229XD",
+	},
+	{
+		code: "V9229XS",
+	},
+	{
+		code: "V9300XA",
+	},
+	{
+		code: "V9300XD",
+	},
+	{
+		code: "V9300XS",
+	},
+	{
+		code: "V9301XA",
+	},
+	{
+		code: "V9301XD",
+	},
+	{
+		code: "V9301XS",
+	},
+	{
+		code: "V9302XA",
+	},
+	{
+		code: "V9302XD",
+	},
+	{
+		code: "V9302XS",
+	},
+	{
+		code: "V9303XA",
+	},
+	{
+		code: "V9303XD",
+	},
+	{
+		code: "V9303XS",
+	},
+	{
+		code: "V9304XA",
+	},
+	{
+		code: "V9304XD",
+	},
+	{
+		code: "V9304XS",
+	},
+	{
+		code: "V9309XA",
+	},
+	{
+		code: "V9309XD",
+	},
+	{
+		code: "V9309XS",
+	},
+	{
+		code: "V9310XA",
+	},
+	{
+		code: "V9310XD",
+	},
+	{
+		code: "V9310XS",
+	},
+	{
+		code: "V9311XA",
+	},
+	{
+		code: "V9311XD",
+	},
+	{
+		code: "V9311XS",
+	},
+	{
+		code: "V9312XA",
+	},
+	{
+		code: "V9312XD",
+	},
+	{
+		code: "V9312XS",
+	},
+	{
+		code: "V9313XA",
+	},
+	{
+		code: "V9313XD",
+	},
+	{
+		code: "V9313XS",
+	},
+	{
+		code: "V9314XA",
+	},
+	{
+		code: "V9314XD",
+	},
+	{
+		code: "V9314XS",
+	},
+	{
+		code: "V9319XA",
+	},
+	{
+		code: "V9319XD",
+	},
+	{
+		code: "V9319XS",
+	},
+	{
+		code: "V9320XA",
+	},
+	{
+		code: "V9320XD",
+	},
+	{
+		code: "V9320XS",
+	},
+	{
+		code: "V9321XA",
+	},
+	{
+		code: "V9321XD",
+	},
+	{
+		code: "V9321XS",
+	},
+	{
+		code: "V9322XA",
+	},
+	{
+		code: "V9322XD",
+	},
+	{
+		code: "V9322XS",
+	},
+	{
+		code: "V9323XA",
+	},
+	{
+		code: "V9323XD",
+	},
+	{
+		code: "V9323XS",
+	},
+	{
+		code: "V9324XA",
+	},
+	{
+		code: "V9324XD",
+	},
+	{
+		code: "V9324XS",
+	},
+	{
+		code: "V9329XA",
+	},
+	{
+		code: "V9329XD",
+	},
+	{
+		code: "V9329XS",
+	},
+	{
+		code: "V9330XA",
+	},
+	{
+		code: "V9330XD",
+	},
+	{
+		code: "V9330XS",
+	},
+	{
+		code: "V9331XA",
+	},
+	{
+		code: "V9331XD",
+	},
+	{
+		code: "V9331XS",
+	},
+	{
+		code: "V9332XA",
+	},
+	{
+		code: "V9332XD",
+	},
+	{
+		code: "V9332XS",
+	},
+	{
+		code: "V9333XA",
+	},
+	{
+		code: "V9333XD",
+	},
+	{
+		code: "V9333XS",
+	},
+	{
+		code: "V9334XA",
+	},
+	{
+		code: "V9334XD",
+	},
+	{
+		code: "V9334XS",
+	},
+	{
+		code: "V9335XA",
+	},
+	{
+		code: "V9335XD",
+	},
+	{
+		code: "V9335XS",
+	},
+	{
+		code: "V9336XA",
+	},
+	{
+		code: "V9336XD",
+	},
+	{
+		code: "V9336XS",
+	},
+	{
+		code: "V9338XA",
+	},
+	{
+		code: "V9338XD",
+	},
+	{
+		code: "V9338XS",
+	},
+	{
+		code: "V9339XA",
+	},
+	{
+		code: "V9339XD",
+	},
+	{
+		code: "V9339XS",
+	},
+	{
+		code: "V9340XA",
+	},
+	{
+		code: "V9340XD",
+	},
+	{
+		code: "V9340XS",
+	},
+	{
+		code: "V9341XA",
+	},
+	{
+		code: "V9341XD",
+	},
+	{
+		code: "V9341XS",
+	},
+	{
+		code: "V9342XA",
+	},
+	{
+		code: "V9342XD",
+	},
+	{
+		code: "V9342XS",
+	},
+	{
+		code: "V9343XA",
+	},
+	{
+		code: "V9343XD",
+	},
+	{
+		code: "V9343XS",
+	},
+	{
+		code: "V9344XA",
+	},
+	{
+		code: "V9344XD",
+	},
+	{
+		code: "V9344XS",
+	},
+	{
+		code: "V9348XA",
+	},
+	{
+		code: "V9348XD",
+	},
+	{
+		code: "V9348XS",
+	},
+	{
+		code: "V9349XA",
+	},
+	{
+		code: "V9349XD",
+	},
+	{
+		code: "V9349XS",
+	},
+	{
+		code: "V9350XA",
+	},
+	{
+		code: "V9350XD",
+	},
+	{
+		code: "V9350XS",
+	},
+	{
+		code: "V9351XA",
+	},
+	{
+		code: "V9351XD",
+	},
+	{
+		code: "V9351XS",
+	},
+	{
+		code: "V9352XA",
+	},
+	{
+		code: "V9352XD",
+	},
+	{
+		code: "V9352XS",
+	},
+	{
+		code: "V9353XA",
+	},
+	{
+		code: "V9353XD",
+	},
+	{
+		code: "V9353XS",
+	},
+	{
+		code: "V9354XA",
+	},
+	{
+		code: "V9354XD",
+	},
+	{
+		code: "V9354XS",
+	},
+	{
+		code: "V9359XA",
+	},
+	{
+		code: "V9359XD",
+	},
+	{
+		code: "V9359XS",
+	},
+	{
+		code: "V9360XA",
+	},
+	{
+		code: "V9360XD",
+	},
+	{
+		code: "V9360XS",
+	},
+	{
+		code: "V9361XA",
+	},
+	{
+		code: "V9361XD",
+	},
+	{
+		code: "V9361XS",
+	},
+	{
+		code: "V9362XA",
+	},
+	{
+		code: "V9362XD",
+	},
+	{
+		code: "V9362XS",
+	},
+	{
+		code: "V9363XA",
+	},
+	{
+		code: "V9363XD",
+	},
+	{
+		code: "V9363XS",
+	},
+	{
+		code: "V9364XA",
+	},
+	{
+		code: "V9364XD",
+	},
+	{
+		code: "V9364XS",
+	},
+	{
+		code: "V9369XA",
+	},
+	{
+		code: "V9369XD",
+	},
+	{
+		code: "V9369XS",
+	},
+	{
+		code: "V9380XA",
+	},
+	{
+		code: "V9380XD",
+	},
+	{
+		code: "V9380XS",
+	},
+	{
+		code: "V9381XA",
+	},
+	{
+		code: "V9381XD",
+	},
+	{
+		code: "V9381XS",
+	},
+	{
+		code: "V9382XA",
+	},
+	{
+		code: "V9382XD",
+	},
+	{
+		code: "V9382XS",
+	},
+	{
+		code: "V9383XA",
+	},
+	{
+		code: "V9383XD",
+	},
+	{
+		code: "V9383XS",
+	},
+	{
+		code: "V9384XA",
+	},
+	{
+		code: "V9384XD",
+	},
+	{
+		code: "V9384XS",
+	},
+	{
+		code: "V9385XA",
+	},
+	{
+		code: "V9385XD",
+	},
+	{
+		code: "V9385XS",
+	},
+	{
+		code: "V9386XA",
+	},
+	{
+		code: "V9386XD",
+	},
+	{
+		code: "V9386XS",
+	},
+	{
+		code: "V9387XA",
+	},
+	{
+		code: "V9387XD",
+	},
+	{
+		code: "V9387XS",
+	},
+	{
+		code: "V9388XA",
+	},
+	{
+		code: "V9388XD",
+	},
+	{
+		code: "V9388XS",
+	},
+	{
+		code: "V9389XA",
+	},
+	{
+		code: "V9389XD",
+	},
+	{
+		code: "V9389XS",
+	},
+	{
+		code: "V940XXA",
+	},
+	{
+		code: "V940XXD",
+	},
+	{
+		code: "V940XXS",
+	},
+	{
+		code: "V9411XA",
+	},
+	{
+		code: "V9411XD",
+	},
+	{
+		code: "V9411XS",
+	},
+	{
+		code: "V9412XA",
+	},
+	{
+		code: "V9412XD",
+	},
+	{
+		code: "V9412XS",
+	},
+	{
+		code: "V9421XA",
+	},
+	{
+		code: "V9421XD",
+	},
+	{
+		code: "V9421XS",
+	},
+	{
+		code: "V9422XA",
+	},
+	{
+		code: "V9422XD",
+	},
+	{
+		code: "V9422XS",
+	},
+	{
+		code: "V9431XA",
+	},
+	{
+		code: "V9431XD",
+	},
+	{
+		code: "V9431XS",
+	},
+	{
+		code: "V9432XA",
+	},
+	{
+		code: "V9432XD",
+	},
+	{
+		code: "V9432XS",
+	},
+	{
+		code: "V944XXA",
+	},
+	{
+		code: "V944XXD",
+	},
+	{
+		code: "V944XXS",
+	},
+	{
+		code: "V94810A",
+	},
+	{
+		code: "V94810D",
+	},
+	{
+		code: "V94810S",
+	},
+	{
+		code: "V94811A",
+	},
+	{
+		code: "V94811D",
+	},
+	{
+		code: "V94811S",
+	},
+	{
+		code: "V94818A",
+	},
+	{
+		code: "V94818D",
+	},
+	{
+		code: "V94818S",
+	},
+	{
+		code: "V9489XA",
+	},
+	{
+		code: "V9489XD",
+	},
+	{
+		code: "V9489XS",
+	},
+	{
+		code: "V949XXA",
+	},
+	{
+		code: "V949XXD",
+	},
+	{
+		code: "V949XXS",
+	},
+	{
+		code: "V9500XA",
+	},
+	{
+		code: "V9500XD",
+	},
+	{
+		code: "V9500XS",
+	},
+	{
+		code: "V9501XA",
+	},
+	{
+		code: "V9501XD",
+	},
+	{
+		code: "V9501XS",
+	},
+	{
+		code: "V9502XA",
+	},
+	{
+		code: "V9502XD",
+	},
+	{
+		code: "V9502XS",
+	},
+	{
+		code: "V9503XA",
+	},
+	{
+		code: "V9503XD",
+	},
+	{
+		code: "V9503XS",
+	},
+	{
+		code: "V9504XA",
+	},
+	{
+		code: "V9504XD",
+	},
+	{
+		code: "V9504XS",
+	},
+	{
+		code: "V9505XA",
+	},
+	{
+		code: "V9505XD",
+	},
+	{
+		code: "V9505XS",
+	},
+	{
+		code: "V9509XA",
+	},
+	{
+		code: "V9509XD",
+	},
+	{
+		code: "V9509XS",
+	},
+	{
+		code: "V9510XA",
+	},
+	{
+		code: "V9510XD",
+	},
+	{
+		code: "V9510XS",
+	},
+	{
+		code: "V9511XA",
+	},
+	{
+		code: "V9511XD",
+	},
+	{
+		code: "V9511XS",
+	},
+	{
+		code: "V9512XA",
+	},
+	{
+		code: "V9512XD",
+	},
+	{
+		code: "V9512XS",
+	},
+	{
+		code: "V9513XA",
+	},
+	{
+		code: "V9513XD",
+	},
+	{
+		code: "V9513XS",
+	},
+	{
+		code: "V9514XA",
+	},
+	{
+		code: "V9514XD",
+	},
+	{
+		code: "V9514XS",
+	},
+	{
+		code: "V9515XA",
+	},
+	{
+		code: "V9515XD",
+	},
+	{
+		code: "V9515XS",
+	},
+	{
+		code: "V9519XA",
+	},
+	{
+		code: "V9519XD",
+	},
+	{
+		code: "V9519XS",
+	},
+	{
+		code: "V9520XA",
+	},
+	{
+		code: "V9520XD",
+	},
+	{
+		code: "V9520XS",
+	},
+	{
+		code: "V9521XA",
+	},
+	{
+		code: "V9521XD",
+	},
+	{
+		code: "V9521XS",
+	},
+	{
+		code: "V9522XA",
+	},
+	{
+		code: "V9522XD",
+	},
+	{
+		code: "V9522XS",
+	},
+	{
+		code: "V9523XA",
+	},
+	{
+		code: "V9523XD",
+	},
+	{
+		code: "V9523XS",
+	},
+	{
+		code: "V9524XA",
+	},
+	{
+		code: "V9524XD",
+	},
+	{
+		code: "V9524XS",
+	},
+	{
+		code: "V9525XA",
+	},
+	{
+		code: "V9525XD",
+	},
+	{
+		code: "V9525XS",
+	},
+	{
+		code: "V9529XA",
+	},
+	{
+		code: "V9529XD",
+	},
+	{
+		code: "V9529XS",
+	},
+	{
+		code: "V9530XA",
+	},
+	{
+		code: "V9530XD",
+	},
+	{
+		code: "V9530XS",
+	},
+	{
+		code: "V9531XA",
+	},
+	{
+		code: "V9531XD",
+	},
+	{
+		code: "V9531XS",
+	},
+	{
+		code: "V9532XA",
+	},
+	{
+		code: "V9532XD",
+	},
+	{
+		code: "V9532XS",
+	},
+	{
+		code: "V9533XA",
+	},
+	{
+		code: "V9533XD",
+	},
+	{
+		code: "V9533XS",
+	},
+	{
+		code: "V9534XA",
+	},
+	{
+		code: "V9534XD",
+	},
+	{
+		code: "V9534XS",
+	},
+	{
+		code: "V9535XA",
+	},
+	{
+		code: "V9535XD",
+	},
+	{
+		code: "V9535XS",
+	},
+	{
+		code: "V9539XA",
+	},
+	{
+		code: "V9539XD",
+	},
+	{
+		code: "V9539XS",
+	},
+	{
+		code: "V9540XA",
+	},
+	{
+		code: "V9540XD",
+	},
+	{
+		code: "V9540XS",
+	},
+	{
+		code: "V9541XA",
+	},
+	{
+		code: "V9541XD",
+	},
+	{
+		code: "V9541XS",
+	},
+	{
+		code: "V9542XA",
+	},
+	{
+		code: "V9542XD",
+	},
+	{
+		code: "V9542XS",
+	},
+	{
+		code: "V9543XA",
+	},
+	{
+		code: "V9543XD",
+	},
+	{
+		code: "V9543XS",
+	},
+	{
+		code: "V9544XA",
+	},
+	{
+		code: "V9544XD",
+	},
+	{
+		code: "V9544XS",
+	},
+	{
+		code: "V9545XA",
+	},
+	{
+		code: "V9545XD",
+	},
+	{
+		code: "V9545XS",
+	},
+	{
+		code: "V9549XA",
+	},
+	{
+		code: "V9549XD",
+	},
+	{
+		code: "V9549XS",
+	},
+	{
+		code: "V958XXA",
+	},
+	{
+		code: "V958XXD",
+	},
+	{
+		code: "V958XXS",
+	},
+	{
+		code: "V959XXA",
+	},
+	{
+		code: "V959XXD",
+	},
+	{
+		code: "V959XXS",
+	},
+	{
+		code: "V9600XA",
+	},
+	{
+		code: "V9600XD",
+	},
+	{
+		code: "V9600XS",
+	},
+	{
+		code: "V9601XA",
+	},
+	{
+		code: "V9601XD",
+	},
+	{
+		code: "V9601XS",
+	},
+	{
+		code: "V9602XA",
+	},
+	{
+		code: "V9602XD",
+	},
+	{
+		code: "V9602XS",
+	},
+	{
+		code: "V9603XA",
+	},
+	{
+		code: "V9603XD",
+	},
+	{
+		code: "V9603XS",
+	},
+	{
+		code: "V9604XA",
+	},
+	{
+		code: "V9604XD",
+	},
+	{
+		code: "V9604XS",
+	},
+	{
+		code: "V9605XA",
+	},
+	{
+		code: "V9605XD",
+	},
+	{
+		code: "V9605XS",
+	},
+	{
+		code: "V9609XA",
+	},
+	{
+		code: "V9609XD",
+	},
+	{
+		code: "V9609XS",
+	},
+	{
+		code: "V9610XA",
+	},
+	{
+		code: "V9610XD",
+	},
+	{
+		code: "V9610XS",
+	},
+	{
+		code: "V9611XA",
+	},
+	{
+		code: "V9611XD",
+	},
+	{
+		code: "V9611XS",
+	},
+	{
+		code: "V9612XA",
+	},
+	{
+		code: "V9612XD",
+	},
+	{
+		code: "V9612XS",
+	},
+	{
+		code: "V9613XA",
+	},
+	{
+		code: "V9613XD",
+	},
+	{
+		code: "V9613XS",
+	},
+	{
+		code: "V9614XA",
+	},
+	{
+		code: "V9614XD",
+	},
+	{
+		code: "V9614XS",
+	},
+	{
+		code: "V9615XA",
+	},
+	{
+		code: "V9615XD",
+	},
+	{
+		code: "V9615XS",
+	},
+	{
+		code: "V9619XA",
+	},
+	{
+		code: "V9619XD",
+	},
+	{
+		code: "V9619XS",
+	},
+	{
+		code: "V9620XA",
+	},
+	{
+		code: "V9620XD",
+	},
+	{
+		code: "V9620XS",
+	},
+	{
+		code: "V9621XA",
+	},
+	{
+		code: "V9621XD",
+	},
+	{
+		code: "V9621XS",
+	},
+	{
+		code: "V9622XA",
+	},
+	{
+		code: "V9622XD",
+	},
+	{
+		code: "V9622XS",
+	},
+	{
+		code: "V9623XA",
+	},
+	{
+		code: "V9623XD",
+	},
+	{
+		code: "V9623XS",
+	},
+	{
+		code: "V9624XA",
+	},
+	{
+		code: "V9624XD",
+	},
+	{
+		code: "V9624XS",
+	},
+	{
+		code: "V9625XA",
+	},
+	{
+		code: "V9625XD",
+	},
+	{
+		code: "V9625XS",
+	},
+	{
+		code: "V9629XA",
+	},
+	{
+		code: "V9629XD",
+	},
+	{
+		code: "V9629XS",
+	},
+	{
+		code: "V968XXA",
+	},
+	{
+		code: "V968XXD",
+	},
+	{
+		code: "V968XXS",
+	},
+	{
+		code: "V969XXA",
+	},
+	{
+		code: "V969XXD",
+	},
+	{
+		code: "V969XXS",
+	},
+	{
+		code: "V970XXA",
+	},
+	{
+		code: "V970XXD",
+	},
+	{
+		code: "V970XXS",
+	},
+	{
+		code: "V971XXA",
+	},
+	{
+		code: "V971XXD",
+	},
+	{
+		code: "V971XXS",
+	},
+	{
+		code: "V9721XA",
+	},
+	{
+		code: "V9721XD",
+	},
+	{
+		code: "V9721XS",
+	},
+	{
+		code: "V9722XA",
+	},
+	{
+		code: "V9722XD",
+	},
+	{
+		code: "V9722XS",
+	},
+	{
+		code: "V9729XA",
+	},
+	{
+		code: "V9729XD",
+	},
+	{
+		code: "V9729XS",
+	},
+	{
+		code: "V9731XA",
+	},
+	{
+		code: "V9731XD",
+	},
+	{
+		code: "V9731XS",
+	},
+	{
+		code: "V9732XA",
+	},
+	{
+		code: "V9732XD",
+	},
+	{
+		code: "V9732XS",
+	},
+	{
+		code: "V9733XA",
+	},
+	{
+		code: "V9733XD",
+	},
+	{
+		code: "V9733XS",
+	},
+	{
+		code: "V9739XA",
+	},
+	{
+		code: "V9739XD",
+	},
+	{
+		code: "V9739XS",
+	},
+	{
+		code: "V97810A",
+	},
+	{
+		code: "V97810D",
+	},
+	{
+		code: "V97810S",
+	},
+	{
+		code: "V97811A",
+	},
+	{
+		code: "V97811D",
+	},
+	{
+		code: "V97811S",
+	},
+	{
+		code: "V97818A",
+	},
+	{
+		code: "V97818D",
+	},
+	{
+		code: "V97818S",
+	},
+	{
+		code: "V9789XA",
+	},
+	{
+		code: "V9789XD",
+	},
+	{
+		code: "V9789XS",
+	},
+	{
+		code: "V980XXA",
+	},
+	{
+		code: "V980XXD",
+	},
+	{
+		code: "V980XXS",
+	},
+	{
+		code: "V981XXA",
+	},
+	{
+		code: "V981XXD",
+	},
+	{
+		code: "V981XXS",
+	},
+	{
+		code: "V982XXA",
+	},
+	{
+		code: "V982XXD",
+	},
+	{
+		code: "V982XXS",
+	},
+	{
+		code: "V983XXA",
+	},
+	{
+		code: "V983XXD",
+	},
+	{
+		code: "V983XXS",
+	},
+	{
+		code: "V988XXA",
+	},
+	{
+		code: "V988XXD",
+	},
+	{
+		code: "V988XXS",
+	},
+	{
+		code: "V99XXXA",
+	},
+	{
+		code: "V99XXXD",
+	},
+	{
+		code: "V99XXXS",
+	},
+	{
+		code: "W000XXA",
+	},
+	{
+		code: "W000XXD",
+	},
+	{
+		code: "W000XXS",
+	},
+	{
+		code: "W001XXA",
+	},
+	{
+		code: "W001XXD",
+	},
+	{
+		code: "W001XXS",
+	},
+	{
+		code: "W002XXA",
+	},
+	{
+		code: "W002XXD",
+	},
+	{
+		code: "W002XXS",
+	},
+	{
+		code: "W009XXA",
+	},
+	{
+		code: "W009XXD",
+	},
+	{
+		code: "W009XXS",
+	},
+	{
+		code: "W010XXA",
+	},
+	{
+		code: "W010XXD",
+	},
+	{
+		code: "W010XXS",
+	},
+	{
+		code: "W0110XA",
+	},
+	{
+		code: "W0110XD",
+	},
+	{
+		code: "W0110XS",
+	},
+	{
+		code: "W01110A",
+	},
+	{
+		code: "W01110D",
+	},
+	{
+		code: "W01110S",
+	},
+	{
+		code: "W01111A",
+	},
+	{
+		code: "W01111D",
+	},
+	{
+		code: "W01111S",
+	},
+	{
+		code: "W01118A",
+	},
+	{
+		code: "W01118D",
+	},
+	{
+		code: "W01118S",
+	},
+	{
+		code: "W01119A",
+	},
+	{
+		code: "W01119D",
+	},
+	{
+		code: "W01119S",
+	},
+	{
+		code: "W01190A",
+	},
+	{
+		code: "W01190D",
+	},
+	{
+		code: "W01190S",
+	},
+	{
+		code: "W01198A",
+	},
+	{
+		code: "W01198D",
+	},
+	{
+		code: "W01198S",
+	},
+	{
+		code: "W03XXXA",
+	},
+	{
+		code: "W03XXXD",
+	},
+	{
+		code: "W03XXXS",
+	},
+	{
+		code: "W04XXXA",
+	},
+	{
+		code: "W04XXXD",
+	},
+	{
+		code: "W04XXXS",
+	},
+	{
+		code: "W050XXA",
+	},
+	{
+		code: "W050XXD",
+	},
+	{
+		code: "W050XXS",
+	},
+	{
+		code: "W051XXA",
+	},
+	{
+		code: "W051XXD",
+	},
+	{
+		code: "W051XXS",
+	},
+	{
+		code: "W052XXA",
+	},
+	{
+		code: "W052XXD",
+	},
+	{
+		code: "W052XXS",
+	},
+	{
+		code: "W06XXXA",
+	},
+	{
+		code: "W06XXXD",
+	},
+	{
+		code: "W06XXXS",
+	},
+	{
+		code: "W07XXXA",
+	},
+	{
+		code: "W07XXXD",
+	},
+	{
+		code: "W07XXXS",
+	},
+	{
+		code: "W08XXXA",
+	},
+	{
+		code: "W08XXXD",
+	},
+	{
+		code: "W08XXXS",
+	},
+	{
+		code: "W090XXA",
+	},
+	{
+		code: "W090XXD",
+	},
+	{
+		code: "W090XXS",
+	},
+	{
+		code: "W091XXA",
+	},
+	{
+		code: "W091XXD",
+	},
+	{
+		code: "W091XXS",
+	},
+	{
+		code: "W092XXA",
+	},
+	{
+		code: "W092XXD",
+	},
+	{
+		code: "W092XXS",
+	},
+	{
+		code: "W098XXA",
+	},
+	{
+		code: "W098XXD",
+	},
+	{
+		code: "W098XXS",
+	},
+	{
+		code: "W100XXA",
+	},
+	{
+		code: "W100XXD",
+	},
+	{
+		code: "W100XXS",
+	},
+	{
+		code: "W101XXA",
+	},
+	{
+		code: "W101XXD",
+	},
+	{
+		code: "W101XXS",
+	},
+	{
+		code: "W102XXA",
+	},
+	{
+		code: "W102XXD",
+	},
+	{
+		code: "W102XXS",
+	},
+	{
+		code: "W108XXA",
+	},
+	{
+		code: "W108XXD",
+	},
+	{
+		code: "W108XXS",
+	},
+	{
+		code: "W109XXA",
+	},
+	{
+		code: "W109XXD",
+	},
+	{
+		code: "W109XXS",
+	},
+	{
+		code: "W11XXXA",
+	},
+	{
+		code: "W11XXXD",
+	},
+	{
+		code: "W11XXXS",
+	},
+	{
+		code: "W12XXXA",
+	},
+	{
+		code: "W12XXXD",
+	},
+	{
+		code: "W12XXXS",
+	},
+	{
+		code: "W130XXA",
+	},
+	{
+		code: "W130XXD",
+	},
+	{
+		code: "W130XXS",
+	},
+	{
+		code: "W131XXA",
+	},
+	{
+		code: "W131XXD",
+	},
+	{
+		code: "W131XXS",
+	},
+	{
+		code: "W132XXA",
+	},
+	{
+		code: "W132XXD",
+	},
+	{
+		code: "W132XXS",
+	},
+	{
+		code: "W133XXA",
+	},
+	{
+		code: "W133XXD",
+	},
+	{
+		code: "W133XXS",
+	},
+	{
+		code: "W134XXA",
+	},
+	{
+		code: "W134XXD",
+	},
+	{
+		code: "W134XXS",
+	},
+	{
+		code: "W138XXA",
+	},
+	{
+		code: "W138XXD",
+	},
+	{
+		code: "W138XXS",
+	},
+	{
+		code: "W139XXA",
+	},
+	{
+		code: "W139XXD",
+	},
+	{
+		code: "W139XXS",
+	},
+	{
+		code: "W14XXXA",
+	},
+	{
+		code: "W14XXXD",
+	},
+	{
+		code: "W14XXXS",
+	},
+	{
+		code: "W15XXXA",
+	},
+	{
+		code: "W15XXXD",
+	},
+	{
+		code: "W15XXXS",
+	},
+	{
+		code: "W16011A",
+	},
+	{
+		code: "W16011D",
+	},
+	{
+		code: "W16011S",
+	},
+	{
+		code: "W16012A",
+	},
+	{
+		code: "W16012D",
+	},
+	{
+		code: "W16012S",
+	},
+	{
+		code: "W16021A",
+	},
+	{
+		code: "W16021D",
+	},
+	{
+		code: "W16021S",
+	},
+	{
+		code: "W16022A",
+	},
+	{
+		code: "W16022D",
+	},
+	{
+		code: "W16022S",
+	},
+	{
+		code: "W16031A",
+	},
+	{
+		code: "W16031D",
+	},
+	{
+		code: "W16031S",
+	},
+	{
+		code: "W16032A",
+	},
+	{
+		code: "W16032D",
+	},
+	{
+		code: "W16032S",
+	},
+	{
+		code: "W16111A",
+	},
+	{
+		code: "W16111D",
+	},
+	{
+		code: "W16111S",
+	},
+	{
+		code: "W16112A",
+	},
+	{
+		code: "W16112D",
+	},
+	{
+		code: "W16112S",
+	},
+	{
+		code: "W16121A",
+	},
+	{
+		code: "W16121D",
+	},
+	{
+		code: "W16121S",
+	},
+	{
+		code: "W16122A",
+	},
+	{
+		code: "W16122D",
+	},
+	{
+		code: "W16122S",
+	},
+	{
+		code: "W16131A",
+	},
+	{
+		code: "W16131D",
+	},
+	{
+		code: "W16131S",
+	},
+	{
+		code: "W16132A",
+	},
+	{
+		code: "W16132D",
+	},
+	{
+		code: "W16132S",
+	},
+	{
+		code: "W16211A",
+	},
+	{
+		code: "W16211D",
+	},
+	{
+		code: "W16211S",
+	},
+	{
+		code: "W16212A",
+	},
+	{
+		code: "W16212D",
+	},
+	{
+		code: "W16212S",
+	},
+	{
+		code: "W16221A",
+	},
+	{
+		code: "W16221D",
+	},
+	{
+		code: "W16221S",
+	},
+	{
+		code: "W16222A",
+	},
+	{
+		code: "W16222D",
+	},
+	{
+		code: "W16222S",
+	},
+	{
+		code: "W16311A",
+	},
+	{
+		code: "W16311D",
+	},
+	{
+		code: "W16311S",
+	},
+	{
+		code: "W16312A",
+	},
+	{
+		code: "W16312D",
+	},
+	{
+		code: "W16312S",
+	},
+	{
+		code: "W16321A",
+	},
+	{
+		code: "W16321D",
+	},
+	{
+		code: "W16321S",
+	},
+	{
+		code: "W16322A",
+	},
+	{
+		code: "W16322D",
+	},
+	{
+		code: "W16322S",
+	},
+	{
+		code: "W16331A",
+	},
+	{
+		code: "W16331D",
+	},
+	{
+		code: "W16331S",
+	},
+	{
+		code: "W16332A",
+	},
+	{
+		code: "W16332D",
+	},
+	{
+		code: "W16332S",
+	},
+	{
+		code: "W1641XA",
+	},
+	{
+		code: "W1641XD",
+	},
+	{
+		code: "W1641XS",
+	},
+	{
+		code: "W1642XA",
+	},
+	{
+		code: "W1642XD",
+	},
+	{
+		code: "W1642XS",
+	},
+	{
+		code: "W16511A",
+	},
+	{
+		code: "W16511D",
+	},
+	{
+		code: "W16511S",
+	},
+	{
+		code: "W16512A",
+	},
+	{
+		code: "W16512D",
+	},
+	{
+		code: "W16512S",
+	},
+	{
+		code: "W16521A",
+	},
+	{
+		code: "W16521D",
+	},
+	{
+		code: "W16521S",
+	},
+	{
+		code: "W16522A",
+	},
+	{
+		code: "W16522D",
+	},
+	{
+		code: "W16522S",
+	},
+	{
+		code: "W16531A",
+	},
+	{
+		code: "W16531D",
+	},
+	{
+		code: "W16531S",
+	},
+	{
+		code: "W16532A",
+	},
+	{
+		code: "W16532D",
+	},
+	{
+		code: "W16532S",
+	},
+	{
+		code: "W16611A",
+	},
+	{
+		code: "W16611D",
+	},
+	{
+		code: "W16611S",
+	},
+	{
+		code: "W16612A",
+	},
+	{
+		code: "W16612D",
+	},
+	{
+		code: "W16612S",
+	},
+	{
+		code: "W16621A",
+	},
+	{
+		code: "W16621D",
+	},
+	{
+		code: "W16621S",
+	},
+	{
+		code: "W16622A",
+	},
+	{
+		code: "W16622D",
+	},
+	{
+		code: "W16622S",
+	},
+	{
+		code: "W16711A",
+	},
+	{
+		code: "W16711D",
+	},
+	{
+		code: "W16711S",
+	},
+	{
+		code: "W16712A",
+	},
+	{
+		code: "W16712D",
+	},
+	{
+		code: "W16712S",
+	},
+	{
+		code: "W16721A",
+	},
+	{
+		code: "W16721D",
+	},
+	{
+		code: "W16721S",
+	},
+	{
+		code: "W16722A",
+	},
+	{
+		code: "W16722D",
+	},
+	{
+		code: "W16722S",
+	},
+	{
+		code: "W16811A",
+	},
+	{
+		code: "W16811D",
+	},
+	{
+		code: "W16811S",
+	},
+	{
+		code: "W16812A",
+	},
+	{
+		code: "W16812D",
+	},
+	{
+		code: "W16812S",
+	},
+	{
+		code: "W16821A",
+	},
+	{
+		code: "W16821D",
+	},
+	{
+		code: "W16821S",
+	},
+	{
+		code: "W16822A",
+	},
+	{
+		code: "W16822D",
+	},
+	{
+		code: "W16822S",
+	},
+	{
+		code: "W16831A",
+	},
+	{
+		code: "W16831D",
+	},
+	{
+		code: "W16831S",
+	},
+	{
+		code: "W16832A",
+	},
+	{
+		code: "W16832D",
+	},
+	{
+		code: "W16832S",
+	},
+	{
+		code: "W1691XA",
+	},
+	{
+		code: "W1691XD",
+	},
+	{
+		code: "W1691XS",
+	},
+	{
+		code: "W1692XA",
+	},
+	{
+		code: "W1692XD",
+	},
+	{
+		code: "W1692XS",
+	},
+	{
+		code: "W170XXA",
+	},
+	{
+		code: "W170XXD",
+	},
+	{
+		code: "W170XXS",
+	},
+	{
+		code: "W171XXA",
+	},
+	{
+		code: "W171XXD",
+	},
+	{
+		code: "W171XXS",
+	},
+	{
+		code: "W172XXA",
+	},
+	{
+		code: "W172XXD",
+	},
+	{
+		code: "W172XXS",
+	},
+	{
+		code: "W173XXA",
+	},
+	{
+		code: "W173XXD",
+	},
+	{
+		code: "W173XXS",
+	},
+	{
+		code: "W174XXA",
+	},
+	{
+		code: "W174XXD",
+	},
+	{
+		code: "W174XXS",
+	},
+	{
+		code: "W1781XA",
+	},
+	{
+		code: "W1781XD",
+	},
+	{
+		code: "W1781XS",
+	},
+	{
+		code: "W1782XA",
+	},
+	{
+		code: "W1782XD",
+	},
+	{
+		code: "W1782XS",
+	},
+	{
+		code: "W1789XA",
+	},
+	{
+		code: "W1789XD",
+	},
+	{
+		code: "W1789XS",
+	},
+	{
+		code: "W1800XA",
+	},
+	{
+		code: "W1800XD",
+	},
+	{
+		code: "W1800XS",
+	},
+	{
+		code: "W1801XA",
+	},
+	{
+		code: "W1801XD",
+	},
+	{
+		code: "W1801XS",
+	},
+	{
+		code: "W1802XA",
+	},
+	{
+		code: "W1802XD",
+	},
+	{
+		code: "W1802XS",
+	},
+	{
+		code: "W1809XA",
+	},
+	{
+		code: "W1809XD",
+	},
+	{
+		code: "W1809XS",
+	},
+	{
+		code: "W1811XA",
+	},
+	{
+		code: "W1811XD",
+	},
+	{
+		code: "W1811XS",
+	},
+	{
+		code: "W1812XA",
+	},
+	{
+		code: "W1812XD",
+	},
+	{
+		code: "W1812XS",
+	},
+	{
+		code: "W182XXA",
+	},
+	{
+		code: "W182XXD",
+	},
+	{
+		code: "W182XXS",
+	},
+	{
+		code: "W1830XA",
+	},
+	{
+		code: "W1830XD",
+	},
+	{
+		code: "W1830XS",
+	},
+	{
+		code: "W1831XA",
+	},
+	{
+		code: "W1831XD",
+	},
+	{
+		code: "W1831XS",
+	},
+	{
+		code: "W1839XA",
+	},
+	{
+		code: "W1839XD",
+	},
+	{
+		code: "W1839XS",
+	},
+	{
+		code: "W1840XA",
+	},
+	{
+		code: "W1840XD",
+	},
+	{
+		code: "W1840XS",
+	},
+	{
+		code: "W1841XA",
+	},
+	{
+		code: "W1841XD",
+	},
+	{
+		code: "W1841XS",
+	},
+	{
+		code: "W1842XA",
+	},
+	{
+		code: "W1842XD",
+	},
+	{
+		code: "W1842XS",
+	},
+	{
+		code: "W1843XA",
+	},
+	{
+		code: "W1843XD",
+	},
+	{
+		code: "W1843XS",
+	},
+	{
+		code: "W1849XA",
+	},
+	{
+		code: "W1849XD",
+	},
+	{
+		code: "W1849XS",
+	},
+	{
+		code: "W19XXXA",
+	},
+	{
+		code: "W19XXXD",
+	},
+	{
+		code: "W19XXXS",
+	},
+	{
+		code: "W200XXA",
+	},
+	{
+		code: "W200XXD",
+	},
+	{
+		code: "W200XXS",
+	},
+	{
+		code: "W201XXA",
+	},
+	{
+		code: "W201XXD",
+	},
+	{
+		code: "W201XXS",
+	},
+	{
+		code: "W208XXA",
+	},
+	{
+		code: "W208XXD",
+	},
+	{
+		code: "W208XXS",
+	},
+	{
+		code: "W2100XA",
+	},
+	{
+		code: "W2100XD",
+	},
+	{
+		code: "W2100XS",
+	},
+	{
+		code: "W2101XA",
+	},
+	{
+		code: "W2101XD",
+	},
+	{
+		code: "W2101XS",
+	},
+	{
+		code: "W2102XA",
+	},
+	{
+		code: "W2102XD",
+	},
+	{
+		code: "W2102XS",
+	},
+	{
+		code: "W2103XA",
+	},
+	{
+		code: "W2103XD",
+	},
+	{
+		code: "W2103XS",
+	},
+	{
+		code: "W2104XA",
+	},
+	{
+		code: "W2104XD",
+	},
+	{
+		code: "W2104XS",
+	},
+	{
+		code: "W2105XA",
+	},
+	{
+		code: "W2105XD",
+	},
+	{
+		code: "W2105XS",
+	},
+	{
+		code: "W2106XA",
+	},
+	{
+		code: "W2106XD",
+	},
+	{
+		code: "W2106XS",
+	},
+	{
+		code: "W2107XA",
+	},
+	{
+		code: "W2107XD",
+	},
+	{
+		code: "W2107XS",
+	},
+	{
+		code: "W2109XA",
+	},
+	{
+		code: "W2109XD",
+	},
+	{
+		code: "W2109XS",
+	},
+	{
+		code: "W2111XA",
+	},
+	{
+		code: "W2111XD",
+	},
+	{
+		code: "W2111XS",
+	},
+	{
+		code: "W2112XA",
+	},
+	{
+		code: "W2112XD",
+	},
+	{
+		code: "W2112XS",
+	},
+	{
+		code: "W2113XA",
+	},
+	{
+		code: "W2113XD",
+	},
+	{
+		code: "W2113XS",
+	},
+	{
+		code: "W2119XA",
+	},
+	{
+		code: "W2119XD",
+	},
+	{
+		code: "W2119XS",
+	},
+	{
+		code: "W21210A",
+	},
+	{
+		code: "W21210D",
+	},
+	{
+		code: "W21210S",
+	},
+	{
+		code: "W21211A",
+	},
+	{
+		code: "W21211D",
+	},
+	{
+		code: "W21211S",
+	},
+	{
+		code: "W21220A",
+	},
+	{
+		code: "W21220D",
+	},
+	{
+		code: "W21220S",
+	},
+	{
+		code: "W21221A",
+	},
+	{
+		code: "W21221D",
+	},
+	{
+		code: "W21221S",
+	},
+	{
+		code: "W2131XA",
+	},
+	{
+		code: "W2131XD",
+	},
+	{
+		code: "W2131XS",
+	},
+	{
+		code: "W2132XA",
+	},
+	{
+		code: "W2132XD",
+	},
+	{
+		code: "W2132XS",
+	},
+	{
+		code: "W2139XA",
+	},
+	{
+		code: "W2139XD",
+	},
+	{
+		code: "W2139XS",
+	},
+	{
+		code: "W214XXA",
+	},
+	{
+		code: "W214XXD",
+	},
+	{
+		code: "W214XXS",
+	},
+	{
+		code: "W2181XA",
+	},
+	{
+		code: "W2181XD",
+	},
+	{
+		code: "W2181XS",
+	},
+	{
+		code: "W2189XA",
+	},
+	{
+		code: "W2189XD",
+	},
+	{
+		code: "W2189XS",
+	},
+	{
+		code: "W219XXA",
+	},
+	{
+		code: "W219XXD",
+	},
+	{
+		code: "W219XXS",
+	},
+	{
+		code: "W2201XA",
+	},
+	{
+		code: "W2201XD",
+	},
+	{
+		code: "W2201XS",
+	},
+	{
+		code: "W2202XA",
+	},
+	{
+		code: "W2202XD",
+	},
+	{
+		code: "W2202XS",
+	},
+	{
+		code: "W2203XA",
+	},
+	{
+		code: "W2203XD",
+	},
+	{
+		code: "W2203XS",
+	},
+	{
+		code: "W22041A",
+	},
+	{
+		code: "W22041D",
+	},
+	{
+		code: "W22041S",
+	},
+	{
+		code: "W22042A",
+	},
+	{
+		code: "W22042D",
+	},
+	{
+		code: "W22042S",
+	},
+	{
+		code: "W2209XA",
+	},
+	{
+		code: "W2209XD",
+	},
+	{
+		code: "W2209XS",
+	},
+	{
+		code: "W2210XA",
+	},
+	{
+		code: "W2210XD",
+	},
+	{
+		code: "W2210XS",
+	},
+	{
+		code: "W2211XA",
+	},
+	{
+		code: "W2211XD",
+	},
+	{
+		code: "W2211XS",
+	},
+	{
+		code: "W2212XA",
+	},
+	{
+		code: "W2212XD",
+	},
+	{
+		code: "W2212XS",
+	},
+	{
+		code: "W2219XA",
+	},
+	{
+		code: "W2219XD",
+	},
+	{
+		code: "W2219XS",
+	},
+	{
+		code: "W228XXA",
+	},
+	{
+		code: "W228XXD",
+	},
+	{
+		code: "W228XXS",
+	},
+	{
+		code: "W230XXA",
+	},
+	{
+		code: "W230XXD",
+	},
+	{
+		code: "W230XXS",
+	},
+	{
+		code: "W231XXA",
+	},
+	{
+		code: "W231XXD",
+	},
+	{
+		code: "W231XXS",
+	},
+	{
+		code: "W240XXA",
+	},
+	{
+		code: "W240XXD",
+	},
+	{
+		code: "W240XXS",
+	},
+	{
+		code: "W241XXA",
+	},
+	{
+		code: "W241XXD",
+	},
+	{
+		code: "W241XXS",
+	},
+	{
+		code: "W25XXXA",
+	},
+	{
+		code: "W25XXXD",
+	},
+	{
+		code: "W25XXXS",
+	},
+	{
+		code: "W260XXA",
+	},
+	{
+		code: "W260XXD",
+	},
+	{
+		code: "W260XXS",
+	},
+	{
+		code: "W261XXA",
+	},
+	{
+		code: "W261XXD",
+	},
+	{
+		code: "W261XXS",
+	},
+	{
+		code: "W262XXA",
+	},
+	{
+		code: "W262XXD",
+	},
+	{
+		code: "W262XXS",
+	},
+	{
+		code: "W268XXA",
+	},
+	{
+		code: "W268XXD",
+	},
+	{
+		code: "W268XXS",
+	},
+	{
+		code: "W269XXA",
+	},
+	{
+		code: "W269XXD",
+	},
+	{
+		code: "W269XXS",
+	},
+	{
+		code: "W270XXA",
+	},
+	{
+		code: "W270XXD",
+	},
+	{
+		code: "W270XXS",
+	},
+	{
+		code: "W271XXA",
+	},
+	{
+		code: "W271XXD",
+	},
+	{
+		code: "W271XXS",
+	},
+	{
+		code: "W272XXA",
+	},
+	{
+		code: "W272XXD",
+	},
+	{
+		code: "W272XXS",
+	},
+	{
+		code: "W273XXA",
+	},
+	{
+		code: "W273XXD",
+	},
+	{
+		code: "W273XXS",
+	},
+	{
+		code: "W274XXA",
+	},
+	{
+		code: "W274XXD",
+	},
+	{
+		code: "W274XXS",
+	},
+	{
+		code: "W275XXA",
+	},
+	{
+		code: "W275XXD",
+	},
+	{
+		code: "W275XXS",
+	},
+	{
+		code: "W278XXA",
+	},
+	{
+		code: "W278XXD",
+	},
+	{
+		code: "W278XXS",
+	},
+	{
+		code: "W28XXXA",
+	},
+	{
+		code: "W28XXXD",
+	},
+	{
+		code: "W28XXXS",
+	},
+	{
+		code: "W290XXA",
+	},
+	{
+		code: "W290XXD",
+	},
+	{
+		code: "W290XXS",
+	},
+	{
+		code: "W291XXA",
+	},
+	{
+		code: "W291XXD",
+	},
+	{
+		code: "W291XXS",
+	},
+	{
+		code: "W292XXA",
+	},
+	{
+		code: "W292XXD",
+	},
+	{
+		code: "W292XXS",
+	},
+	{
+		code: "W293XXA",
+	},
+	{
+		code: "W293XXD",
+	},
+	{
+		code: "W293XXS",
+	},
+	{
+		code: "W294XXA",
+	},
+	{
+		code: "W294XXD",
+	},
+	{
+		code: "W294XXS",
+	},
+	{
+		code: "W298XXA",
+	},
+	{
+		code: "W298XXD",
+	},
+	{
+		code: "W298XXS",
+	},
+	{
+		code: "W300XXA",
+	},
+	{
+		code: "W300XXD",
+	},
+	{
+		code: "W300XXS",
+	},
+	{
+		code: "W301XXA",
+	},
+	{
+		code: "W301XXD",
+	},
+	{
+		code: "W301XXS",
+	},
+	{
+		code: "W302XXA",
+	},
+	{
+		code: "W302XXD",
+	},
+	{
+		code: "W302XXS",
+	},
+	{
+		code: "W303XXA",
+	},
+	{
+		code: "W303XXD",
+	},
+	{
+		code: "W303XXS",
+	},
+	{
+		code: "W3081XA",
+	},
+	{
+		code: "W3081XD",
+	},
+	{
+		code: "W3081XS",
+	},
+	{
+		code: "W3089XA",
+	},
+	{
+		code: "W3089XD",
+	},
+	{
+		code: "W3089XS",
+	},
+	{
+		code: "W309XXA",
+	},
+	{
+		code: "W309XXD",
+	},
+	{
+		code: "W309XXS",
+	},
+	{
+		code: "W310XXA",
+	},
+	{
+		code: "W310XXD",
+	},
+	{
+		code: "W310XXS",
+	},
+	{
+		code: "W311XXA",
+	},
+	{
+		code: "W311XXD",
+	},
+	{
+		code: "W311XXS",
+	},
+	{
+		code: "W312XXA",
+	},
+	{
+		code: "W312XXD",
+	},
+	{
+		code: "W312XXS",
+	},
+	{
+		code: "W313XXA",
+	},
+	{
+		code: "W313XXD",
+	},
+	{
+		code: "W313XXS",
+	},
+	{
+		code: "W3181XA",
+	},
+	{
+		code: "W3181XD",
+	},
+	{
+		code: "W3181XS",
+	},
+	{
+		code: "W3182XA",
+	},
+	{
+		code: "W3182XD",
+	},
+	{
+		code: "W3182XS",
+	},
+	{
+		code: "W3183XA",
+	},
+	{
+		code: "W3183XD",
+	},
+	{
+		code: "W3183XS",
+	},
+	{
+		code: "W3189XA",
+	},
+	{
+		code: "W3189XD",
+	},
+	{
+		code: "W3189XS",
+	},
+	{
+		code: "W319XXA",
+	},
+	{
+		code: "W319XXD",
+	},
+	{
+		code: "W319XXS",
+	},
+	{
+		code: "W320XXA",
+	},
+	{
+		code: "W320XXD",
+	},
+	{
+		code: "W320XXS",
+	},
+	{
+		code: "W321XXA",
+	},
+	{
+		code: "W321XXD",
+	},
+	{
+		code: "W321XXS",
+	},
+	{
+		code: "W3300XA",
+	},
+	{
+		code: "W3300XD",
+	},
+	{
+		code: "W3300XS",
+	},
+	{
+		code: "W3301XA",
+	},
+	{
+		code: "W3301XD",
+	},
+	{
+		code: "W3301XS",
+	},
+	{
+		code: "W3302XA",
+	},
+	{
+		code: "W3302XD",
+	},
+	{
+		code: "W3302XS",
+	},
+	{
+		code: "W3303XA",
+	},
+	{
+		code: "W3303XD",
+	},
+	{
+		code: "W3303XS",
+	},
+	{
+		code: "W3309XA",
+	},
+	{
+		code: "W3309XD",
+	},
+	{
+		code: "W3309XS",
+	},
+	{
+		code: "W3310XA",
+	},
+	{
+		code: "W3310XD",
+	},
+	{
+		code: "W3310XS",
+	},
+	{
+		code: "W3311XA",
+	},
+	{
+		code: "W3311XD",
+	},
+	{
+		code: "W3311XS",
+	},
+	{
+		code: "W3312XA",
+	},
+	{
+		code: "W3312XD",
+	},
+	{
+		code: "W3312XS",
+	},
+	{
+		code: "W3313XA",
+	},
+	{
+		code: "W3313XD",
+	},
+	{
+		code: "W3313XS",
+	},
+	{
+		code: "W3319XA",
+	},
+	{
+		code: "W3319XD",
+	},
+	{
+		code: "W3319XS",
+	},
+	{
+		code: "W3400XA",
+	},
+	{
+		code: "W3400XD",
+	},
+	{
+		code: "W3400XS",
+	},
+	{
+		code: "W34010A",
+	},
+	{
+		code: "W34010D",
+	},
+	{
+		code: "W34010S",
+	},
+	{
+		code: "W34011A",
+	},
+	{
+		code: "W34011D",
+	},
+	{
+		code: "W34011S",
+	},
+	{
+		code: "W34018A",
+	},
+	{
+		code: "W34018D",
+	},
+	{
+		code: "W34018S",
+	},
+	{
+		code: "W3409XA",
+	},
+	{
+		code: "W3409XD",
+	},
+	{
+		code: "W3409XS",
+	},
+	{
+		code: "W3410XA",
+	},
+	{
+		code: "W3410XD",
+	},
+	{
+		code: "W3410XS",
+	},
+	{
+		code: "W34110A",
+	},
+	{
+		code: "W34110D",
+	},
+	{
+		code: "W34110S",
+	},
+	{
+		code: "W34111A",
+	},
+	{
+		code: "W34111D",
+	},
+	{
+		code: "W34111S",
+	},
+	{
+		code: "W34118A",
+	},
+	{
+		code: "W34118D",
+	},
+	{
+		code: "W34118S",
+	},
+	{
+		code: "W3419XA",
+	},
+	{
+		code: "W3419XD",
+	},
+	{
+		code: "W3419XS",
+	},
+	{
+		code: "W35XXXA",
+	},
+	{
+		code: "W35XXXD",
+	},
+	{
+		code: "W35XXXS",
+	},
+	{
+		code: "W361XXA",
+	},
+	{
+		code: "W361XXD",
+	},
+	{
+		code: "W361XXS",
+	},
+	{
+		code: "W362XXA",
+	},
+	{
+		code: "W362XXD",
+	},
+	{
+		code: "W362XXS",
+	},
+	{
+		code: "W363XXA",
+	},
+	{
+		code: "W363XXD",
+	},
+	{
+		code: "W363XXS",
+	},
+	{
+		code: "W368XXA",
+	},
+	{
+		code: "W368XXD",
+	},
+	{
+		code: "W368XXS",
+	},
+	{
+		code: "W369XXA",
+	},
+	{
+		code: "W369XXD",
+	},
+	{
+		code: "W369XXS",
+	},
+	{
+		code: "W370XXA",
+	},
+	{
+		code: "W370XXD",
+	},
+	{
+		code: "W370XXS",
+	},
+	{
+		code: "W378XXA",
+	},
+	{
+		code: "W378XXD",
+	},
+	{
+		code: "W378XXS",
+	},
+	{
+		code: "W38XXXA",
+	},
+	{
+		code: "W38XXXD",
+	},
+	{
+		code: "W38XXXS",
+	},
+	{
+		code: "W39XXXA",
+	},
+	{
+		code: "W39XXXD",
+	},
+	{
+		code: "W39XXXS",
+	},
+	{
+		code: "W400XXA",
+	},
+	{
+		code: "W400XXD",
+	},
+	{
+		code: "W400XXS",
+	},
+	{
+		code: "W401XXA",
+	},
+	{
+		code: "W401XXD",
+	},
+	{
+		code: "W401XXS",
+	},
+	{
+		code: "W408XXA",
+	},
+	{
+		code: "W408XXD",
+	},
+	{
+		code: "W408XXS",
+	},
+	{
+		code: "W409XXA",
+	},
+	{
+		code: "W409XXD",
+	},
+	{
+		code: "W409XXS",
+	},
+	{
+		code: "W420XXA",
+	},
+	{
+		code: "W420XXD",
+	},
+	{
+		code: "W420XXS",
+	},
+	{
+		code: "W429XXA",
+	},
+	{
+		code: "W429XXD",
+	},
+	{
+		code: "W429XXS",
+	},
+	{
+		code: "W450XXA",
+	},
+	{
+		code: "W450XXD",
+	},
+	{
+		code: "W450XXS",
+	},
+	{
+		code: "W451XXA",
+	},
+	{
+		code: "W451XXD",
+	},
+	{
+		code: "W451XXS",
+	},
+	{
+		code: "W452XXA",
+	},
+	{
+		code: "W452XXD",
+	},
+	{
+		code: "W452XXS",
+	},
+	{
+		code: "W458XXA",
+	},
+	{
+		code: "W458XXD",
+	},
+	{
+		code: "W458XXS",
+	},
+	{
+		code: "W460XXA",
+	},
+	{
+		code: "W460XXD",
+	},
+	{
+		code: "W460XXS",
+	},
+	{
+		code: "W461XXA",
+	},
+	{
+		code: "W461XXD",
+	},
+	{
+		code: "W461XXS",
+	},
+	{
+		code: "W4901XA",
+	},
+	{
+		code: "W4901XD",
+	},
+	{
+		code: "W4901XS",
+	},
+	{
+		code: "W4902XA",
+	},
+	{
+		code: "W4902XD",
+	},
+	{
+		code: "W4902XS",
+	},
+	{
+		code: "W4903XA",
+	},
+	{
+		code: "W4903XD",
+	},
+	{
+		code: "W4903XS",
+	},
+	{
+		code: "W4904XA",
+	},
+	{
+		code: "W4904XD",
+	},
+	{
+		code: "W4904XS",
+	},
+	{
+		code: "W4909XA",
+	},
+	{
+		code: "W4909XD",
+	},
+	{
+		code: "W4909XS",
+	},
+	{
+		code: "W499XXA",
+	},
+	{
+		code: "W499XXD",
+	},
+	{
+		code: "W499XXS",
+	},
+	{
+		code: "W500XXA",
+	},
+	{
+		code: "W500XXD",
+	},
+	{
+		code: "W500XXS",
+	},
+	{
+		code: "W501XXA",
+	},
+	{
+		code: "W501XXD",
+	},
+	{
+		code: "W501XXS",
+	},
+	{
+		code: "W502XXA",
+	},
+	{
+		code: "W502XXD",
+	},
+	{
+		code: "W502XXS",
+	},
+	{
+		code: "W503XXA",
+	},
+	{
+		code: "W503XXD",
+	},
+	{
+		code: "W503XXS",
+	},
+	{
+		code: "W504XXA",
+	},
+	{
+		code: "W504XXD",
+	},
+	{
+		code: "W504XXS",
+	},
+	{
+		code: "W51XXXA",
+	},
+	{
+		code: "W51XXXD",
+	},
+	{
+		code: "W51XXXS",
+	},
+	{
+		code: "W52XXXA",
+	},
+	{
+		code: "W52XXXD",
+	},
+	{
+		code: "W52XXXS",
+	},
+	{
+		code: "W5301XA",
+	},
+	{
+		code: "W5301XD",
+	},
+	{
+		code: "W5301XS",
+	},
+	{
+		code: "W5309XA",
+	},
+	{
+		code: "W5309XD",
+	},
+	{
+		code: "W5309XS",
+	},
+	{
+		code: "W5311XA",
+	},
+	{
+		code: "W5311XD",
+	},
+	{
+		code: "W5311XS",
+	},
+	{
+		code: "W5319XA",
+	},
+	{
+		code: "W5319XD",
+	},
+	{
+		code: "W5319XS",
+	},
+	{
+		code: "W5321XA",
+	},
+	{
+		code: "W5321XD",
+	},
+	{
+		code: "W5321XS",
+	},
+	{
+		code: "W5329XA",
+	},
+	{
+		code: "W5329XD",
+	},
+	{
+		code: "W5329XS",
+	},
+	{
+		code: "W5381XA",
+	},
+	{
+		code: "W5381XD",
+	},
+	{
+		code: "W5381XS",
+	},
+	{
+		code: "W5389XA",
+	},
+	{
+		code: "W5389XD",
+	},
+	{
+		code: "W5389XS",
+	},
+	{
+		code: "W540XXA",
+	},
+	{
+		code: "W540XXD",
+	},
+	{
+		code: "W540XXS",
+	},
+	{
+		code: "W541XXA",
+	},
+	{
+		code: "W541XXD",
+	},
+	{
+		code: "W541XXS",
+	},
+	{
+		code: "W548XXA",
+	},
+	{
+		code: "W548XXD",
+	},
+	{
+		code: "W548XXS",
+	},
+	{
+		code: "W5501XA",
+	},
+	{
+		code: "W5501XD",
+	},
+	{
+		code: "W5501XS",
+	},
+	{
+		code: "W5503XA",
+	},
+	{
+		code: "W5503XD",
+	},
+	{
+		code: "W5503XS",
+	},
+	{
+		code: "W5509XA",
+	},
+	{
+		code: "W5509XD",
+	},
+	{
+		code: "W5509XS",
+	},
+	{
+		code: "W5511XA",
+	},
+	{
+		code: "W5511XD",
+	},
+	{
+		code: "W5511XS",
+	},
+	{
+		code: "W5512XA",
+	},
+	{
+		code: "W5512XD",
+	},
+	{
+		code: "W5512XS",
+	},
+	{
+		code: "W5519XA",
+	},
+	{
+		code: "W5519XD",
+	},
+	{
+		code: "W5519XS",
+	},
+	{
+		code: "W5521XA",
+	},
+	{
+		code: "W5521XD",
+	},
+	{
+		code: "W5521XS",
+	},
+	{
+		code: "W5522XA",
+	},
+	{
+		code: "W5522XD",
+	},
+	{
+		code: "W5522XS",
+	},
+	{
+		code: "W5529XA",
+	},
+	{
+		code: "W5529XD",
+	},
+	{
+		code: "W5529XS",
+	},
+	{
+		code: "W5531XA",
+	},
+	{
+		code: "W5531XD",
+	},
+	{
+		code: "W5531XS",
+	},
+	{
+		code: "W5532XA",
+	},
+	{
+		code: "W5532XD",
+	},
+	{
+		code: "W5532XS",
+	},
+	{
+		code: "W5539XA",
+	},
+	{
+		code: "W5539XD",
+	},
+	{
+		code: "W5539XS",
+	},
+	{
+		code: "W5541XA",
+	},
+	{
+		code: "W5541XD",
+	},
+	{
+		code: "W5541XS",
+	},
+	{
+		code: "W5542XA",
+	},
+	{
+		code: "W5542XD",
+	},
+	{
+		code: "W5542XS",
+	},
+	{
+		code: "W5549XA",
+	},
+	{
+		code: "W5549XD",
+	},
+	{
+		code: "W5549XS",
+	},
+	{
+		code: "W5551XA",
+	},
+	{
+		code: "W5551XD",
+	},
+	{
+		code: "W5551XS",
+	},
+	{
+		code: "W5552XA",
+	},
+	{
+		code: "W5552XD",
+	},
+	{
+		code: "W5552XS",
+	},
+	{
+		code: "W5559XA",
+	},
+	{
+		code: "W5559XD",
+	},
+	{
+		code: "W5559XS",
+	},
+	{
+		code: "W5581XA",
+	},
+	{
+		code: "W5581XD",
+	},
+	{
+		code: "W5581XS",
+	},
+	{
+		code: "W5582XA",
+	},
+	{
+		code: "W5582XD",
+	},
+	{
+		code: "W5582XS",
+	},
+	{
+		code: "W5589XA",
+	},
+	{
+		code: "W5589XD",
+	},
+	{
+		code: "W5589XS",
+	},
+	{
+		code: "W5601XA",
+	},
+	{
+		code: "W5601XD",
+	},
+	{
+		code: "W5601XS",
+	},
+	{
+		code: "W5602XA",
+	},
+	{
+		code: "W5602XD",
+	},
+	{
+		code: "W5602XS",
+	},
+	{
+		code: "W5609XA",
+	},
+	{
+		code: "W5609XD",
+	},
+	{
+		code: "W5609XS",
+	},
+	{
+		code: "W5611XA",
+	},
+	{
+		code: "W5611XD",
+	},
+	{
+		code: "W5611XS",
+	},
+	{
+		code: "W5612XA",
+	},
+	{
+		code: "W5612XD",
+	},
+	{
+		code: "W5612XS",
+	},
+	{
+		code: "W5619XA",
+	},
+	{
+		code: "W5619XD",
+	},
+	{
+		code: "W5619XS",
+	},
+	{
+		code: "W5621XA",
+	},
+	{
+		code: "W5621XD",
+	},
+	{
+		code: "W5621XS",
+	},
+	{
+		code: "W5622XA",
+	},
+	{
+		code: "W5622XD",
+	},
+	{
+		code: "W5622XS",
+	},
+	{
+		code: "W5629XA",
+	},
+	{
+		code: "W5629XD",
+	},
+	{
+		code: "W5629XS",
+	},
+	{
+		code: "W5631XA",
+	},
+	{
+		code: "W5631XD",
+	},
+	{
+		code: "W5631XS",
+	},
+	{
+		code: "W5632XA",
+	},
+	{
+		code: "W5632XD",
+	},
+	{
+		code: "W5632XS",
+	},
+	{
+		code: "W5639XA",
+	},
+	{
+		code: "W5639XD",
+	},
+	{
+		code: "W5639XS",
+	},
+	{
+		code: "W5641XA",
+	},
+	{
+		code: "W5641XD",
+	},
+	{
+		code: "W5641XS",
+	},
+	{
+		code: "W5642XA",
+	},
+	{
+		code: "W5642XD",
+	},
+	{
+		code: "W5642XS",
+	},
+	{
+		code: "W5649XA",
+	},
+	{
+		code: "W5649XD",
+	},
+	{
+		code: "W5649XS",
+	},
+	{
+		code: "W5651XA",
+	},
+	{
+		code: "W5651XD",
+	},
+	{
+		code: "W5651XS",
+	},
+	{
+		code: "W5652XA",
+	},
+	{
+		code: "W5652XD",
+	},
+	{
+		code: "W5652XS",
+	},
+	{
+		code: "W5659XA",
+	},
+	{
+		code: "W5659XD",
+	},
+	{
+		code: "W5659XS",
+	},
+	{
+		code: "W5681XA",
+	},
+	{
+		code: "W5681XD",
+	},
+	{
+		code: "W5681XS",
+	},
+	{
+		code: "W5682XA",
+	},
+	{
+		code: "W5682XD",
+	},
+	{
+		code: "W5682XS",
+	},
+	{
+		code: "W5689XA",
+	},
+	{
+		code: "W5689XD",
+	},
+	{
+		code: "W5689XS",
+	},
+	{
+		code: "W57XXXA",
+	},
+	{
+		code: "W57XXXD",
+	},
+	{
+		code: "W57XXXS",
+	},
+	{
+		code: "W5801XA",
+	},
+	{
+		code: "W5801XD",
+	},
+	{
+		code: "W5801XS",
+	},
+	{
+		code: "W5802XA",
+	},
+	{
+		code: "W5802XD",
+	},
+	{
+		code: "W5802XS",
+	},
+	{
+		code: "W5803XA",
+	},
+	{
+		code: "W5803XD",
+	},
+	{
+		code: "W5803XS",
+	},
+	{
+		code: "W5809XA",
+	},
+	{
+		code: "W5809XD",
+	},
+	{
+		code: "W5809XS",
+	},
+	{
+		code: "W5811XA",
+	},
+	{
+		code: "W5811XD",
+	},
+	{
+		code: "W5811XS",
+	},
+	{
+		code: "W5812XA",
+	},
+	{
+		code: "W5812XD",
+	},
+	{
+		code: "W5812XS",
+	},
+	{
+		code: "W5813XA",
+	},
+	{
+		code: "W5813XD",
+	},
+	{
+		code: "W5813XS",
+	},
+	{
+		code: "W5819XA",
+	},
+	{
+		code: "W5819XD",
+	},
+	{
+		code: "W5819XS",
+	},
+	{
+		code: "W5901XA",
+	},
+	{
+		code: "W5901XD",
+	},
+	{
+		code: "W5901XS",
+	},
+	{
+		code: "W5902XA",
+	},
+	{
+		code: "W5902XD",
+	},
+	{
+		code: "W5902XS",
+	},
+	{
+		code: "W5909XA",
+	},
+	{
+		code: "W5909XD",
+	},
+	{
+		code: "W5909XS",
+	},
+	{
+		code: "W5911XA",
+	},
+	{
+		code: "W5911XD",
+	},
+	{
+		code: "W5911XS",
+	},
+	{
+		code: "W5912XA",
+	},
+	{
+		code: "W5912XD",
+	},
+	{
+		code: "W5912XS",
+	},
+	{
+		code: "W5913XA",
+	},
+	{
+		code: "W5913XD",
+	},
+	{
+		code: "W5913XS",
+	},
+	{
+		code: "W5919XA",
+	},
+	{
+		code: "W5919XD",
+	},
+	{
+		code: "W5919XS",
+	},
+	{
+		code: "W5921XA",
+	},
+	{
+		code: "W5921XD",
+	},
+	{
+		code: "W5921XS",
+	},
+	{
+		code: "W5922XA",
+	},
+	{
+		code: "W5922XD",
+	},
+	{
+		code: "W5922XS",
+	},
+	{
+		code: "W5929XA",
+	},
+	{
+		code: "W5929XD",
+	},
+	{
+		code: "W5929XS",
+	},
+	{
+		code: "W5981XA",
+	},
+	{
+		code: "W5981XD",
+	},
+	{
+		code: "W5981XS",
+	},
+	{
+		code: "W5982XA",
+	},
+	{
+		code: "W5982XD",
+	},
+	{
+		code: "W5982XS",
+	},
+	{
+		code: "W5983XA",
+	},
+	{
+		code: "W5983XD",
+	},
+	{
+		code: "W5983XS",
+	},
+	{
+		code: "W5989XA",
+	},
+	{
+		code: "W5989XD",
+	},
+	{
+		code: "W5989XS",
+	},
+	{
+		code: "W60XXXA",
+	},
+	{
+		code: "W60XXXD",
+	},
+	{
+		code: "W60XXXS",
+	},
+	{
+		code: "W6101XA",
+	},
+	{
+		code: "W6101XD",
+	},
+	{
+		code: "W6101XS",
+	},
+	{
+		code: "W6102XA",
+	},
+	{
+		code: "W6102XD",
+	},
+	{
+		code: "W6102XS",
+	},
+	{
+		code: "W6109XA",
+	},
+	{
+		code: "W6109XD",
+	},
+	{
+		code: "W6109XS",
+	},
+	{
+		code: "W6111XA",
+	},
+	{
+		code: "W6111XD",
+	},
+	{
+		code: "W6111XS",
+	},
+	{
+		code: "W6112XA",
+	},
+	{
+		code: "W6112XD",
+	},
+	{
+		code: "W6112XS",
+	},
+	{
+		code: "W6119XA",
+	},
+	{
+		code: "W6119XD",
+	},
+	{
+		code: "W6119XS",
+	},
+	{
+		code: "W6121XA",
+	},
+	{
+		code: "W6121XD",
+	},
+	{
+		code: "W6121XS",
+	},
+	{
+		code: "W6122XA",
+	},
+	{
+		code: "W6122XD",
+	},
+	{
+		code: "W6122XS",
+	},
+	{
+		code: "W6129XA",
+	},
+	{
+		code: "W6129XD",
+	},
+	{
+		code: "W6129XS",
+	},
+	{
+		code: "W6132XA",
+	},
+	{
+		code: "W6132XD",
+	},
+	{
+		code: "W6132XS",
+	},
+	{
+		code: "W6133XA",
+	},
+	{
+		code: "W6133XD",
+	},
+	{
+		code: "W6133XS",
+	},
+	{
+		code: "W6139XA",
+	},
+	{
+		code: "W6139XD",
+	},
+	{
+		code: "W6139XS",
+	},
+	{
+		code: "W6142XA",
+	},
+	{
+		code: "W6142XD",
+	},
+	{
+		code: "W6142XS",
+	},
+	{
+		code: "W6143XA",
+	},
+	{
+		code: "W6143XD",
+	},
+	{
+		code: "W6143XS",
+	},
+	{
+		code: "W6149XA",
+	},
+	{
+		code: "W6149XD",
+	},
+	{
+		code: "W6149XS",
+	},
+	{
+		code: "W6151XA",
+	},
+	{
+		code: "W6151XD",
+	},
+	{
+		code: "W6151XS",
+	},
+	{
+		code: "W6152XA",
+	},
+	{
+		code: "W6152XD",
+	},
+	{
+		code: "W6152XS",
+	},
+	{
+		code: "W6159XA",
+	},
+	{
+		code: "W6159XD",
+	},
+	{
+		code: "W6159XS",
+	},
+	{
+		code: "W6161XA",
+	},
+	{
+		code: "W6161XD",
+	},
+	{
+		code: "W6161XS",
+	},
+	{
+		code: "W6162XA",
+	},
+	{
+		code: "W6162XD",
+	},
+	{
+		code: "W6162XS",
+	},
+	{
+		code: "W6169XA",
+	},
+	{
+		code: "W6169XD",
+	},
+	{
+		code: "W6169XS",
+	},
+	{
+		code: "W6191XA",
+	},
+	{
+		code: "W6191XD",
+	},
+	{
+		code: "W6191XS",
+	},
+	{
+		code: "W6192XA",
+	},
+	{
+		code: "W6192XD",
+	},
+	{
+		code: "W6192XS",
+	},
+	{
+		code: "W6199XA",
+	},
+	{
+		code: "W6199XD",
+	},
+	{
+		code: "W6199XS",
+	},
+	{
+		code: "W620XXA",
+	},
+	{
+		code: "W620XXD",
+	},
+	{
+		code: "W620XXS",
+	},
+	{
+		code: "W621XXA",
+	},
+	{
+		code: "W621XXD",
+	},
+	{
+		code: "W621XXS",
+	},
+	{
+		code: "W629XXA",
+	},
+	{
+		code: "W629XXD",
+	},
+	{
+		code: "W629XXS",
+	},
+	{
+		code: "W64XXXA",
+	},
+	{
+		code: "W64XXXD",
+	},
+	{
+		code: "W64XXXS",
+	},
+	{
+		code: "W65XXXA",
+	},
+	{
+		code: "W65XXXD",
+	},
+	{
+		code: "W65XXXS",
+	},
+	{
+		code: "W67XXXA",
+	},
+	{
+		code: "W67XXXD",
+	},
+	{
+		code: "W67XXXS",
+	},
+	{
+		code: "W69XXXA",
+	},
+	{
+		code: "W69XXXD",
+	},
+	{
+		code: "W69XXXS",
+	},
+	{
+		code: "W73XXXA",
+	},
+	{
+		code: "W73XXXD",
+	},
+	{
+		code: "W73XXXS",
+	},
+	{
+		code: "W74XXXA",
+	},
+	{
+		code: "W74XXXD",
+	},
+	{
+		code: "W74XXXS",
+	},
+	{
+		code: "W85XXXA",
+	},
+	{
+		code: "W85XXXD",
+	},
+	{
+		code: "W85XXXS",
+	},
+	{
+		code: "W860XXA",
+	},
+	{
+		code: "W860XXD",
+	},
+	{
+		code: "W860XXS",
+	},
+	{
+		code: "W861XXA",
+	},
+	{
+		code: "W861XXD",
+	},
+	{
+		code: "W861XXS",
+	},
+	{
+		code: "W868XXA",
+	},
+	{
+		code: "W868XXD",
+	},
+	{
+		code: "W868XXS",
+	},
+	{
+		code: "W880XXA",
+	},
+	{
+		code: "W880XXD",
+	},
+	{
+		code: "W880XXS",
+	},
+	{
+		code: "W881XXA",
+	},
+	{
+		code: "W881XXD",
+	},
+	{
+		code: "W881XXS",
+	},
+	{
+		code: "W888XXA",
+	},
+	{
+		code: "W888XXD",
+	},
+	{
+		code: "W888XXS",
+	},
+	{
+		code: "W890XXA",
+	},
+	{
+		code: "W890XXD",
+	},
+	{
+		code: "W890XXS",
+	},
+	{
+		code: "W891XXA",
+	},
+	{
+		code: "W891XXD",
+	},
+	{
+		code: "W891XXS",
+	},
+	{
+		code: "W898XXA",
+	},
+	{
+		code: "W898XXD",
+	},
+	{
+		code: "W898XXS",
+	},
+	{
+		code: "W899XXA",
+	},
+	{
+		code: "W899XXD",
+	},
+	{
+		code: "W899XXS",
+	},
+	{
+		code: "W900XXA",
+	},
+	{
+		code: "W900XXD",
+	},
+	{
+		code: "W900XXS",
+	},
+	{
+		code: "W901XXA",
+	},
+	{
+		code: "W901XXD",
+	},
+	{
+		code: "W901XXS",
+	},
+	{
+		code: "W902XXA",
+	},
+	{
+		code: "W902XXD",
+	},
+	{
+		code: "W902XXS",
+	},
+	{
+		code: "W908XXA",
+	},
+	{
+		code: "W908XXD",
+	},
+	{
+		code: "W908XXS",
+	},
+	{
+		code: "W92XXXA",
+	},
+	{
+		code: "W92XXXD",
+	},
+	{
+		code: "W92XXXS",
+	},
+	{
+		code: "W9301XA",
+	},
+	{
+		code: "W9301XD",
+	},
+	{
+		code: "W9301XS",
+	},
+	{
+		code: "W9302XA",
+	},
+	{
+		code: "W9302XD",
+	},
+	{
+		code: "W9302XS",
+	},
+	{
+		code: "W9311XA",
+	},
+	{
+		code: "W9311XD",
+	},
+	{
+		code: "W9311XS",
+	},
+	{
+		code: "W9312XA",
+	},
+	{
+		code: "W9312XD",
+	},
+	{
+		code: "W9312XS",
+	},
+	{
+		code: "W932XXA",
+	},
+	{
+		code: "W932XXD",
+	},
+	{
+		code: "W932XXS",
+	},
+	{
+		code: "W938XXA",
+	},
+	{
+		code: "W938XXD",
+	},
+	{
+		code: "W938XXS",
+	},
+	{
+		code: "W940XXA",
+	},
+	{
+		code: "W940XXD",
+	},
+	{
+		code: "W940XXS",
+	},
+	{
+		code: "W9411XA",
+	},
+	{
+		code: "W9411XD",
+	},
+	{
+		code: "W9411XS",
+	},
+	{
+		code: "W9412XA",
+	},
+	{
+		code: "W9412XD",
+	},
+	{
+		code: "W9412XS",
+	},
+	{
+		code: "W9421XA",
+	},
+	{
+		code: "W9421XD",
+	},
+	{
+		code: "W9421XS",
+	},
+	{
+		code: "W9422XA",
+	},
+	{
+		code: "W9422XD",
+	},
+	{
+		code: "W9422XS",
+	},
+	{
+		code: "W9423XA",
+	},
+	{
+		code: "W9423XD",
+	},
+	{
+		code: "W9423XS",
+	},
+	{
+		code: "W9429XA",
+	},
+	{
+		code: "W9429XD",
+	},
+	{
+		code: "W9429XS",
+	},
+	{
+		code: "W9431XA",
+	},
+	{
+		code: "W9431XD",
+	},
+	{
+		code: "W9431XS",
+	},
+	{
+		code: "W9432XA",
+	},
+	{
+		code: "W9432XD",
+	},
+	{
+		code: "W9432XS",
+	},
+	{
+		code: "W9439XA",
+	},
+	{
+		code: "W9439XD",
+	},
+	{
+		code: "W9439XS",
+	},
+	{
+		code: "W99XXXA",
+	},
+	{
+		code: "W99XXXD",
+	},
+	{
+		code: "W99XXXS",
+	},
+	{
+		code: "X000XXA",
+	},
+	{
+		code: "X000XXD",
+	},
+	{
+		code: "X000XXS",
+	},
+	{
+		code: "X001XXA",
+	},
+	{
+		code: "X001XXD",
+	},
+	{
+		code: "X001XXS",
+	},
+	{
+		code: "X002XXA",
+	},
+	{
+		code: "X002XXD",
+	},
+	{
+		code: "X002XXS",
+	},
+	{
+		code: "X003XXA",
+	},
+	{
+		code: "X003XXD",
+	},
+	{
+		code: "X003XXS",
+	},
+	{
+		code: "X004XXA",
+	},
+	{
+		code: "X004XXD",
+	},
+	{
+		code: "X004XXS",
+	},
+	{
+		code: "X005XXA",
+	},
+	{
+		code: "X005XXD",
+	},
+	{
+		code: "X005XXS",
+	},
+	{
+		code: "X008XXA",
+	},
+	{
+		code: "X008XXD",
+	},
+	{
+		code: "X008XXS",
+	},
+	{
+		code: "X010XXA",
+	},
+	{
+		code: "X010XXD",
+	},
+	{
+		code: "X010XXS",
+	},
+	{
+		code: "X011XXA",
+	},
+	{
+		code: "X011XXD",
+	},
+	{
+		code: "X011XXS",
+	},
+	{
+		code: "X013XXA",
+	},
+	{
+		code: "X013XXD",
+	},
+	{
+		code: "X013XXS",
+	},
+	{
+		code: "X014XXA",
+	},
+	{
+		code: "X014XXD",
+	},
+	{
+		code: "X014XXS",
+	},
+	{
+		code: "X018XXA",
+	},
+	{
+		code: "X018XXD",
+	},
+	{
+		code: "X018XXS",
+	},
+	{
+		code: "X020XXA",
+	},
+	{
+		code: "X020XXD",
+	},
+	{
+		code: "X020XXS",
+	},
+	{
+		code: "X021XXA",
+	},
+	{
+		code: "X021XXD",
+	},
+	{
+		code: "X021XXS",
+	},
+	{
+		code: "X022XXA",
+	},
+	{
+		code: "X022XXD",
+	},
+	{
+		code: "X022XXS",
+	},
+	{
+		code: "X023XXA",
+	},
+	{
+		code: "X023XXD",
+	},
+	{
+		code: "X023XXS",
+	},
+	{
+		code: "X024XXA",
+	},
+	{
+		code: "X024XXD",
+	},
+	{
+		code: "X024XXS",
+	},
+	{
+		code: "X025XXA",
+	},
+	{
+		code: "X025XXD",
+	},
+	{
+		code: "X025XXS",
+	},
+	{
+		code: "X028XXA",
+	},
+	{
+		code: "X028XXD",
+	},
+	{
+		code: "X028XXS",
+	},
+	{
+		code: "X030XXA",
+	},
+	{
+		code: "X030XXD",
+	},
+	{
+		code: "X030XXS",
+	},
+	{
+		code: "X031XXA",
+	},
+	{
+		code: "X031XXD",
+	},
+	{
+		code: "X031XXS",
+	},
+	{
+		code: "X033XXA",
+	},
+	{
+		code: "X033XXD",
+	},
+	{
+		code: "X033XXS",
+	},
+	{
+		code: "X034XXA",
+	},
+	{
+		code: "X034XXD",
+	},
+	{
+		code: "X034XXS",
+	},
+	{
+		code: "X038XXA",
+	},
+	{
+		code: "X038XXD",
+	},
+	{
+		code: "X038XXS",
+	},
+	{
+		code: "X04XXXA",
+	},
+	{
+		code: "X04XXXD",
+	},
+	{
+		code: "X04XXXS",
+	},
+	{
+		code: "X05XXXA",
+	},
+	{
+		code: "X05XXXD",
+	},
+	{
+		code: "X05XXXS",
+	},
+	{
+		code: "X060XXA",
+	},
+	{
+		code: "X060XXD",
+	},
+	{
+		code: "X060XXS",
+	},
+	{
+		code: "X061XXA",
+	},
+	{
+		code: "X061XXD",
+	},
+	{
+		code: "X061XXS",
+	},
+	{
+		code: "X062XXA",
+	},
+	{
+		code: "X062XXD",
+	},
+	{
+		code: "X062XXS",
+	},
+	{
+		code: "X063XXA",
+	},
+	{
+		code: "X063XXD",
+	},
+	{
+		code: "X063XXS",
+	},
+	{
+		code: "X0800XA",
+	},
+	{
+		code: "X0800XD",
+	},
+	{
+		code: "X0800XS",
+	},
+	{
+		code: "X0801XA",
+	},
+	{
+		code: "X0801XD",
+	},
+	{
+		code: "X0801XS",
+	},
+	{
+		code: "X0809XA",
+	},
+	{
+		code: "X0809XD",
+	},
+	{
+		code: "X0809XS",
+	},
+	{
+		code: "X0810XA",
+	},
+	{
+		code: "X0810XD",
+	},
+	{
+		code: "X0810XS",
+	},
+	{
+		code: "X0811XA",
+	},
+	{
+		code: "X0811XD",
+	},
+	{
+		code: "X0811XS",
+	},
+	{
+		code: "X0819XA",
+	},
+	{
+		code: "X0819XD",
+	},
+	{
+		code: "X0819XS",
+	},
+	{
+		code: "X0820XA",
+	},
+	{
+		code: "X0820XD",
+	},
+	{
+		code: "X0820XS",
+	},
+	{
+		code: "X0821XA",
+	},
+	{
+		code: "X0821XD",
+	},
+	{
+		code: "X0821XS",
+	},
+	{
+		code: "X0829XA",
+	},
+	{
+		code: "X0829XD",
+	},
+	{
+		code: "X0829XS",
+	},
+	{
+		code: "X088XXA",
+	},
+	{
+		code: "X088XXD",
+	},
+	{
+		code: "X088XXS",
+	},
+	{
+		code: "X100XXA",
+	},
+	{
+		code: "X100XXD",
+	},
+	{
+		code: "X100XXS",
+	},
+	{
+		code: "X101XXA",
+	},
+	{
+		code: "X101XXD",
+	},
+	{
+		code: "X101XXS",
+	},
+	{
+		code: "X102XXA",
+	},
+	{
+		code: "X102XXD",
+	},
+	{
+		code: "X102XXS",
+	},
+	{
+		code: "X110XXA",
+	},
+	{
+		code: "X110XXD",
+	},
+	{
+		code: "X110XXS",
+	},
+	{
+		code: "X111XXA",
+	},
+	{
+		code: "X111XXD",
+	},
+	{
+		code: "X111XXS",
+	},
+	{
+		code: "X118XXA",
+	},
+	{
+		code: "X118XXD",
+	},
+	{
+		code: "X118XXS",
+	},
+	{
+		code: "X12XXXA",
+	},
+	{
+		code: "X12XXXD",
+	},
+	{
+		code: "X12XXXS",
+	},
+	{
+		code: "X130XXA",
+	},
+	{
+		code: "X130XXD",
+	},
+	{
+		code: "X130XXS",
+	},
+	{
+		code: "X131XXA",
+	},
+	{
+		code: "X131XXD",
+	},
+	{
+		code: "X131XXS",
+	},
+	{
+		code: "X140XXA",
+	},
+	{
+		code: "X140XXD",
+	},
+	{
+		code: "X140XXS",
+	},
+	{
+		code: "X141XXA",
+	},
+	{
+		code: "X141XXD",
+	},
+	{
+		code: "X141XXS",
+	},
+	{
+		code: "X150XXA",
+	},
+	{
+		code: "X150XXD",
+	},
+	{
+		code: "X150XXS",
+	},
+	{
+		code: "X151XXA",
+	},
+	{
+		code: "X151XXD",
+	},
+	{
+		code: "X151XXS",
+	},
+	{
+		code: "X152XXA",
+	},
+	{
+		code: "X152XXD",
+	},
+	{
+		code: "X152XXS",
+	},
+	{
+		code: "X153XXA",
+	},
+	{
+		code: "X153XXD",
+	},
+	{
+		code: "X153XXS",
+	},
+	{
+		code: "X158XXA",
+	},
+	{
+		code: "X158XXD",
+	},
+	{
+		code: "X158XXS",
+	},
+	{
+		code: "X16XXXA",
+	},
+	{
+		code: "X16XXXD",
+	},
+	{
+		code: "X16XXXS",
+	},
+	{
+		code: "X17XXXA",
+	},
+	{
+		code: "X17XXXD",
+	},
+	{
+		code: "X17XXXS",
+	},
+	{
+		code: "X18XXXA",
+	},
+	{
+		code: "X18XXXD",
+	},
+	{
+		code: "X18XXXS",
+	},
+	{
+		code: "X19XXXA",
+	},
+	{
+		code: "X19XXXD",
+	},
+	{
+		code: "X19XXXS",
+	},
+	{
+		code: "X30XXXA",
+	},
+	{
+		code: "X30XXXD",
+	},
+	{
+		code: "X30XXXS",
+	},
+	{
+		code: "X31XXXA",
+	},
+	{
+		code: "X31XXXD",
+	},
+	{
+		code: "X31XXXS",
+	},
+	{
+		code: "X32XXXA",
+	},
+	{
+		code: "X32XXXD",
+	},
+	{
+		code: "X32XXXS",
+	},
+	{
+		code: "X34XXXA",
+	},
+	{
+		code: "X34XXXD",
+	},
+	{
+		code: "X34XXXS",
+	},
+	{
+		code: "X35XXXA",
+	},
+	{
+		code: "X35XXXD",
+	},
+	{
+		code: "X35XXXS",
+	},
+	{
+		code: "X360XXA",
+	},
+	{
+		code: "X360XXD",
+	},
+	{
+		code: "X360XXS",
+	},
+	{
+		code: "X361XXA",
+	},
+	{
+		code: "X361XXD",
+	},
+	{
+		code: "X361XXS",
+	},
+	{
+		code: "X370XXA",
+	},
+	{
+		code: "X370XXD",
+	},
+	{
+		code: "X370XXS",
+	},
+	{
+		code: "X371XXA",
+	},
+	{
+		code: "X371XXD",
+	},
+	{
+		code: "X371XXS",
+	},
+	{
+		code: "X372XXA",
+	},
+	{
+		code: "X372XXD",
+	},
+	{
+		code: "X372XXS",
+	},
+	{
+		code: "X373XXA",
+	},
+	{
+		code: "X373XXD",
+	},
+	{
+		code: "X373XXS",
+	},
+	{
+		code: "X3741XA",
+	},
+	{
+		code: "X3741XD",
+	},
+	{
+		code: "X3741XS",
+	},
+	{
+		code: "X3742XA",
+	},
+	{
+		code: "X3742XD",
+	},
+	{
+		code: "X3742XS",
+	},
+	{
+		code: "X3743XA",
+	},
+	{
+		code: "X3743XD",
+	},
+	{
+		code: "X3743XS",
+	},
+	{
+		code: "X378XXA",
+	},
+	{
+		code: "X378XXD",
+	},
+	{
+		code: "X378XXS",
+	},
+	{
+		code: "X379XXA",
+	},
+	{
+		code: "X379XXD",
+	},
+	{
+		code: "X379XXS",
+	},
+	{
+		code: "X38XXXA",
+	},
+	{
+		code: "X38XXXD",
+	},
+	{
+		code: "X38XXXS",
+	},
+	{
+		code: "X3901XA",
+	},
+	{
+		code: "X3901XD",
+	},
+	{
+		code: "X3901XS",
+	},
+	{
+		code: "X3908XA",
+	},
+	{
+		code: "X3908XD",
+	},
+	{
+		code: "X3908XS",
+	},
+	{
+		code: "X398XXA",
+	},
+	{
+		code: "X398XXD",
+	},
+	{
+		code: "X398XXS",
+	},
+	{
+		code: "X500XXA",
+	},
+	{
+		code: "X500XXD",
+	},
+	{
+		code: "X500XXS",
+	},
+	{
+		code: "X501XXA",
+	},
+	{
+		code: "X501XXD",
+	},
+	{
+		code: "X501XXS",
+	},
+	{
+		code: "X503XXA",
+	},
+	{
+		code: "X503XXD",
+	},
+	{
+		code: "X503XXS",
+	},
+	{
+		code: "X509XXA",
+	},
+	{
+		code: "X509XXD",
+	},
+	{
+		code: "X509XXS",
+	},
+	{
+		code: "X52XXXA",
+	},
+	{
+		code: "X52XXXD",
+	},
+	{
+		code: "X52XXXS",
+	},
+	{
+		code: "X58XXXA",
+	},
+	{
+		code: "X58XXXD",
+	},
+	{
+		code: "X58XXXS",
+	},
+	{
+		code: "X710XXA",
+	},
+	{
+		code: "X710XXD",
+	},
+	{
+		code: "X710XXS",
+	},
+	{
+		code: "X711XXA",
+	},
+	{
+		code: "X711XXD",
+	},
+	{
+		code: "X711XXS",
+	},
+	{
+		code: "X712XXA",
+	},
+	{
+		code: "X712XXD",
+	},
+	{
+		code: "X712XXS",
+	},
+	{
+		code: "X713XXA",
+	},
+	{
+		code: "X713XXD",
+	},
+	{
+		code: "X713XXS",
+	},
+	{
+		code: "X718XXA",
+	},
+	{
+		code: "X718XXD",
+	},
+	{
+		code: "X718XXS",
+	},
+	{
+		code: "X719XXA",
+	},
+	{
+		code: "X719XXD",
+	},
+	{
+		code: "X719XXS",
+	},
+	{
+		code: "X72XXXA",
+	},
+	{
+		code: "X72XXXD",
+	},
+	{
+		code: "X72XXXS",
+	},
+	{
+		code: "X730XXA",
+	},
+	{
+		code: "X730XXD",
+	},
+	{
+		code: "X730XXS",
+	},
+	{
+		code: "X731XXA",
+	},
+	{
+		code: "X731XXD",
+	},
+	{
+		code: "X731XXS",
+	},
+	{
+		code: "X732XXA",
+	},
+	{
+		code: "X732XXD",
+	},
+	{
+		code: "X732XXS",
+	},
+	{
+		code: "X738XXA",
+	},
+	{
+		code: "X738XXD",
+	},
+	{
+		code: "X738XXS",
+	},
+	{
+		code: "X739XXA",
+	},
+	{
+		code: "X739XXD",
+	},
+	{
+		code: "X739XXS",
+	},
+	{
+		code: "X7401XA",
+	},
+	{
+		code: "X7401XD",
+	},
+	{
+		code: "X7401XS",
+	},
+	{
+		code: "X7402XA",
+	},
+	{
+		code: "X7402XD",
+	},
+	{
+		code: "X7402XS",
+	},
+	{
+		code: "X7409XA",
+	},
+	{
+		code: "X7409XD",
+	},
+	{
+		code: "X7409XS",
+	},
+	{
+		code: "X748XXA",
+	},
+	{
+		code: "X748XXD",
+	},
+	{
+		code: "X748XXS",
+	},
+	{
+		code: "X749XXA",
+	},
+	{
+		code: "X749XXD",
+	},
+	{
+		code: "X749XXS",
+	},
+	{
+		code: "X75XXXA",
+	},
+	{
+		code: "X75XXXD",
+	},
+	{
+		code: "X75XXXS",
+	},
+	{
+		code: "X76XXXA",
+	},
+	{
+		code: "X76XXXD",
+	},
+	{
+		code: "X76XXXS",
+	},
+	{
+		code: "X770XXA",
+	},
+	{
+		code: "X770XXD",
+	},
+	{
+		code: "X770XXS",
+	},
+	{
+		code: "X771XXA",
+	},
+	{
+		code: "X771XXD",
+	},
+	{
+		code: "X771XXS",
+	},
+	{
+		code: "X772XXA",
+	},
+	{
+		code: "X772XXD",
+	},
+	{
+		code: "X772XXS",
+	},
+	{
+		code: "X773XXA",
+	},
+	{
+		code: "X773XXD",
+	},
+	{
+		code: "X773XXS",
+	},
+	{
+		code: "X778XXA",
+	},
+	{
+		code: "X778XXD",
+	},
+	{
+		code: "X778XXS",
+	},
+	{
+		code: "X779XXA",
+	},
+	{
+		code: "X779XXD",
+	},
+	{
+		code: "X779XXS",
+	},
+	{
+		code: "X780XXA",
+	},
+	{
+		code: "X780XXD",
+	},
+	{
+		code: "X780XXS",
+	},
+	{
+		code: "X781XXA",
+	},
+	{
+		code: "X781XXD",
+	},
+	{
+		code: "X781XXS",
+	},
+	{
+		code: "X782XXA",
+	},
+	{
+		code: "X782XXD",
+	},
+	{
+		code: "X782XXS",
+	},
+	{
+		code: "X788XXA",
+	},
+	{
+		code: "X788XXD",
+	},
+	{
+		code: "X788XXS",
+	},
+	{
+		code: "X789XXA",
+	},
+	{
+		code: "X789XXD",
+	},
+	{
+		code: "X789XXS",
+	},
+	{
+		code: "X79XXXA",
+	},
+	{
+		code: "X79XXXD",
+	},
+	{
+		code: "X79XXXS",
+	},
+	{
+		code: "X80XXXA",
+	},
+	{
+		code: "X80XXXD",
+	},
+	{
+		code: "X80XXXS",
+	},
+	{
+		code: "X810XXA",
+	},
+	{
+		code: "X810XXD",
+	},
+	{
+		code: "X810XXS",
+	},
+	{
+		code: "X811XXA",
+	},
+	{
+		code: "X811XXD",
+	},
+	{
+		code: "X811XXS",
+	},
+	{
+		code: "X818XXA",
+	},
+	{
+		code: "X818XXD",
+	},
+	{
+		code: "X818XXS",
+	},
+	{
+		code: "X820XXA",
+	},
+	{
+		code: "X820XXD",
+	},
+	{
+		code: "X820XXS",
+	},
+	{
+		code: "X821XXA",
+	},
+	{
+		code: "X821XXD",
+	},
+	{
+		code: "X821XXS",
+	},
+	{
+		code: "X822XXA",
+	},
+	{
+		code: "X822XXD",
+	},
+	{
+		code: "X822XXS",
+	},
+	{
+		code: "X828XXA",
+	},
+	{
+		code: "X828XXD",
+	},
+	{
+		code: "X828XXS",
+	},
+	{
+		code: "X830XXA",
+	},
+	{
+		code: "X830XXD",
+	},
+	{
+		code: "X830XXS",
+	},
+	{
+		code: "X831XXA",
+	},
+	{
+		code: "X831XXD",
+	},
+	{
+		code: "X831XXS",
+	},
+	{
+		code: "X832XXA",
+	},
+	{
+		code: "X832XXD",
+	},
+	{
+		code: "X832XXS",
+	},
+	{
+		code: "X838XXA",
+	},
+	{
+		code: "X838XXD",
+	},
+	{
+		code: "X838XXS",
+	},
+	{
+		code: "X920XXA",
+	},
+	{
+		code: "X920XXD",
+	},
+	{
+		code: "X920XXS",
+	},
+	{
+		code: "X921XXA",
+	},
+	{
+		code: "X921XXD",
+	},
+	{
+		code: "X921XXS",
+	},
+	{
+		code: "X922XXA",
+	},
+	{
+		code: "X922XXD",
+	},
+	{
+		code: "X922XXS",
+	},
+	{
+		code: "X923XXA",
+	},
+	{
+		code: "X923XXD",
+	},
+	{
+		code: "X923XXS",
+	},
+	{
+		code: "X928XXA",
+	},
+	{
+		code: "X928XXD",
+	},
+	{
+		code: "X928XXS",
+	},
+	{
+		code: "X929XXA",
+	},
+	{
+		code: "X929XXD",
+	},
+	{
+		code: "X929XXS",
+	},
+	{
+		code: "X93XXXA",
+	},
+	{
+		code: "X93XXXD",
+	},
+	{
+		code: "X93XXXS",
+	},
+	{
+		code: "X940XXA",
+	},
+	{
+		code: "X940XXD",
+	},
+	{
+		code: "X940XXS",
+	},
+	{
+		code: "X941XXA",
+	},
+	{
+		code: "X941XXD",
+	},
+	{
+		code: "X941XXS",
+	},
+	{
+		code: "X942XXA",
+	},
+	{
+		code: "X942XXD",
+	},
+	{
+		code: "X942XXS",
+	},
+	{
+		code: "X948XXA",
+	},
+	{
+		code: "X948XXD",
+	},
+	{
+		code: "X948XXS",
+	},
+	{
+		code: "X949XXA",
+	},
+	{
+		code: "X949XXD",
+	},
+	{
+		code: "X949XXS",
+	},
+	{
+		code: "X9501XA",
+	},
+	{
+		code: "X9501XD",
+	},
+	{
+		code: "X9501XS",
+	},
+	{
+		code: "X9502XA",
+	},
+	{
+		code: "X9502XD",
+	},
+	{
+		code: "X9502XS",
+	},
+	{
+		code: "X9509XA",
+	},
+	{
+		code: "X9509XD",
+	},
+	{
+		code: "X9509XS",
+	},
+	{
+		code: "X958XXA",
+	},
+	{
+		code: "X958XXD",
+	},
+	{
+		code: "X958XXS",
+	},
+	{
+		code: "X959XXA",
+	},
+	{
+		code: "X959XXD",
+	},
+	{
+		code: "X959XXS",
+	},
+	{
+		code: "X960XXA",
+	},
+	{
+		code: "X960XXD",
+	},
+	{
+		code: "X960XXS",
+	},
+	{
+		code: "X961XXA",
+	},
+	{
+		code: "X961XXD",
+	},
+	{
+		code: "X961XXS",
+	},
+	{
+		code: "X962XXA",
+	},
+	{
+		code: "X962XXD",
+	},
+	{
+		code: "X962XXS",
+	},
+	{
+		code: "X963XXA",
+	},
+	{
+		code: "X963XXD",
+	},
+	{
+		code: "X963XXS",
+	},
+	{
+		code: "X964XXA",
+	},
+	{
+		code: "X964XXD",
+	},
+	{
+		code: "X964XXS",
+	},
+	{
+		code: "X968XXA",
+	},
+	{
+		code: "X968XXD",
+	},
+	{
+		code: "X968XXS",
+	},
+	{
+		code: "X969XXA",
+	},
+	{
+		code: "X969XXD",
+	},
+	{
+		code: "X969XXS",
+	},
+	{
+		code: "X97XXXA",
+	},
+	{
+		code: "X97XXXD",
+	},
+	{
+		code: "X97XXXS",
+	},
+	{
+		code: "X980XXA",
+	},
+	{
+		code: "X980XXD",
+	},
+	{
+		code: "X980XXS",
+	},
+	{
+		code: "X981XXA",
+	},
+	{
+		code: "X981XXD",
+	},
+	{
+		code: "X981XXS",
+	},
+	{
+		code: "X982XXA",
+	},
+	{
+		code: "X982XXD",
+	},
+	{
+		code: "X982XXS",
+	},
+	{
+		code: "X983XXA",
+	},
+	{
+		code: "X983XXD",
+	},
+	{
+		code: "X983XXS",
+	},
+	{
+		code: "X988XXA",
+	},
+	{
+		code: "X988XXD",
+	},
+	{
+		code: "X988XXS",
+	},
+	{
+		code: "X989XXA",
+	},
+	{
+		code: "X989XXD",
+	},
+	{
+		code: "X989XXS",
+	},
+	{
+		code: "X990XXA",
+	},
+	{
+		code: "X990XXD",
+	},
+	{
+		code: "X990XXS",
+	},
+	{
+		code: "X991XXA",
+	},
+	{
+		code: "X991XXD",
+	},
+	{
+		code: "X991XXS",
+	},
+	{
+		code: "X992XXA",
+	},
+	{
+		code: "X992XXD",
+	},
+	{
+		code: "X992XXS",
+	},
+	{
+		code: "X998XXA",
+	},
+	{
+		code: "X998XXD",
+	},
+	{
+		code: "X998XXS",
+	},
+	{
+		code: "X999XXA",
+	},
+	{
+		code: "X999XXD",
+	},
+	{
+		code: "X999XXS",
+	},
+	{
+		code: "Y00XXXA",
+	},
+	{
+		code: "Y00XXXD",
+	},
+	{
+		code: "Y00XXXS",
+	},
+	{
+		code: "Y01XXXA",
+	},
+	{
+		code: "Y01XXXD",
+	},
+	{
+		code: "Y01XXXS",
+	},
+	{
+		code: "Y020XXA",
+	},
+	{
+		code: "Y020XXD",
+	},
+	{
+		code: "Y020XXS",
+	},
+	{
+		code: "Y021XXA",
+	},
+	{
+		code: "Y021XXD",
+	},
+	{
+		code: "Y021XXS",
+	},
+	{
+		code: "Y028XXA",
+	},
+	{
+		code: "Y028XXD",
+	},
+	{
+		code: "Y028XXS",
+	},
+	{
+		code: "Y030XXA",
+	},
+	{
+		code: "Y030XXD",
+	},
+	{
+		code: "Y030XXS",
+	},
+	{
+		code: "Y038XXA",
+	},
+	{
+		code: "Y038XXD",
+	},
+	{
+		code: "Y038XXS",
+	},
+	{
+		code: "Y040XXA",
+	},
+	{
+		code: "Y040XXD",
+	},
+	{
+		code: "Y040XXS",
+	},
+	{
+		code: "Y041XXA",
+	},
+	{
+		code: "Y041XXD",
+	},
+	{
+		code: "Y041XXS",
+	},
+	{
+		code: "Y042XXA",
+	},
+	{
+		code: "Y042XXD",
+	},
+	{
+		code: "Y042XXS",
+	},
+	{
+		code: "Y048XXA",
+	},
+	{
+		code: "Y048XXD",
+	},
+	{
+		code: "Y048XXS",
+	},
+	{
+		code: "Y0701",
+	},
+	{
+		code: "Y0702",
+	},
+	{
+		code: "Y0703",
+	},
+	{
+		code: "Y0704",
+	},
+	{
+		code: "Y0711",
+	},
+	{
+		code: "Y0712",
+	},
+	{
+		code: "Y0713",
+	},
+	{
+		code: "Y0714",
+	},
+	{
+		code: "Y07410",
+	},
+	{
+		code: "Y07411",
+	},
+	{
+		code: "Y07420",
+	},
+	{
+		code: "Y07421",
+	},
+	{
+		code: "Y07430",
+	},
+	{
+		code: "Y07432",
+	},
+	{
+		code: "Y07433",
+	},
+	{
+		code: "Y07434",
+	},
+	{
+		code: "Y07435",
+	},
+	{
+		code: "Y07436",
+	},
+	{
+		code: "Y07490",
+	},
+	{
+		code: "Y07491",
+	},
+	{
+		code: "Y07499",
+	},
+	{
+		code: "Y0750",
+	},
+	{
+		code: "Y07510",
+	},
+	{
+		code: "Y07511",
+	},
+	{
+		code: "Y07512",
+	},
+	{
+		code: "Y07513",
+	},
+	{
+		code: "Y07519",
+	},
+	{
+		code: "Y07521",
+	},
+	{
+		code: "Y07528",
+	},
+	{
+		code: "Y07529",
+	},
+	{
+		code: "Y0753",
+	},
+	{
+		code: "Y0759",
+	},
+	{
+		code: "Y079",
+	},
+	{
+		code: "Y0801XA",
+	},
+	{
+		code: "Y0801XD",
+	},
+	{
+		code: "Y0801XS",
+	},
+	{
+		code: "Y0802XA",
+	},
+	{
+		code: "Y0802XD",
+	},
+	{
+		code: "Y0802XS",
+	},
+	{
+		code: "Y0809XA",
+	},
+	{
+		code: "Y0809XD",
+	},
+	{
+		code: "Y0809XS",
+	},
+	{
+		code: "Y0881XA",
+	},
+	{
+		code: "Y0881XD",
+	},
+	{
+		code: "Y0881XS",
+	},
+	{
+		code: "Y0889XA",
+	},
+	{
+		code: "Y0889XD",
+	},
+	{
+		code: "Y0889XS",
+	},
+	{
+		code: "Y09",
+	},
+	{
+		code: "Y210XXA",
+	},
+	{
+		code: "Y210XXD",
+	},
+	{
+		code: "Y210XXS",
+	},
+	{
+		code: "Y211XXA",
+	},
+	{
+		code: "Y211XXD",
+	},
+	{
+		code: "Y211XXS",
+	},
+	{
+		code: "Y212XXA",
+	},
+	{
+		code: "Y212XXD",
+	},
+	{
+		code: "Y212XXS",
+	},
+	{
+		code: "Y213XXA",
+	},
+	{
+		code: "Y213XXD",
+	},
+	{
+		code: "Y213XXS",
+	},
+	{
+		code: "Y214XXA",
+	},
+	{
+		code: "Y214XXD",
+	},
+	{
+		code: "Y214XXS",
+	},
+	{
+		code: "Y218XXA",
+	},
+	{
+		code: "Y218XXD",
+	},
+	{
+		code: "Y218XXS",
+	},
+	{
+		code: "Y219XXA",
+	},
+	{
+		code: "Y219XXD",
+	},
+	{
+		code: "Y219XXS",
+	},
+	{
+		code: "Y22XXXA",
+	},
+	{
+		code: "Y22XXXD",
+	},
+	{
+		code: "Y22XXXS",
+	},
+	{
+		code: "Y230XXA",
+	},
+	{
+		code: "Y230XXD",
+	},
+	{
+		code: "Y230XXS",
+	},
+	{
+		code: "Y231XXA",
+	},
+	{
+		code: "Y231XXD",
+	},
+	{
+		code: "Y231XXS",
+	},
+	{
+		code: "Y232XXA",
+	},
+	{
+		code: "Y232XXD",
+	},
+	{
+		code: "Y232XXS",
+	},
+	{
+		code: "Y233XXA",
+	},
+	{
+		code: "Y233XXD",
+	},
+	{
+		code: "Y233XXS",
+	},
+	{
+		code: "Y238XXA",
+	},
+	{
+		code: "Y238XXD",
+	},
+	{
+		code: "Y238XXS",
+	},
+	{
+		code: "Y239XXA",
+	},
+	{
+		code: "Y239XXD",
+	},
+	{
+		code: "Y239XXS",
+	},
+	{
+		code: "Y240XXA",
+	},
+	{
+		code: "Y240XXD",
+	},
+	{
+		code: "Y240XXS",
+	},
+	{
+		code: "Y248XXA",
+	},
+	{
+		code: "Y248XXD",
+	},
+	{
+		code: "Y248XXS",
+	},
+	{
+		code: "Y249XXA",
+	},
+	{
+		code: "Y249XXD",
+	},
+	{
+		code: "Y249XXS",
+	},
+	{
+		code: "Y25XXXA",
+	},
+	{
+		code: "Y25XXXD",
+	},
+	{
+		code: "Y25XXXS",
+	},
+	{
+		code: "Y26XXXA",
+	},
+	{
+		code: "Y26XXXD",
+	},
+	{
+		code: "Y26XXXS",
+	},
+	{
+		code: "Y270XXA",
+	},
+	{
+		code: "Y270XXD",
+	},
+	{
+		code: "Y270XXS",
+	},
+	{
+		code: "Y271XXA",
+	},
+	{
+		code: "Y271XXD",
+	},
+	{
+		code: "Y271XXS",
+	},
+	{
+		code: "Y272XXA",
+	},
+	{
+		code: "Y272XXD",
+	},
+	{
+		code: "Y272XXS",
+	},
+	{
+		code: "Y273XXA",
+	},
+	{
+		code: "Y273XXD",
+	},
+	{
+		code: "Y273XXS",
+	},
+	{
+		code: "Y278XXA",
+	},
+	{
+		code: "Y278XXD",
+	},
+	{
+		code: "Y278XXS",
+	},
+	{
+		code: "Y279XXA",
+	},
+	{
+		code: "Y279XXD",
+	},
+	{
+		code: "Y279XXS",
+	},
+	{
+		code: "Y280XXA",
+	},
+	{
+		code: "Y280XXD",
+	},
+	{
+		code: "Y280XXS",
+	},
+	{
+		code: "Y281XXA",
+	},
+	{
+		code: "Y281XXD",
+	},
+	{
+		code: "Y281XXS",
+	},
+	{
+		code: "Y282XXA",
+	},
+	{
+		code: "Y282XXD",
+	},
+	{
+		code: "Y282XXS",
+	},
+	{
+		code: "Y288XXA",
+	},
+	{
+		code: "Y288XXD",
+	},
+	{
+		code: "Y288XXS",
+	},
+	{
+		code: "Y289XXA",
+	},
+	{
+		code: "Y289XXD",
+	},
+	{
+		code: "Y289XXS",
+	},
+	{
+		code: "Y29XXXA",
+	},
+	{
+		code: "Y29XXXD",
+	},
+	{
+		code: "Y29XXXS",
+	},
+	{
+		code: "Y30XXXA",
+	},
+	{
+		code: "Y30XXXD",
+	},
+	{
+		code: "Y30XXXS",
+	},
+	{
+		code: "Y31XXXA",
+	},
+	{
+		code: "Y31XXXD",
+	},
+	{
+		code: "Y31XXXS",
+	},
+	{
+		code: "Y32XXXA",
+	},
+	{
+		code: "Y32XXXD",
+	},
+	{
+		code: "Y32XXXS",
+	},
+	{
+		code: "Y33XXXA",
+	},
+	{
+		code: "Y33XXXD",
+	},
+	{
+		code: "Y33XXXS",
+	},
+	{
+		code: "Y35001A",
+	},
+	{
+		code: "Y35001D",
+	},
+	{
+		code: "Y35001S",
+	},
+	{
+		code: "Y35002A",
+	},
+	{
+		code: "Y35002D",
+	},
+	{
+		code: "Y35002S",
+	},
+	{
+		code: "Y35003A",
+	},
+	{
+		code: "Y35003D",
+	},
+	{
+		code: "Y35003S",
+	},
+	{
+		code: "Y35011A",
+	},
+	{
+		code: "Y35011D",
+	},
+	{
+		code: "Y35011S",
+	},
+	{
+		code: "Y35012A",
+	},
+	{
+		code: "Y35012D",
+	},
+	{
+		code: "Y35012S",
+	},
+	{
+		code: "Y35013A",
+	},
+	{
+		code: "Y35013D",
+	},
+	{
+		code: "Y35013S",
+	},
+	{
+		code: "Y35021A",
+	},
+	{
+		code: "Y35021D",
+	},
+	{
+		code: "Y35021S",
+	},
+	{
+		code: "Y35022A",
+	},
+	{
+		code: "Y35022D",
+	},
+	{
+		code: "Y35022S",
+	},
+	{
+		code: "Y35023A",
+	},
+	{
+		code: "Y35023D",
+	},
+	{
+		code: "Y35023S",
+	},
+	{
+		code: "Y35031A",
+	},
+	{
+		code: "Y35031D",
+	},
+	{
+		code: "Y35031S",
+	},
+	{
+		code: "Y35032A",
+	},
+	{
+		code: "Y35032D",
+	},
+	{
+		code: "Y35032S",
+	},
+	{
+		code: "Y35033A",
+	},
+	{
+		code: "Y35033D",
+	},
+	{
+		code: "Y35033S",
+	},
+	{
+		code: "Y35041A",
+	},
+	{
+		code: "Y35041D",
+	},
+	{
+		code: "Y35041S",
+	},
+	{
+		code: "Y35042A",
+	},
+	{
+		code: "Y35042D",
+	},
+	{
+		code: "Y35042S",
+	},
+	{
+		code: "Y35043A",
+	},
+	{
+		code: "Y35043D",
+	},
+	{
+		code: "Y35043S",
+	},
+	{
+		code: "Y35091A",
+	},
+	{
+		code: "Y35091D",
+	},
+	{
+		code: "Y35091S",
+	},
+	{
+		code: "Y35092A",
+	},
+	{
+		code: "Y35092D",
+	},
+	{
+		code: "Y35092S",
+	},
+	{
+		code: "Y35093A",
+	},
+	{
+		code: "Y35093D",
+	},
+	{
+		code: "Y35093S",
+	},
+	{
+		code: "Y35101A",
+	},
+	{
+		code: "Y35101D",
+	},
+	{
+		code: "Y35101S",
+	},
+	{
+		code: "Y35102A",
+	},
+	{
+		code: "Y35102D",
+	},
+	{
+		code: "Y35102S",
+	},
+	{
+		code: "Y35103A",
+	},
+	{
+		code: "Y35103D",
+	},
+	{
+		code: "Y35103S",
+	},
+	{
+		code: "Y35111A",
+	},
+	{
+		code: "Y35111D",
+	},
+	{
+		code: "Y35111S",
+	},
+	{
+		code: "Y35112A",
+	},
+	{
+		code: "Y35112D",
+	},
+	{
+		code: "Y35112S",
+	},
+	{
+		code: "Y35113A",
+	},
+	{
+		code: "Y35113D",
+	},
+	{
+		code: "Y35113S",
+	},
+	{
+		code: "Y35121A",
+	},
+	{
+		code: "Y35121D",
+	},
+	{
+		code: "Y35121S",
+	},
+	{
+		code: "Y35122A",
+	},
+	{
+		code: "Y35122D",
+	},
+	{
+		code: "Y35122S",
+	},
+	{
+		code: "Y35123A",
+	},
+	{
+		code: "Y35123D",
+	},
+	{
+		code: "Y35123S",
+	},
+	{
+		code: "Y35191A",
+	},
+	{
+		code: "Y35191D",
+	},
+	{
+		code: "Y35191S",
+	},
+	{
+		code: "Y35192A",
+	},
+	{
+		code: "Y35192D",
+	},
+	{
+		code: "Y35192S",
+	},
+	{
+		code: "Y35193A",
+	},
+	{
+		code: "Y35193D",
+	},
+	{
+		code: "Y35193S",
+	},
+	{
+		code: "Y35201A",
+	},
+	{
+		code: "Y35201D",
+	},
+	{
+		code: "Y35201S",
+	},
+	{
+		code: "Y35202A",
+	},
+	{
+		code: "Y35202D",
+	},
+	{
+		code: "Y35202S",
+	},
+	{
+		code: "Y35203A",
+	},
+	{
+		code: "Y35203D",
+	},
+	{
+		code: "Y35203S",
+	},
+	{
+		code: "Y35211A",
+	},
+	{
+		code: "Y35211D",
+	},
+	{
+		code: "Y35211S",
+	},
+	{
+		code: "Y35212A",
+	},
+	{
+		code: "Y35212D",
+	},
+	{
+		code: "Y35212S",
+	},
+	{
+		code: "Y35213A",
+	},
+	{
+		code: "Y35213D",
+	},
+	{
+		code: "Y35213S",
+	},
+	{
+		code: "Y35291A",
+	},
+	{
+		code: "Y35291D",
+	},
+	{
+		code: "Y35291S",
+	},
+	{
+		code: "Y35292A",
+	},
+	{
+		code: "Y35292D",
+	},
+	{
+		code: "Y35292S",
+	},
+	{
+		code: "Y35293A",
+	},
+	{
+		code: "Y35293D",
+	},
+	{
+		code: "Y35293S",
+	},
+	{
+		code: "Y35301A",
+	},
+	{
+		code: "Y35301D",
+	},
+	{
+		code: "Y35301S",
+	},
+	{
+		code: "Y35302A",
+	},
+	{
+		code: "Y35302D",
+	},
+	{
+		code: "Y35302S",
+	},
+	{
+		code: "Y35303A",
+	},
+	{
+		code: "Y35303D",
+	},
+	{
+		code: "Y35303S",
+	},
+	{
+		code: "Y35311A",
+	},
+	{
+		code: "Y35311D",
+	},
+	{
+		code: "Y35311S",
+	},
+	{
+		code: "Y35312A",
+	},
+	{
+		code: "Y35312D",
+	},
+	{
+		code: "Y35312S",
+	},
+	{
+		code: "Y35313A",
+	},
+	{
+		code: "Y35313D",
+	},
+	{
+		code: "Y35313S",
+	},
+	{
+		code: "Y35391A",
+	},
+	{
+		code: "Y35391D",
+	},
+	{
+		code: "Y35391S",
+	},
+	{
+		code: "Y35392A",
+	},
+	{
+		code: "Y35392D",
+	},
+	{
+		code: "Y35392S",
+	},
+	{
+		code: "Y35393A",
+	},
+	{
+		code: "Y35393D",
+	},
+	{
+		code: "Y35393S",
+	},
+	{
+		code: "Y35401A",
+	},
+	{
+		code: "Y35401D",
+	},
+	{
+		code: "Y35401S",
+	},
+	{
+		code: "Y35402A",
+	},
+	{
+		code: "Y35402D",
+	},
+	{
+		code: "Y35402S",
+	},
+	{
+		code: "Y35403A",
+	},
+	{
+		code: "Y35403D",
+	},
+	{
+		code: "Y35403S",
+	},
+	{
+		code: "Y35411A",
+	},
+	{
+		code: "Y35411D",
+	},
+	{
+		code: "Y35411S",
+	},
+	{
+		code: "Y35412A",
+	},
+	{
+		code: "Y35412D",
+	},
+	{
+		code: "Y35412S",
+	},
+	{
+		code: "Y35413A",
+	},
+	{
+		code: "Y35413D",
+	},
+	{
+		code: "Y35413S",
+	},
+	{
+		code: "Y35491A",
+	},
+	{
+		code: "Y35491D",
+	},
+	{
+		code: "Y35491S",
+	},
+	{
+		code: "Y35492A",
+	},
+	{
+		code: "Y35492D",
+	},
+	{
+		code: "Y35492S",
+	},
+	{
+		code: "Y35493A",
+	},
+	{
+		code: "Y35493D",
+	},
+	{
+		code: "Y35493S",
+	},
+	{
+		code: "Y35811A",
+	},
+	{
+		code: "Y35811D",
+	},
+	{
+		code: "Y35811S",
+	},
+	{
+		code: "Y35812A",
+	},
+	{
+		code: "Y35812D",
+	},
+	{
+		code: "Y35812S",
+	},
+	{
+		code: "Y35813A",
+	},
+	{
+		code: "Y35813D",
+	},
+	{
+		code: "Y35813S",
+	},
+	{
+		code: "Y35891A",
+	},
+	{
+		code: "Y35891D",
+	},
+	{
+		code: "Y35891S",
+	},
+	{
+		code: "Y35892A",
+	},
+	{
+		code: "Y35892D",
+	},
+	{
+		code: "Y35892S",
+	},
+	{
+		code: "Y35893A",
+	},
+	{
+		code: "Y35893D",
+	},
+	{
+		code: "Y35893S",
+	},
+	{
+		code: "Y3591XA",
+	},
+	{
+		code: "Y3591XD",
+	},
+	{
+		code: "Y3591XS",
+	},
+	{
+		code: "Y3592XA",
+	},
+	{
+		code: "Y3592XD",
+	},
+	{
+		code: "Y3592XS",
+	},
+	{
+		code: "Y3593XA",
+	},
+	{
+		code: "Y3593XD",
+	},
+	{
+		code: "Y3593XS",
+	},
+	{
+		code: "Y36000A",
+	},
+	{
+		code: "Y36000D",
+	},
+	{
+		code: "Y36000S",
+	},
+	{
+		code: "Y36001A",
+	},
+	{
+		code: "Y36001D",
+	},
+	{
+		code: "Y36001S",
+	},
+	{
+		code: "Y36010A",
+	},
+	{
+		code: "Y36010D",
+	},
+	{
+		code: "Y36010S",
+	},
+	{
+		code: "Y36011A",
+	},
+	{
+		code: "Y36011D",
+	},
+	{
+		code: "Y36011S",
+	},
+	{
+		code: "Y36020A",
+	},
+	{
+		code: "Y36020D",
+	},
+	{
+		code: "Y36020S",
+	},
+	{
+		code: "Y36021A",
+	},
+	{
+		code: "Y36021D",
+	},
+	{
+		code: "Y36021S",
+	},
+	{
+		code: "Y36030A",
+	},
+	{
+		code: "Y36030D",
+	},
+	{
+		code: "Y36030S",
+	},
+	{
+		code: "Y36031A",
+	},
+	{
+		code: "Y36031D",
+	},
+	{
+		code: "Y36031S",
+	},
+	{
+		code: "Y36040A",
+	},
+	{
+		code: "Y36040D",
+	},
+	{
+		code: "Y36040S",
+	},
+	{
+		code: "Y36041A",
+	},
+	{
+		code: "Y36041D",
+	},
+	{
+		code: "Y36041S",
+	},
+	{
+		code: "Y36050A",
+	},
+	{
+		code: "Y36050D",
+	},
+	{
+		code: "Y36050S",
+	},
+	{
+		code: "Y36051A",
+	},
+	{
+		code: "Y36051D",
+	},
+	{
+		code: "Y36051S",
+	},
+	{
+		code: "Y36090A",
+	},
+	{
+		code: "Y36090D",
+	},
+	{
+		code: "Y36090S",
+	},
+	{
+		code: "Y36091A",
+	},
+	{
+		code: "Y36091D",
+	},
+	{
+		code: "Y36091S",
+	},
+	{
+		code: "Y36100A",
+	},
+	{
+		code: "Y36100D",
+	},
+	{
+		code: "Y36100S",
+	},
+	{
+		code: "Y36101A",
+	},
+	{
+		code: "Y36101D",
+	},
+	{
+		code: "Y36101S",
+	},
+	{
+		code: "Y36110A",
+	},
+	{
+		code: "Y36110D",
+	},
+	{
+		code: "Y36110S",
+	},
+	{
+		code: "Y36111A",
+	},
+	{
+		code: "Y36111D",
+	},
+	{
+		code: "Y36111S",
+	},
+	{
+		code: "Y36120A",
+	},
+	{
+		code: "Y36120D",
+	},
+	{
+		code: "Y36120S",
+	},
+	{
+		code: "Y36121A",
+	},
+	{
+		code: "Y36121D",
+	},
+	{
+		code: "Y36121S",
+	},
+	{
+		code: "Y36130A",
+	},
+	{
+		code: "Y36130D",
+	},
+	{
+		code: "Y36130S",
+	},
+	{
+		code: "Y36131A",
+	},
+	{
+		code: "Y36131D",
+	},
+	{
+		code: "Y36131S",
+	},
+	{
+		code: "Y36140A",
+	},
+	{
+		code: "Y36140D",
+	},
+	{
+		code: "Y36140S",
+	},
+	{
+		code: "Y36141A",
+	},
+	{
+		code: "Y36141D",
+	},
+	{
+		code: "Y36141S",
+	},
+	{
+		code: "Y36190A",
+	},
+	{
+		code: "Y36190D",
+	},
+	{
+		code: "Y36190S",
+	},
+	{
+		code: "Y36191A",
+	},
+	{
+		code: "Y36191D",
+	},
+	{
+		code: "Y36191S",
+	},
+	{
+		code: "Y36200A",
+	},
+	{
+		code: "Y36200D",
+	},
+	{
+		code: "Y36200S",
+	},
+	{
+		code: "Y36201A",
+	},
+	{
+		code: "Y36201D",
+	},
+	{
+		code: "Y36201S",
+	},
+	{
+		code: "Y36210A",
+	},
+	{
+		code: "Y36210D",
+	},
+	{
+		code: "Y36210S",
+	},
+	{
+		code: "Y36211A",
+	},
+	{
+		code: "Y36211D",
+	},
+	{
+		code: "Y36211S",
+	},
+	{
+		code: "Y36220A",
+	},
+	{
+		code: "Y36220D",
+	},
+	{
+		code: "Y36220S",
+	},
+	{
+		code: "Y36221A",
+	},
+	{
+		code: "Y36221D",
+	},
+	{
+		code: "Y36221S",
+	},
+	{
+		code: "Y36230A",
+	},
+	{
+		code: "Y36230D",
+	},
+	{
+		code: "Y36230S",
+	},
+	{
+		code: "Y36231A",
+	},
+	{
+		code: "Y36231D",
+	},
+	{
+		code: "Y36231S",
+	},
+	{
+		code: "Y36240A",
+	},
+	{
+		code: "Y36240D",
+	},
+	{
+		code: "Y36240S",
+	},
+	{
+		code: "Y36241A",
+	},
+	{
+		code: "Y36241D",
+	},
+	{
+		code: "Y36241S",
+	},
+	{
+		code: "Y36250A",
+	},
+	{
+		code: "Y36250D",
+	},
+	{
+		code: "Y36250S",
+	},
+	{
+		code: "Y36251A",
+	},
+	{
+		code: "Y36251D",
+	},
+	{
+		code: "Y36251S",
+	},
+	{
+		code: "Y36260A",
+	},
+	{
+		code: "Y36260D",
+	},
+	{
+		code: "Y36260S",
+	},
+	{
+		code: "Y36261A",
+	},
+	{
+		code: "Y36261D",
+	},
+	{
+		code: "Y36261S",
+	},
+	{
+		code: "Y36270A",
+	},
+	{
+		code: "Y36270D",
+	},
+	{
+		code: "Y36270S",
+	},
+	{
+		code: "Y36271A",
+	},
+	{
+		code: "Y36271D",
+	},
+	{
+		code: "Y36271S",
+	},
+	{
+		code: "Y36290A",
+	},
+	{
+		code: "Y36290D",
+	},
+	{
+		code: "Y36290S",
+	},
+	{
+		code: "Y36291A",
+	},
+	{
+		code: "Y36291D",
+	},
+	{
+		code: "Y36291S",
+	},
+	{
+		code: "Y36300A",
+	},
+	{
+		code: "Y36300D",
+	},
+	{
+		code: "Y36300S",
+	},
+	{
+		code: "Y36301A",
+	},
+	{
+		code: "Y36301D",
+	},
+	{
+		code: "Y36301S",
+	},
+	{
+		code: "Y36310A",
+	},
+	{
+		code: "Y36310D",
+	},
+	{
+		code: "Y36310S",
+	},
+	{
+		code: "Y36311A",
+	},
+	{
+		code: "Y36311D",
+	},
+	{
+		code: "Y36311S",
+	},
+	{
+		code: "Y36320A",
+	},
+	{
+		code: "Y36320D",
+	},
+	{
+		code: "Y36320S",
+	},
+	{
+		code: "Y36321A",
+	},
+	{
+		code: "Y36321D",
+	},
+	{
+		code: "Y36321S",
+	},
+	{
+		code: "Y36330A",
+	},
+	{
+		code: "Y36330D",
+	},
+	{
+		code: "Y36330S",
+	},
+	{
+		code: "Y36331A",
+	},
+	{
+		code: "Y36331D",
+	},
+	{
+		code: "Y36331S",
+	},
+	{
+		code: "Y36390A",
+	},
+	{
+		code: "Y36390D",
+	},
+	{
+		code: "Y36390S",
+	},
+	{
+		code: "Y36391A",
+	},
+	{
+		code: "Y36391D",
+	},
+	{
+		code: "Y36391S",
+	},
+	{
+		code: "Y36410A",
+	},
+	{
+		code: "Y36410D",
+	},
+	{
+		code: "Y36410S",
+	},
+	{
+		code: "Y36411A",
+	},
+	{
+		code: "Y36411D",
+	},
+	{
+		code: "Y36411S",
+	},
+	{
+		code: "Y36420A",
+	},
+	{
+		code: "Y36420D",
+	},
+	{
+		code: "Y36420S",
+	},
+	{
+		code: "Y36421A",
+	},
+	{
+		code: "Y36421D",
+	},
+	{
+		code: "Y36421S",
+	},
+	{
+		code: "Y36430A",
+	},
+	{
+		code: "Y36430D",
+	},
+	{
+		code: "Y36430S",
+	},
+	{
+		code: "Y36431A",
+	},
+	{
+		code: "Y36431D",
+	},
+	{
+		code: "Y36431S",
+	},
+	{
+		code: "Y36440A",
+	},
+	{
+		code: "Y36440D",
+	},
+	{
+		code: "Y36440S",
+	},
+	{
+		code: "Y36441A",
+	},
+	{
+		code: "Y36441D",
+	},
+	{
+		code: "Y36441S",
+	},
+	{
+		code: "Y36450A",
+	},
+	{
+		code: "Y36450D",
+	},
+	{
+		code: "Y36450S",
+	},
+	{
+		code: "Y36451A",
+	},
+	{
+		code: "Y36451D",
+	},
+	{
+		code: "Y36451S",
+	},
+	{
+		code: "Y36460A",
+	},
+	{
+		code: "Y36460D",
+	},
+	{
+		code: "Y36460S",
+	},
+	{
+		code: "Y36461A",
+	},
+	{
+		code: "Y36461D",
+	},
+	{
+		code: "Y36461S",
+	},
+	{
+		code: "Y36470A",
+	},
+	{
+		code: "Y36470D",
+	},
+	{
+		code: "Y36470S",
+	},
+	{
+		code: "Y36471A",
+	},
+	{
+		code: "Y36471D",
+	},
+	{
+		code: "Y36471S",
+	},
+	{
+		code: "Y36490A",
+	},
+	{
+		code: "Y36490D",
+	},
+	{
+		code: "Y36490S",
+	},
+	{
+		code: "Y36491A",
+	},
+	{
+		code: "Y36491D",
+	},
+	{
+		code: "Y36491S",
+	},
+	{
+		code: "Y36500A",
+	},
+	{
+		code: "Y36500D",
+	},
+	{
+		code: "Y36500S",
+	},
+	{
+		code: "Y36501A",
+	},
+	{
+		code: "Y36501D",
+	},
+	{
+		code: "Y36501S",
+	},
+	{
+		code: "Y36510A",
+	},
+	{
+		code: "Y36510D",
+	},
+	{
+		code: "Y36510S",
+	},
+	{
+		code: "Y36511A",
+	},
+	{
+		code: "Y36511D",
+	},
+	{
+		code: "Y36511S",
+	},
+	{
+		code: "Y36520A",
+	},
+	{
+		code: "Y36520D",
+	},
+	{
+		code: "Y36520S",
+	},
+	{
+		code: "Y36521A",
+	},
+	{
+		code: "Y36521D",
+	},
+	{
+		code: "Y36521S",
+	},
+	{
+		code: "Y36530A",
+	},
+	{
+		code: "Y36530D",
+	},
+	{
+		code: "Y36530S",
+	},
+	{
+		code: "Y36531A",
+	},
+	{
+		code: "Y36531D",
+	},
+	{
+		code: "Y36531S",
+	},
+	{
+		code: "Y36540A",
+	},
+	{
+		code: "Y36540D",
+	},
+	{
+		code: "Y36540S",
+	},
+	{
+		code: "Y36541A",
+	},
+	{
+		code: "Y36541D",
+	},
+	{
+		code: "Y36541S",
+	},
+	{
+		code: "Y36590A",
+	},
+	{
+		code: "Y36590D",
+	},
+	{
+		code: "Y36590S",
+	},
+	{
+		code: "Y36591A",
+	},
+	{
+		code: "Y36591D",
+	},
+	{
+		code: "Y36591S",
+	},
+	{
+		code: "Y366X0A",
+	},
+	{
+		code: "Y366X0D",
+	},
+	{
+		code: "Y366X0S",
+	},
+	{
+		code: "Y366X1A",
+	},
+	{
+		code: "Y366X1D",
+	},
+	{
+		code: "Y366X1S",
+	},
+	{
+		code: "Y367X0A",
+	},
+	{
+		code: "Y367X0D",
+	},
+	{
+		code: "Y367X0S",
+	},
+	{
+		code: "Y367X1A",
+	},
+	{
+		code: "Y367X1D",
+	},
+	{
+		code: "Y367X1S",
+	},
+	{
+		code: "Y36810A",
+	},
+	{
+		code: "Y36810D",
+	},
+	{
+		code: "Y36810S",
+	},
+	{
+		code: "Y36811A",
+	},
+	{
+		code: "Y36811D",
+	},
+	{
+		code: "Y36811S",
+	},
+	{
+		code: "Y36820A",
+	},
+	{
+		code: "Y36820D",
+	},
+	{
+		code: "Y36820S",
+	},
+	{
+		code: "Y36821A",
+	},
+	{
+		code: "Y36821D",
+	},
+	{
+		code: "Y36821S",
+	},
+	{
+		code: "Y36880A",
+	},
+	{
+		code: "Y36880D",
+	},
+	{
+		code: "Y36880S",
+	},
+	{
+		code: "Y36881A",
+	},
+	{
+		code: "Y36881D",
+	},
+	{
+		code: "Y36881S",
+	},
+	{
+		code: "Y36890A",
+	},
+	{
+		code: "Y36890D",
+	},
+	{
+		code: "Y36890S",
+	},
+	{
+		code: "Y36891A",
+	},
+	{
+		code: "Y36891D",
+	},
+	{
+		code: "Y36891S",
+	},
+	{
+		code: "Y3690XA",
+	},
+	{
+		code: "Y3690XD",
+	},
+	{
+		code: "Y3690XS",
+	},
+	{
+		code: "Y3691XA",
+	},
+	{
+		code: "Y3691XD",
+	},
+	{
+		code: "Y3691XS",
+	},
+	{
+		code: "Y3692XA",
+	},
+	{
+		code: "Y3692XD",
+	},
+	{
+		code: "Y3692XS",
+	},
+	{
+		code: "Y37000A",
+	},
+	{
+		code: "Y37000D",
+	},
+	{
+		code: "Y37000S",
+	},
+	{
+		code: "Y37001A",
+	},
+	{
+		code: "Y37001D",
+	},
+	{
+		code: "Y37001S",
+	},
+	{
+		code: "Y37010A",
+	},
+	{
+		code: "Y37010D",
+	},
+	{
+		code: "Y37010S",
+	},
+	{
+		code: "Y37011A",
+	},
+	{
+		code: "Y37011D",
+	},
+	{
+		code: "Y37011S",
+	},
+	{
+		code: "Y37020A",
+	},
+	{
+		code: "Y37020D",
+	},
+	{
+		code: "Y37020S",
+	},
+	{
+		code: "Y37021A",
+	},
+	{
+		code: "Y37021D",
+	},
+	{
+		code: "Y37021S",
+	},
+	{
+		code: "Y37030A",
+	},
+	{
+		code: "Y37030D",
+	},
+	{
+		code: "Y37030S",
+	},
+	{
+		code: "Y37031A",
+	},
+	{
+		code: "Y37031D",
+	},
+	{
+		code: "Y37031S",
+	},
+	{
+		code: "Y37040A",
+	},
+	{
+		code: "Y37040D",
+	},
+	{
+		code: "Y37040S",
+	},
+	{
+		code: "Y37041A",
+	},
+	{
+		code: "Y37041D",
+	},
+	{
+		code: "Y37041S",
+	},
+	{
+		code: "Y37050A",
+	},
+	{
+		code: "Y37050D",
+	},
+	{
+		code: "Y37050S",
+	},
+	{
+		code: "Y37051A",
+	},
+	{
+		code: "Y37051D",
+	},
+	{
+		code: "Y37051S",
+	},
+	{
+		code: "Y37090A",
+	},
+	{
+		code: "Y37090D",
+	},
+	{
+		code: "Y37090S",
+	},
+	{
+		code: "Y37091A",
+	},
+	{
+		code: "Y37091D",
+	},
+	{
+		code: "Y37091S",
+	},
+	{
+		code: "Y37100A",
+	},
+	{
+		code: "Y37100D",
+	},
+	{
+		code: "Y37100S",
+	},
+	{
+		code: "Y37101A",
+	},
+	{
+		code: "Y37101D",
+	},
+	{
+		code: "Y37101S",
+	},
+	{
+		code: "Y37110A",
+	},
+	{
+		code: "Y37110D",
+	},
+	{
+		code: "Y37110S",
+	},
+	{
+		code: "Y37111A",
+	},
+	{
+		code: "Y37111D",
+	},
+	{
+		code: "Y37111S",
+	},
+	{
+		code: "Y37120A",
+	},
+	{
+		code: "Y37120D",
+	},
+	{
+		code: "Y37120S",
+	},
+	{
+		code: "Y37121A",
+	},
+	{
+		code: "Y37121D",
+	},
+	{
+		code: "Y37121S",
+	},
+	{
+		code: "Y37130A",
+	},
+	{
+		code: "Y37130D",
+	},
+	{
+		code: "Y37130S",
+	},
+	{
+		code: "Y37131A",
+	},
+	{
+		code: "Y37131D",
+	},
+	{
+		code: "Y37131S",
+	},
+	{
+		code: "Y37140A",
+	},
+	{
+		code: "Y37140D",
+	},
+	{
+		code: "Y37140S",
+	},
+	{
+		code: "Y37141A",
+	},
+	{
+		code: "Y37141D",
+	},
+	{
+		code: "Y37141S",
+	},
+	{
+		code: "Y37190A",
+	},
+	{
+		code: "Y37190D",
+	},
+	{
+		code: "Y37190S",
+	},
+	{
+		code: "Y37191A",
+	},
+	{
+		code: "Y37191D",
+	},
+	{
+		code: "Y37191S",
+	},
+	{
+		code: "Y37200A",
+	},
+	{
+		code: "Y37200D",
+	},
+	{
+		code: "Y37200S",
+	},
+	{
+		code: "Y37201A",
+	},
+	{
+		code: "Y37201D",
+	},
+	{
+		code: "Y37201S",
+	},
+	{
+		code: "Y37210A",
+	},
+	{
+		code: "Y37210D",
+	},
+	{
+		code: "Y37210S",
+	},
+	{
+		code: "Y37211A",
+	},
+	{
+		code: "Y37211D",
+	},
+	{
+		code: "Y37211S",
+	},
+	{
+		code: "Y37220A",
+	},
+	{
+		code: "Y37220D",
+	},
+	{
+		code: "Y37220S",
+	},
+	{
+		code: "Y37221A",
+	},
+	{
+		code: "Y37221D",
+	},
+	{
+		code: "Y37221S",
+	},
+	{
+		code: "Y37230A",
+	},
+	{
+		code: "Y37230D",
+	},
+	{
+		code: "Y37230S",
+	},
+	{
+		code: "Y37231A",
+	},
+	{
+		code: "Y37231D",
+	},
+	{
+		code: "Y37231S",
+	},
+	{
+		code: "Y37240A",
+	},
+	{
+		code: "Y37240D",
+	},
+	{
+		code: "Y37240S",
+	},
+	{
+		code: "Y37241A",
+	},
+	{
+		code: "Y37241D",
+	},
+	{
+		code: "Y37241S",
+	},
+	{
+		code: "Y37250A",
+	},
+	{
+		code: "Y37250D",
+	},
+	{
+		code: "Y37250S",
+	},
+	{
+		code: "Y37251A",
+	},
+	{
+		code: "Y37251D",
+	},
+	{
+		code: "Y37251S",
+	},
+	{
+		code: "Y37260A",
+	},
+	{
+		code: "Y37260D",
+	},
+	{
+		code: "Y37260S",
+	},
+	{
+		code: "Y37261A",
+	},
+	{
+		code: "Y37261D",
+	},
+	{
+		code: "Y37261S",
+	},
+	{
+		code: "Y37270A",
+	},
+	{
+		code: "Y37270D",
+	},
+	{
+		code: "Y37270S",
+	},
+	{
+		code: "Y37271A",
+	},
+	{
+		code: "Y37271D",
+	},
+	{
+		code: "Y37271S",
+	},
+	{
+		code: "Y37290A",
+	},
+	{
+		code: "Y37290D",
+	},
+	{
+		code: "Y37290S",
+	},
+	{
+		code: "Y37291A",
+	},
+	{
+		code: "Y37291D",
+	},
+	{
+		code: "Y37291S",
+	},
+	{
+		code: "Y37300A",
+	},
+	{
+		code: "Y37300D",
+	},
+	{
+		code: "Y37300S",
+	},
+	{
+		code: "Y37301A",
+	},
+	{
+		code: "Y37301D",
+	},
+	{
+		code: "Y37301S",
+	},
+	{
+		code: "Y37310A",
+	},
+	{
+		code: "Y37310D",
+	},
+	{
+		code: "Y37310S",
+	},
+	{
+		code: "Y37311A",
+	},
+	{
+		code: "Y37311D",
+	},
+	{
+		code: "Y37311S",
+	},
+	{
+		code: "Y37320A",
+	},
+	{
+		code: "Y37320D",
+	},
+	{
+		code: "Y37320S",
+	},
+	{
+		code: "Y37321A",
+	},
+	{
+		code: "Y37321D",
+	},
+	{
+		code: "Y37321S",
+	},
+	{
+		code: "Y37330A",
+	},
+	{
+		code: "Y37330D",
+	},
+	{
+		code: "Y37330S",
+	},
+	{
+		code: "Y37331A",
+	},
+	{
+		code: "Y37331D",
+	},
+	{
+		code: "Y37331S",
+	},
+	{
+		code: "Y37390A",
+	},
+	{
+		code: "Y37390D",
+	},
+	{
+		code: "Y37390S",
+	},
+	{
+		code: "Y37391A",
+	},
+	{
+		code: "Y37391D",
+	},
+	{
+		code: "Y37391S",
+	},
+	{
+		code: "Y37410A",
+	},
+	{
+		code: "Y37410D",
+	},
+	{
+		code: "Y37410S",
+	},
+	{
+		code: "Y37411A",
+	},
+	{
+		code: "Y37411D",
+	},
+	{
+		code: "Y37411S",
+	},
+	{
+		code: "Y37420A",
+	},
+	{
+		code: "Y37420D",
+	},
+	{
+		code: "Y37420S",
+	},
+	{
+		code: "Y37421A",
+	},
+	{
+		code: "Y37421D",
+	},
+	{
+		code: "Y37421S",
+	},
+	{
+		code: "Y37430A",
+	},
+	{
+		code: "Y37430D",
+	},
+	{
+		code: "Y37430S",
+	},
+	{
+		code: "Y37431A",
+	},
+	{
+		code: "Y37431D",
+	},
+	{
+		code: "Y37431S",
+	},
+	{
+		code: "Y37440A",
+	},
+	{
+		code: "Y37440D",
+	},
+	{
+		code: "Y37440S",
+	},
+	{
+		code: "Y37441A",
+	},
+	{
+		code: "Y37441D",
+	},
+	{
+		code: "Y37441S",
+	},
+	{
+		code: "Y37450A",
+	},
+	{
+		code: "Y37450D",
+	},
+	{
+		code: "Y37450S",
+	},
+	{
+		code: "Y37451A",
+	},
+	{
+		code: "Y37451D",
+	},
+	{
+		code: "Y37451S",
+	},
+	{
+		code: "Y37460A",
+	},
+	{
+		code: "Y37460D",
+	},
+	{
+		code: "Y37460S",
+	},
+	{
+		code: "Y37461A",
+	},
+	{
+		code: "Y37461D",
+	},
+	{
+		code: "Y37461S",
+	},
+	{
+		code: "Y37470A",
+	},
+	{
+		code: "Y37470D",
+	},
+	{
+		code: "Y37470S",
+	},
+	{
+		code: "Y37471A",
+	},
+	{
+		code: "Y37471D",
+	},
+	{
+		code: "Y37471S",
+	},
+	{
+		code: "Y37490A",
+	},
+	{
+		code: "Y37490D",
+	},
+	{
+		code: "Y37490S",
+	},
+	{
+		code: "Y37491A",
+	},
+	{
+		code: "Y37491D",
+	},
+	{
+		code: "Y37491S",
+	},
+	{
+		code: "Y37500A",
+	},
+	{
+		code: "Y37500D",
+	},
+	{
+		code: "Y37500S",
+	},
+	{
+		code: "Y37501A",
+	},
+	{
+		code: "Y37501D",
+	},
+	{
+		code: "Y37501S",
+	},
+	{
+		code: "Y37510A",
+	},
+	{
+		code: "Y37510D",
+	},
+	{
+		code: "Y37510S",
+	},
+	{
+		code: "Y37511A",
+	},
+	{
+		code: "Y37511D",
+	},
+	{
+		code: "Y37511S",
+	},
+	{
+		code: "Y37520A",
+	},
+	{
+		code: "Y37520D",
+	},
+	{
+		code: "Y37520S",
+	},
+	{
+		code: "Y37521A",
+	},
+	{
+		code: "Y37521D",
+	},
+	{
+		code: "Y37521S",
+	},
+	{
+		code: "Y37530A",
+	},
+	{
+		code: "Y37530D",
+	},
+	{
+		code: "Y37530S",
+	},
+	{
+		code: "Y37531A",
+	},
+	{
+		code: "Y37531D",
+	},
+	{
+		code: "Y37531S",
+	},
+	{
+		code: "Y37540A",
+	},
+	{
+		code: "Y37540D",
+	},
+	{
+		code: "Y37540S",
+	},
+	{
+		code: "Y37541A",
+	},
+	{
+		code: "Y37541D",
+	},
+	{
+		code: "Y37541S",
+	},
+	{
+		code: "Y37590A",
+	},
+	{
+		code: "Y37590D",
+	},
+	{
+		code: "Y37590S",
+	},
+	{
+		code: "Y37591A",
+	},
+	{
+		code: "Y37591D",
+	},
+	{
+		code: "Y37591S",
+	},
+	{
+		code: "Y376X0A",
+	},
+	{
+		code: "Y376X0D",
+	},
+	{
+		code: "Y376X0S",
+	},
+	{
+		code: "Y376X1A",
+	},
+	{
+		code: "Y376X1D",
+	},
+	{
+		code: "Y376X1S",
+	},
+	{
+		code: "Y377X0A",
+	},
+	{
+		code: "Y377X0D",
+	},
+	{
+		code: "Y377X0S",
+	},
+	{
+		code: "Y377X1A",
+	},
+	{
+		code: "Y377X1D",
+	},
+	{
+		code: "Y377X1S",
+	},
+	{
+		code: "Y3790XA",
+	},
+	{
+		code: "Y3790XD",
+	},
+	{
+		code: "Y3790XS",
+	},
+	{
+		code: "Y3791XA",
+	},
+	{
+		code: "Y3791XD",
+	},
+	{
+		code: "Y3791XS",
+	},
+	{
+		code: "Y3792XA",
+	},
+	{
+		code: "Y3792XD",
+	},
+	{
+		code: "Y3792XS",
+	},
+	{
+		code: "Y380X1A",
+	},
+	{
+		code: "Y380X1D",
+	},
+	{
+		code: "Y380X1S",
+	},
+	{
+		code: "Y380X2A",
+	},
+	{
+		code: "Y380X2D",
+	},
+	{
+		code: "Y380X2S",
+	},
+	{
+		code: "Y380X3A",
+	},
+	{
+		code: "Y380X3D",
+	},
+	{
+		code: "Y380X3S",
+	},
+	{
+		code: "Y381X1A",
+	},
+	{
+		code: "Y381X1D",
+	},
+	{
+		code: "Y381X1S",
+	},
+	{
+		code: "Y381X2A",
+	},
+	{
+		code: "Y381X2D",
+	},
+	{
+		code: "Y381X2S",
+	},
+	{
+		code: "Y381X3A",
+	},
+	{
+		code: "Y381X3D",
+	},
+	{
+		code: "Y381X3S",
+	},
+	{
+		code: "Y382X1A",
+	},
+	{
+		code: "Y382X1D",
+	},
+	{
+		code: "Y382X1S",
+	},
+	{
+		code: "Y382X2A",
+	},
+	{
+		code: "Y382X2D",
+	},
+	{
+		code: "Y382X2S",
+	},
+	{
+		code: "Y382X3A",
+	},
+	{
+		code: "Y382X3D",
+	},
+	{
+		code: "Y382X3S",
+	},
+	{
+		code: "Y383X1A",
+	},
+	{
+		code: "Y383X1D",
+	},
+	{
+		code: "Y383X1S",
+	},
+	{
+		code: "Y383X2A",
+	},
+	{
+		code: "Y383X2D",
+	},
+	{
+		code: "Y383X2S",
+	},
+	{
+		code: "Y383X3A",
+	},
+	{
+		code: "Y383X3D",
+	},
+	{
+		code: "Y383X3S",
+	},
+	{
+		code: "Y384X1A",
+	},
+	{
+		code: "Y384X1D",
+	},
+	{
+		code: "Y384X1S",
+	},
+	{
+		code: "Y384X2A",
+	},
+	{
+		code: "Y384X2D",
+	},
+	{
+		code: "Y384X2S",
+	},
+	{
+		code: "Y384X3A",
+	},
+	{
+		code: "Y384X3D",
+	},
+	{
+		code: "Y384X3S",
+	},
+	{
+		code: "Y385X1A",
+	},
+	{
+		code: "Y385X1D",
+	},
+	{
+		code: "Y385X1S",
+	},
+	{
+		code: "Y385X2A",
+	},
+	{
+		code: "Y385X2D",
+	},
+	{
+		code: "Y385X2S",
+	},
+	{
+		code: "Y385X3A",
+	},
+	{
+		code: "Y385X3D",
+	},
+	{
+		code: "Y385X3S",
+	},
+	{
+		code: "Y386X1A",
+	},
+	{
+		code: "Y386X1D",
+	},
+	{
+		code: "Y386X1S",
+	},
+	{
+		code: "Y386X2A",
+	},
+	{
+		code: "Y386X2D",
+	},
+	{
+		code: "Y386X2S",
+	},
+	{
+		code: "Y386X3A",
+	},
+	{
+		code: "Y386X3D",
+	},
+	{
+		code: "Y386X3S",
+	},
+	{
+		code: "Y387X1A",
+	},
+	{
+		code: "Y387X1D",
+	},
+	{
+		code: "Y387X1S",
+	},
+	{
+		code: "Y387X2A",
+	},
+	{
+		code: "Y387X2D",
+	},
+	{
+		code: "Y387X2S",
+	},
+	{
+		code: "Y387X3A",
+	},
+	{
+		code: "Y387X3D",
+	},
+	{
+		code: "Y387X3S",
+	},
+	{
+		code: "Y3880XA",
+	},
+	{
+		code: "Y3880XD",
+	},
+	{
+		code: "Y3880XS",
+	},
+	{
+		code: "Y38811A",
+	},
+	{
+		code: "Y38811D",
+	},
+	{
+		code: "Y38811S",
+	},
+	{
+		code: "Y38812A",
+	},
+	{
+		code: "Y38812D",
+	},
+	{
+		code: "Y38812S",
+	},
+	{
+		code: "Y38891A",
+	},
+	{
+		code: "Y38891D",
+	},
+	{
+		code: "Y38891S",
+	},
+	{
+		code: "Y38892A",
+	},
+	{
+		code: "Y38892D",
+	},
+	{
+		code: "Y38892S",
+	},
+	{
+		code: "Y38893A",
+	},
+	{
+		code: "Y38893D",
+	},
+	{
+		code: "Y38893S",
+	},
+	{
+		code: "Y389X1A",
+	},
+	{
+		code: "Y389X1D",
+	},
+	{
+		code: "Y389X1S",
+	},
+	{
+		code: "Y389X2A",
+	},
+	{
+		code: "Y389X2D",
+	},
+	{
+		code: "Y389X2S",
+	},
+	{
+		code: "Y620",
+	},
+	{
+		code: "Y621",
+	},
+	{
+		code: "Y622",
+	},
+	{
+		code: "Y623",
+	},
+	{
+		code: "Y624",
+	},
+	{
+		code: "Y625",
+	},
+	{
+		code: "Y626",
+	},
+	{
+		code: "Y628",
+	},
+	{
+		code: "Y629",
+	},
+	{
+		code: "Y630",
+	},
+	{
+		code: "Y631",
+	},
+	{
+		code: "Y632",
+	},
+	{
+		code: "Y633",
+	},
+	{
+		code: "Y634",
+	},
+	{
+		code: "Y635",
+	},
+	{
+		code: "Y636",
+	},
+	{
+		code: "Y638",
+	},
+	{
+		code: "Y639",
+	},
+	{
+		code: "Y640",
+	},
+	{
+		code: "Y641",
+	},
+	{
+		code: "Y648",
+	},
+	{
+		code: "Y649",
+	},
+	{
+		code: "Y650",
+	},
+	{
+		code: "Y651",
+	},
+	{
+		code: "Y652",
+	},
+	{
+		code: "Y653",
+	},
+	{
+		code: "Y654",
+	},
+	{
+		code: "Y6551",
+	},
+	{
+		code: "Y6552",
+	},
+	{
+		code: "Y6553",
+	},
+	{
+		code: "Y658",
+	},
+	{
+		code: "Y66",
+	},
+	{
+		code: "Y69",
+	},
+	{
+		code: "Y700",
+	},
+	{
+		code: "Y701",
+	},
+	{
+		code: "Y702",
+	},
+	{
+		code: "Y703",
+	},
+	{
+		code: "Y708",
+	},
+	{
+		code: "Y710",
+	},
+	{
+		code: "Y711",
+	},
+	{
+		code: "Y712",
+	},
+	{
+		code: "Y713",
+	},
+	{
+		code: "Y718",
+	},
+	{
+		code: "Y720",
+	},
+	{
+		code: "Y721",
+	},
+	{
+		code: "Y722",
+	},
+	{
+		code: "Y723",
+	},
+	{
+		code: "Y728",
+	},
+	{
+		code: "Y730",
+	},
+	{
+		code: "Y731",
+	},
+	{
+		code: "Y732",
+	},
+	{
+		code: "Y733",
+	},
+	{
+		code: "Y738",
+	},
+	{
+		code: "Y740",
+	},
+	{
+		code: "Y741",
+	},
+	{
+		code: "Y742",
+	},
+	{
+		code: "Y743",
+	},
+	{
+		code: "Y748",
+	},
+	{
+		code: "Y750",
+	},
+	{
+		code: "Y751",
+	},
+	{
+		code: "Y752",
+	},
+	{
+		code: "Y753",
+	},
+	{
+		code: "Y758",
+	},
+	{
+		code: "Y760",
+	},
+	{
+		code: "Y761",
+	},
+	{
+		code: "Y762",
+	},
+	{
+		code: "Y763",
+	},
+	{
+		code: "Y768",
+	},
+	{
+		code: "Y770",
+	},
+	{
+		code: "Y771",
+	},
+	{
+		code: "Y772",
+	},
+	{
+		code: "Y773",
+	},
+	{
+		code: "Y778",
+	},
+	{
+		code: "Y780",
+	},
+	{
+		code: "Y781",
+	},
+	{
+		code: "Y782",
+	},
+	{
+		code: "Y783",
+	},
+	{
+		code: "Y788",
+	},
+	{
+		code: "Y790",
+	},
+	{
+		code: "Y791",
+	},
+	{
+		code: "Y792",
+	},
+	{
+		code: "Y793",
+	},
+	{
+		code: "Y798",
+	},
+	{
+		code: "Y800",
+	},
+	{
+		code: "Y801",
+	},
+	{
+		code: "Y802",
+	},
+	{
+		code: "Y803",
+	},
+	{
+		code: "Y808",
+	},
+	{
+		code: "Y810",
+	},
+	{
+		code: "Y811",
+	},
+	{
+		code: "Y812",
+	},
+	{
+		code: "Y813",
+	},
+	{
+		code: "Y818",
+	},
+	{
+		code: "Y828",
+	},
+	{
+		code: "Y829",
+	},
+	{
+		code: "Y830",
+	},
+	{
+		code: "Y831",
+	},
+	{
+		code: "Y832",
+	},
+	{
+		code: "Y833",
+	},
+	{
+		code: "Y834",
+	},
+	{
+		code: "Y835",
+	},
+	{
+		code: "Y836",
+	},
+	{
+		code: "Y838",
+	},
+	{
+		code: "Y839",
+	},
+	{
+		code: "Y840",
+	},
+	{
+		code: "Y841",
+	},
+	{
+		code: "Y842",
+	},
+	{
+		code: "Y843",
+	},
+	{
+		code: "Y844",
+	},
+	{
+		code: "Y845",
+	},
+	{
+		code: "Y846",
+	},
+	{
+		code: "Y847",
+	},
+	{
+		code: "Y848",
+	},
+	{
+		code: "Y849",
+	},
+	{
+		code: "Y900",
+	},
+	{
+		code: "Y901",
+	},
+	{
+		code: "Y902",
+	},
+	{
+		code: "Y903",
+	},
+	{
+		code: "Y904",
+	},
+	{
+		code: "Y905",
+	},
+	{
+		code: "Y906",
+	},
+	{
+		code: "Y907",
+	},
+	{
+		code: "Y908",
+	},
+	{
+		code: "Y909",
+	},
+	{
+		code: "Y9301",
+	},
+	{
+		code: "Y9302",
+	},
+	{
+		code: "Y9311",
+	},
+	{
+		code: "Y9312",
+	},
+	{
+		code: "Y9313",
+	},
+	{
+		code: "Y9314",
+	},
+	{
+		code: "Y9315",
+	},
+	{
+		code: "Y9316",
+	},
+	{
+		code: "Y9317",
+	},
+	{
+		code: "Y9318",
+	},
+	{
+		code: "Y9319",
+	},
+	{
+		code: "Y9321",
+	},
+	{
+		code: "Y9322",
+	},
+	{
+		code: "Y9323",
+	},
+	{
+		code: "Y9324",
+	},
+	{
+		code: "Y9329",
+	},
+	{
+		code: "Y9331",
+	},
+	{
+		code: "Y9332",
+	},
+	{
+		code: "Y9333",
+	},
+	{
+		code: "Y9334",
+	},
+	{
+		code: "Y9335",
+	},
+	{
+		code: "Y9339",
+	},
+	{
+		code: "Y9341",
+	},
+	{
+		code: "Y9342",
+	},
+	{
+		code: "Y9343",
+	},
+	{
+		code: "Y9344",
+	},
+	{
+		code: "Y9345",
+	},
+	{
+		code: "Y9349",
+	},
+	{
+		code: "Y9351",
+	},
+	{
+		code: "Y9352",
+	},
+	{
+		code: "Y9353",
+	},
+	{
+		code: "Y9354",
+	},
+	{
+		code: "Y9355",
+	},
+	{
+		code: "Y9356",
+	},
+	{
+		code: "Y9357",
+	},
+	{
+		code: "Y9359",
+	},
+	{
+		code: "Y9361",
+	},
+	{
+		code: "Y9362",
+	},
+	{
+		code: "Y9363",
+	},
+	{
+		code: "Y9364",
+	},
+	{
+		code: "Y9365",
+	},
+	{
+		code: "Y9366",
+	},
+	{
+		code: "Y9367",
+	},
+	{
+		code: "Y9368",
+	},
+	{
+		code: "Y9369",
+	},
+	{
+		code: "Y936A",
+	},
+	{
+		code: "Y9371",
+	},
+	{
+		code: "Y9372",
+	},
+	{
+		code: "Y9373",
+	},
+	{
+		code: "Y9374",
+	},
+	{
+		code: "Y9375",
+	},
+	{
+		code: "Y9379",
+	},
+	{
+		code: "Y9381",
+	},
+	{
+		code: "Y9382",
+	},
+	{
+		code: "Y9383",
+	},
+	{
+		code: "Y9384",
+	},
+	{
+		code: "Y9385",
+	},
+	{
+		code: "Y9389",
+	},
+	{
+		code: "Y939",
+	},
+	{
+		code: "Y93A1",
+	},
+	{
+		code: "Y93A2",
+	},
+	{
+		code: "Y93A3",
+	},
+	{
+		code: "Y93A4",
+	},
+	{
+		code: "Y93A5",
+	},
+	{
+		code: "Y93A6",
+	},
+	{
+		code: "Y93A9",
+	},
+	{
+		code: "Y93B1",
+	},
+	{
+		code: "Y93B2",
+	},
+	{
+		code: "Y93B3",
+	},
+	{
+		code: "Y93B4",
+	},
+	{
+		code: "Y93B9",
+	},
+	{
+		code: "Y93C1",
+	},
+	{
+		code: "Y93C2",
+	},
+	{
+		code: "Y93C9",
+	},
+	{
+		code: "Y93D1",
+	},
+	{
+		code: "Y93D2",
+	},
+	{
+		code: "Y93D3",
+	},
+	{
+		code: "Y93D9",
+	},
+	{
+		code: "Y93E1",
+	},
+	{
+		code: "Y93E2",
+	},
+	{
+		code: "Y93E3",
+	},
+	{
+		code: "Y93E4",
+	},
+	{
+		code: "Y93E5",
+	},
+	{
+		code: "Y93E6",
+	},
+	{
+		code: "Y93E8",
+	},
+	{
+		code: "Y93E9",
+	},
+	{
+		code: "Y93F1",
+	},
+	{
+		code: "Y93F2",
+	},
+	{
+		code: "Y93F9",
+	},
+	{
+		code: "Y93G1",
+	},
+	{
+		code: "Y93G2",
+	},
+	{
+		code: "Y93G3",
+	},
+	{
+		code: "Y93G9",
+	},
+	{
+		code: "Y93H1",
+	},
+	{
+		code: "Y93H2",
+	},
+	{
+		code: "Y93H3",
+	},
+	{
+		code: "Y93H9",
+	},
+	{
+		code: "Y93I1",
+	},
+	{
+		code: "Y93I9",
+	},
+	{
+		code: "Y93J1",
+	},
+	{
+		code: "Y93J2",
+	},
+	{
+		code: "Y93J3",
+	},
+	{
+		code: "Y93J4",
+	},
+	{
+		code: "Y93K1",
+	},
+	{
+		code: "Y93K2",
+	},
+	{
+		code: "Y93K3",
+	},
+	{
+		code: "Y93K9",
+	},
+	{
+		code: "Y95",
+	},
+	{
+		code: "Y990",
+	},
+	{
+		code: "Y991",
+	},
+	{
+		code: "Y992",
+	},
+	{
+		code: "Y998",
+	},
+	{
+		code: "Y999",
+	},
+}

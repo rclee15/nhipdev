@@ -1,0 +1,2486 @@
+{
+	{
+		code: "500    Coal workers' pneumocon            Coal workers' pneumoconiosis",
+	},
+	{
+		code: "501    Asbestosis                         Asbestosis",
+	},
+	{
+		code: "502    Silica pneumocon NEC               Pneumoconiosis due to other silica or silicates",
+	},
+	{
+		code: "503    Inorg dust pneumocon NEC           Pneumoconiosis due to other inorganic dust",
+	},
+	{
+		code: "504    Dust pneumonopathy NEC             Pneumonopathy due to inhalation of other dust",
+	},
+	{
+		code: "505    Pneumoconiosis NOS                 Pneumoconiosis",
+	},
+	{
+		code: "5060   Fum/vapor bronc/pneumon            Bronchitis and pneumonitis due to fumes and vapors",
+	},
+	{
+		code: "5061   Fum/vapor ac pulm edema            Acute pulmonary edema due to fumes and vapors",
+	},
+	{
+		code: "5062   Fum/vapor up resp inflam           Upper respiratory inflammation due to fumes and vapors",
+	},
+	{
+		code: "5063   Fum/vap ac resp cond NEC           Other acute and subacute respiratory conditions due to fumes and vapors",
+	},
+	{
+		code: "5064   Fum/vapor chr resp cond            Chronic respiratory conditions due to fumes and vapors",
+	},
+	{
+		code: "5069   Fum/vapor resp cond NOS            Unspecified respiratory conditions due to fumes and vapors",
+	},
+	{
+		code: "5070   Food/vomit pneumonitis             Pneumonitis due to inhalation of food or vomitus",
+	},
+	{
+		code: "5071   Oil/essence pneumonitis            Pneumonitis due to inhalation of oils and essences",
+	},
+	{
+		code: "5078   Solid/liq pneumonit NEC            Pneumonitis due to other solids and liquids",
+	},
+	{
+		code: "5080   Ac pul manif d/t radiat            Acute pulmonary manifestations due to radiation",
+	},
+	{
+		code: "5081   Chr pul manif d/t radiat           Chronic and other pulmonary manifestations due to radiation",
+	},
+	{
+		code: "5082   Resp cond dt smoke inhal           Respiratory conditions due to smoke inhalation",
+	},
+	{
+		code: "5088   Resp cond: ext agent NEC           Respiratory conditions due to other specified external agents",
+	},
+	{
+		code: "5089   Resp cond: ext agent NOS           Respiratory conditions due to unspecified external agent",
+	},
+	{
+		code: "5100   Empyema with fistula               Empyema with fistula",
+	},
+	{
+		code: "5109   Empyema w/o fistula                Empyema without mention of fistula",
+	},
+	{
+		code: "5110   Pleurisy w/o effus or TB           Pleurisy without mention of effusion or current tuberculosis",
+	},
+	{
+		code: "5111   Bact pleur/effus not TB            Pleurisy with effusion",
+	},
+	{
+		code: "5118   PLEURAL EFFUS NEC NOT TB           PLEURAL EFFUS NEC NOT TB",
+	},
+	{
+		code: "51181  Malignant pleural effusn           Malignant pleural effusion",
+	},
+	{
+		code: "51189  Effusion NEC exc tb                Other specified forms of effusion",
+	},
+	{
+		code: "5119   Pleural effusion NOS               Unspecified pleural effusion",
+	},
+	{
+		code: "5120   Spont tens pneumothorax            Spontaneous tension pneumothorax",
+	},
+	{
+		code: "5121   Iatrogenic pneumothorax            Iatrogenic pneumothorax",
+	},
+	{
+		code: "5122   Postoperative air leak             Postoperative air leak",
+	},
+	{
+		code: "5128   Spont pneumothorax NEC             Spont pneumothorax NEC",
+	},
+	{
+		code: "51281  Prim spont pneumothorax            Primary spontaneous pneumothorax",
+	},
+	{
+		code: "51282  Sec spont pneumothorax             Secondary spontaneous pneumothorax",
+	},
+	{
+		code: "51283  Chronic pneumothorax               Chronic pneumothorax",
+	},
+	{
+		code: "51284  Other air leak                     Other air leak",
+	},
+	{
+		code: "51289  Other pneumothorax                 Other pneumothorax",
+	},
+	{
+		code: "5130   Abscess of lung                    Abscess of lung",
+	},
+	{
+		code: "5131   Abscess of mediastinum             Abscess of mediastinum",
+	},
+	{
+		code: "514    Pulm congest/hypostasis            Pulmonary congestion and hypostasis",
+	},
+	{
+		code: "515    Postinflam pulm fibrosis           Postinflammatory pulmonary fibrosis",
+	},
+	{
+		code: "5160   Pul alveolar proteinosis           Pulmonary alveolar proteinosis",
+	},
+	{
+		code: "5161   Idio pulm hemosiderosis            Idiopathic pulmonary hemosiderosis",
+	},
+	{
+		code: "5162   Pulm alveolar microlith            Pulmonary alveolar microlithiasis",
+	},
+	{
+		code: "5163   Idio fibros alveolitis             Idio fibros alveolitis",
+	},
+	{
+		code: "51630  Idiopath inters pneu NOS           Idiopathic interstitial pneumonia",
+	},
+	{
+		code: "51631  Idiopath pulmon fibrosis           Idiopathic pulmonary fibrosis",
+	},
+	{
+		code: "51632  Idio non-spec inter pneu           Idiopathic non-specific interstitial pneumonitis",
+	},
+	{
+		code: "51633  Acute interstitial pneum           Acute interstitial pneumonitis",
+	},
+	{
+		code: "51634  Resp brncio interst lung           Respiratory bronchiolitis interstitial lung disease",
+	},
+	{
+		code: "51635  Idiopth lym interst pneu           Idiopathic lymphoid interstitial pneumonia",
+	},
+	{
+		code: "51636  Cryptogenic organiz pneu           Cryptogenic organizing pneumonia",
+	},
+	{
+		code: "51637  Desquamatv interst pneu            Desquamative interstitial pneumonia",
+	},
+	{
+		code: "5164   Lymphangioleiomyomatosis           Lymphangioleiomyomatosis",
+	},
+	{
+		code: "5165   Adlt pul Langs cell hist           Adult pulmonary Langerhans cell histiocytosis",
+	},
+	{
+		code: "51661  Neuroend cell hyprpl inf           Neuroendocrine cell hyperplasia of infancy",
+	},
+	{
+		code: "51662  Pulm interstitl glycogen           Pulmonary interstitial glycogenosis",
+	},
+	{
+		code: "51663  Surfactant mutation lung           Surfactant mutations of the lung",
+	},
+	{
+		code: "51664  Alv cap dysp w vn misaln           Alveolar capillary dysplasia with vein misalignment",
+	},
+	{
+		code: "51669  Oth intrst lung dis chld           Other interstitial lung diseases of childhood",
+	},
+	{
+		code: "5168   Alveol pneumonopathy NEC           Other specified alveolar and parietoalveolar pneumonopathies",
+	},
+	{
+		code: "5169   Alveol pneumonopathy NOS           Unspecified alveolar and parietoalveolar pneumonopathy",
+	},
+	{
+		code: "5171   Rheumatic pneumonia                Rheumatic pneumonia",
+	},
+	{
+		code: "5172   Syst sclerosis lung dis            Lung involvement in systemic sclerosis",
+	},
+	{
+		code: "5173   Acute chest syndrome               Acute chest syndrome",
+	},
+	{
+		code: "5178   Lung involv in oth dis             Lung involvement in other diseases classified elsewhere",
+	},
+	{
+		code: "5180   Pulmonary collapse                 Pulmonary collapse",
+	},
+	{
+		code: "5181   Interstitial emphysema             Interstitial emphysema",
+	},
+	{
+		code: "5182   Compensatory emphysema             Compensatory emphysema",
+	},
+	{
+		code: "5183   Pulmonary eosinophilia             Pulmonary eosinophilia",
+	},
+	{
+		code: "5184   Acute lung edema NOS               Acute edema of lung",
+	},
+	{
+		code: "5185   Post traum pulm insuffic           Post traum pulm insuffic",
+	},
+	{
+		code: "51851  Ac resp flr fol trma/srg           Acute respiratory failure following trauma and surgery",
+	},
+	{
+		code: "51852  Ot pul insuf fol trm/srg           Other pulmonary insufficiency",
+	},
+	{
+		code: "51853  Ac/chr rsp flr fol tr/sg           Acute and chronic respiratory failure following trauma and surgery",
+	},
+	{
+		code: "5186   Alrgc brncpul asprglosis           Allergic bronchopulmonary aspergillosis",
+	},
+	{
+		code: "5187   Transfsn rel ac lung inj           Transfusion related acute lung injury (TRALI)",
+	},
+	{
+		code: "51881  Acute respiratry failure           Acute respiratory failure",
+	},
+	{
+		code: "51882  Other pulmonary insuff             Other pulmonary insufficiency",
+	},
+	{
+		code: "51883  Chronic respiratory fail           Chronic respiratory failure",
+	},
+	{
+		code: "51884  Acute & chronc resp fail           Acute and chronic respiratory failure",
+	},
+	{
+		code: "51889  Other lung disease NEC             Other diseases of lung",
+	},
+	{
+		code: "51900  Tracheostomy comp NOS              Tracheostomy complication",
+	},
+	{
+		code: "51901  Tracheostomy infection             Infection of tracheostomy",
+	},
+	{
+		code: "51902  Tracheostomy - mech comp           Mechanical complication of tracheostomy",
+	},
+	{
+		code: "51909  Tracheostomy comp NEC              Other tracheostomy complications",
+	},
+	{
+		code: "51911  Acute bronchospasm                 Acute bronchospasm",
+	},
+	{
+		code: "51919  Trachea & bronch dis NEC           Other diseases of trachea and bronchus",
+	},
+	{
+		code: "5192   Mediastinitis                      Mediastinitis",
+	},
+	{
+		code: "5193   Mediastinum disease NEC            Other diseases of mediastinum",
+	},
+	{
+		code: "5194   Disorders of diaphragm             Disorders of diaphragm",
+	},
+	{
+		code: "5198   Resp system disease NEC            Other diseases of respiratory system",
+	},
+	{
+		code: "5199   Resp system disease NOS            Unspecified disease of respiratory system",
+	},
+	{
+		code: "5200   Anodontia                          Anodontia",
+	},
+	{
+		code: "5201   Supernumerary teeth                Supernumerary teeth",
+	},
+	{
+		code: "5202   Abnormal tooth size/form           Abnormalities of size and form of teeth",
+	},
+	{
+		code: "5203   Mottled teeth                      Mottled teeth",
+	},
+	{
+		code: "5204   Tooth formation disturb            Disturbances of tooth formation",
+	},
+	{
+		code: "5205   Heredit tooth struct NEC           Hereditary disturbances in tooth structure",
+	},
+	{
+		code: "5206   Tooth eruption disturb             Disturbances in tooth eruption",
+	},
+	{
+		code: "5207   Teething syndrome                  Teething syndrome",
+	},
+	{
+		code: "5208   Tooth devel/erup dis NEC           Other specified disorders of tooth development and eruption",
+	},
+	{
+		code: "5209   Tooth devel/erup dis NOS           Unspecified disorder of tooth development and eruption",
+	},
+	{
+		code: "52100  Dental caries NOS                  Dental caries",
+	},
+	{
+		code: "52101  Dental caries - enamel             Dental caries limited to enamel",
+	},
+	{
+		code: "52102  Dental caries - dentine            Dental caries extending into dentine",
+	},
+	{
+		code: "52103  Dental caries - pulp               Dental caries extending into pulp",
+	},
+	{
+		code: "52104  Dental caries - arrested           Arrested dental caries",
+	},
+	{
+		code: "52105  Odontoclasia                       Odontoclasia",
+	},
+	{
+		code: "52106  Dentl caries-pit/fissure           Dental caries pit and fissure",
+	},
+	{
+		code: "52107  Dentl caries-smooth surf           Dental caries of smooth surface",
+	},
+	{
+		code: "52108  Dental caries-root surf            Dental caries of root surface",
+	},
+	{
+		code: "52109  Dental caries NEC                  Other dental caries",
+	},
+	{
+		code: "52110  Excessive attrition NOS            Excessive attrition",
+	},
+	{
+		code: "52111  Excess attrition-enamel            Excessive attrition",
+	},
+	{
+		code: "52112  Excess attrition-dentine           Excessive attrition",
+	},
+	{
+		code: "52113  Excessive attrition-pulp           Excessive attrition",
+	},
+	{
+		code: "52114  Excess attrition-local             Excessive attrition",
+	},
+	{
+		code: "52115  Excess attrition-general           Excessive attrition",
+	},
+	{
+		code: "52120  Abrasion NOS                       Abrasion",
+	},
+	{
+		code: "52121  Abrasion-enamel                    Abrasion",
+	},
+	{
+		code: "52122  Abrasion-dentine                   Abrasion",
+	},
+	{
+		code: "52123  Abrasion-pulp                      Abrasion",
+	},
+	{
+		code: "52124  Abrasion-localized                 Abrasion",
+	},
+	{
+		code: "52125  Abrasion-generalized               Abrasion",
+	},
+	{
+		code: "52130  Erosion NOS                        Erosion",
+	},
+	{
+		code: "52131  Erosion-enamel                     Erosion",
+	},
+	{
+		code: "52132  Erosion-dentine                    Erosion",
+	},
+	{
+		code: "52133  Erosion-pulp                       Erosion",
+	},
+	{
+		code: "52134  Erosion-localized                  Erosion",
+	},
+	{
+		code: "52135  Erosion-generalized                Erosion",
+	},
+	{
+		code: "52140  Path resorption NOS                Pathological resorption",
+	},
+	{
+		code: "52141  Path resorption-internal           Pathological resorption",
+	},
+	{
+		code: "52142  Path resorption-external           Pathological resorption",
+	},
+	{
+		code: "52149  Path resorption NEC                Other pathological resorption",
+	},
+	{
+		code: "5215   Hypercementosis                    Hypercementosis",
+	},
+	{
+		code: "5216   Ankylosis of teeth                 Ankylosis of teeth",
+	},
+	{
+		code: "5217   Intrin posteruptv color            Intrinsic posteruptive color changes",
+	},
+	{
+		code: "52181  Cracked tooth                      Cracked tooth",
+	},
+	{
+		code: "52189  Dis hard tiss teeth NEC            Other specific diseases of hard tissues of teeth",
+	},
+	{
+		code: "5219   Hard tiss dis teeth NOS            Unspecified disease of hard tissues of teeth",
+	},
+	{
+		code: "5220   Pulpitis                           Pulpitis",
+	},
+	{
+		code: "5221   Necrosis of tooth pulp             Necrosis of the pulp",
+	},
+	{
+		code: "5222   Tooth pulp degeneration            Pulp degeneration",
+	},
+	{
+		code: "5223   Abn hard tiss-tooth pulp           Abnormal hard tissue formation in pulp",
+	},
+	{
+		code: "5224   Ac apical periodontitis            Acute apical periodontitis of pulpal origin",
+	},
+	{
+		code: "5225   Periapical abscess                 Periapical abscess without sinus",
+	},
+	{
+		code: "5226   Chr apical periodontitis           Chronic apical periodontitis",
+	},
+	{
+		code: "5227   Periapical absc w sinus            Periapical abscess with sinus",
+	},
+	{
+		code: "5228   Radicular cyst                     Radicular cyst",
+	},
+	{
+		code: "5229   Pulp/periapical dis NEC            Other and unspecified diseases of pulp and periapical tissues",
+	},
+	{
+		code: "52300  Acute gingititis",
+	},
+	{
+		code: "52301  Ac gingivitis",
+	},
+	{
+		code: "52310  Chronc gingititis",
+	},
+	{
+		code: "52311  Chr gingivitis-nonplaque           Chronic gingivitis",
+	},
+	{
+		code: "52320  Gingival recession NOS             Gingival recession",
+	},
+	{
+		code: "52321  Gingival recess-minimal            Gingival recession",
+	},
+	{
+		code: "52322  Gingival recess-moderate           Gingival recession",
+	},
+	{
+		code: "52323  Gingival recess-severe             Gingival recession",
+	},
+	{
+		code: "52324  Gingival recession-local           Gingival recession",
+	},
+	{
+		code: "52325  Gingival recess-general            Gingival recession",
+	},
+	{
+		code: "52330  Aggres periodontitis NOS           Aggressive periodontitis",
+	},
+	{
+		code: "52331  Aggres periodontitis",
+	},
+	{
+		code: "52332  Aggres periodontitis",
+	},
+	{
+		code: "52333  Acute periodontitis                Acute periodontitis",
+	},
+	{
+		code: "52340  Chronc periodontitis NOS           Chronic periodontitis",
+	},
+	{
+		code: "52341  Chr periodontitis",
+	},
+	{
+		code: "52342  Chron periodontitis",
+	},
+	{
+		code: "5235   Periodontosis                      Periodontosis",
+	},
+	{
+		code: "5236   Accretions on teeth                Accretions on teeth",
+	},
+	{
+		code: "5238   Periodontal disease NEC            Other specified periodontal diseases",
+	},
+	{
+		code: "5239   Gingiv/periodont dis NOS           Unspecified gingival and periodontal disease",
+	},
+	{
+		code: "52400  Unspcf anomaly jaw size            Major anomalies of jaw size",
+	},
+	{
+		code: "52401  Maxillary hyperplasia              Major anomalies of jaw size",
+	},
+	{
+		code: "52402  Mandibular hyperplasia             Major anomalies of jaw size",
+	},
+	{
+		code: "52403  Maxillary hypoplasia               Major anomalies of jaw size",
+	},
+	{
+		code: "52404  Mandibular hypoplasia              Major anomalies of jaw size",
+	},
+	{
+		code: "52405  Macrogenia                         Major anomalies of jaw size",
+	},
+	{
+		code: "52406  Microgenia                         Major anomalies of jaw size",
+	},
+	{
+		code: "52407  Excessive tuberosity-jaw           Excessive tuberosity of jaw",
+	},
+	{
+		code: "52409  Oth spcf anmly jaw size            Major anomalies of jaw size",
+	},
+	{
+		code: "52410  Unspcf anm jaw cranl bse           Anomalies of relationship of jaw to cranial base",
+	},
+	{
+		code: "52411  Maxillary asymmetry                Anomalies of relationship of jaw to cranial base",
+	},
+	{
+		code: "52412  Other jaw asymmetry                Anomalies of relationship of jaw to cranial base",
+	},
+	{
+		code: "52419  Spcfd anom jaw cranl bse           Anomalies of relationship of jaw to cranial base",
+	},
+	{
+		code: "52420  Anomaly dental arch NOS            Unspecified anomaly of dental arch relationship",
+	},
+	{
+		code: "52421  Malocc- Angle's class I            Malocclusion",
+	},
+	{
+		code: "52422  Malocc-Angle's class II            Malocclusion",
+	},
+	{
+		code: "52423  Malocc-Angle's class III           Malocclusion",
+	},
+	{
+		code: "52424  Open anterior occlusion            Open anterior occlusal relationship",
+	},
+	{
+		code: "52425  Open posterior occlusion           Open posterior occlusal relationship",
+	},
+	{
+		code: "52426  Excess horizontl overlap           Excessive horizontal overlap",
+	},
+	{
+		code: "52427  Reverse articulation               Reverse articulation",
+	},
+	{
+		code: "52428  Anom interarch distance            Anomalies of interarch distance",
+	},
+	{
+		code: "52429  Anomaly dental arch NEC            Other anomalies of dental arch relationship",
+	},
+	{
+		code: "52430  Tooth position anom NOS            Unspecified anomaly of tooth position",
+	},
+	{
+		code: "52431  Crowding of teeth                  Crowding of teeth",
+	},
+	{
+		code: "52432  Excessive spacing-teeth            Excessive spacing of teeth",
+	},
+	{
+		code: "52433  Horizontl displace-teeth           Horizontal displacement of teeth",
+	},
+	{
+		code: "52434  Vertical displace-teeth            Vertical displacement of teeth",
+	},
+	{
+		code: "52435  Rotation of teeth                  Rotation of tooth/teeth",
+	},
+	{
+		code: "52436  Insuf interocclusl-teeth           Insufficient interocclusal distance of teeth (ridge)",
+	},
+	{
+		code: "52437  Exces interocclusl-teeth           Excessive interocclusal distance of teeth",
+	},
+	{
+		code: "52439  Tooth position anom NEC            Other anomalies of tooth position",
+	},
+	{
+		code: "5244   Malocclusion NOS                   Malocclusion",
+	},
+	{
+		code: "52450  Dentofac funct abnor NOS           Dentofacial functional abnormality",
+	},
+	{
+		code: "52451  Abnormal jaw closure               Abnormal jaw closure",
+	},
+	{
+		code: "52452  Limited mandibular ROM             Limited mandibular range of motion",
+	},
+	{
+		code: "52453  Dev open/close mandible            Deviation in opening and closing of the mandible",
+	},
+	{
+		code: "52454  Insuff anterior guidance           Insufficient anterior guidance",
+	},
+	{
+		code: "52455  Centric occl intrcsp dis           Centric occlusion maximum intercuspation discrepancy",
+	},
+	{
+		code: "52456  Nonwork side interfrnce            Non-working side interference",
+	},
+	{
+		code: "52457  Lack post occlsl support           Lack of posterior occlusal support",
+	},
+	{
+		code: "52459  Dentofac funct abnor NEC           Other dentofacial functional abnormalities",
+	},
+	{
+		code: "52460  TMJ disorders NOS                  Temporomandibular joint disorders",
+	},
+	{
+		code: "52461  Adhesns/ankylosis - TMJ            Temporomandibular joint disorders",
+	},
+	{
+		code: "52462  Arthralgia TMJ                     Temporomandibular joint disorders",
+	},
+	{
+		code: "52463  Articular disc disorder            Temporomandibular joint disorders",
+	},
+	{
+		code: "52464  TMJ sounds opn/close jaw           Temporomandibular joint sounds on opening and/or closing the jaw",
+	},
+	{
+		code: "52469  Other specf TMJ disordrs           Other specified temporomandibular joint disorders",
+	},
+	{
+		code: "52470  Unspf dent alvelr anmaly           Dental alveolar anomalies",
+	},
+	{
+		code: "52471  Alveolar maxil hyprplsia           Alveolar maxillary hyperplasia",
+	},
+	{
+		code: "52472  Alveolar mandib hyprplas           Alveolar mandibular hyperplasia",
+	},
+	{
+		code: "52473  Alveolar maxil hypoplsia           Alveolar maxillary hypoplasia",
+	},
+	{
+		code: "52474  Alveolar mandb hypoplsia           Alveolar mandibular hypoplasia",
+	},
+	{
+		code: "52475  Vertical displace teeth            Vertical displacement of alveolus and teeth",
+	},
+	{
+		code: "52476  Occlusal plane deviation           Occlusal plane deviation",
+	},
+	{
+		code: "52479  Oth spcf alveolar anmaly           Other specified alveolar anomaly",
+	},
+	{
+		code: "52481  Anterior soft tiss impg            Anterior soft tissue impingement",
+	},
+	{
+		code: "52482  Posterior soft tiss impg           Posterior soft tissue impingement",
+	},
+	{
+		code: "52489  Dentofacial anomaly NEC            Other specified dentofacial anomalies",
+	},
+	{
+		code: "5249   Dentofacial anomaly NOS            Unspecified dentofacial anomalies",
+	},
+	{
+		code: "5250   Exfoliation of teeth               Exfoliation of teeth due to systemic causes",
+	},
+	{
+		code: "52510  Acq absence of teeth NOS           Acquired absence of teeth",
+	},
+	{
+		code: "52511  Loss of teeth d/t trauma           Loss of teeth due to trauma",
+	},
+	{
+		code: "52512  Loss teeth d/t peri dis            Loss of teeth due to periodontal disease",
+	},
+	{
+		code: "52513  Loss of teeth d/t caries           Loss of teeth due to caries",
+	},
+	{
+		code: "52519  Loss of teeth NEC                  Other loss of teeth",
+	},
+	{
+		code: "52520  Atrophy alvlar ridge NOS           Unspecified atrophy of edentulous alveolar ridge",
+	},
+	{
+		code: "52521  Atrophy mandible-minimal           Minimal atrophy of the mandible",
+	},
+	{
+		code: "52522  Atrophy mandible-modrate           Moderate atrophy of the mandible",
+	},
+	{
+		code: "52523  Atrophy mandible-severe            Severe atrophy of the mandible",
+	},
+	{
+		code: "52524  Atrophy maxilla-minimal            Minimal atrophy of the maxilla",
+	},
+	{
+		code: "52525  Atrophy maxilla-moderate           Moderate atrophy of the maxilla",
+	},
+	{
+		code: "52526  Atrophy maxilla-severe             Severe atrophy of the maxilla",
+	},
+	{
+		code: "5253   Retained dental root               Retained dental root",
+	},
+	{
+		code: "52540  Complete edentulism NOS            Complete edentulism",
+	},
+	{
+		code: "52541  Comp edentulism",
+	},
+	{
+		code: "52542  Comp edentulism",
+	},
+	{
+		code: "52543  Comp edentulsm",
+	},
+	{
+		code: "52544  Comp edentulism",
+	},
+	{
+		code: "52550  Partial edentulism NOS             Partial edentulism",
+	},
+	{
+		code: "52551  Part edentulism",
+	},
+	{
+		code: "52552  Part edentulism",
+	},
+	{
+		code: "52553  Part edentulsm",
+	},
+	{
+		code: "52554  Part edentulism",
+	},
+	{
+		code: "52560  Unsat restore tooth NOS            Unspecified unsatisfactory restoration of tooth",
+	},
+	{
+		code: "52561  Open restoration margins           Open restoration margins",
+	},
+	{
+		code: "52562  Overhang dental restore            Unrepairable overhanging of dental restorative materials",
+	},
+	{
+		code: "52563  Fx dental mat w/o loss             Fractured dental restorative material without loss of material",
+	},
+	{
+		code: "52564  Fx dentl material w loss           Fractured dental restorative material with loss of material",
+	},
+	{
+		code: "52565  Contour restore tooth              Contour of existing restoration of tooth biologically incompatible with oral health",
+	},
+	{
+		code: "52566  Allergy dental res mat             Allergy to existing dental restorative material",
+	},
+	{
+		code: "52567  Poor aesthetics restore            Poor aesthetics of existing restoration",
+	},
+	{
+		code: "52569  Unsat restore tooth NEC            Other unsatisfactory restoration of existing tooth",
+	},
+	{
+		code: "52571  Osseo fail dental implnt           Osseointegration failure of dental implant",
+	},
+	{
+		code: "52572  Post-osse biol fail impl           Post-osseointegration biological failure of dental implant",
+	},
+	{
+		code: "52573  Post-osse mech fail impl           Post-osseointegration mechanical failure of dental implant",
+	},
+	{
+		code: "52579  Endos dentl imp fail NEC           Other endosseous dental implant failure",
+	},
+	{
+		code: "5258   Dental disorder NEC                Other specified disorders of the teeth and supporting structures",
+	},
+	{
+		code: "5259   Dental disorder NOS                Unspecified disorder of the teeth and supporting structures",
+	},
+	{
+		code: "5260   Devel odontogenic cysts            Developmental odontogenic cysts",
+	},
+	{
+		code: "5261   Fissural cysts of jaw              Fissural cysts of jaw",
+	},
+	{
+		code: "5262   Cysts of jaws NEC                  Other cysts of jaws",
+	},
+	{
+		code: "5263   Cent giant cell granulom           Central giant cell (reparative) granuloma",
+	},
+	{
+		code: "5264   Inflammation of jaw                Inflammatory conditions of jaw",
+	},
+	{
+		code: "5265   Alveolitis of jaw                  Alveolitis of jaw",
+	},
+	{
+		code: "52661  Perfor root canal space            Perforation of root canal space",
+	},
+	{
+		code: "52662  Endodontic overfill                Endodontic overfill",
+	},
+	{
+		code: "52663  Endodontic underfill               Endodontic underfill",
+	},
+	{
+		code: "52669  Periradicular path NEC             Other periradicular pathology associated with previous endodontic treatment",
+	},
+	{
+		code: "52681  Exostosis of jaw                   Exostosis of jaw",
+	},
+	{
+		code: "52689  Jaw disease NEC                    Other specified diseases of the jaws",
+	},
+	{
+		code: "5269   Jaw disease NOS                    Unspecified disease of the jaws",
+	},
+	{
+		code: "5270   Salivary gland atrophy             Atrophy of salivary gland",
+	},
+	{
+		code: "5271   Salivary glnd hyprtrophy           Hypertrophy of salivary gland",
+	},
+	{
+		code: "5272   Sialoadenitis                      Sialoadenitis",
+	},
+	{
+		code: "5273   Salivary gland abscess             Abscess of salivary gland",
+	},
+	{
+		code: "5274   Salivary gland fistula             Fistula of salivary gland",
+	},
+	{
+		code: "5275   Sialolithiasis                     Sialolithiasis",
+	},
+	{
+		code: "5276   Salivary gland mucocele            Mucocele of salivary gland",
+	},
+	{
+		code: "5277   Salivary secretion dis             Disturbance of salivary secretion",
+	},
+	{
+		code: "5278   Salivary gland dis NEC             Other specified diseases of the salivary glands",
+	},
+	{
+		code: "5279   Salivary gland dis NOS             Unspecified disease of the salivary glands",
+	},
+	{
+		code: "52800  Stomatitis/mucositis NOS           Stomatitis and mucositis",
+	},
+	{
+		code: "52801  Mucosits d/t antineo rx            Mucositis (ulcerative) due to antineoplastic therapy",
+	},
+	{
+		code: "52802  Mucositis d/t drugs NEC            Mucositis (ulcerative) due to other drugs",
+	},
+	{
+		code: "52809  Stomatits & mucosits NEC           Other stomatitis and mucositis (ulcerative)",
+	},
+	{
+		code: "5281   Cancrum oris                       Cancrum oris",
+	},
+	{
+		code: "5282   Oral aphthae                       Oral aphthae",
+	},
+	{
+		code: "5283   Cellulitis/abscess mouth           Cellulitis and abscess of oral soft tissues",
+	},
+	{
+		code: "5284   Oral soft tissue cyst              Cysts of oral soft tissues",
+	},
+	{
+		code: "5285   Diseases of lips                   Diseases of lips",
+	},
+	{
+		code: "5286   Leukoplakia oral mucosa            Leukoplakia of oral mucosa",
+	},
+	{
+		code: "52871  Keratin ridge mucosa-min           Minimal keratinized residual ridge mucosa",
+	},
+	{
+		code: "52872  Keratin ridge muc-excess           Excessive keratinized residual ridge mucosa",
+	},
+	{
+		code: "52879  Dist oral epithelium NEC           Other disturbances of oral epithelium",
+	},
+	{
+		code: "5288   Oral submucosal fibrosis           Oral submucosal fibrosis",
+	},
+	{
+		code: "5289   Oral soft tissue dis NEC           Other and unspecified diseases of the oral soft tissues",
+	},
+	{
+		code: "5290   Glossitis                          Glossitis",
+	},
+	{
+		code: "5291   Geographic tongue                  Geographic tongue",
+	},
+	{
+		code: "5292   Med rhomboid glossitis             Median rhomboid glossitis",
+	},
+	{
+		code: "5293   Hypertroph tongue papill           Hypertrophy of tongue papillae",
+	},
+	{
+		code: "5294   Atrophy tongue papillae            Atrophy of tongue papillae",
+	},
+	{
+		code: "5295   Plicated tongue                    Plicated tongue",
+	},
+	{
+		code: "5296   Glossodynia                        Glossodynia",
+	},
+	{
+		code: "5298   Tongue disorder NEC                Other specified conditions of the tongue",
+	},
+	{
+		code: "5299   Tongue disorder NOS                Unspecified condition of the tongue",
+	},
+	{
+		code: "5300   Achalasia & cardiospasm            Achalasia and cardiospasm",
+	},
+	{
+		code: "53010  Esophagitis",
+	},
+	{
+		code: "53011  Reflux esophagitis                 Reflux esophagitis",
+	},
+	{
+		code: "53012  Acute esophagitis                  Acute esophagitis",
+	},
+	{
+		code: "53013  Eosinophilic esophagitis           Eosinophilic esophagitis",
+	},
+	{
+		code: "53019  Other esophagitis                  Other esophagitis",
+	},
+	{
+		code: "53020  Ulc esophagus w/o bleed            Ulcer of esophagus without bleeding",
+	},
+	{
+		code: "53021  Ulcer esophagus w bleed            Ulcer of esophagus with bleeding",
+	},
+	{
+		code: "5303   Esophageal stricture               Stricture and stenosis of esophagus",
+	},
+	{
+		code: "5304   Perforation of esophagus           Perforation of esophagus",
+	},
+	{
+		code: "5305   Dyskinesia of esophagus            Dyskinesia of esophagus",
+	},
+	{
+		code: "5306   Acq esophag diverticulum           Diverticulum of esophagus",
+	},
+	{
+		code: "5307   Mallory-weiss syndrome             Gastroesophageal laceration-hemorrhage syndrome",
+	},
+	{
+		code: "53081  Esophageal reflux                  Esophageal reflux                                                                                                                                                                          Y",
+	},
+	{
+		code: "53082  Esophageal hemorrhage              Esophageal hemorrhage                                                                                                                                                                      Y",
+	},
+	{
+		code: "53083  Esophageal leukoplakia             Esophageal leukoplakia                                                                                                                                                                     Y",
+	},
+	{
+		code: "53084  Tracheoesophageal fstula           Tracheoesophageal fistula                                                                                                                                                                  Y",
+	},
+	{
+		code: "53085  Barrett's esophagus                Barrett's esophagus                                                                                                                                                                        Y",
+	},
+	{
+		code: "53086  Esophagostomy infection            Infection of esophagostomy                                                                                                                                                                 Y",
+	},
+	{
+		code: "53087  Mech comp esophagostomy            Mechanical complication of esophagostomy                                                                                                                                                   Y",
+	},
+	{
+		code: "53089  Other dsrders esophagus            Other specified disorders of esophagus                                                                                                                                                     Y",
+	},
+	{
+		code: "5309   Esophageal disorder NOS            Unspecified disorder of esophagus",
+	},
+	{
+		code: "53100  Ac stomach ulcer w hem             Acute gastric ulcer with hemorrhage",
+	},
+	{
+		code: "53101  Ac stomac ulc w hem-obst           Acute gastric ulcer with hemorrhage",
+	},
+	{
+		code: "53110  Ac stomach ulcer w perf            Acute gastric ulcer with perforation",
+	},
+	{
+		code: "53111  Ac stom ulc w perf-obst            Acute gastric ulcer with perforation",
+	},
+	{
+		code: "53120  Ac stomac ulc w hem/perf           Acute gastric ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53121  Ac stom ulc hem/perf-obs           Acute gastric ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53130  Acute stomach ulcer NOS            Acute gastric ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53131  Ac stomach ulc NOS-obstr           Acute gastric ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53140  Chr stomach ulc w hem              Chronic or unspecified gastric ulcer with hemorrhage",
+	},
+	{
+		code: "53141  Chr stom ulc w hem-obstr           Chronic or unspecified gastric ulcer with hemorrhage",
+	},
+	{
+		code: "53150  Chr stomach ulcer w perf           Chronic or unspecified gastric ulcer with perforation",
+	},
+	{
+		code: "53151  Chr stom ulc w perf-obst           Chronic or unspecified gastric ulcer with perforation",
+	},
+	{
+		code: "53160  Chr stomach ulc hem/perf           Chronic or unspecified gastric ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53161  Chr stom ulc hem/perf-ob           Chronic or unspecified gastric ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53170  Chr stomach ulcer NOS              Chronic gastric ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53171  Chr stomach ulc NOS-obst           Chronic gastric ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53190  Stomach ulcer NOS                  Gastric ulcer",
+	},
+	{
+		code: "53191  Stomach ulcer NOS-obstr            Gastric ulcer",
+	},
+	{
+		code: "53200  Ac duodenal ulcer w hem            Acute duodenal ulcer with hemorrhage",
+	},
+	{
+		code: "53201  Ac duoden ulc w hem-obst           Acute duodenal ulcer with hemorrhage",
+	},
+	{
+		code: "53210  Ac duodenal ulcer w perf           Acute duodenal ulcer with perforation",
+	},
+	{
+		code: "53211  Ac duoden ulc perf-obstr           Acute duodenal ulcer with perforation",
+	},
+	{
+		code: "53220  Ac duoden ulc w hem/perf           Acute duodenal ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53221  Ac duod ulc hem/perf-obs           Acute duodenal ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53230  Acute duodenal ulcer NOS           Acute duodenal ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53231  Ac duodenal ulc NOS-obst           Acute duodenal ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53240  Chr duoden ulcer w hem             Chronic or unspecified duodenal ulcer with hemorrhage",
+	},
+	{
+		code: "53241  Chr duoden ulc hem-obstr           Chronic or unspecified duodenal ulcer with hemorrhage",
+	},
+	{
+		code: "53250  Chr duoden ulcer w perf            Chronic or unspecified duodenal ulcer with perforation",
+	},
+	{
+		code: "53251  Chr duoden ulc perf-obst           Chronic or unspecified duodenal ulcer with perforation",
+	},
+	{
+		code: "53260  Chr duoden ulc hem/perf            Chronic or unspecified duodenal ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53261  Chr duod ulc hem/perf-ob           Chronic or unspecified duodenal ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53270  Chr duodenal ulcer NOS             Chronic duodenal ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53271  Chr duoden ulc NOS-obstr           Chronic duodenal ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53290  Duodenal ulcer NOS                 Duodenal ulcer",
+	},
+	{
+		code: "53291  Duodenal ulcer NOS-obstr           Duodenal ulcer",
+	},
+	{
+		code: "53300  Ac peptic ulcer w hemorr           Acute peptic ulcer of unspecified site with hemorrhage",
+	},
+	{
+		code: "53301  Ac peptic ulc w hem-obst           Acute peptic ulcer of unspecified site with hemorrhage",
+	},
+	{
+		code: "53310  Ac peptic ulcer w perfor           Acute peptic ulcer of unspecified site with perforation",
+	},
+	{
+		code: "53311  Ac peptic ulc w perf-obs           Acute peptic ulcer of unspecified site with perforation",
+	},
+	{
+		code: "53320  Ac peptic ulc w hem/perf           Acute peptic ulcer of unspecified site with hemorrhage and perforation",
+	},
+	{
+		code: "53321  Ac pept ulc hem/perf-obs           Acute peptic ulcer of unspecified site with hemorrhage and perforation",
+	},
+	{
+		code: "53330  Acute peptic ulcer NOS             Acute peptic ulcer of unspecified site without mention of hemorrhage and perforation",
+	},
+	{
+		code: "53331  Ac peptic ulcer NOS-obst           Acute peptic ulcer of unspecified site without mention of hemorrhage and perforation",
+	},
+	{
+		code: "53340  Chr peptic ulcer w hem             Chronic or unspecified peptic ulcer of unspecified site with hemorrhage",
+	},
+	{
+		code: "53341  Chr peptic ulc w hem-obs           Chronic or unspecified peptic ulcer of unspecified site with hemorrhage",
+	},
+	{
+		code: "53350  Chr peptic ulcer w perf            Chronic or unspecified peptic ulcer of unspecified site with perforation",
+	},
+	{
+		code: "53351  Chr peptic ulc perf-obst           Chronic or unspecified peptic ulcer of unspecified site with perforation",
+	},
+	{
+		code: "53360  Chr pept ulc w hem/perf            Chronic or unspecified peptic ulcer of unspecified site with hemorrhage and perforation",
+	},
+	{
+		code: "53361  Chr pept ulc hem/perf-ob           Chronic or unspecified peptic ulcer of unspecified site with hemorrhage and perforation",
+	},
+	{
+		code: "53370  Chronic peptic ulcer NOS           Chronic peptic ulcer of unspecified site without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53371  Chr peptic ulcer NOS-obs           Chronic peptic ulcer of unspecified site without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53390  Peptic ulcer NOS                   Peptic ulcer of unspecified site",
+	},
+	{
+		code: "53391  Peptic ulcer NOS-obstruc           Peptic ulcer of unspecified site",
+	},
+	{
+		code: "53400  Ac marginal ulcer w hem            Acute gastrojejunal ulcer with hemorrhage",
+	},
+	{
+		code: "53401  Ac margin ulc w hem-obst           Acute gastrojejunal ulcer",
+	},
+	{
+		code: "53410  Ac marginal ulcer w perf           Acute gastrojejunal ulcer with perforation",
+	},
+	{
+		code: "53411  Ac margin ulc w perf-obs           Acute gastrojejunal ulcer with perforation",
+	},
+	{
+		code: "53420  Ac margin ulc w hem/perf           Acute gastrojejunal ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53421  Ac marg ulc hem/perf-obs           Acute gastrojejunal ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53430  Ac marginal ulcer NOS              Acute gastrojejunal ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53431  Ac marginal ulc NOS-obst           Acute gastrojejunal ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53440  Chr marginal ulcer w hem           Chronic or unspecified gastrojejunal ulcer with hemorrhage",
+	},
+	{
+		code: "53441  Chr margin ulc w hem-obs           Chronic or unspecified gastrojejunal ulcer",
+	},
+	{
+		code: "53450  Chr marginal ulc w perf            Chronic or unspecified gastrojejunal ulcer with perforation",
+	},
+	{
+		code: "53451  Chr margin ulc perf-obst           Chronic or unspecified gastrojejunal ulcer with perforation",
+	},
+	{
+		code: "53460  Chr margin ulc hem/perf            Chronic or unspecified gastrojejunal ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53461  Chr marg ulc hem/perf-ob           Chronic or unspecified gastrojejunal ulcer with hemorrhage and perforation",
+	},
+	{
+		code: "53470  Chr marginal ulcer NOS             Chronic gastrojejunal ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53471  Chr marginal ulc NOS-obs           Chronic gastrojejunal ulcer without mention of hemorrhage or perforation",
+	},
+	{
+		code: "53490  Gastrojejunal ulcer NOS            Gastrojejunal ulcer",
+	},
+	{
+		code: "53491  Gastrojejun ulc NOS-obst           Gastrojejunal ulcer",
+	},
+	{
+		code: "53500  Acute gastrtis w/o hmrhg           Acute gastritis",
+	},
+	{
+		code: "53501  Acute gastritis w hmrhg            Acute gastritis",
+	},
+	{
+		code: "53510  Atrph gastrtis w/o hmrhg           Atrophic gastritis",
+	},
+	{
+		code: "53511  Atrph gastritis w hmrhg            Atrophic gastritis",
+	},
+	{
+		code: "53520  Gstr mcsl hyprt w/o hmrg           Gastric mucosal hypertrophy",
+	},
+	{
+		code: "53521  Gstr mcsl hyprt w hmrg             Gastric mucosal hypertrophy",
+	},
+	{
+		code: "53530  Alchl gastrtis w/o hmrhg           Alcoholic gastritis",
+	},
+	{
+		code: "53531  Alchl gstritis w hmrhg             Alcoholic gastritis",
+	},
+	{
+		code: "53540  Oth spf gstrt w/o hmrhg            Other specified gastritis",
+	},
+	{
+		code: "53541  Oth spf gastrt w hmrhg             Other specified gastritis",
+	},
+	{
+		code: "53550  Gstr/ddnts NOS w/o hmrhg           Unspecified gastritis and gastroduodenitis",
+	},
+	{
+		code: "53551  Gstr/ddnts NOS w hmrhg             Unspecified gastritis and gastroduodenitis",
+	},
+	{
+		code: "53560  Duodenitis w/o hmrhg               Duodenitis",
+	},
+	{
+		code: "53561  Duodenitis w hmrhg                 Duodenitis",
+	},
+	{
+		code: "53570  Eosinophil gastrt wo hem           Eosinophilic gastritis",
+	},
+	{
+		code: "53571  Eosinophilc gastrt w hem           Eosinophilic gastritis",
+	},
+	{
+		code: "5360   Achlorhydria                       Achlorhydria",
+	},
+	{
+		code: "5361   Ac dilation of stomach             Acute dilatation of stomach",
+	},
+	{
+		code: "5362   Persistent vomiting                Persistent vomiting",
+	},
+	{
+		code: "5363   Gastroparesis                      Gastroparesis",
+	},
+	{
+		code: "53640  Gastrostomy comp NOS               Gastrostomy complication",
+	},
+	{
+		code: "53641  Gastrostomy infection              Infection of gastrostomy",
+	},
+	{
+		code: "53642  Gastrostomy comp - mech            Mechanical complication of gastrostomy",
+	},
+	{
+		code: "53649  Gastrostomy comp NEC               Other gastrostomy complications",
+	},
+	{
+		code: "5368   Stomach function dis NEC           Dyspepsia and other specified disorders of function of stomach",
+	},
+	{
+		code: "5369   Stomach function dis NOS           Unspecified functional disorder of stomach",
+	},
+	{
+		code: "5370   Acq pyloric stenosis               Acquired hypertrophic pyloric stenosis",
+	},
+	{
+		code: "5371   Gastric diverticulum               Gastric diverticulum",
+	},
+	{
+		code: "5372   Chronic duodenal ileus             Chronic duodenal ileus",
+	},
+	{
+		code: "5373   Duodenal obstruction NEC           Other obstruction of duodenum",
+	},
+	{
+		code: "5374   Gastric/duodenal fistula           Fistula of stomach or duodenum",
+	},
+	{
+		code: "5375   Gastroptosis                       Gastroptosis",
+	},
+	{
+		code: "5376   Hourglass stricture stom           Hourglass stricture or stenosis of stomach",
+	},
+	{
+		code: "53781  Pylorospasm                        Pylorospasm",
+	},
+	{
+		code: "53782  Angio stm/dudn w/o hmrhg           Angiodysplasia of stomach and duodenum without mention of hemorrhage",
+	},
+	{
+		code: "53783  Angio stm/dudn w hmrhg             Angiodysplasia of stomach and duodenum with hemorrhage",
+	},
+	{
+		code: "53784  Dieulafoy les",
+	},
+	{
+		code: "53789  Gastroduodenal dis NEC             Other specified disorders of stomach and duodenum",
+	},
+	{
+		code: "5379   Gastroduodenal dis NOS             Unspecified disorder of stomach and duodenum",
+	},
+	{
+		code: "538    GI mucositis (ulceratve)           Gastrointestinal mucositis (ulcerative)",
+	},
+	{
+		code: "53901  Inf d/t gastrc band proc           Infection due to gastric band procedure",
+	},
+	{
+		code: "53909  Oth cmp gastrc band proc           Other complications of gastric band procedure",
+	},
+	{
+		code: "53981  Inf d/t ot bariatrc proc           Infection due to other bariatric procedure",
+	},
+	{
+		code: "53989  Ot comp ot bariatrc proc           Other complications of other bariatric procedure",
+	},
+	{
+		code: "5400   Ac append w peritonitis            Acute appendicitis with generalized peritonitis",
+	},
+	{
+		code: "5401   Abscess of appendix                Acute appendicitis with peritoneal abscess",
+	},
+	{
+		code: "5409   Acute appendicitis NOS             Acute appendicitis without mention of peritonitis",
+	},
+	{
+		code: "541    Appendicitis NOS                   Appendicitis",
+	},
+	{
+		code: "542    Other appendicitis                 Other appendicitis",
+	},
+	{
+		code: "5430   Hyperplasia of appendix            Hyperplasia of appendix (lymphoid)",
+	},
+	{
+		code: "5439   Diseases of appendix NEC           Other and unspecified diseases of appendix",
+	},
+	{
+		code: "55000  Unilat ing hernia w gang           Inguinal hernia",
+	},
+	{
+		code: "55001  Recur unil ing hern-gang           Inguinal hernia",
+	},
+	{
+		code: "55002  Bilat ing hernia w gang            Inguinal hernia",
+	},
+	{
+		code: "55003  Recur bil ing hern-gang            Inguinal hernia",
+	},
+	{
+		code: "55010  Unilat ing hernia w obst           Inguinal hernia",
+	},
+	{
+		code: "55011  Recur unil ing hern-obst           Inguinal hernia",
+	},
+	{
+		code: "55012  Bilat ing hernia w obst            Inguinal hernia",
+	},
+	{
+		code: "55013  Recur bil ing hern-obstr           Inguinal hernia",
+	},
+	{
+		code: "55090  Unilat inguinal hernia             Inguinal hernia",
+	},
+	{
+		code: "55091  Recur unilat inguin hern           Inguinal hernia",
+	},
+	{
+		code: "55092  Bilat inguinal hernia              Inguinal hernia",
+	},
+	{
+		code: "55093  Recur bilat inguin hern            Inguinal hernia",
+	},
+	{
+		code: "55100  Unil femoral hern w gang           Femoral hernia with gangrene",
+	},
+	{
+		code: "55101  Rec unil fem hern w gang           Femoral hernia with gangrene",
+	},
+	{
+		code: "55102  Bilat fem hern w gang              Femoral hernia with gangrene",
+	},
+	{
+		code: "55103  Recur bil fem hern-gang            Femoral hernia with gangrene",
+	},
+	{
+		code: "5511   Umbilical hernia w gangr           Umbilical hernia with gangrene",
+	},
+	{
+		code: "55120  Gangr ventral hernia NOS           Ventral hernia",
+	},
+	{
+		code: "55121  Gangr incisional hernia            Incisional ventral hernia",
+	},
+	{
+		code: "55129  Gang ventral hernia NEC            Other ventral hernia with gangrene",
+	},
+	{
+		code: "5513   Diaphragm hernia w gangr           Diaphragmatic hernia with gangrene",
+	},
+	{
+		code: "5518   Hernia",
+	},
+	{
+		code: "5519   Hernia",
+	},
+	{
+		code: "55200  Unil femoral hern w obst           Femoral hernia with obstruction",
+	},
+	{
+		code: "55201  Rec unil fem hern w obst           Femoral hernia with obstruction",
+	},
+	{
+		code: "55202  Bil femoral hern w obstr           Femoral hernia with obstruction",
+	},
+	{
+		code: "55203  Rec bil fem hern w obstr           Femoral hernia with obstruction",
+	},
+	{
+		code: "5521   Umbilical hernia w obstr           Umbilical hernia with obstruction",
+	},
+	{
+		code: "55220  Obstr ventral hernia NOS           Ventral",
+	},
+	{
+		code: "55221  Obstr incisional hernia            Incisional ventral hernia with obstruction",
+	},
+	{
+		code: "55229  Obstr ventral hernia NEC           Other ventral hernia with obstruction",
+	},
+	{
+		code: "5523   Diaphragm hernia w obstr           Diaphragmatic hernia with obstruction",
+	},
+	{
+		code: "5528   Hernia",
+	},
+	{
+		code: "5529   Hernia",
+	},
+	{
+		code: "55300  Unilat femoral hernia              Femoral hernia without mention of obstruction of gangrene",
+	},
+	{
+		code: "55301  Recur unil femoral hern            Femoral hernia without mention of obstruction or gangrene",
+	},
+	{
+		code: "55302  Bilateral femoral hernia           Femoral hernia without mention of obstruction or gangrene",
+	},
+	{
+		code: "55303  Recur bilat femoral hern           Femoral hernia without mention of obstruction or gangrene",
+	},
+	{
+		code: "5531   Umbilical hernia                   Umbilical hernia without mention of obstruction or gangrene",
+	},
+	{
+		code: "55320  Ventral hernia NOS                 Ventral",
+	},
+	{
+		code: "55321  Incisional hernia                  Incisional hernia without mention of obstruction or gangrene",
+	},
+	{
+		code: "55329  Ventral hernia NEC                 Other ventral hernia without mention of obstruction or gangrene",
+	},
+	{
+		code: "5533   Diaphragmatic hernia               Diaphragmatic hernia without mention of obstruction or gangrene",
+	},
+	{
+		code: "5538   Hernia NEC                         Hernia of other specified sites without mention of obstruction or gangrene",
+	},
+	{
+		code: "5539   Hernia NOS                         Hernia of unspecified site without mention of obstruction or gangrene",
+	},
+	{
+		code: "5550   Reg enteritis",
+	},
+	{
+		code: "5551   Reg enteritis",
+	},
+	{
+		code: "5552   Reg enterit sm/lg intest           Regional enteritis of small intestine with large intestine",
+	},
+	{
+		code: "5559   Regional enteritis NOS             Regional enteritis of unspecified site",
+	},
+	{
+		code: "5560   Ulcerative enterocolitis           Ulcerative (chronic) enterocolitis",
+	},
+	{
+		code: "5561   Ulcerative ileocolitis             Ulcerative (chronic) ileocolitis",
+	},
+	{
+		code: "5562   Ulcerative proctitis               Ulcerative (chronic) proctitis",
+	},
+	{
+		code: "5563   Ulcertve prctosigmoidtis           Ulcerative (chronic) proctosigmoiditis",
+	},
+	{
+		code: "5564   Pseudopolyposis colon              Pseudopolyposis of colon",
+	},
+	{
+		code: "5565   Lftsded ulcertve colitis           Left-sided ulcerative (chronic) colitis",
+	},
+	{
+		code: "5566   Univrsl ulcertve colitis           Universal ulcerative (chronic) colitis",
+	},
+	{
+		code: "5568   Other ulcerative colitis           Other ulcerative colitis",
+	},
+	{
+		code: "5569   Ulceratve colitis unspcf           Ulcerative colitis",
+	},
+	{
+		code: "5570   Ac vasc insuff intestine           Acute vascular insufficiency of intestine",
+	},
+	{
+		code: "5571   Chr vasc insuff intest             Chronic vascular insufficiency of intestine",
+	},
+	{
+		code: "5579   Vasc insuff intest NOS             Unspecified vascular insufficiency of intestine",
+	},
+	{
+		code: "5581   Radiation gastroenterit            Gastroenteritis and colitis due to radiation",
+	},
+	{
+		code: "5582   Toxic gastroenteritis              Toxic gastroenteritis and colitis",
+	},
+	{
+		code: "5583   Allrgic gastro & colitis           Allergic gastroenteritis and colitis",
+	},
+	{
+		code: "55841  Eosinophilic gastroent             Eosinophilic gastroenteritis",
+	},
+	{
+		code: "55842  Eosinophilic colitis               Eosinophilic colitis",
+	},
+	{
+		code: "5589   Noninf gastroenterit NEC           Other and unspecified noninfectious gastroenteritis and colitis",
+	},
+	{
+		code: "5600   Intussusception                    Intussusception",
+	},
+	{
+		code: "5601   Paralytic ileus                    Paralytic ileus",
+	},
+	{
+		code: "5602   Volvulus of intestine              Volvulus",
+	},
+	{
+		code: "56030  Impaction intestine NOS            Impaction of intestine",
+	},
+	{
+		code: "56031  Gallstone ileus                    Gallstone ileus",
+	},
+	{
+		code: "56032  Fecal impaction                    Fecal impaction",
+	},
+	{
+		code: "56039  Impaction intestine NEC            Other impaction of intestine",
+	},
+	{
+		code: "56081  Intestinal adhes w obstr           Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection)",
+	},
+	{
+		code: "56089  Intestinal obstruct NEC            Other specified intestinal obstruction",
+	},
+	{
+		code: "5609   Intestinal obstruct NOS            Unspecified intestinal obstruction",
+	},
+	{
+		code: "56200  Dvrtclo sml int w/o hmrg           Diverticulosis of small intestine (without mention of hemorrhage)",
+	},
+	{
+		code: "56201  Dvrtcli sml int w/o hmrg           Diverticulitis of small intestine (without mention of hemorrhage)",
+	},
+	{
+		code: "56202  Dvrtclo sml int w hmrhg            Diverticulosis of small intestine with hemorrhage",
+	},
+	{
+		code: "56203  Dvrtcli sml int w hmrhg            Diverticulitis of small intestine with hemorrhage",
+	},
+	{
+		code: "56210  Dvrtclo colon w/o hmrhg            Diverticulosis of colon (without mention of hemorrhage)",
+	},
+	{
+		code: "56211  Dvrtcli colon w/o hmrhg            Diverticulitis of colon (without mention of hemorrhage)",
+	},
+	{
+		code: "56212  Dvrtclo colon w hmrhg              Diverticulosis of colon with hemorrhage",
+	},
+	{
+		code: "56213  Dvrtcli colon w hmrhg              Diverticulitis of colon with hemorrhage",
+	},
+	{
+		code: "56400  Constipation NOS                   Constipation",
+	},
+	{
+		code: "56401  Slow transt constipation           Slow transit constipation",
+	},
+	{
+		code: "56402  Outlet dysfnc constption           Outlet dysfunction constipation",
+	},
+	{
+		code: "56409  Constipation NEC                   Other constipation",
+	},
+	{
+		code: "5641   Irritable bowel syndrome           Irritable bowel syndrome",
+	},
+	{
+		code: "5642   Postgastric surgery synd           Postgastric surgery syndromes",
+	},
+	{
+		code: "5643   Vomiting post-gi surgery           Vomiting following gastrointestinal surgery",
+	},
+	{
+		code: "5644   Postop GI funct dis NEC            Other postoperative functional disorders",
+	},
+	{
+		code: "5645   Functional diarrhea                Functional diarrhea",
+	},
+	{
+		code: "5646   Anal spasm                         Anal spasm",
+	},
+	{
+		code: "5647   Megacolon NEC                      Megacolon",
+	},
+	{
+		code: "56481  Neurogenic bowel                   Neurogenic bowel",
+	},
+	{
+		code: "56489  Funct dis intestine NEC            Other functional disorders of intestine",
+	},
+	{
+		code: "5649   Funct dis intestine NOS            Unspecified functional disorder of intestine",
+	},
+	{
+		code: "5650   Anal fissure                       Anal fissure",
+	},
+	{
+		code: "5651   Anal fistula                       Anal fistula",
+	},
+	{
+		code: "566    Anal & rectal abscess              Abscess of anal and rectal regions",
+	},
+	{
+		code: "5670   Peritonitis in infec dis           Peritonitis in infectious diseases classified elsewhere",
+	},
+	{
+		code: "5671   Pneumococcal peritonitis           Pneumococcal peritonitis",
+	},
+	{
+		code: "56721  Peritonitis (acute) gen            Peritonitis (acute) generalized",
+	},
+	{
+		code: "56722  Peritoneal abscess                 Peritoneal abscess",
+	},
+	{
+		code: "56723  Spontan bact peritonitis           Spontaneous bacterial peritonitis",
+	},
+	{
+		code: "56729  Suppurat peritonitis NEC           Other suppurative peritonitis",
+	},
+	{
+		code: "56731  Psoas muscle abscess               Psoas muscle abscess",
+	},
+	{
+		code: "56738  Retroperiton abscess NEC           Other retroperitoneal abscess",
+	},
+	{
+		code: "56739  Retroperiton infect NEC            Other retroperitoneal infections",
+	},
+	{
+		code: "56781  Choleperitonitis                   Choleperitonitis",
+	},
+	{
+		code: "56782  Sclerosing mesenteritis            Sclerosing mesenteritis",
+	},
+	{
+		code: "56789  Peritonitis NEC                    Other specified peritonitis",
+	},
+	{
+		code: "5679   Peritonitis NOS                    Unspecified peritonitis",
+	},
+	{
+		code: "5680   Peritoneal adhesions               Peritoneal adhesions (postoperative) (postinfection)",
+	},
+	{
+		code: "56881  Hemoperitoneum                     Hemoperitoneum (nontraumatic)",
+	},
+	{
+		code: "56882  Peritoneal effusion                Peritoneal effusion (chronic)",
+	},
+	{
+		code: "56889  Peritoneal disorder NEC            Other specified disorders of peritoneum",
+	},
+	{
+		code: "5689   Peritoneal disorder NOS            Unspecified disorder of peritoneum",
+	},
+	{
+		code: "5690   Anal & rectal polyp                Anal and rectal polyp",
+	},
+	{
+		code: "5691   Rectal prolapse                    Rectal prolapse",
+	},
+	{
+		code: "5692   Rectal & anal stenosis             Stenosis of rectum and anus",
+	},
+	{
+		code: "5693   Rectal & anal hemorrhage           Hemorrhage of rectum and anus",
+	},
+	{
+		code: "56941  Rectal & anal ulcer                Ulcer of anus and rectum",
+	},
+	{
+		code: "56942  Anal or rectal pain                Anal or rectal pain",
+	},
+	{
+		code: "56943  Anal sphincter tear-old            Anal sphincter tear (healed) (old)",
+	},
+	{
+		code: "56944  Dysplasia of anus                  Dysplasia of anus",
+	},
+	{
+		code: "56949  Rectal & anal dis NEC              Other specified disorders of rectum and anus",
+	},
+	{
+		code: "5695   Intestinal abscess                 Abscess of intestine",
+	},
+	{
+		code: "56960  Colstomy/enter comp NOS            Colostomy and enterostomy complication",
+	},
+	{
+		code: "56961  Colosty/enterost infectn           Infection of colostomy or enterostomy",
+	},
+	{
+		code: "56962  Colosty/enter comp-mech            Mechanical complication of colostomy and enterostomy",
+	},
+	{
+		code: "56969  Colstmy/enteros comp NEC           Other colostomy and enterostomy complication",
+	},
+	{
+		code: "56971  Pouchitis                          Pouchitis",
+	},
+	{
+		code: "56979  Comp intest pouch NEC              Other complications of intestinal pouch",
+	},
+	{
+		code: "56981  Intestinal fistula                 Fistula of intestine",
+	},
+	{
+		code: "56982  Ulceration of intestine            Ulceration of intestine",
+	},
+	{
+		code: "56983  Perforation of intestine           Perforation of intestine",
+	},
+	{
+		code: "56984  Angio intes w/o hmrhg              Angiodysplasia of intestine (without mention of hemorrhage)",
+	},
+	{
+		code: "56985  Angio intes w hmrhg                Angiodysplasia of intestine with hemorrhage",
+	},
+	{
+		code: "56986  Dieulafoy les",
+	},
+	{
+		code: "56987  Vomiting of fecal matter           Vomiting of fecal matter",
+	},
+	{
+		code: "56989  Intestinal disorders NEC           Other specified disorders of intestine",
+	},
+	{
+		code: "5699   Intestinal disorder NOS            Unspecified disorder of intestine",
+	},
+	{
+		code: "570    Acute necrosis of liver            Acute and subacute necrosis of liver",
+	},
+	{
+		code: "5710   Alcoholic fatty liver              Alcoholic fatty liver",
+	},
+	{
+		code: "5711   Ac alcoholic hepatitis             Acute alcoholic hepatitis",
+	},
+	{
+		code: "5712   Alcohol cirrhosis liver            Alcoholic cirrhosis of liver",
+	},
+	{
+		code: "5713   Alcohol liver damage NOS           Alcoholic liver damage",
+	},
+	{
+		code: "57140  Chronic hepatitis NOS              Chronic hepatitis",
+	},
+	{
+		code: "57141  Chr persistent hepatitis           Chronic persistent hepatitis",
+	},
+	{
+		code: "57142  Autoimmune hepatitis               Autoimmune hepatitis",
+	},
+	{
+		code: "57149  Chronic hepatitis NEC              Other chronic hepatitis",
+	},
+	{
+		code: "5715   Cirrhosis of liver NOS             Cirrhosis of liver without mention of alcohol",
+	},
+	{
+		code: "5716   Biliary cirrhosis                  Biliary cirrhosis",
+	},
+	{
+		code: "5718   Chronic liver dis NEC              Other chronic nonalcoholic liver disease",
+	},
+	{
+		code: "5719   Chronic liver dis NOS              Unspecified chronic liver disease without mention of alcohol",
+	},
+	{
+		code: "5720   Abscess of liver                   Abscess of liver",
+	},
+	{
+		code: "5721   Portal pyemia                      Portal pyemia",
+	},
+	{
+		code: "5722   Hepatic encephalopathy             Hepatic encephalopathy",
+	},
+	{
+		code: "5723   Portal hypertension                Portal hypertension",
+	},
+	{
+		code: "5724   Hepatorenal syndrome               Hepatorenal syndrome",
+	},
+	{
+		code: "5728   Oth sequela",
+	},
+	{
+		code: "5730   Chr passiv congest liver           Chronic passive congestion of liver",
+	},
+	{
+		code: "5731   Hepatitis in viral dis             Hepatitis in viral diseases classified elsewhere",
+	},
+	{
+		code: "5732   Hepatitis in oth inf dis           Hepatitis in other infectious diseases classified elsewhere",
+	},
+	{
+		code: "5733   Hepatitis NOS                      Hepatitis",
+	},
+	{
+		code: "5734   Hepatic infarction                 Hepatic infarction",
+	},
+	{
+		code: "5735   Hepatopulmonary syndrome           Hepatopulmonary syndrome",
+	},
+	{
+		code: "5738   Liver disorders NEC                Other specified disorders of liver",
+	},
+	{
+		code: "5739   Liver disorder NOS                 Unspecified disorder of liver",
+	},
+	{
+		code: "57400  Cholelith w ac cholecyst           Calculus of gallbladder with acute cholecystitis",
+	},
+	{
+		code: "57401  Cholelith/ac gb inf-obst           Calculus of gallbladder with acute cholecystitis",
+	},
+	{
+		code: "57410  Cholelith w cholecys NEC           Calculus of gallbladder with other cholecystitis",
+	},
+	{
+		code: "57411  Cholelith/gb inf NEC-obs           Calculus of gallbladder with other cholecystitis",
+	},
+	{
+		code: "57420  Cholelithiasis NOS                 Calculus of gallbladder without mention of cholecystitis",
+	},
+	{
+		code: "57421  Cholelithias NOS w obstr           Calculus of gallbladder without mention of cholecystitis",
+	},
+	{
+		code: "57430  Choledocholith/ac gb inf           Calculus of bile duct with acute cholecystitis",
+	},
+	{
+		code: "57431  Choledochlith/ac gb-obst           Calculus of bile duct with acute cholecystitis",
+	},
+	{
+		code: "57440  Choledochlith/gb inf NEC           Calculus of bile duct with other cholecystitis",
+	},
+	{
+		code: "57441  Choledochlith/gb NEC-obs           Calculus of bile duct with other cholecystitis",
+	},
+	{
+		code: "57450  Choledocholithiasis NOS            Calculus of bile duct without mention of cholecystitis",
+	},
+	{
+		code: "57451  Choledochlith NOS w obst           Calculus of bile duct without mention of cholecystitis",
+	},
+	{
+		code: "57460  Gall&bil cal w/ac w/o ob           Calculus of gallbladder and bile duct with acute cholecystitis",
+	},
+	{
+		code: "57461  Gall&bil cal w/ac w obs            Calculus of gallbladder and bile duct with acute cholecystitis",
+	},
+	{
+		code: "57470  Gal&bil cal w/oth w/o ob           Calculus of gallbladder and bile duct with other cholecystitis",
+	},
+	{
+		code: "57471  Gall&bil cal w/oth w obs           Calculus of gallbladder and bile duct with other cholecystitis",
+	},
+	{
+		code: "57480  Gal&bil cal w/ac&chr w/o           Calculus of gallbladder and bile duct with acute and chronic cholecystitis",
+	},
+	{
+		code: "57481  Gal&bil cal w/ac&ch w ob           Calculus of gallbladder and bile duct with acute and chronic cholecystitis",
+	},
+	{
+		code: "57490  Gall&bil cal w/o cho w/o           Calculus of gallbladder and bile duct without cholecystitis",
+	},
+	{
+		code: "57491  Gall&bil cal w/o ch w ob           Calculus of gallbladder and bile duct without cholecystitis",
+	},
+	{
+		code: "5750   Acute cholecystitis                Acute cholecystitis",
+	},
+	{
+		code: "57510  Cholecystitis NOS                  Cholecystitis",
+	},
+	{
+		code: "57511  Chronic cholecystitis              Chronic cholecystitis",
+	},
+	{
+		code: "57512  Acte & chr cholecystitis           Acute and chronic cholecystitis",
+	},
+	{
+		code: "5752   Obstruction gallbladder            Obstruction of gallbladder",
+	},
+	{
+		code: "5753   Hydrops of gallbladder             Hydrops of gallbladder",
+	},
+	{
+		code: "5754   Perforation gallbladder            Perforation of gallbladder",
+	},
+	{
+		code: "5755   Fistula of gallbladder             Fistula of gallbladder",
+	},
+	{
+		code: "5756   Gb cholesterolosis                 Cholesterolosis of gallbladder",
+	},
+	{
+		code: "5758   Dis of gallbladder NEC             Other specified disorders of gallbladder",
+	},
+	{
+		code: "5759   Dis of gallbladder NOS             Unspecified disorder of gallbladder",
+	},
+	{
+		code: "5760   Postcholecystectomy synd           Postcholecystectomy syndrome",
+	},
+	{
+		code: "5761   Cholangitis                        Cholangitis",
+	},
+	{
+		code: "5762   Obstruction of bile duct           Obstruction of bile duct",
+	},
+	{
+		code: "5763   Perforation of bile duct           Perforation of bile duct",
+	},
+	{
+		code: "5764   Fistula of bile duct               Fistula of bile duct",
+	},
+	{
+		code: "5765   Spasm sphincter of oddi            Spasm of sphincter of Oddi",
+	},
+	{
+		code: "5768   Dis of biliary tract NEC           Other specified disorders of biliary tract",
+	},
+	{
+		code: "5769   Dis of biliary tract NOS           Unspecified disorder of biliary tract",
+	},
+	{
+		code: "5770   Acute pancreatitis                 Acute pancreatitis",
+	},
+	{
+		code: "5771   Chronic pancreatitis               Chronic pancreatitis",
+	},
+	{
+		code: "5772   Pancreat cyst/pseudocyst           Cyst and pseudocyst of pancreas",
+	},
+	{
+		code: "5778   Pancreatic disease NEC             Other specified diseases of pancreas",
+	},
+	{
+		code: "5779   Pancreatic disease NOS             Unspecified disease of pancreas",
+	},
+	{
+		code: "5780   Hematemesis                        Hematemesis",
+	},
+	{
+		code: "5781   Blood in stool                     Blood in stool",
+	},
+	{
+		code: "5789   Gastrointest hemorr NOS            Hemorrhage of gastrointestinal tract",
+	},
+	{
+		code: "5790   Celiac disease                     Celiac disease",
+	},
+	{
+		code: "5791   Tropical sprue                     Tropical sprue",
+	},
+	{
+		code: "5792   Blind loop syndrome                Blind loop syndrome",
+	},
+	{
+		code: "5793   Intest postop nonabsorb            Other and unspecified postsurgical nonabsorption",
+	},
+	{
+		code: "5794   Pancreatic steatorrhea             Pancreatic steatorrhea",
+	},
+	{
+		code: "5798   Intest malabsorption NEC           Other specified intestinal malabsorption",
+	},
+	{
+		code: "5799   Intest malabsorption NOS           Unspecified intestinal malabsorption",
+	},
+	{
+		code: "5800   Ac proliferat nephritis            Acute glomerulonephritis with lesion of proliferative glomerulonephritis",
+	},
+	{
+		code: "5804   Ac rapidly progr nephrit           Acute glomerulonephritis with lesion of rapidly progressive glomerulonephritis",
+	},
+	{
+		code: "58081  Ac nephritis in oth dis            Acute glomerulonephritis in diseases classified elsewhere",
+	},
+	{
+		code: "58089  Acute nephritis NEC                Acute glomerulonephritis with other specified pathological lesion in kidney",
+	},
+	{
+		code: "5809   Acute nephritis NOS                Acute glomerulonephritis with unspecified pathological lesion in kidney",
+	},
+	{
+		code: "5810   Nephrotic syn",
+	},
+	{
+		code: "5811   Epimembranous nephritis            Nephrotic syndrome with lesion of membranous glomerulonephritis",
+	},
+	{
+		code: "5812   Membranoprolif nephrosis           Nephrotic syndrome with lesion of membranoproliferative glomerulonephritis",
+	},
+	{
+		code: "5813   Minimal change nephrosis           Nephrotic syndrome with lesion of minimal change glomerulonephritis",
+	},
+	{
+		code: "58181  Nephrotic syn in oth dis           Nephrotic syndrome in diseases classified elsewhere",
+	},
+	{
+		code: "58189  Nephrotic syndrome NEC             Nephrotic syndrome with other specified pathological lesion in kidney",
+	},
+	{
+		code: "5819   Nephrotic syndrome NOS             Nephrotic syndrome with unspecified pathological lesion in kidney",
+	},
+	{
+		code: "5820   Chr proliferat nephritis           Chronic glomerulonephritis with lesion of proliferative glomerulonephritis",
+	},
+	{
+		code: "5821   Chr membranous nephritis           Chronic glomerulonephritis with lesion of membranous glomerulonephritis",
+	},
+	{
+		code: "5822   Chr membranoprolif nephr           Chronic glomerulonephritis with lesion of membranoproliferative glomerulonephritis",
+	},
+	{
+		code: "5824   Chr rapid progr nephrit            Chronic glomerulonephritis with lesion of rapidly progressive glomerulonephritis",
+	},
+	{
+		code: "58281  Chr nephritis in oth dis           Chronic glomerulonephritis in diseases classified elsewhere",
+	},
+	{
+		code: "58289  Chronic nephritis NEC              Chronic glomerulonephritis with other specified pathological lesion in kidney",
+	},
+	{
+		code: "5829   Chronic nephritis NOS              Chronic glomerulonephritis with unspecified pathological lesion in kidney",
+	},
+	{
+		code: "5830   Proliferat nephritis NOS           Nephritis and nephropathy",
+	},
+	{
+		code: "5831   Membranous nephritis NOS           Nephritis and nephropathy",
+	},
+	{
+		code: "5832   Membranoprolif nephr NOS           Nephritis and nephropathy",
+	},
+	{
+		code: "5834   Rapidly prog nephrit NOS           Nephritis and nephropathy",
+	},
+	{
+		code: "5836   Renal cort necrosis NOS            Nephritis and nephropathy",
+	},
+	{
+		code: "5837   Nephr NOS/medull necros            Nephritis and nephropathy",
+	},
+	{
+		code: "58381  Nephritis NOS in oth dis           Nephritis and nephropathy",
+	},
+	{
+		code: "58389  Nephritis NEC                      Nephritis and nephropathy",
+	},
+	{
+		code: "5839   Nephritis NOS                      Nephritis and nephropathy",
+	},
+	{
+		code: "5845   Ac kidny fail",
+	},
+	{
+		code: "5846   Ac kidny fail",
+	},
+	{
+		code: "5847   Ac kidny fail",
+	},
+	{
+		code: "5848   Acute kidney failure NEC           Acute kidney failure with other specified pathological lesion in kidney                                                                                                                    Y",
+	},
+	{
+		code: "5849   Acute kidney failure NOS           Acute kidney failure",
+	},
+	{
+		code: "5851   Chro kidney dis stage I            Chronic kidney disease",
+	},
+	{
+		code: "5852   Chro kidney dis stage II           Chronic kidney disease",
+	},
+	{
+		code: "5853   Chr kidney dis stage III           Chronic kidney disease",
+	},
+	{
+		code: "5854   Chr kidney dis stage IV            Chronic kidney disease",
+	},
+	{
+		code: "5855   Chron kidney dis stage V           Chronic kidney disease",
+	},
+	{
+		code: "5856   End stage renal disease            End stage renal disease                                                                                                                                                                    Y",
+	},
+	{
+		code: "5859   Chronic kidney dis NOS             Chronic kidney disease",
+	},
+	{
+		code: "586    Renal failure NOS                  Renal failure",
+	},
+	{
+		code: "587    Renal sclerosis NOS                Renal sclerosis",
+	},
+	{
+		code: "5880   Renal osteodystrophy               Renal osteodystrophy",
+	},
+	{
+		code: "5881   Nephrogen diabetes insip           Nephrogenic diabetes insipidus",
+	},
+	{
+		code: "58881  Sec hyperparathyrd-renal           Secondary hyperparathyroidism (of renal origin)",
+	},
+	{
+		code: "58889  Impair ren funct dis NEC           Other specified disorders resulting from impaired renal function",
+	},
+	{
+		code: "5889   Impaired renal funct NOS           Unspecified disorder resulting from impaired renal function",
+	},
+	{
+		code: "5890   Unilateral small kidney            Unilateral small kidney",
+	},
+	{
+		code: "5891   Bilateral small kidneys            Bilateral small kidneys",
+	},
+	{
+		code: "5899   Small kidney NOS                   Small kidney",
+	},
+	{
+		code: "59000  Chr pyelonephritis NOS             Chronic pyelonephritis without lesion of renal medullary necrosis",
+	},
+	{
+		code: "59001  Chr pyeloneph w med necr           Chronic pyelonephritis with lesion of renal medullary necrosis",
+	},
+	{
+		code: "59010  Ac pyelonephritis NOS              Acute pyelonephritis without lesion of renal medullary necrosis",
+	},
+	{
+		code: "59011  Ac pyelonephr w med necr           Acute pyelonephritis with lesion of renal medullary necrosis",
+	},
+	{
+		code: "5902   Renal/perirenal abscess            Renal and perinephric abscess",
+	},
+	{
+		code: "5903   Pyeloureteritis cystica            Pyeloureteritis cystica",
+	},
+	{
+		code: "59080  Pyelonephritis NOS                 Pyelonephritis",
+	},
+	{
+		code: "59081  Pyelonephrit in oth dis            Pyelitis or pyelonephritis in diseases classified elsewhere",
+	},
+	{
+		code: "5909   Infection of kidney NOS            Infection of kidney",
+	},
+	{
+		code: "591    Hydronephrosis                     Hydronephrosis",
+	},
+	{
+		code: "5920   Calculus of kidney                 Calculus of kidney",
+	},
+	{
+		code: "5921   Calculus of ureter                 Calculus of ureter",
+	},
+	{
+		code: "5929   Urinary calculus NOS               Urinary calculus",
+	},
+	{
+		code: "5930   Nephroptosis                       Nephroptosis",
+	},
+	{
+		code: "5931   Hypertrophy of kidney              Hypertrophy of kidney",
+	},
+	{
+		code: "5932   Cyst of kidney",
+	},
+	{
+		code: "5933   Stricture of ureter                Stricture or kinking of ureter",
+	},
+	{
+		code: "5934   Ureteric obstruction NEC           Other ureteric obstruction",
+	},
+	{
+		code: "5935   Hydroureter                        Hydroureter",
+	},
+	{
+		code: "5936   Postural proteinuria               Postural proteinuria",
+	},
+	{
+		code: "59370  Vescouretrl rflux unspcf           Vesicoureteral reflux unspecified or without reflux nephropathy",
+	},
+	{
+		code: "59371  Vscurt rflx npht uniltrl           Vesicoureteral reflux with reflux nephropathy",
+	},
+	{
+		code: "59372  Vscourtl rflx npht bltrl           Vesicoureteral reflux with reflux nephropathy",
+	},
+	{
+		code: "59373  Vscourtl rflx w npht NOS           Other vesicoureteral reflux with reflux nephropathy NOS",
+	},
+	{
+		code: "59381  Renal vascular disorder            Vascular disorders of kidney",
+	},
+	{
+		code: "59382  Ureteral fistula                   Ureteral fistula",
+	},
+	{
+		code: "59389  Renal & ureteral dis NEC           Other specified disorders of kidney and ureter",
+	},
+	{
+		code: "5939   Renal & ureteral dis NOS           Unspecified disorder of kidney and ureter",
+	},
+	{
+		code: "5940   Blad diverticulum calcul           Calculus in diverticulum of bladder",
+	},
+	{
+		code: "5941   Bladder calculus NEC               Other calculus in bladder",
+	},
+	{
+		code: "5942   Urethral calculus                  Calculus in urethra",
+	},
+	{
+		code: "5948   Lower urin calcul NEC              Other lower urinary tract calculus",
+	},
+	{
+		code: "5949   Lower urin calcul NOS              Calculus of lower urinary tract",
+	},
+	{
+		code: "5950   Acute cystitis                     Acute cystitis",
+	},
+	{
+		code: "5951   Chr interstit cystitis             Chronic interstitial cystitis",
+	},
+	{
+		code: "5952   Chronic cystitis NEC               Other chronic cystitis",
+	},
+	{
+		code: "5953   Trigonitis                         Trigonitis",
+	},
+	{
+		code: "5954   Cystitis in oth dis                Cystitis in diseases classified elsewhere",
+	},
+	{
+		code: "59581  Cystitis cystica                   Cystitis cystica",
+	},
+	{
+		code: "59582  Irradiation cystitis               Irradiation cystitis",
+	},
+	{
+		code: "59589  Cystitis NEC                       Other specified types of cystitis",
+	},
+	{
+		code: "5959   Cystitis NOS                       Cystitis",
+	},
+	{
+		code: "5960   Bladder neck obstruction           Bladder neck obstruction",
+	},
+	{
+		code: "5961   Intestinovesical fistula           Intestinovesical fistula",
+	},
+	{
+		code: "5962   Vesical fistula NEC                Vesical fistula",
+	},
+	{
+		code: "5963   Diverticulum of bladder            Diverticulum of bladder",
+	},
+	{
+		code: "5964   Atony of bladder                   Atony of bladder",
+	},
+	{
+		code: "59651  Hypertonicity of bladder           Hypertonicity of bladder",
+	},
+	{
+		code: "59652  Low bladder compliance             Low bladder compliance",
+	},
+	{
+		code: "59653  Paralysis of bladder               Paralysis of bladder",
+	},
+	{
+		code: "59654  Neurogenic bladder NOS             Neurogenic bladder NOS",
+	},
+	{
+		code: "59655  Detrusr sphinc dyssnrgia           Detrusor sphincter dyssynergia",
+	},
+	{
+		code: "59659  Oth func dsdr bladder              Other functional disorder of bladder",
+	},
+	{
+		code: "5966   Bladder rupt",
+	},
+	{
+		code: "5967   Bladder wall hemorrhage            Hemorrhage into bladder wall",
+	},
+	{
+		code: "5968   Bladder disorder NEC               Bladder disorder NEC",
+	},
+	{
+		code: "59681  Infection of cystostomy            Infection of cystostomy",
+	},
+	{
+		code: "59682  Mech comp of cystostomy            Mechanical complication of cystostomy",
+	},
+	{
+		code: "59683  Other comp of cystostomy           Other complication of cystostomy",
+	},
+	{
+		code: "59689  Disorders of bladder NEC           Other specified disorders of bladder",
+	},
+	{
+		code: "5969   Bladder disorder NOS               Unspecified disorder of bladder",
+	},
+	{
+		code: "5970   Urethral abscess                   Urethral abscess",
+	},
+	{
+		code: "59780  Urethritis NOS                     Urethritis",
+	},
+	{
+		code: "59781  Urethral syndrome NOS              Urethral syndrome NOS",
+	},
+	{
+		code: "59789  Urethritis NEC                     Other urethritis",
+	},
+	{
+		code: "59800  Urethr strict:infect NOS           Urethral stricture due to unspecified infection",
+	},
+	{
+		code: "59801  Ureth strict:oth infect            Urethral stricture due to infective diseases classified elsewhere",
+	},
+	{
+		code: "5981   Traum urethral stricture           Traumatic urethral stricture",
+	},
+	{
+		code: "5982   Postop urethral strictur           Postoperative urethral stricture",
+	},
+	{
+		code: "5988   Urethral stricture NEC             Other specified causes of urethral stricture",
+	},
+	{
+		code: "5989   Urethral stricture NOS             Urethral stricture",
+	},
+	{
+		code: "5990   Urin tract infection NOS           Urinary tract infection",
+	},
+	{
+		code: "5991   Urethral fistula                   Urethral fistula                                                                                                                                                                           Y",
+	},
+	{
+		code: "5992   Urethral diverticulum              Urethral diverticulum                                                                                                                                                                      Y",
+	},
+	{
+		code: "5993   Urethral caruncle                  Urethral caruncle                                                                                                                                                                          Y",
+	},
+	{
+		code: "5994   Urethral false passage             Urethral false passage                                                                                                                                                                     Y",
+	},
+	{
+		code: "5995   Prolapse urethral mucosa           Prolapsed urethral mucosa                                                                                                                                                                  Y",
+	},
+	{
+		code: "59960  Urinary obstruction NOS            Urinary obstruction",
+	},
+	{
+		code: "59969  Urinary obstruction NEC            Urinary obstruction",
+	},
+	{
+		code: "5997   Hematuria                          Hematuria                                                                                                                                                                                  Y",
+	},
+	{
+		code: "59970  Hematuria NOS                      Hematuria",
+	},
+	{
+		code: "59971  Gross hematuria                    Gross hematuria                                                                                                                                                                            Y",
+	},
+	{
+		code: "59972  Microscopic hematuria              Microscopic hematuria                                                                                                                                                                      Y",
+	},
+	{
+		code: "59981  Urethral hypermobility             Urethral hypermobility                                                                                                                                                                     Y",
+	},
+	{
+		code: "59982  Intrinsc sphnctr dficncy           Intrinsic (urethral) sphincter deficiency [ISD]                                                                                                                                            Y",
+	},
+	{
+		code: "59983  Urethral instability               Urethral instability                                                                                                                                                                       Y",
+	},
+	{
+		code: "59984  Oth spcf dsdr urethra              Other specified disorders of urethra                                                                                                                                                       Y",
+	},
+	{
+		code: "59989  Oth spcf dsdr urnry trct           Other specified disorders of urinary tract                                                                                                                                                 Y",
+	},
+	{
+		code: "5999   Urinary tract dis NOS              Unspecified disorder of urethra and urinary tract                                                                                                                                          Y",
+	},
+}

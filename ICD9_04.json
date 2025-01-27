@@ -1,0 +1,1856 @@
+{
+	{
+		code: "4010   Malignant hypertension             Malignant essential hypertension",
+	},
+	{
+		code: "4011   Benign hypertension                Benign essential hypertension",
+	},
+	{
+		code: "4019   Hypertension NOS                   Unspecified essential hypertension                                                                                                                                                         Y",
+	},
+	{
+		code: "40200  Mal hyp ht dis w/o hf              Malignant hypertensive heart disease without heart failure",
+	},
+	{
+		code: "40201  Mal hypert hrt dis w hf            Malignant hypertensive heart disease with heart failure",
+	},
+	{
+		code: "40210  Benign hyp ht dis w/o hf           Benign hypertensive heart disease without heart failure",
+	},
+	{
+		code: "40211  Benign hyp ht dis w hf             Benign hypertensive heart disease with heart failure",
+	},
+	{
+		code: "40290  Hyp hrt dis NOS w/o hf             Unspecified hypertensive heart disease without heart failure",
+	},
+	{
+		code: "40291  Hyp ht dis NOS w ht fail           Unspecified hypertensive heart disease with heart failure",
+	},
+	{
+		code: "40300  Mal hy kid w cr kid I-IV           Hypertensive chronic kidney disease",
+	},
+	{
+		code: "40301  Mal hyp kid w cr kid V             Hypertensive chronic kidney disease",
+	},
+	{
+		code: "40310  Ben hy kid w cr kid I-IV           Hypertensive chronic kidney disease",
+	},
+	{
+		code: "40311  Ben hyp kid w cr kid V             Hypertensive chronic kidney disease",
+	},
+	{
+		code: "40390  Hy kid NOS w cr kid I-IV           Hypertensive chronic kidney disease",
+	},
+	{
+		code: "40391  Hyp kid NOS w cr kid V             Hypertensive chronic kidney disease",
+	},
+	{
+		code: "40400  Mal hy ht/kd I-IV w/o hf           Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40401  Mal hyp ht/kd I-IV w hf            Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40402  Mal hy ht/kd st V w/o hf           Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40403  Mal hyp ht/kd stg V w hf           Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40410  Ben hy ht/kd I-IV w/o hf           Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40411  Ben hyp ht/kd I-IV w hf            Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40412  Ben hy ht/kd st V w/o hf           Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40413  Ben hyp ht/kd stg V w hf           Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40490  Hy ht/kd NOS I-IV w/o hf           Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40491  Hyp ht/kd NOS I-IV w hf            Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40492  Hy ht/kd NOS st V w/o hf           Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40493  Hyp ht/kd NOS st V w hf            Hypertensive heart and chronic kidney disease",
+	},
+	{
+		code: "40501  Mal renovasc hypertens             Malignant renovascular hypertension",
+	},
+	{
+		code: "40509  Mal second hyperten NEC            Other malignant secondary hypertension",
+	},
+	{
+		code: "40511  Benign renovasc hyperten           Benign renovascular hypertension",
+	},
+	{
+		code: "40519  Benign second hypert NEC           Other benign secondary hypertension",
+	},
+	{
+		code: "40591  Renovasc hypertension              Unspecified renovascular hypertension",
+	},
+	{
+		code: "40599  Second hypertension NEC            Other unspecified secondary hypertension",
+	},
+	{
+		code: "41000  AMI anterolateral",
+	},
+	{
+		code: "41001  AMI anterolateral",
+	},
+	{
+		code: "41002  AMI anterolateral",
+	},
+	{
+		code: "41010  AMI anterior wall",
+	},
+	{
+		code: "41011  AMI anterior wall",
+	},
+	{
+		code: "41012  AMI anterior wall",
+	},
+	{
+		code: "41020  AMI inferolateral",
+	},
+	{
+		code: "41021  AMI inferolateral",
+	},
+	{
+		code: "41022  AMI inferolateral",
+	},
+	{
+		code: "41030  AMI inferopost",
+	},
+	{
+		code: "41031  AMI inferopost",
+	},
+	{
+		code: "41032  AMI inferopost",
+	},
+	{
+		code: "41040  AMI inferior wall",
+	},
+	{
+		code: "41041  AMI inferior wall",
+	},
+	{
+		code: "41042  AMI inferior wall",
+	},
+	{
+		code: "41050  AMI lateral NEC",
+	},
+	{
+		code: "41051  AMI lateral NEC",
+	},
+	{
+		code: "41052  AMI lateral NEC",
+	},
+	{
+		code: "41060  True post infarct",
+	},
+	{
+		code: "41061  True post infarct",
+	},
+	{
+		code: "41062  True post infarct",
+	},
+	{
+		code: "41070  Subendo infarct",
+	},
+	{
+		code: "41071  Subendo infarct",
+	},
+	{
+		code: "41072  Subendo infarct",
+	},
+	{
+		code: "41080  AMI NEC",
+	},
+	{
+		code: "41081  AMI NEC",
+	},
+	{
+		code: "41082  AMI NEC",
+	},
+	{
+		code: "41090  AMI NOS",
+	},
+	{
+		code: "41091  AMI NOS",
+	},
+	{
+		code: "41092  AMI NOS",
+	},
+	{
+		code: "411    OTHER ACUTE AND SUBACUTE FORMS OF IOTHER ACUTE AND SUBACUTE FORMS OF ISCHEMIC HEART DISEASE",
+	},
+	{
+		code: "4110   Post MI syndrome                   Postmyocardial infarction syndrome",
+	},
+	{
+		code: "4111   Intermed coronary synd             Intermediate coronary syndrome",
+	},
+	{
+		code: "41181  Acute cor occlsn w/o MI            Acute coronary occlusion without myocardial infarction",
+	},
+	{
+		code: "41189  Ac ischemic hrt dis NEC            Other acute and subacute forms of ischemic heart disease",
+	},
+	{
+		code: "412    Old myocardial infarct             Old myocardial infarction",
+	},
+	{
+		code: "4130   Angina decubitus                   Angina decubitus",
+	},
+	{
+		code: "4131   Prinzmetal angina                  Prinzmetal angina",
+	},
+	{
+		code: "4139   Angina pectoris NEC/NOS            Other and unspecified angina pectoris",
+	},
+	{
+		code: "41400  Cor ath unsp vsl ntv/gft           Coronary atherosclerosis of unspecified type of vessel",
+	},
+	{
+		code: "41401  Crnry athrscl natve vssl           Coronary atherosclerosis of native coronary artery                                                                                                                                         Y",
+	},
+	{
+		code: "41402  Crn ath atlg vn bps grft           Coronary atherosclerosis of autologous vein bypass graft                                                                                                                                   Y",
+	},
+	{
+		code: "41403  Crn ath nonatlg blg grft           Coronary atherosclerosis of nonautologous biological bypass graft                                                                                                                          Y",
+	},
+	{
+		code: "41404  Cor ath artry bypas grft           Coronary atherosclerosis of artery bypass graft                                                                                                                                            Y",
+	},
+	{
+		code: "41405  Cor ath bypass graft NOS           Coronary atherosclerosis of unspecified bypass graft                                                                                                                                       Y",
+	},
+	{
+		code: "41406  Cor ath natv art tp hrt            Coronary atherosclerosis of native coronary artery of transplanted heart                                                                                                                   Y",
+	},
+	{
+		code: "41407  Cor ath bps graft tp hrt           Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart                                                                                                             Y",
+	},
+	{
+		code: "41410  Aneurysm of heart                  Aneurysm of heart (wall)                                                                                                                                                                   Y",
+	},
+	{
+		code: "41411  Aneurysm coronary vessel           Aneurysm of coronary vessels                                                                                                                                                               Y",
+	},
+	{
+		code: "41412  Dissection cor artery              Dissection of coronary artery                                                                                                                                                              Y",
+	},
+	{
+		code: "41419  Aneurysm of heart NEC              Other aneurysm of heart                                                                                                                                                                    Y",
+	},
+	{
+		code: "4142   Chr tot occlus cor artry           Chronic total occlusion of coronary artery                                                                                                                                                 Y",
+	},
+	{
+		code: "4143   Cor ath d/t lpd rch plaq           Coronary atherosclerosis due to lipid rich plaque                                                                                                                                          Y",
+	},
+	{
+		code: "4144   Cor ath d/t calc cor lsn           Coronary atherosclerosis due to calcified coronary lesion                                                                                                                                  Y",
+	},
+	{
+		code: "4148   Chr ischemic hrt dis NEC           Other specified forms of chronic ischemic heart disease                                                                                                                                    Y",
+	},
+	{
+		code: "4149   Chr ischemic hrt dis NOS           Chronic ischemic heart disease",
+	},
+	{
+		code: "4150   Acute cor pulmonale                Acute cor pulmonale",
+	},
+	{
+		code: "41511  Iatrogen pulm emb/infarc           Iatrogenic pulmonary embolism and infarction",
+	},
+	{
+		code: "41512  Septic pulmonary embolsm           Septic pulmonary embolism",
+	},
+	{
+		code: "41513  Saddle embol pulmon art            Saddle embolus of pulmonary artery",
+	},
+	{
+		code: "41519  Pulm embol/infarct NEC             Other pulmonary embolism and infarction",
+	},
+	{
+		code: "4160   Prim pulm hypertension             Primary pulmonary hypertension",
+	},
+	{
+		code: "4161   Kyphoscoliotic heart dis           Kyphoscoliotic heart disease",
+	},
+	{
+		code: "4162   Chr pulmonary embolism             Chronic pulmonary embolism",
+	},
+	{
+		code: "4168   Chr pulmon heart dis NEC           Other chronic pulmonary heart diseases",
+	},
+	{
+		code: "4169   Chr pulmon heart dis NOS           Chronic pulmonary heart disease",
+	},
+	{
+		code: "4170   Arterioven fistu pul ves           Arteriovenous fistula of pulmonary vessels",
+	},
+	{
+		code: "4171   Pulmon artery aneurysm             Aneurysm of pulmonary artery",
+	},
+	{
+		code: "4178   Pulmon circulat dis NEC            Other specified diseases of pulmonary circulation",
+	},
+	{
+		code: "4179   Pulmon circulat dis NOS            Unspecified disease of pulmonary circulation",
+	},
+	{
+		code: "4200   Ac pericardit in oth dis           Acute pericarditis in diseases classified elsewhere",
+	},
+	{
+		code: "42090  Acute pericarditis NOS             Acute pericarditis",
+	},
+	{
+		code: "42091  Ac idiopath pericarditis           Acute idiopathic pericarditis",
+	},
+	{
+		code: "42099  Acute pericarditis NEC             Other acute pericarditis",
+	},
+	{
+		code: "4210   Ac/subac bact endocard             Acute and subacute bacterial endocarditis",
+	},
+	{
+		code: "4211   Ac endocardit in oth dis           Acute and subacute infective endocarditis in diseases classified elsewhere",
+	},
+	{
+		code: "4219   Ac/subac endocardit NOS            Acute endocarditis",
+	},
+	{
+		code: "4220   Ac myocardit in oth dis            Acute myocarditis in diseases classified elsewhere",
+	},
+	{
+		code: "42290  Acute myocarditis NOS              Acute myocarditis",
+	},
+	{
+		code: "42291  Idiopathic myocarditis             Idiopathic myocarditis",
+	},
+	{
+		code: "42292  Septic myocarditis                 Septic myocarditis",
+	},
+	{
+		code: "42293  Toxic myocarditis                  Toxic myocarditis",
+	},
+	{
+		code: "42299  Acute myocarditis NEC              Other acute myocarditis",
+	},
+	{
+		code: "4230   Hemopericardium                    Hemopericardium",
+	},
+	{
+		code: "4231   Adhesive pericarditis              Adhesive pericarditis",
+	},
+	{
+		code: "4232   Constrictiv pericarditis           Constrictive pericarditis",
+	},
+	{
+		code: "4233   Cardiac tamponade                  Cardiac tamponade",
+	},
+	{
+		code: "4238   Pericardial disease NEC            Other specified diseases of pericardium",
+	},
+	{
+		code: "4239   Pericardial disease NOS            Unspecified disease of pericardium",
+	},
+	{
+		code: "4240   Mitral valve disorder              Mitral valve disorders",
+	},
+	{
+		code: "4241   Aortic valve disorder              Aortic valve disorders",
+	},
+	{
+		code: "4242   Nonrheum tricusp val dis           Tricuspid valve disorders",
+	},
+	{
+		code: "4243   Pulmonary valve disorder           Pulmonary valve disorders",
+	},
+	{
+		code: "42490  Endocarditis NOS                   Endocarditis",
+	},
+	{
+		code: "42491  Endocarditis in oth dis            Endocarditis in diseases classified elsewhere",
+	},
+	{
+		code: "42499  Endocarditis NEC                   Other endocarditis",
+	},
+	{
+		code: "4250   Endomyocardial fibrosis            Endomyocardial fibrosis",
+	},
+	{
+		code: "4251   Hypertr obstr cardiomyop           Hypertr obstr cardiomyop",
+	},
+	{
+		code: "42511  Hyprtrophc obst cardiomy           Hypertrophic obstructive cardiomyopathy",
+	},
+	{
+		code: "42518  Oth hyprtrophic cardiomy           Other hypertrophic cardiomyopathy",
+	},
+	{
+		code: "4252   Obsc afric cardiomyopath           Obscure cardiomyopathy of Africa",
+	},
+	{
+		code: "4253   Endocard fibroelastosis            Endocardial fibroelastosis",
+	},
+	{
+		code: "4254   Prim cardiomyopathy NEC            Other primary cardiomyopathies",
+	},
+	{
+		code: "4255   Alcoholic cardiomyopathy           Alcoholic cardiomyopathy",
+	},
+	{
+		code: "4257   Metabolic cardiomyopathy           Nutritional and metabolic cardiomyopathy",
+	},
+	{
+		code: "4258   Cardiomyopath in oth dis           Cardiomyopathy in other diseases classified elsewhere",
+	},
+	{
+		code: "4259   Second cardiomyopath NOS           Secondary cardiomyopathy",
+	},
+	{
+		code: "4260   Atriovent block complete           Atrioventricular block",
+	},
+	{
+		code: "42610  Atriovent block NOS                Atrioventricular block",
+	},
+	{
+		code: "42611  Atriovent block-1st degr           First degree atrioventricular block",
+	},
+	{
+		code: "42612  Atrioven block-mobitz ii           Mobitz (type) II atrioventricular block",
+	},
+	{
+		code: "42613  Av block-2nd degree NEC            Other second degree atrioventricular block",
+	},
+	{
+		code: "4262   Left bb hemiblock                  Left bundle branch hemiblock",
+	},
+	{
+		code: "4263   Left bb block NEC                  Other left bundle branch block",
+	},
+	{
+		code: "4264   Rt bundle branch block             Right bundle branch block",
+	},
+	{
+		code: "42650  Bundle branch block NOS            Bundle branch block",
+	},
+	{
+		code: "42651  Rt bbb/lft post fasc blk           Right bundle branch block and left posterior fascicular block",
+	},
+	{
+		code: "42652  Rt bbb/lft ant fasc blk            Right bundle branch block and left anterior fascicular block",
+	},
+	{
+		code: "42653  Bilat bb block NEC                 Other bilateral bundle branch block",
+	},
+	{
+		code: "42654  Trifascicular block                Trifascicular block",
+	},
+	{
+		code: "4266   Other heart block                  Other heart block",
+	},
+	{
+		code: "4267   Anomalous av excitation            Anomalous atrioventricular excitation",
+	},
+	{
+		code: "42681  Lown-ganong-levine synd            Lown-Ganong-Levine syndrome",
+	},
+	{
+		code: "42682  Long QT syndrome                   Long QT syndrome",
+	},
+	{
+		code: "42689  Conduction disorder NEC            Other specified conduction disorders",
+	},
+	{
+		code: "4269   Conduction disorder NOS            Conduction disorder",
+	},
+	{
+		code: "4270   Parox atrial tachycardia           Paroxysmal supraventricular tachycardia",
+	},
+	{
+		code: "4271   Parox ventric tachycard            Paroxysmal ventricular tachycardia",
+	},
+	{
+		code: "4272   Parox tachycardia NOS              Paroxysmal tachycardia",
+	},
+	{
+		code: "42731  Atrial fibrillation                Atrial fibrillation                                                                                                                                                                        Y",
+	},
+	{
+		code: "42732  Atrial flutter                     Atrial flutter                                                                                                                                                                             Y",
+	},
+	{
+		code: "42741  Ventricular fibrillation           Ventricular fibrillation",
+	},
+	{
+		code: "42742  Ventricular flutter                Ventricular flutter",
+	},
+	{
+		code: "4275   Cardiac arrest                     Cardiac arrest",
+	},
+	{
+		code: "42760  Premature beats NOS                Premature beats",
+	},
+	{
+		code: "42761  Atrial premature beats             Supraventricular premature beats",
+	},
+	{
+		code: "42769  Premature beats NEC                Other premature beats",
+	},
+	{
+		code: "42781  Sinoatrial node dysfunct           Sinoatrial node dysfunction",
+	},
+	{
+		code: "42789  Cardiac dysrhythmias NEC           Other specified cardiac dysrhythmias",
+	},
+	{
+		code: "4279   Cardiac dysrhythmia NOS            Cardiac dysrhythmia",
+	},
+	{
+		code: "4280   CHF NOS                            Congestive heart failure",
+	},
+	{
+		code: "4281   Left heart failure                 Left heart failure",
+	},
+	{
+		code: "42820  Systolic hrt failure NOS           Systolic heart failure",
+	},
+	{
+		code: "42821  Ac systolic hrt failure            Acute systolic heart failure",
+	},
+	{
+		code: "42822  Chr systolic hrt failure           Chronic systolic heart failure",
+	},
+	{
+		code: "42823  Ac on chr syst hrt fail            Acute on chronic systolic heart failure",
+	},
+	{
+		code: "42830  Diastolc hrt failure NOS           Diastolic heart failure",
+	},
+	{
+		code: "42831  Ac diastolic hrt failure           Acute diastolic heart failure",
+	},
+	{
+		code: "42832  Chr diastolic hrt fail             Chronic diastolic heart failure",
+	},
+	{
+		code: "42833  Ac on chr diast hrt fail           Acute on chronic diastolic heart failure",
+	},
+	{
+		code: "42840  Syst/diast hrt fail NOS            Combined systolic and diastolic heart failure",
+	},
+	{
+		code: "42841  Ac syst/diastol hrt fail           Acute combined systolic and diastolic heart failure",
+	},
+	{
+		code: "42842  Chr syst/diastl hrt fail           Chronic combined systolic and diastolic heart failure",
+	},
+	{
+		code: "42843  Ac/chr syst/dia hrt fail           Acute on chronic combined systolic and diastolic heart failure",
+	},
+	{
+		code: "4289   Heart failure NOS                  Heart failure",
+	},
+	{
+		code: "4290   Myocarditis NOS                    Myocarditis",
+	},
+	{
+		code: "4291   Myocardial degeneration            Myocardial degeneration",
+	},
+	{
+		code: "4292   Ascvd                              Cardiovascular disease",
+	},
+	{
+		code: "4293   Cardiomegaly                       Cardiomegaly",
+	},
+	{
+		code: "4294   Hrt dis postcardiac surg           Functional disturbances following cardiac surgery",
+	},
+	{
+		code: "4295   Chordae tendinae rupture           Rupture of chordae tendineae",
+	},
+	{
+		code: "4296   Papillary muscle rupture           Rupture of papillary muscle",
+	},
+	{
+		code: "42971  Acq cardiac septl defect           Acquired cardiac septal defect",
+	},
+	{
+		code: "42979  Other sequelae of MI NEC           Certain sequelae of myocardial infarction",
+	},
+	{
+		code: "42981  Papillary muscle dis NEC           Other disorders of papillary muscle",
+	},
+	{
+		code: "42982  Hyperkinetic heart dis             Hyperkinetic heart disease",
+	},
+	{
+		code: "42983  Takotsubo syndrome                 Takotsubo syndrome",
+	},
+	{
+		code: "42989  Ill-defined hrt dis NEC            Other ill-defined heart diseases",
+	},
+	{
+		code: "4299   Heart disease NOS                  Heart disease",
+	},
+	{
+		code: "430    Subarachnoid hemorrhage            Subarachnoid hemorrhage",
+	},
+	{
+		code: "431    Intracerebral hemorrhage           Intracerebral hemorrhage",
+	},
+	{
+		code: "4320   Nontraum extradural hem            Nontraumatic extradural hemorrhage",
+	},
+	{
+		code: "4321   Subdural hemorrhage                Subdural hemorrhage",
+	},
+	{
+		code: "4329   Intracranial hemorr NOS            Unspecified intracranial hemorrhage",
+	},
+	{
+		code: "43300  Ocl bslr art wo infrct             Occlusion and stenosis of basilar artery without mention of cerebral infarction",
+	},
+	{
+		code: "43301  Ocl bslr art w infrct              Occlusion and stenosis of basilar artery with cerebral infarction",
+	},
+	{
+		code: "43310  Ocl crtd art wo infrct             Occlusion and stenosis of carotid artery without mention of cerebral infarction",
+	},
+	{
+		code: "43311  Ocl crtd art w infrct              Occlusion and stenosis of carotid artery with cerebral infarction",
+	},
+	{
+		code: "43320  Ocl vrtb art wo infrct             Occlusion and stenosis of vertebral artery without mention of cerebral infarction",
+	},
+	{
+		code: "43321  Ocl vrtb art w infrct              Occlusion and stenosis of vertebral artery with cerebral infarction",
+	},
+	{
+		code: "43330  Ocl mlt bi art wo infrct           Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction",
+	},
+	{
+		code: "43331  Ocl mlt bi art w infrct            Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction",
+	},
+	{
+		code: "43380  Ocl spcf art wo infrct             Occlusion and stenosis of other specified precerebral artery without mention of cerebral infarction",
+	},
+	{
+		code: "43381  Ocl spcf art w infrct              Occlusion and stenosis of other specified precerebral artery with cerebral infarction",
+	},
+	{
+		code: "43390  Ocl art NOS wo infrct              Occlusion and stenosis of unspecified precerebral artery without mention of cerebral infarction",
+	},
+	{
+		code: "43391  Ocl art NOS w infrct               Occlusion and stenosis of unspecified precerebral artery with cerebral infarction",
+	},
+	{
+		code: "43400  Crbl thrmbs wo infrct              Cerebral thrombosis without mention of cerebral infarction",
+	},
+	{
+		code: "43401  Crbl thrmbs w infrct               Cerebral thrombosis with cerebral infarction",
+	},
+	{
+		code: "43410  Crbl emblsm wo infrct              Cerebral embolism without mention of cerebral infarction",
+	},
+	{
+		code: "43411  Crbl emblsm w infrct               Cerebral embolism with cerebral infarction",
+	},
+	{
+		code: "43490  Crbl art oc NOS wo infrc           Cerebral artery occlusion",
+	},
+	{
+		code: "43491  Crbl art ocl NOS w infrc           Cerebral artery occlusion",
+	},
+	{
+		code: "4350   Basilar artery syndrome            Basilar artery syndrome",
+	},
+	{
+		code: "4351   Vertebral artery syndrom           Vertebral artery syndrome",
+	},
+	{
+		code: "4352   Subclavian steal syndrom           Subclavian steal syndrome",
+	},
+	{
+		code: "4353   Vertbrobaslr artery synd           Vertebrobasilar artery syndrome",
+	},
+	{
+		code: "4358   Trans cereb ischemia NEC           Other specified transient cerebral ischemias",
+	},
+	{
+		code: "4359   Trans cereb ischemia NOS           Unspecified transient cerebral ischemia",
+	},
+	{
+		code: "436    Cva                                Acute",
+	},
+	{
+		code: "4370   Cerebral atherosclerosis           Cerebral atherosclerosis",
+	},
+	{
+		code: "4371   Ac cerebrovasc insuf NOS           Other generalized ischemic cerebrovascular disease",
+	},
+	{
+		code: "4372   Hypertens encephalopathy           Hypertensive encephalopathy",
+	},
+	{
+		code: "4373   Nonrupt cerebral aneurym           Cerebral aneurysm",
+	},
+	{
+		code: "4374   Cerebral arteritis                 Cerebral arteritis",
+	},
+	{
+		code: "4375   Moyamoya disease                   Moyamoya disease",
+	},
+	{
+		code: "4376   Nonpyogen thrombos sinus           Nonpyogenic thrombosis of intracranial venous sinus",
+	},
+	{
+		code: "4377   Transient global amnesia           Transient global amnesia",
+	},
+	{
+		code: "4378   Cerebrovasc disease NEC            Other ill-defined cerebrovascular disease",
+	},
+	{
+		code: "4379   Cerebrovasc disease NOS            Unspecified cerebrovascular disease",
+	},
+	{
+		code: "4380   Late ef CV dis-cognf def           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43810  Late ef-spch/lng def NOS           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43811  Late eff CV dis-aphasia            Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43812  Late eff CV dis-dysphsia           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43813  Late eff CV-dysarthria             Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43814  Late eff CV-fluency dis            Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43819  Late ef-spch/lang df NEC           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43820  Late ef-hemplga side NOS           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43821  Late ef-hemplga dom side           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43822  Late ef-hemiplga non-dom           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43830  Late ef-mplga up lmb NOS           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43831  Late ef-mplga up lmb dom           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43832  Lt ef-mplga uplmb nondom           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43840  Lte ef-mplga low lmb NOS           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43841  Lte ef-mplga low lmb dom           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43842  Lt ef-mplga lowlmb nondm           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43850  Lt ef oth paral side NOS           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43851  Lt ef oth paral dom side           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43852  Lt ef oth parals non-dom           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43853  Lt ef oth parals-bilat             Late effects of cerebrovascular disease",
+	},
+	{
+		code: "4386   Alteration of sensations           Late effects of cerebrovascular disease",
+	},
+	{
+		code: "4387   Disturbances of vision             Late effects of cerebrovascular disease",
+	},
+	{
+		code: "43881  Late eff CV dis-apraxia            Other late effects of cerebrovascular disease",
+	},
+	{
+		code: "43882  Late ef CV dis dysphagia           Other late effects of cerebrovascular disease",
+	},
+	{
+		code: "43883  Facial weakness                    Other late effects of cerebrovascular disease",
+	},
+	{
+		code: "43884  Ataxia                             Other late effects of cerebrovascular disease",
+	},
+	{
+		code: "43885  Vertigo                            Other late effects of cerebrovascular disease",
+	},
+	{
+		code: "43889  Late effect CV dis NEC             Other late effects of cerebrovascular disease",
+	},
+	{
+		code: "4389   Late effect CV dis NOS             Unspecified late effects of cerebrovascular disease",
+	},
+	{
+		code: "4400   Aortic atherosclerosis             Atherosclerosis of aorta",
+	},
+	{
+		code: "4401   Renal artery atheroscler           Atherosclerosis of renal artery",
+	},
+	{
+		code: "44020  Athscl extrm ntv art NOS           Atherosclerosis of native arteries of the extremities",
+	},
+	{
+		code: "44021  Ath ext ntv at w claudct           Atherosclerosis of native arteries of the extremities with intermittent claudication",
+	},
+	{
+		code: "44022  Ath ext ntv at w rst pn            Atherosclerosis of native arteries of the extremities with rest pain",
+	},
+	{
+		code: "44023  Ath ext ntv art ulcrtion           Atherosclerosis of native arteries of the extremities with ulceration",
+	},
+	{
+		code: "44024  Ath ext ntv art gngrene            Atherosclerosis of native arteries of the extremities with gangrene",
+	},
+	{
+		code: "44029  Athrsc extrm ntv art oth           Other atherosclerosis of native arteries of the extremities",
+	},
+	{
+		code: "44030  Athscl extrm bps gft NOS           Atherosclerosis of unspecified bypass graft of the extremities",
+	},
+	{
+		code: "44031  Ath ext autologs bps gft           Atherosclerosis of autologous vein bypass graft of the extremities",
+	},
+	{
+		code: "44032  Ath ext nonautlg bps gft           Atherosclerosis of nonautologous biological bypass graft of the extremities",
+	},
+	{
+		code: "4404   Chr tot occl art extrem            Chronic total occlusion of artery of the extremities",
+	},
+	{
+		code: "4408   Atherosclerosis NEC                Atherosclerosis of other specified arteries",
+	},
+	{
+		code: "4409   Atherosclerosis NOS                Generalized and unspecified atherosclerosis",
+	},
+	{
+		code: "44100  Dsct of aorta unsp site            Dissection of aorta",
+	},
+	{
+		code: "44101  Dsct of thoracic aorta             Dissection of aorta",
+	},
+	{
+		code: "44102  Dsct of abdominal aorta            Dissection of aorta",
+	},
+	{
+		code: "44103  Dsct of thoracoabd aorta           Dissection of aorta",
+	},
+	{
+		code: "4411   Ruptur thoracic aneurysm           Thoracic aneurysm",
+	},
+	{
+		code: "4412   Thoracic aortic aneurysm           Thoracic aneurysm without mention of rupture",
+	},
+	{
+		code: "4413   Rupt abd aortic aneurysm           Abdominal aneurysm",
+	},
+	{
+		code: "4414   Abdom aortic aneurysm              Abdominal aneurysm without mention of rupture",
+	},
+	{
+		code: "4415   Rupt aortic aneurysm NOS           Aortic aneurysm of unspecified site",
+	},
+	{
+		code: "4416   Thoracoabd aneurysm rupt           Thoracoabdominal aneurysm",
+	},
+	{
+		code: "4417   Thracabd anurysm wo rupt           Thoracoabdominal aneurysm",
+	},
+	{
+		code: "4419   Aortic aneurysm NOS                Aortic aneurysm of unspecified site without mention of rupture",
+	},
+	{
+		code: "4420   Upper extremity aneurysm           Aneurysm of artery of upper extremity",
+	},
+	{
+		code: "4421   Renal artery aneurysm              Aneurysm of renal artery",
+	},
+	{
+		code: "4422   Iliac artery aneurysm              Aneurysm of iliac artery",
+	},
+	{
+		code: "4423   Lower extremity aneurysm           Aneurysm of artery of lower extremity",
+	},
+	{
+		code: "44281  Aneurysm of neck                   Aneurysm of artery of neck",
+	},
+	{
+		code: "44282  Subclavian aneurysm                Aneurysm of subclavian artery",
+	},
+	{
+		code: "44283  Splenic artery aneurysm            Aneurysm of splenic artery",
+	},
+	{
+		code: "44284  Visceral aneurysm NEC              Aneurysm of other visceral artery",
+	},
+	{
+		code: "44289  Aneurysm NEC                       Aneurysm of other specified artery",
+	},
+	{
+		code: "4429   Aneurysm NOS                       Aneurysm of unspecified site",
+	},
+	{
+		code: "4430   Raynaud's syndrome                 Raynaud's syndrome",
+	},
+	{
+		code: "4431   Thromboangiit obliterans           Thromboangiitis obliterans [Buerger's disease]",
+	},
+	{
+		code: "44321  Dissect carotid artery             Dissection of carotid artery",
+	},
+	{
+		code: "44322  Dissection iliac artery            Dissection of iliac artery",
+	},
+	{
+		code: "44323  Dissection renal artery            Dissection of renal artery",
+	},
+	{
+		code: "44324  Dissect vertebral artery           Dissection of vertebral artery",
+	},
+	{
+		code: "44329  Dissection artery NEC              Dissection of other artery",
+	},
+	{
+		code: "44381  Angiopathy in other dis            Peripheral angiopathy in diseases classified elsewhere",
+	},
+	{
+		code: "44382  Erythromelalgia                    Erythromelalgia",
+	},
+	{
+		code: "44389  Periph vascular dis NEC            Other specified peripheral vascular diseases",
+	},
+	{
+		code: "4439   Periph vascular dis NOS            Peripheral vascular disease",
+	},
+	{
+		code: "4440   Abd aortic embolism                Abd aortic embolism",
+	},
+	{
+		code: "44401  Saddle embolus abd aorta           Saddle embolus of abdominal aorta",
+	},
+	{
+		code: "44409  Ot art emb/thrm abd aort           Other arterial embolism and thrombosis of abdominal aorta",
+	},
+	{
+		code: "4441   Thoracic aortic embolism           Embolism and thrombosis of thoracic aorta",
+	},
+	{
+		code: "44421  Upper extremity embolism           Arterial embolism and thrombosis of upper extremity",
+	},
+	{
+		code: "44422  Lower extremity embolism           Arterial embolism and thrombosis of lower extremity",
+	},
+	{
+		code: "44481  Iliac artery embolism              Embolism and thrombosis of iliac artery",
+	},
+	{
+		code: "44489  Arterial embolism NEC              Embolism and thrombosis of other specified artery",
+	},
+	{
+		code: "4449   Arterial embolism NOS              Embolism and thrombosis of unspecified artery",
+	},
+	{
+		code: "44501  Atheroembolism",
+	},
+	{
+		code: "44502  Atheroembolism",
+	},
+	{
+		code: "44581  Atheroembolism",
+	},
+	{
+		code: "44589  Atheroembolism",
+	},
+	{
+		code: "4460   Polyarteritis nodosa               Polyarteritis nodosa",
+	},
+	{
+		code: "4461   Mucocutan lymph node syn           Acute febrile mucocutaneous lymph node syndrome [MCLS]",
+	},
+	{
+		code: "44620  Hypersensit angiitis NOS           Hypersensitivity angiitis",
+	},
+	{
+		code: "44621  Goodpasture's syndrome             Goodpasture's syndrome",
+	},
+	{
+		code: "44629  Hypersensit angiitis NEC           Other specified hypersensitivity angiitis",
+	},
+	{
+		code: "4463   Lethal midline granuloma           Lethal midline granuloma",
+	},
+	{
+		code: "4464   Wegener's granulomatosis           Wegener's granulomatosis",
+	},
+	{
+		code: "4465   Giant cell arteritis               Giant cell arteritis",
+	},
+	{
+		code: "4466   Thrombot microangiopathy           Thrombotic microangiopathy",
+	},
+	{
+		code: "4467   Takayasu's disease                 Takayasu's disease",
+	},
+	{
+		code: "4470   Acq arterioven fistula             Arteriovenous fistula",
+	},
+	{
+		code: "4471   Stricture of artery                Stricture of artery",
+	},
+	{
+		code: "4472   Rupture of artery                  Rupture of artery",
+	},
+	{
+		code: "4473   Renal artery hyperplasia           Hyperplasia of renal artery",
+	},
+	{
+		code: "4474   Celiac art compress syn            Celiac artery compression syndrome",
+	},
+	{
+		code: "4475   Necrosis of artery                 Necrosis of artery",
+	},
+	{
+		code: "4476   Arteritis NOS                      Arteritis",
+	},
+	{
+		code: "44770  Aortic ectasia",
+	},
+	{
+		code: "44771  Thoracic aortic ectasia            Thoracic aortic ectasia",
+	},
+	{
+		code: "44772  Abdominal aortic ectasia           Abdominal aortic ectasia",
+	},
+	{
+		code: "44773  Thoracoabd aortc ectasia           Thoracoabdominal aortic ectasia",
+	},
+	{
+		code: "4478   Arterial disease NEC               Other specified disorders of arteries and arterioles",
+	},
+	{
+		code: "4479   Arterial disease NOS               Unspecified disorders of arteries and arterioles",
+	},
+	{
+		code: "4480   Heredit hemorr telangiec           Hereditary hemorrhagic telangiectasia",
+	},
+	{
+		code: "4481   Nevus",
+	},
+	{
+		code: "4489   Capillary dis NEC/NOS              Other and unspecified capillary diseases",
+	},
+	{
+		code: "449    Septic arterial embolism           Septic arterial embolism",
+	},
+	{
+		code: "451    PHLEBITIS AND THROMBOPHLEBITIS     PHLEBITIS AND THROMBOPHLEBITIS",
+	},
+	{
+		code: "4510   Superfic phlebitis-leg             Phlebitis and thrombophlebitis of superficial vessels of lower extremities",
+	},
+	{
+		code: "45111  Femoral vein phlebitis             Phlebitis and thrombophlebitis of femoral vein (deep) (superficial)",
+	},
+	{
+		code: "45119  Deep phlebitis-leg NEC             Phlebitis and thrombophlebitis of deep veins of lower extremities",
+	},
+	{
+		code: "4512   Thrombophlebitis leg NOS           Phlebitis and thrombophlebitis of lower extremities",
+	},
+	{
+		code: "45181  Iliac thrombophlebitis             Phlebitis and thrombophlebitis of iliac vein",
+	},
+	{
+		code: "45182  Phlbts sprfc vn up extrm           Phlebitis and thrombophlebitis of superficial veins of upper extremities",
+	},
+	{
+		code: "45183  Phlbts deep vn up extrm            Phlebitis and thrombophlebitis of deep veins of upper extremities",
+	},
+	{
+		code: "45184  Phlbts vn NOS up extrm             Phlebitis and thrombophlebitis of upper extremities",
+	},
+	{
+		code: "45189  Thrombophlebitis NEC               Phlebitis and thrombophlebitis of other sites",
+	},
+	{
+		code: "4519   Thrombophlebitis NOS               Phlebitis and thrombophlebitis of unspecified site",
+	},
+	{
+		code: "452    Portal vein thrombosis             Portal vein thrombosis",
+	},
+	{
+		code: "4530   Budd-chiari syndrome               Budd-chiari syndrome",
+	},
+	{
+		code: "4531   Thrombophlebitis migrans           Thrombophlebitis migrans",
+	},
+	{
+		code: "4532   Oth inf vena cava thromb           Other venous embolism and thrombosis of inferior vena cava",
+	},
+	{
+		code: "4533   Renal vein thrombosis              Other venous embolism and thrombosis of renal vein",
+	},
+	{
+		code: "45340  Ac DVT/embl low ext NOS            Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity",
+	},
+	{
+		code: "45341  Ac DVT/emb prox low ext            Acute venous embolism and thrombosis of deep vessels of proximal lower extremity",
+	},
+	{
+		code: "45342  Ac DVT/emb distl low ext           Acute venous embolism and thrombosis of deep vessels of distal lower extremity",
+	},
+	{
+		code: "45350  Ch DVT/embl low ext NOS            Chronic venous embolism and thrombosis of unspecified deep vessels of lower extremity",
+	},
+	{
+		code: "45351  Ch DVT/embl prox low ext           Chronic venous embolism and thrombosis of deep vessels of proximal lower extremity",
+	},
+	{
+		code: "45352  Ch DVT/embl dstl low ext           Chronic venous embolism and thrombosis of deep vessels of distal lower extremity",
+	},
+	{
+		code: "4536   Embl suprfcl ves low ext           Venous embolism and thrombosis of superficial vessels of lower extremity",
+	},
+	{
+		code: "45371  Ch emblsm suprfcl up ext           Chronic venous embolism and thrombosis of superficial veins of upper extremity",
+	},
+	{
+		code: "45372  Ch DVT/embl up ext                 Chronic venous embolism and thrombosis of deep veins of upper extremity",
+	},
+	{
+		code: "45373  Ch emblsm up ext NOS               Chronic venous embolism and thrombosis of upper extremity",
+	},
+	{
+		code: "45374  Ch emblsm axillary veins           Chronic venous embolism and thrombosis of axillary veins",
+	},
+	{
+		code: "45375  Ch emblsm subclav veins            Chronic venous embolism and thrombosis of subclavian veins",
+	},
+	{
+		code: "45376  Ch embl internl jug vein           Chronic venous embolism and thrombosis of internal jugular veins",
+	},
+	{
+		code: "45377  Ch embl thorac vein NEC            Chronic venous embolism and thrombosis of other thoracic veins",
+	},
+	{
+		code: "45379  Ch emblsm veins NEC                Chronic venous embolism and thrombosis of other specified veins",
+	},
+	{
+		code: "4538   VENOUS THROMBOSIS NEC              VENOUS THROMBOSIS NEC",
+	},
+	{
+		code: "45381  Ac embl suprfcl up ext             Acute venous embolism and thrombosis of superficial veins of upper extremity",
+	},
+	{
+		code: "45382  Ac DVT/embl up ext                 Acute venous embolism and thrombosis of deep veins of upper extremity",
+	},
+	{
+		code: "45383  Ac emblsm up ext NOS               Acute venous embolism and thrombosis of upper extremity",
+	},
+	{
+		code: "45384  Ac emblsm axillary veins           Acute venous embolism and thrombosis of axillary veins",
+	},
+	{
+		code: "45385  Ac embl subclav veins              Acute venous embolism and thrombosis of subclavian veins",
+	},
+	{
+		code: "45386  Ac embl internl jug vein           Acute venous embolism and thrombosis of internal jugular veins",
+	},
+	{
+		code: "45387  Ac embl thorac vein NEC            Acute venous embolism and thrombosis of other thoracic veins",
+	},
+	{
+		code: "45389  Ac embolism veins NEC              Acute venous embolism and thrombosis of other specified veins",
+	},
+	{
+		code: "4539   Venous thrombosis NOS              Other venous embolism and thrombosis of unspecified site",
+	},
+	{
+		code: "4540   Leg varicosity w ulcer             Varicose veins of lower extremities with ulcer",
+	},
+	{
+		code: "4541   Leg varicosity w inflam            Varicose veins of lower extremities with inflammation",
+	},
+	{
+		code: "4542   Varicos leg ulcer/inflam           Varicose veins of lower extremities with ulcer and inflammation",
+	},
+	{
+		code: "4548   Varic vein leg",
+	},
+	{
+		code: "4549   Asympt varicose veins              Asymptomatic varicose veins",
+	},
+	{
+		code: "4550   Int hemorrhoid w/o compl           Internal hemorrhoids without mention of complication",
+	},
+	{
+		code: "4551   Int thrombos hemorrhoid            Internal thrombosed hemorrhoids",
+	},
+	{
+		code: "4552   Int hemrrhoid w comp NEC           Internal hemorrhoids with other complication",
+	},
+	{
+		code: "4553   Ext hemorrhoid w/o compl           External hemorrhoids without mention of complication",
+	},
+	{
+		code: "4554   Ext thrombos hemorrhoid            External thrombosed hemorrhoids",
+	},
+	{
+		code: "4555   Ext hemrrhoid w comp NEC           External hemorrhoids with other complication",
+	},
+	{
+		code: "4556   Hemorrhoids NOS                    Unspecified hemorrhoids without mention of complication",
+	},
+	{
+		code: "4557   Thrombos hemorrhoids NOS           Unspecified thrombosed hemorrhoids",
+	},
+	{
+		code: "4558   Hemrrhoid NOS w comp NEC           Unspecified hemorrhoids with other complication",
+	},
+	{
+		code: "4559   Residual hemorrhoid tags           Residual hemorrhoidal skin tags",
+	},
+	{
+		code: "4560   Esophag varices w bleed            Esophageal varices with bleeding",
+	},
+	{
+		code: "4561   Esoph varices w/o bleed            Esophageal varices without mention of bleeding",
+	},
+	{
+		code: "45620  Bleed esoph var oth dis            Esophageal varices in diseases classified elsewhere",
+	},
+	{
+		code: "45621  Esoph varice oth dis NOS           Esophageal varices in diseases classified elsewhere",
+	},
+	{
+		code: "4563   Sublingual varices                 Sublingual varices",
+	},
+	{
+		code: "4564   Scrotal varices                    Scrotal varices",
+	},
+	{
+		code: "4565   Pelvic varices                     Pelvic varices",
+	},
+	{
+		code: "4566   Vulval varices                     Vulval varices",
+	},
+	{
+		code: "4568   Varices of other sites             Varices of other sites",
+	},
+	{
+		code: "4570   Postmastect lymphedema             Postmastectomy lymphedema syndrome",
+	},
+	{
+		code: "4571   Other lymphedema                   Other lymphedema",
+	},
+	{
+		code: "4572   Lymphangitis                       Lymphangitis",
+	},
+	{
+		code: "4578   Noninfect lymph dis NEC            Other noninfectious disorders of lymphatic channels",
+	},
+	{
+		code: "4579   Noninfect lymph dis NOS            Unspecified noninfectious disorder of lymphatic channels",
+	},
+	{
+		code: "4580   Orthostatic hypotension            Orthostatic hypotension",
+	},
+	{
+		code: "4581   Chronic hypotension                Chronic hypotension",
+	},
+	{
+		code: "45821  Hemododialysis hypotensn           Hypotension of hemodialysis",
+	},
+	{
+		code: "45829  Iatrogenc hypotnsion NEC           Other iatrogenic hypotension",
+	},
+	{
+		code: "4588   Hypotension NEC                    Other specified hypotension",
+	},
+	{
+		code: "4589   Hypotension NOS                    Hypotension",
+	},
+	{
+		code: "4590   Hemorrhage NOS                     Hemorrhage",
+	},
+	{
+		code: "45910  Postphlbtc synd w/o comp           Postphlebetic syndrome without complications",
+	},
+	{
+		code: "45911  Postphlebtc synd w ulcer           Postphlebetic syndrome with ulcer",
+	},
+	{
+		code: "45912  Postphlebtc syn w inflam           Postphlebetic syndrome with inflammation",
+	},
+	{
+		code: "45913  Postphl syn w ulc&inflam           Postphlebetic syndrome with ulcer and inflammation",
+	},
+	{
+		code: "45919  Postphleb synd comp NEC            Postphlebetic syndrome with other complication",
+	},
+	{
+		code: "4592   Compression of vein                Compression of vein",
+	},
+	{
+		code: "45930  Chr venous hypr w/o comp           Chronic venous hypertension without complications",
+	},
+	{
+		code: "45931  Chr venous hyper w ulcer           Chronic venous hypertension with ulcer",
+	},
+	{
+		code: "45932  Chr venous hypr w inflam           Chronic venous hypertension with inflammation",
+	},
+	{
+		code: "45933  Chr ven hyp w ulc&inflam           Chronic venous hypertension with ulcer and inflammation",
+	},
+	{
+		code: "45939  Chr venous hyp comp NEC            Chronic venous hypertension with other complication",
+	},
+	{
+		code: "45981  Venous insufficiency NOS           Venous (peripheral) insufficiency",
+	},
+	{
+		code: "45989  Circulatory disease NEC            Other specified disorders of circulatory system",
+	},
+	{
+		code: "4599   Circulatory disease NOS            Unspecified circulatory system disorder",
+	},
+	{
+		code: "460    Acute nasopharyngitis              Acute nasopharyngitis [common cold]",
+	},
+	{
+		code: "4610   Ac maxillary sinusitis             Acute maxillary sinusitis",
+	},
+	{
+		code: "4611   Ac frontal sinusitis               Acute frontal sinusitis",
+	},
+	{
+		code: "4612   Ac ethmoidal sinusitis             Acute ethmoidal sinusitis",
+	},
+	{
+		code: "4613   Ac sphenoidal sinusitis            Acute sphenoidal sinusitis",
+	},
+	{
+		code: "4618   Other acute sinusitis              Other acute sinusitis",
+	},
+	{
+		code: "4619   Acute sinusitis NOS                Acute sinusitis",
+	},
+	{
+		code: "462    Acute pharyngitis                  Acute pharyngitis",
+	},
+	{
+		code: "463    Acute tonsillitis                  Acute tonsillitis",
+	},
+	{
+		code: "46400  Ac laryngitis w/o obst             Acute laryngitis without mention of obstruction",
+	},
+	{
+		code: "46401  Ac laryngitis w obstruct           Acute laryngitis with obstruction",
+	},
+	{
+		code: "46410  Ac tracheitis no obstruc           Acute tracheitis without mention of obstruction",
+	},
+	{
+		code: "46411  Ac tracheitis w obstruct           Acute tracheitis with obstruction",
+	},
+	{
+		code: "46420  Ac laryngotrach no obstr           Acute laryngotracheitis without mention of obstruction",
+	},
+	{
+		code: "46421  Ac laryngotrach w obstr            Acute laryngotracheitis with obstruction",
+	},
+	{
+		code: "46430  Ac epiglottitis no obstr           Acute epiglottitis without mention of obstruction",
+	},
+	{
+		code: "46431  Ac epiglottitis w obstr            Acute epiglottitis with obstruction",
+	},
+	{
+		code: "4644   Croup                              Croup",
+	},
+	{
+		code: "46450  Supraglottis w/o obs NOS           Supraglottitis unspecified",
+	},
+	{
+		code: "46451  Supraglottis w obstr NOS           Supraglottitis unspecified",
+	},
+	{
+		code: "4650   Acute laryngopharyngitis           Acute laryngopharyngitis",
+	},
+	{
+		code: "4658   Acute uri mult sites NEC           Acute upper respiratory infections of other multiple sites",
+	},
+	{
+		code: "4659   Acute uri NOS                      Acute upper respiratory infections of unspecified site",
+	},
+	{
+		code: "4660   Acute bronchitis                   Acute bronchitis",
+	},
+	{
+		code: "46611  Acu broncholitis d/t RSV           Acute bronchiolitis due to respiratory syncytial virus (RSV)",
+	},
+	{
+		code: "46619  Acu brnchlts d/t oth org           Acute bronchiolitis due to other infectious organisms",
+	},
+	{
+		code: "470    Deviated nasal septum              Deviated nasal septum",
+	},
+	{
+		code: "4710   Polyp of nasal cavity              Polyp of nasal cavity",
+	},
+	{
+		code: "4711   Polypoid sinus degen               Polypoid sinus degeneration",
+	},
+	{
+		code: "4718   Nasal sinus polyp NEC              Other polyp of sinus",
+	},
+	{
+		code: "4719   Nasal polyp NOS                    Unspecified nasal polyp",
+	},
+	{
+		code: "4720   Chronic rhinitis                   Chronic rhinitis",
+	},
+	{
+		code: "4721   Chronic pharyngitis                Chronic pharyngitis",
+	},
+	{
+		code: "4722   Chronic nasopharyngitis            Chronic nasopharyngitis",
+	},
+	{
+		code: "4730   Chr maxillary sinusitis            Chronic maxillary sinusitis",
+	},
+	{
+		code: "4731   Chr frontal sinusitis              Chronic frontal sinusitis",
+	},
+	{
+		code: "4732   Chr ethmoidal sinusitis            Chronic ethmoidal sinusitis",
+	},
+	{
+		code: "4733   Chr sphenoidal sinusitis           Chronic sphenoidal sinusitis",
+	},
+	{
+		code: "4738   Chronic sinusitis NEC              Other chronic sinusitis",
+	},
+	{
+		code: "4739   Chronic sinusitis NOS              Unspecified sinusitis (chronic)",
+	},
+	{
+		code: "47400  Chronic tonsillitis                Chronic tonsillitis",
+	},
+	{
+		code: "47401  Chronic adenoiditis                Chronic adenoiditis",
+	},
+	{
+		code: "47402  Chronic tonsils&adenoids           Chronic tonsillitis and adenoiditis",
+	},
+	{
+		code: "47410  Hypertrophy T and A                Hypertrophy of tonsil with adenoids",
+	},
+	{
+		code: "47411  Hypertrophy tonsils                Hypertrophy of tonsils alone",
+	},
+	{
+		code: "47412  Hypertrophy adenoids               Hypertrophy of adenoids alone",
+	},
+	{
+		code: "4742   Adenoid vegetations                Adenoid vegetations",
+	},
+	{
+		code: "4748   Chr T & A dis NEC                  Other chronic disease of tonsils and adenoids",
+	},
+	{
+		code: "4749   Chr T & A dis NOS                  Unspecified chronic disease of tonsils and adenoids",
+	},
+	{
+		code: "475    Peritonsillar abscess              Peritonsillar abscess",
+	},
+	{
+		code: "4760   Chronic laryngitis                 Chronic laryngitis",
+	},
+	{
+		code: "4761   Chr laryngotracheitis              Chronic laryngotracheitis",
+	},
+	{
+		code: "4770   Rhinitis due to pollen             Allergic rhinitis due to pollen",
+	},
+	{
+		code: "4771   Allergic rhinitis-food             Allergic rhinitis due to food",
+	},
+	{
+		code: "4772   Allerg rhinitis-cat/dog            Allergic rhinitis due to animal (cat) (dog) hair and dander",
+	},
+	{
+		code: "4778   Allergic rhinitis NEC              Allergic rhinitis due to other allergen",
+	},
+	{
+		code: "4779   Allergic rhinitis NOS              Allergic rhinitis",
+	},
+	{
+		code: "4780   Hypertrph nasal turbinat           Hypertrophy of nasal turbinates",
+	},
+	{
+		code: "47811  Nasal mucositis (ulcer)            Nasal mucositis (ulcerative)",
+	},
+	{
+		code: "47819  Nasal & sinus dis NEC              Other disease of nasal cavity and sinuses",
+	},
+	{
+		code: "47820  Disease of pharynx NOS             Unspecified disease of pharynx",
+	},
+	{
+		code: "47821  Cellulitis of pharynx              Cellulitis of pharynx or nasopharynx",
+	},
+	{
+		code: "47822  Parapharyngeal abscess             Parapharyngeal abscess",
+	},
+	{
+		code: "47824  Retropharyngeal abscess            Retropharyngeal abscess",
+	},
+	{
+		code: "47825  Edema pharynx/nasopharyx           Edema of pharynx or nasopharynx",
+	},
+	{
+		code: "47826  Cyst pharynx/nasopharynx           Cyst of pharynx or nasopharynx",
+	},
+	{
+		code: "47829  Disease of pharynx NEC             Other diseases of pharynx",
+	},
+	{
+		code: "47830  Vocal cord paralysis NOS           Paralysis of vocal cords or larynx",
+	},
+	{
+		code: "47831  Vocal paral unilat part            Unilateral paralysis of vocal cords or larynx",
+	},
+	{
+		code: "47832  Vocal paral unilat total           Unilateral paralysis of vocal cords or larynx",
+	},
+	{
+		code: "47833  Vocal paral bilat part             Bilateral paralysis of vocal cords or larynx",
+	},
+	{
+		code: "47834  Vocal paral bilat total            Bilateral paralysis of vocal cords or larynx",
+	},
+	{
+		code: "4784   Vocal cord/larynx polyp            Polyp of vocal cord or larynx",
+	},
+	{
+		code: "4785   Vocal cord disease NEC             Other diseases of vocal cords",
+	},
+	{
+		code: "4786   Edema of larynx                    Edema of larynx",
+	},
+	{
+		code: "47870  Disease of larynx NOS              Unspecified disease of larynx",
+	},
+	{
+		code: "47871  Laryngeal cellulitis               Cellulitis and perichondritis of larynx",
+	},
+	{
+		code: "47874  Stenosis of larynx                 Stenosis of larynx",
+	},
+	{
+		code: "47875  Laryngeal spasm                    Laryngeal spasm",
+	},
+	{
+		code: "47879  Disease of larynx NEC              Other diseases of larynx",
+	},
+	{
+		code: "4788   Urt hypersens react NOS            Upper respiratory tract hypersensitivity reaction",
+	},
+	{
+		code: "4789   Upper resp dis NEC/NOS             Other and unspecified diseases of upper respiratory tract",
+	},
+	{
+		code: "4800   Adenoviral pneumonia               Pneumonia due to adenovirus",
+	},
+	{
+		code: "4801   Resp syncyt viral pneum            Pneumonia due to respiratory syncytial virus",
+	},
+	{
+		code: "4802   Parinfluenza viral pneum           Pneumonia due to parainfluenza virus",
+	},
+	{
+		code: "4803   Pneumonia due to SARS              Pneumonia due to SARS-associated coronavirus",
+	},
+	{
+		code: "4808   Viral pneumonia NEC                Pneumonia due to other virus not elsewhere classified",
+	},
+	{
+		code: "4809   Viral pneumonia NOS                Viral pneumonia",
+	},
+	{
+		code: "481    Pneumococcal pneumonia             Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]",
+	},
+	{
+		code: "4820   K. pneumoniae pneumonia            Pneumonia due to Klebsiella pneumoniae",
+	},
+	{
+		code: "4821   Pseudomonal pneumonia              Pneumonia due to Pseudomonas",
+	},
+	{
+		code: "4822   H.influenzae pneumonia             Pneumonia due to Hemophilus influenzae [H. influenzae]",
+	},
+	{
+		code: "48230  Streptococcal pneumn NOS           Pneumonia due to Streptococcus",
+	},
+	{
+		code: "48231  Pneumonia strptococcus a           Pneumonia due to Streptococcus",
+	},
+	{
+		code: "48232  Pneumonia strptococcus b           Pneumonia due to Streptococcus",
+	},
+	{
+		code: "48239  Pneumonia oth strep                Pneumonia due to other Streptococcus",
+	},
+	{
+		code: "48240  Staphylococcal pneu NOS            Pneumonia due to Staphylococcus",
+	},
+	{
+		code: "48241  Meth sus pneum d/t Staph           Methicillin susceptible pneumonia due to Staphylococcus aureus",
+	},
+	{
+		code: "48242  Meth res pneu d/t Staph            Methicillin resistant pneumonia due to Staphylococcus aureus",
+	},
+	{
+		code: "48249  Staph pneumonia NEC                Other Staphylococcus pneumonia",
+	},
+	{
+		code: "48281  Pneumonia anaerobes                Pneumonia due to anaerobes",
+	},
+	{
+		code: "48282  Pneumonia e coli                   Pneumonia due to escherichia coli [E. coli]",
+	},
+	{
+		code: "48283  Pneumo oth grm-neg bact            Pneumonia due to other gram-negative bacteria",
+	},
+	{
+		code: "48284  Legionnaires' disease              Pneumonia due to Legionnaires' disease",
+	},
+	{
+		code: "48289  Pneumonia oth spcf bact            Pneumonia due to other specified bacteria",
+	},
+	{
+		code: "4829   Bacterial pneumonia NOS            Bacterial pneumonia",
+	},
+	{
+		code: "4830   Pneu mycplsm pneumoniae            Pneumonia due to mycoplasma pneumoniae",
+	},
+	{
+		code: "4831   Pneumonia d/t chlamydia            Pneumonia due to chlamydia",
+	},
+	{
+		code: "4838   Pneumon oth spec orgnsm            Pneumonia due to other specified organism",
+	},
+	{
+		code: "4841   Pneum w cytomeg incl dis           Pneumonia in cytomegalic inclusion disease",
+	},
+	{
+		code: "4843   Pneumonia in whoop cough           Pneumonia in whooping cough",
+	},
+	{
+		code: "4845   Pneumonia in anthrax               Pneumonia in anthrax",
+	},
+	{
+		code: "4846   Pneum in aspergillosis             Pneumonia in aspergillosis",
+	},
+	{
+		code: "4847   Pneum in oth sys mycoses           Pneumonia in other systemic mycoses",
+	},
+	{
+		code: "4848   Pneum in infect dis NEC            Pneumonia in other infectious diseases classified elsewhere",
+	},
+	{
+		code: "485    Bronchopneumonia org NOS           Bronchopneumonia",
+	},
+	{
+		code: "486    Pneumonia",
+	},
+	{
+		code: "4870   Influenza with pneumonia           Influenza with pneumonia",
+	},
+	{
+		code: "4871   Flu w resp manifest NEC            Influenza with other respiratory manifestations",
+	},
+	{
+		code: "4878   Flu w manifestation NEC            Influenza with other manifestations",
+	},
+	{
+		code: "488    FLU D/T AVIAN FLU VIRUS            FLU D/T AVIAN FLU VIRUS",
+	},
+	{
+		code: "4880   Flu dt iden avian virus            Flu dt iden avian virus",
+	},
+	{
+		code: "48801  Flu dt iden avian w pneu           Influenza due to identified avian influenza virus with pneumonia",
+	},
+	{
+		code: "48802  Flu dt avian w oth resp            Influenza due to identified avian influenza virus with other respiratory manifestations",
+	},
+	{
+		code: "48809  Flu dt avian manfest NEC           Influenza due to identified avian influenza virus with other manifestations",
+	},
+	{
+		code: "4881   Flu dt iden H1N1 virus             Flu dt iden H1N1 virus",
+	},
+	{
+		code: "48811  Flu dt 2009 H1N1 w pneu            Influenza due to identified 2009 H1N1 influenza virus with pneumonia",
+	},
+	{
+		code: "48812  Flu-2009 H1N1 w oth resp           Influenza due to identified 2009 H1N1 influenza virus with other respiratory manifestations",
+	},
+	{
+		code: "48819  Flu-2009 H1N1 w oth man            Influenza due to identified 2009 H1N1 influenza virus with other manifestations",
+	},
+	{
+		code: "48881  Flu dt nvl A vrs w pneu            Influenza due to identified novel influenza A virus with pneumonia",
+	},
+	{
+		code: "48882  Flu dt nvl A w oth resp            Influenza due to identified novel influenza A virus with other respiratory manifestations",
+	},
+	{
+		code: "48889  Flu dt novel A w oth man           Influenza due to identified novel influenza A virus with other manifestations",
+	},
+	{
+		code: "490    Bronchitis NOS                     Bronchitis",
+	},
+	{
+		code: "4910   Simple chr bronchitis              Simple chronic bronchitis",
+	},
+	{
+		code: "4911   Mucopurul chr bronchitis           Mucopurulent chronic bronchitis",
+	},
+	{
+		code: "49120  Obst chr bronc w/o exac            Obstructive chronic bronchitis without exacerbation",
+	},
+	{
+		code: "49121  Obs chr bronc w(ac) exac           Obstructive chronic bronchitis with (acute) exacerbation",
+	},
+	{
+		code: "49122  Obs chr bronc w ac bronc           Obstructive chronic bronchitis with acute bronchitis",
+	},
+	{
+		code: "4918   Chronic bronchitis NEC             Other chronic bronchitis",
+	},
+	{
+		code: "4919   Chronic bronchitis NOS             Unspecified chronic bronchitis",
+	},
+	{
+		code: "4920   Emphysematous bleb                 Emphysematous bleb",
+	},
+	{
+		code: "4928   Emphysema NEC                      Other emphysema",
+	},
+	{
+		code: "49300  Extrinsic asthma NOS               Extrinsic asthma",
+	},
+	{
+		code: "49301  Ext asthma w status asth           Extrinsic asthma with status asthmaticus",
+	},
+	{
+		code: "49302  Ext asthma w(acute) exac           Extrinsic asthma with (acute) exacerbation",
+	},
+	{
+		code: "49310  Intrinsic asthma NOS               Intrinsic asthma",
+	},
+	{
+		code: "49311  Int asthma w status asth           Intrinsic asthma with status asthmaticus",
+	},
+	{
+		code: "49312  Int asthma w (ac) exac             Intrinsic asthma with (acute) exacerbation",
+	},
+	{
+		code: "49320  Chronic obst asthma NOS            Chronic obstructive asthma",
+	},
+	{
+		code: "49321  Ch ob asthma w stat asth           Chronic obstructive asthma with status asthmaticus",
+	},
+	{
+		code: "49322  Ch obst asth w (ac) exac           Chronic obstructive asthma with (acute) exacerbation",
+	},
+	{
+		code: "49381  Exercse ind bronchospasm           Exercise induced bronchospasm",
+	},
+	{
+		code: "49382  Cough variant asthma               Cough variant asthma",
+	},
+	{
+		code: "49390  Asthma NOS                         Asthma",
+	},
+	{
+		code: "49391  Asthma w status asthmat            Asthma",
+	},
+	{
+		code: "49392  Asthma NOS w (ac) exac             Asthma",
+	},
+	{
+		code: "4940   Bronchiectas w/o ac exac           Bronchiectasis without acute exacerbation",
+	},
+	{
+		code: "4941   Bronchiectasis w ac exac           Bronchiectasis with acute exacerbation",
+	},
+	{
+		code: "4950   Farmers' lung                      Farmers' lung",
+	},
+	{
+		code: "4951   Bagassosis                         Bagassosis",
+	},
+	{
+		code: "4952   Bird-fanciers' lung                Bird-fanciers' lung",
+	},
+	{
+		code: "4953   Suberosis                          Suberosis",
+	},
+	{
+		code: "4954   Malt workers' lung                 Malt workers' lung",
+	},
+	{
+		code: "4955   Mushroom workers' lung             Mushroom workers' lung",
+	},
+	{
+		code: "4956   Mapl bark-stripprs' lung           Maple bark-strippers' lung",
+	},
+	{
+		code: "4957   ventilation pneumonit              Ventilation pneumonitis",
+	},
+	{
+		code: "4958   Allerg alveol/pneum NEC            Other specified allergic alveolitis and pneumonitis",
+	},
+	{
+		code: "4959   Allerg alveol/pneum NOS            Unspecified allergic alveolitis and pneumonitis",
+	},
+	{
+		code: "496    Chr airway obstruct NEC            Chronic airway obstruction",
+	},
+}
